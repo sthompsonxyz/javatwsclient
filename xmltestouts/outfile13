@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2FBB</CoID>
+		<CoID Type="CompanyName">Aberdeen New Dawn Investment Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">ABD</IssueID>
+			<IssueID Type="CUSIP">G0059Q162</IssueID>
+			<IssueID Type="ISIN">GB00BBM56V29</IssueID>
+			<IssueID Type="RIC">ABD.L</IssueID>
+			<IssueID Type="SEDOL">BBM56V2</IssueID>
+			<IssueID Type="DisplayRIC">ABD.L</IssueID>
+			<IssueID Type="InstrumentPI">260015</IssueID>
+			<IssueID Type="QuotePI">1079296</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2013-09-03">5.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-01</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-04-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-30">0</Employees>
+		<SharesOut Date="2015-10-23" TotalFloat="120950071.0">122943010.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2015-10-28">0.65531</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-22T00:11:36">Aberdeen New Dawn Investment Trust PLC is an investment trust. The Companys focus is to provide shareholders with capital growth through equity investment in the Asia Pacific countries excluding Japan. In addition, it is the investment policy of the Company to invest no more than 15% of its gross assets in other listed investment companies (including listed investment trusts). The Companys investment portfolio includes Samsung Electronics, TSMC, ASM Pacific Technology, BHP Billiton and Rio Tinto, among others. Its investment manager is Aberdeen Asset Management Asia Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-07-10T10:41:04">BRIEF: For the fiscal year ended 30 April 2015, Aberdeen New Dawn Investment Trust PLC revenues increased from -L20.1M to L42.9M. Net income totaled L39.5M vs. loss of L23.3M. Revenues reflect Gains/ (losses) on investments held at f increase from -L28.2M to L37.1M, Dividend Income increase of 9% to L7.4M, UK Un franked Investment Income increase of 78% to L16K. Dividend per share remained flat at L0.04.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-01T13:31:55">
+		<streetAddress line="1">Bow Bells House, 1 Bread Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4M 9HH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74636001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-10-04T01:02:14"><webSite mainCategory="Home Page">http://www.newdawn-trust.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">inv.trusts@aberdeen-asset.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-01T13:31:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.57000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.05231</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.36000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2015-10-29T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.09137</Ratio>
+			<Ratio FieldName="EV" Type="N">216.49150</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">193.02050</Ratio>
+			<Ratio FieldName="AREV" Type="N">42.88400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">39.73300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">39.51900</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.31738</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.34440</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.16675</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02102</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.59938</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">15.67717</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.50099</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">4.94675</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.72459</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="4" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

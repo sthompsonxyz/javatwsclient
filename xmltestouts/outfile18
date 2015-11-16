@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">DD101</CoID>
+		<CoID Type="CompanyName">Auhua Clean Energy PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ACE</IssueID>
+			<IssueID Type="CUSIP">G0R90Z107</IssueID>
+			<IssueID Type="ISIN">JE00B6ZBFF95</IssueID>
+			<IssueID Type="RIC">ACEA.L</IssueID>
+			<IssueID Type="SEDOL">B6ZBFF9</IssueID>
+			<IssueID Type="DisplayRIC">ACEA.L</IssueID>
+			<IssueID Type="InstrumentPI">105727871</IssueID>
+			<IssueID Type="QuotePI">105727633</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-11</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">202</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="56712162.0">127794466.0</SharesOut>
+		<ReportingCurrency Code="CNY">Renminbi</ReportingCurrency>
+		<MostRecentExchange Date="2015-10-28">6.3588</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:12:52">Auhua Clean Energy Plc (Auhua) is an environmental technology company. The Company is engaged in the development of green energy and energy efficient solutions, such as split-unit solar water heaters. The Company offers products, such as split solar-powered water heating systems, storage tanks and solar energy collector panel under the Weiliya and Jinbiao brands. The split solar-powered water heating systems consists of a solar energy collector panel and a storage tank for the heated water. The storage tanks are closed confined tanks, the inner part of which uses a steel plate which is enamel coated, providing anti-corrosion and heat insulating properties. The solar energy collector panels are wall mounted and are made up of heating vacuum tubes. The inner part of the vacuum tube contains a U-shaped metal tube which is filled with a liquid solution. The Company operates in China and has presence in around 60 cities in China.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-11T22:36:14">BRIEF: For the six months ended 30 June 2015, Auhua Clean Energy PLC revenues decreased 3% to RMB112.8M. Net income decreased 2% to RMB17M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net income also reflects Distribution and selling expenses remaining flat at RMB11.7M (expense). Basic Earnings per Share excluding Extraordinary Items decreased from RMB0.21 to RMB0.18.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-16T06:54:46">
+		<streetAddress line="1">No. 6 Dongyu Street</streetAddress>
+		<streetAddress line="2">Tianqiao District</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>JI'NAN</city>
+		<state-region>SDG</state-region>
+		<postalCode></postalCode>
+		<country code="CHN">China</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>86</countryPhoneCode>
+				<city-areacode>531</city-areacode>
+				<number>85710168</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-28T08:23:36"><webSite mainCategory="Home Page">http://auhuacleanenergy.com</webSite><eMail mainCategory="Company Contact/E-mail">info@auhuacleanenergy.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-16T06:54:46">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5020101010" mnem="">Renewable Energy Equipment &amp; Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333414" mnem="">Heating Equipment (except Electric and Warm Air Furnaces) Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3433" mnem="">Heating Equipment, Not Electric</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/26/2012">
+			<firstName>Anxiang</firstName>
+			<mI></mI>
+			<lastName>Chen</lastName>
+			<age>51 </age>
+			<title startYear="2012" startMonth="03" startDay="26" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="03/26/2012">
+			<firstName>Yiqun</firstName>
+			<mI></mI>
+			<lastName>Guan</lastName>
+			<age>39 </age>
+			<title startYear="2012" startMonth="03" startDay="26" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="3" since="04/02/2014">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Sumner</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Financial Consultant</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="CNY" ExchangeRate="0.10280" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01825</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.33000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01700</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2015-10-29T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.16144</Ratio>
+			<Ratio FieldName="EV" Type="N">-0.71507</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2.32641</Ratio>
+			<Ratio FieldName="AREV" Type="N">25.58275</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">5.68605</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">3.34401</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.03826</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.29269</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.29027</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05400</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.04527</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">38.60366</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">14.64000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.09094</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">0.47583</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.06272</Ratio>
+			<Ratio FieldName="Employees" Type="N">202</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">0.54755</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">27.86330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">5.13980</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

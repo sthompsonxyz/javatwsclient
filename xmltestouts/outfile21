@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EDB2D</CoID>
+		<CoID Type="CompanyName">Actual Experience PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ACT</IssueID>
+			<IssueID Type="CUSIP">G0107C108</IssueID>
+			<IssueID Type="ISIN">GB00BJ05QC14</IssueID>
+			<IssueID Type="RIC">ACTA.L</IssueID>
+			<IssueID Type="SEDOL">BJ05QC1</IssueID>
+			<IssueID Type="DisplayRIC">ACTA.L</IssueID>
+			<IssueID Type="InstrumentPI">150453006</IssueID>
+			<IssueID Type="QuotePI">150604001</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-05-27</LastModified>
+		<LatestAvailableAnnual>2014-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-03-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-09-30">22</Employees>
+		<SharesOut Date="2015-10-29" TotalFloat="15716638.0">37141338.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2015-10-28">0.65531</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:38:57">Actual Experience plc is a United Kingdom-based company, which provides digital supply chain management service. The Company's cloud-based data-driven service, Digital Supply Chain Director, provides digital quality analysis services. The Digital Supply Chain Director consists of four components: Digital Quality Dashboards, Analytics Cloud, Digital User and Analytic. Digital Quality Dashboards provide digital quality analysis through Web browser interface. Analytics Cloud is the intensity data compute environment. Digital User generates measurement of data, which resides on servers, computers, smartphones and tablets. Each set of measurements analyzed over the course of a calendar month constitutes a single Analytic. The Company caters to a various businesses, ranging from blue-chips, service providers and outsourcers, to banks, Governments and logistics. The Company's broadband providers-focused software, BbFix, is aimed at Windows, Linux or Mac OSX personal computers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-05-27T02:54:53">BRIEF: For the six months ended 31 March 2015, Actual Experience PLC revenues increased 21% to L329K. Net loss increased 37% to L899K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Administrative expenses increase of 15% to L1.1M (expense), operating decrease from L6K (income) to L0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-12T06:38:57">
+		<streetAddress line="1">The Tramshed</streetAddress>
+		<streetAddress line="2">Walcot Street, Beehive Yard</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BATH</city>
+		<state-region></state-region>
+		<postalCode>BA1 5BB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1225</city-areacode>
+				<number>731340</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-20T09:21:26"><webSite mainCategory="Home Page">http://www.actual-experience.com</webSite><eMail mainCategory="Company Contact/E-mail">investors@actual-experience.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-12T06:38:57">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720102010" mnem="">Software - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541611" mnem="">Administrative Management and General Management Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>David</firstName>
+			<mI>John</mI>
+			<lastName>Page</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="07" startDay="09" iD1="CEO" abbr1="CEO" iD2="CFD" abbr2="Co-Fndr.">Chief Executive Officer, Co-Founder, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Pitts</lastName>
+			<age>49 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CFD" abbr1="Co-Fndr." iD2="CSO" abbr2="CSO">Co-Founder, Chief Scientific Officer</title>
+		</officer>
+		<officer rank="3" since="02/11/2014">
+			<firstName>Roy</firstName>
+			<mI>Stephen</mI>
+			<lastName>Bennetts</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="02" startDay="11" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director, Company Secretary</title>
+		</officer>
+		<officer rank="4" since="10/01/2015">
+			<firstName>Robin</firstName>
+			<mI>Mark</mI>
+			<lastName>Young</lastName>
+			<age>49 </age>
+			<title startYear="2015" startMonth="10" startDay="01" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Martin</firstName>
+			<mI></mI>
+			<lastName>Woods</lastName>
+			<age>43 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Chief Technology Officer</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Andy</firstName>
+			<mI></mI>
+			<lastName>Macleod</lastName>
+			<age>54 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="DSL" abbr1="Dir.-Sales" iD2="" abbr2="">Director - Global Sales</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Ben</firstName>
+			<mI></mI>
+			<lastName>Burns</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director - Digital Supply Chain Management Practice</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Roby</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director - Digital Supply Chain Management Delivery</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Oliver</firstName>
+			<mI></mI>
+			<lastName>Shepherd</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Analytics</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.62500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.70000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.60000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2015-10-29T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00204</Ratio>
+			<Ratio FieldName="EV" Type="N">94.55320</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">97.49601</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.56747</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.09152</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.30393</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.04737</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.02062</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.10977</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10202</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.04565</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">56.08050</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-90.50701</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">171.80820</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">23.91312</Ratio>
+			<Ratio FieldName="Employees" Type="N">22</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">C57F8</CoID>
+		<CoID Type="CompanyName">Acacia Mining PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ACA</IssueID>
+			<IssueID Type="CUSIP">G0067D104</IssueID>
+			<IssueID Type="ISIN">GB00B61D2N63</IssueID>
+			<IssueID Type="RIC">ACAA.L</IssueID>
+			<IssueID Type="SEDOL">B61D2N6</IssueID>
+			<IssueID Type="DisplayRIC">ACAA.L</IssueID>
+			<IssueID Type="InstrumentPI">69238607</IssueID>
+			<IssueID Type="QuotePI">69568284</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-26</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">4553</Employees>
+		<SharesOut Date="2015-10-02" TotalFloat="147624169.0">410085499.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2015-10-28">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T10:20:00">Acacia Mining plc., formerly African Barrick Gold plc, is a United Kingdom-based company. The Company is a gold producer in Tanzania. The Companys operations include exploration and development to mine construction and operation. It has reserves and resources of approximately 30 million ounces of gold. The Company has three producing mines, all located in northwest Tanzania: Bulyanhulu, Buzwagi and North Mara, and a portfolio of exploration projects in Tanzania, Kenya and Burkina Faso. Bulyanhulu is an underground gold mine with shaft and ramp access. Buzwagi is a low-grade bulk deposit with a single large open pit. North Mara is a combined open pit and underground operation from two deposits, Gokona (underground) and Nyabirama (open pit).</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-22T09:29:30">BRIEF: For the nine months ended 30 September 2015, Acacia Mining PLC revenues decreased 7% to $639.5M. Net income before extraordinary items decreased 97% to $1.7M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net income also reflects Share-based payments increase from $1.1M to $5.8M (expense), IE on Capital Financing, Gross increase of 42% to $9.7M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-26T07:21:22">
+		<streetAddress line="1">5th Floor, No. 1 Cavendish Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1G 0QF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Giles Blackham</contactName>
+		<contactTitle>Investor Relations Manager</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>71297150</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>71297180</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>71297150</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-12-21T23:41:58"><webSite mainCategory="Home Page">http://www.acaciamining.com/</webSite><eMail mainCategory="Company Contact/E-mail">gblackham@acaciamining.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-26T07:21:22">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120106011" mnem="">Gold Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212222" mnem="">Silver Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1044" mnem="">Silver Ores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1021" mnem="">Copper Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/21/2013">
+			<firstName>Bradley</firstName>
+			<mI>Austin</mI>
+			<lastName>Gordon</lastName>
+			<age>52 </age>
+			<title startYear="2015" startMonth="06" startDay="04" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Andrew</firstName>
+			<mI>M.</mI>
+			<lastName>Wray</lastName>
+			<age>51 </age>
+			<title startYear="2013" startMonth="09" startDay="19" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="12/2013">
+			<firstName>Michelle</firstName>
+			<mI></mI>
+			<lastName>Ash</lastName>
+			<age>42 </age>
+			<title startYear="2015" startMonth="06" startDay="04" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Deodatus</firstName>
+			<mI></mI>
+			<lastName>Mwanyika</lastName>
+			<age>52 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="" abbr2="">Vice President - Corporate Affairs</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Spora</lastName>
+			<age>45 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="" abbr2="">Vice President - Exploration</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Katrina</firstName>
+			<mI></mI>
+			<lastName>White</lastName>
+			<age>39 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="7" since="2012">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Geleta</lastName>
+			<age>51 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="GMG" abbr1="GM" iD2="" abbr2="">Executive General Manager - Organisational Effectiveness</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.65330" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.00000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.18900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.95500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2015-10-29T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.64628</Ratio>
+			<Ratio FieldName="EV" Type="N">718.45170</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">817.65530</Ratio>
+			<Ratio FieldName="AREV" Type="N">607.73100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">186.82090</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">58.28024</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.14204</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.48117</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.18197</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.46813</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.34605</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02744</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">26.01134</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.55208</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.34542</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.03730</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.62661</Ratio>
+			<Ratio FieldName="Employees" Type="N">4553</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.24</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.75686</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">20.9765</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">24.20136</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">568.34147</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">149.11703</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.08264</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.00653</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">32.43648</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02398</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

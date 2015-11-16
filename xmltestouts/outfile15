@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2F45</CoID>
+		<CoID Type="CompanyName">Associated British Foods plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ABF</IssueID>
+			<IssueID Type="CUSIP">G05600138</IssueID>
+			<IssueID Type="ISIN">GB0006731235</IssueID>
+			<IssueID Type="RIC">ABF.L</IssueID>
+			<IssueID Type="SEDOL">0673123</IssueID>
+			<IssueID Type="DisplayRIC">ABF.L</IssueID>
+			<IssueID Type="InstrumentPI">360516</IssueID>
+			<IssueID Type="QuotePI">1049353</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">124982332</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-05-31</LastModified>
+		<LatestAvailableAnnual>2014-09-13</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-02-28</LatestAvailableInterim>
+		<Employees LastUpdated="2014-09-13">118209</Employees>
+		<SharesOut Date="2015-02-28" TotalFloat="314070307.0">791674183.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2015-10-28">0.65531</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-16T22:36:40">Associated British Foods plc is a diversified international food, ingredients and retail group with sales. The Company operates in 47 countries across Europe, southern Africa, the Americas, Asia and Australia. The Company operates in five segments, including Sugar, Agriculture, Retail, Grocery and Ingredients. Grocery segment manufactures grocery products. Sugar segment grows and process of sugar beet and sugar cane for sale to industrial users and to Silver Spoon. Agriculture segment manufactures animal feeds and the provision of other products for the agriculture sector. Ingredients segment manufactures bakers yeast, bakery ingredients, enzymes, lipids, yeast extracts and cereal specialities. Retail segment buys and merchandise value clothing and accessories through the Primark and Penneys retail chains.</Text>
+		<Text Type="Financial Summary" lastModified="2015-05-31T19:21:45">BRIEF: For the 24 weeks ended 28 February 2015, Associated British Foods plc revenues increased 1% to L6.25B. Net income decreased 58% to L143M. Revenues reflect Retail segment increase of 12% to L2.55B, Ingredients segment increase of 21% to L616M, Europe, Middle East &amp; Africa segment increase of 6% to L2.08B, The Americas segment increase of 2% to L622M. Net income was offset by Disposal Business increase from L0K to L116M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-08-28T11:36:23">
+		<streetAddress line="1">Weston Centre, 10 Grosvenor Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1K 4QY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73996500</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73996580</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-01-22T01:05:09"><webSite mainCategory="Home Page">http://www.abf.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-08-28T11:36:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410202010" mnem="">Food Processing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="311313" mnem="">Beet Sugar Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="311813" mnem="">Frozen Bakery Product Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="311812" mnem="">Commercial Bakeries</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="311423" mnem="">Dried and Dehydrated Food Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="311211" mnem="">Flour Milling</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="311311" mnem="">Sugarcane Mills</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="44812" mnem="">Women's Clothing Stores</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="44811" mnem="">Men's Clothing Stores</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="44815" mnem="">Clothing Accessories Stores</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2063" mnem="">Beet Sugar</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2053" mnem="">Frozen Bakery Product/not Bread</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2051" mnem="">Bread, Cake And Related Products</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2034" mnem="">Dehydrated Fruit/vegetables/soups</Industry>
+			<Industry type="SIC" order="5" reported="0" code="2041" mnem="">Flour/other Grain Mill Products</Industry>
+			<Industry type="SIC" order="6" reported="0" code="2061" mnem="">Raw Cane Sugar</Industry>
+			<Industry type="SIC" order="7" reported="0" code="5621" mnem="">Women's Clothing Stores</Industry>
+			<Industry type="SIC" order="8" reported="0" code="5611" mnem="">Men's &amp; Boys' Clothing Stores</Industry>
+			<Industry type="SIC" order="9" reported="0" code="5699" mnem="">Misc. Apparel &amp; Accessory Stores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/2000">
+			<firstName>George</firstName>
+			<mI>G.</mI>
+			<lastName>Weston</lastName>
+			<age>51 </age>
+			<title startYear="2005" startMonth="04" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/1999">
+			<firstName>John</firstName>
+			<mI>George</mI>
+			<lastName>Bason</lastName>
+			<age>58 </age>
+			<title startYear="1999" startMonth="05" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Paul</firstName>
+			<mI>A.</mI>
+			<lastName>Lister</lastName>
+			<age>51 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-09-13">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">35.07000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">35.20600</Ratio>
+			<Ratio FieldName="NLOW" Type="N">26.03000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2015-10-29T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.53953</Ratio>
+			<Ratio FieldName="EV" Type="N">28210.01000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">27764.01000</Ratio>
+			<Ratio FieldName="AREV" Type="N">12943.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1574.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">762.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.96456</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">16.38354</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">8.13087</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.65557</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.61899</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.34000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">24.33748</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">12.10292</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.14510</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">36.35855</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.31319</Ratio>
+			<Ratio FieldName="Employees" Type="N">118209</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">31.96826</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">5.4855</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">35.62830</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">12970.94690</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.98433</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">922.25120</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.34482</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

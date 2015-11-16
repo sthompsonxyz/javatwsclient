@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F03B9</CoID>
+		<CoID Type="CompanyName">AA PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AA.</IssueID>
+			<IssueID Type="CUSIP">G0013T104</IssueID>
+			<IssueID Type="ISIN">GB00BMSKPJ95</IssueID>
+			<IssueID Type="RIC">AAAA.L</IssueID>
+			<IssueID Type="SEDOL">BMSKPJ9</IssueID>
+			<IssueID Type="DisplayRIC">AAAA.L</IssueID>
+			<IssueID Type="InstrumentPI">161056546</IssueID>
+			<IssueID Type="QuotePI">161056507</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-22</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">8153</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="604744965.0">608070268.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2015-10-28">0.65531</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-02T01:58:19">AA plc (AA) is a United Kingdom-based company that offers roadside assistance service. The Company's segments include Roadside Assistance, Insurance Services, Driving Services, Ireland, Insurance Underwriting and Head Office costs. The Roadside Assistance segment sends patrols to members stranded at the side of the road and repairs their vehicles. The Insurance Services segment includes the insurance brokerage activities of AA, primarily motor and home insurance. The Driving Services segment consists of the AA Driving School and the British School of Motoring, as well as AA Drivetech, which provides driver training and educative programs. The Ireland segment primarily offers insurance services and roadside assistance in Ireland. The Insurance Underwriting segment reinsures private motor insurance business, which is originated from its Insurance Services segment. Head Office costs segment includes its information technology, finance, property and other back office support functions.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-22T15:32:23">BRIEF: For the six months ended 31 July 2015, AA PLC revenues decreased 1% to L484.6M. Net loss totaled L51.1M vs. income of L27.5M. Revenues reflect Insurance Services segment decrease of 11% to L64.4M, Driving Services segment decrease of 15% to L32.8M. Net loss reflects Administrative and marketing expenses increase of 2% to L175.3M (expense), Interest Exp-Net of Capitalized Interest increase from L1.3M to L3.3M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-09-24T08:04:23">
+		<streetAddress line="1">Fanum House, Basing View</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BASINGSTOKE</city>
+		<state-region></state-region>
+		<postalCode>RG21 4EA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Jill Sherratt</contactName>
+		<contactTitle>Head - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>87</city-areacode>
+				<number>05448866</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1256</city-areacode>
+				<number>497057</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2015-09-24T08:04:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5420103016" mnem="">Consumer Repair Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="811111" mnem="">General Automotive Repair</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="811198" mnem="">All Other Automotive Repair and Maintenance</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="524126" mnem="">Direct Property and Casualty Insurance Carriers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="611692" mnem="">Automobile Driving Schools</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7538" mnem="">General Automotive Repair Shops</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7549" mnem="">Automotive Services, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6331" mnem="">Fire/marine/casualty Insurance</Industry>
+			<Industry type="SIC" order="4" reported="0" code="8299" mnem="">Schools/educational Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/26/2014">
+			<firstName>Martin</firstName>
+			<mI></mI>
+			<lastName>Clarke</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="13" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/08/2014">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Millar</lastName>
+			<age>44 </age>
+			<title startYear="2014" startMonth="09" startDay="08" iD1="SEC" abbr1="Secy." iD2="GCN" abbr2="Counsel">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Bob</firstName>
+			<mI></mI>
+			<lastName>Mackenzie</lastName>
+			<age>61 </age>
+			<title startYear="2014" startMonth="08" startDay="28" iD1="DRC" abbr1="Dir." iD2="CHM" abbr2="Chmn.">Executive Chairman of the Board</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.76100</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.34500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.55000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2015-10-29T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">4.82126</Ratio>
+			<Ratio FieldName="EV" Type="N">4661.18200</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1678.88200</Ratio>
+			<Ratio FieldName="AREV" Type="N">983.50000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">420.50000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">69.10000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.13153</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.87207</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-4.03778</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.46336</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.22347</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">64.88053</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.70705</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">20.99141</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">8153</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2015" CurInterimEndMonth="10" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.75440</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.14825</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">979.36680</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.20999</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">155.25180</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.09090</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>
