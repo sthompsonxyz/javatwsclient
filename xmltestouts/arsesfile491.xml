@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EFA4C</CoID>
+		<CoID Type="CompanyName">Secure Income REIT PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SIR</IssueID>
+			<IssueID Type="CUSIP">G7965W100</IssueID>
+			<IssueID Type="ISIN">GB00BLMQ9L68</IssueID>
+			<IssueID Type="RIC">SIRE.L</IssueID>
+			<IssueID Type="SEDOL">BLMQ9L6</IssueID>
+			<IssueID Type="DisplayRIC">SIRE.L</IssueID>
+			<IssueID Type="InstrumentPI">159221102</IssueID>
+			<IssueID Type="QuotePI">159283729</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-03-31">0</Employees>
+		<SharesOut Date="2015-12-23" TotalFloat="7715522.0">180344228.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-05T07:05:05">Secure Income REIT Plc is a United Kingdom-based real estate investment trust (REIT). The Company is engaged in investing in real estate. The Company owns a portfolio of 28 assets. It properties comprises healthcare assets and leisure assets. The healthcare assets comprises 21 freehold private hospitals located throughout England, 20 of which are let to a subsidiary of Ramsay Health Care Limited and the other to Groupe Sinoue, a French mental health company. The leisure assets consist of five visitor attractions and two hotels, located in England and Germany. The Company's United Kingdom leisure asset includes Madame Tussauds London, Alton Towers theme park and the Alton Towers hotel, Thorpe Park theme park and Warwick Castle. The German assets include Heide Park theme park and the Heide Park hotel, both located in Soltau, Saxony. The Company's subsidiaries include SIR Theme Parks Limited, SIR ATH Limited, SIR Oaklands Limited and SIR Springfield Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-09T09:04:13">BRIEF: For the six months ended 30 June 2015, Secure Income REIT PLC revenues totaled L52.9M. Net income totaled to L101.9M. Results are not comparable due to year end change.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-09T09:04:13">
+		<streetAddress line="1">CAVENDISH HOUSE, 18 CAVENDISH SQUARE</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1G 0PJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Sandy Gumm</contactName>
+		<contactTitle>Non-Executive Director, Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76477647</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76477647</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-06-04T10:20:01"><webSite mainCategory="Home Page">http://secureincomereit.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@prestbury.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-09T09:04:13">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540304010" mnem="">Specialized REITs - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Sandy</firstName>
+			<mI></mI>
+			<lastName>Gumm</lastName>
+			<age>48 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="NED" abbr2="Non Ex. Dir.">Non-Executive Director, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.52500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.15000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.35400</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00043</Ratio>
+			<Ratio FieldName="EV" Type="N">1706.88320</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">455.36920</Ratio>
+			<Ratio FieldName="AREV" Type="N">107.33100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">106.96900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">31.80100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.19898</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.67156</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.42318</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.15060</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">99.97857</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.24266</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">12.68972</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A321A</CoID>
+		<CoID Type="CompanyName">Informa PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">INF</IssueID>
+			<IssueID Type="CUSIP">G4770L106</IssueID>
+			<IssueID Type="ISIN">GB00BMJ6DW54</IssueID>
+			<IssueID Type="RIC">INF.L</IssueID>
+			<IssueID Type="SEDOL">BMJ6DW5</IssueID>
+			<IssueID Type="DisplayRIC">INF.L</IssueID>
+			<IssueID Type="InstrumentPI">391543</IssueID>
+			<IssueID Type="QuotePI">1082365</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-05-11">1.18403</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">6652</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="647790187.0">648941249.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-25T09:52:34">Informa PLC is engaged in business intelligence, academic publishing, knowledge and events businesses. It operates in four segments: Academic Publishing, Business Intelligence, Global Exhibitions and Knowledge &amp; Networking. The Academic Publishing Division, operates under the Taylor &amp; Francis Group banner, comprises of the imprints of Taylor &amp; Francis, Routledge, CRC Press, Garland Science and Cogent OA. It provides books and journals, both in print and electronic formats, primarily for academic and research users in the subject areas of behavioral and social sciences, humanities, science, technology and medicine. The Business Intelligence division provides specialized actionable intelligence to service the information needs of corporations and governments globally. The Global Exhibitions Division runs business to business Exhibitions and trade shows, as well as a number of Consumer and fan events globally. The Knowledge &amp; Networking Division offers conferences and training courses.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-15T12:51:04">BRIEF: For the fiscal year ended 31 December 2015, Informa PLC revenues increased 7% to L1.21B. Net income totaled L171.4M vs. loss of L52.4M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net Income reflects Loss on disposal of subsidiaries decrease from L2.8M (expense) to L9.1M (income), Restructuring Costs decrease of 34% to L13.7M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T12:51:09">
+		<streetAddress line="1">5 Howick Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1P 1WG</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70175000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-11-19T10:45:11"><webSite mainCategory="Home Page">http://www.informa.com</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@informa.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T12:51:09">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330204010" mnem="">Consumer Publishing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51113" mnem="">Book Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51112" mnem="">Periodical Publishers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="511199" mnem="">All Other Publishers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2731" mnem="">Book Publishing</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2721" mnem="">Periodicals</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2741" mnem="">Misc Publishing</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/01/2013">
+			<firstName>Stephen</firstName>
+			<mI>A.</mI>
+			<lastName>Carter</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Group Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="07/10/2014">
+			<firstName>Gareth</firstName>
+			<mI></mI>
+			<lastName>Wright</lastName>
+			<age>42 </age>
+			<title startYear="2014" startMonth="07" startDay="10" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Group Finance Director, Director</title>
+		</officer>
+		<officer rank="3" since="11/01/2011">
+			<firstName>Rupert</firstName>
+			<mI></mI>
+			<lastName>Hopley</lastName>
+			<age>44 </age>
+			<title startYear="2011" startMonth="11" startDay="01" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">Group General Counsel, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">6.69000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.80500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.33500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.76717</Ratio>
+			<Ratio FieldName="EV" Type="N">5237.01700</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4341.41700</Ratio>
+			<Ratio FieldName="AREV" Type="N">1212.20000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">384.60000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">171.40000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.26424</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.86877</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.95087</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05286</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.44877</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.20100</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">13.73287</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.58144</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">25.31789</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.42924</Ratio>
+			<Ratio FieldName="Employees" Type="N">6652</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">6.70316</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">4.0433</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.13335</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1267.06920</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.44207</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">335.35560</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.20697</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

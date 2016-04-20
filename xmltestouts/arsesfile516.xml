@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">ACA6E</CoID>
+		<CoID Type="CompanyName">Sirius Minerals PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SXX</IssueID>
+			<IssueID Type="CUSIP">G6768Q104</IssueID>
+			<IssueID Type="ISIN">GB00B0DG3H29</IssueID>
+			<IssueID Type="RIC">SXX.L</IssueID>
+			<IssueID Type="SEDOL">B0DG3H2</IssueID>
+			<IssueID Type="DisplayRIC">SXX.L</IssueID>
+			<IssueID Type="InstrumentPI">20526935</IssueID>
+			<IssueID Type="QuotePI">21534288</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-22</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">60</Employees>
+		<SharesOut Date="2015-11-04" TotalFloat="1963734183.0">2294744698.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-28T08:42:55">Sirius Minerals Plc is a United Kingdom-based fertilizer development company. The Company is primarily focused on the development of polyhalite deposit, The York Potash Project. The Company operates through two divisions: the UK segment, which consists of the York Potash related activities and the corporate operations, and the Rest of World, which includes the Company's other overseas interests. The York Potash Project is based in North Yorkshire, within the United Kingdom, and is the Company's sole development asset focus. The Project's area of interest comprises approximately 796 square kilometers (around 271 square kilometers onshore and around 535 square kilometers offshore) within North Yorkshire, between Scarborough and Whitby, extending approximately 16.5 kilometers inland west from the coast and up to 14 kilometers offshore. The Company's subsidiaries include York Potash Holdings Limited, Sirius Minerals Holdings Limited and Sirius Minerals (Australia) Pty Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-22T10:45:52">BRIEF: For the six months ended 30 September 2015, Sirius Minerals PLC revenues was not reported. Net loss decreased 30% to L4.7M. Lower net loss reflects Administrative costs decrease of 30% to L4.6M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-22T10:45:53">
+		<streetAddress line="1">3rd Fl, Greener House, 68 Haymarket</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 4RF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33273660</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-15T09:54:56"><webSite mainCategory="Home Page">http://www.siriusminerals.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@siriusminerals.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-22T10:45:53">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5110102010" mnem="">Agricultural Chemicals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212391" mnem="">Potash, Soda, and Borate Mineral Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="54162" mnem="">Environmental Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1474" mnem="">Potash, Soda, And Borate Minerals</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8999" mnem="">Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/17/2011">
+			<firstName>Christopher</firstName>
+			<mI>Neil</mI>
+			<lastName>Fraser</lastName>
+			<age>41 </age>
+			<title startYear="2011" startMonth="01" startDay="17" iD1="CEO" abbr1="CEO" iD2="MDR" abbr2="Mgng.Dir.">Chief Executive Officer, Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="2" since="12/19/2014">
+			<firstName>Thomas</firstName>
+			<mI></mI>
+			<lastName>Staley</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="19" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="2013">
+			<firstName>N.</firstName>
+			<mI>A.</mI>
+			<lastName>King</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.12750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.29500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.07150</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">5.55764</Ratio>
+			<Ratio FieldName="EV" Type="N">267.92000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">292.58000</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-9.84300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-9.56500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00488</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.06836</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01242</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00478</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-6.79552</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.86510</Ratio>
+			<Ratio FieldName="Employees" Type="N">60</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.37667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-49.61089</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00257</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-27.12170</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

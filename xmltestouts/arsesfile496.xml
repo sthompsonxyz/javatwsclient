@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A31E4</CoID>
+		<CoID Type="CompanyName">DS Smith plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SMDS</IssueID>
+			<IssueID Type="CUSIP">G2848Q123</IssueID>
+			<IssueID Type="ISIN">GB0008220112</IssueID>
+			<IssueID Type="RIC">SMDS.L</IssueID>
+			<IssueID Type="SEDOL">0822011</IssueID>
+			<IssueID Type="DisplayRIC">SMDS.L</IssueID>
+			<IssueID Type="InstrumentPI">262741</IssueID>
+			<IssueID Type="QuotePI">1079432</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2012-02-06">1.45163</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-16</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-30">22014</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="940470584.0">944743788.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-25T09:30:48">DS Smith Plc. is engaged in designing and manufacturing of recycled packaging for consumer goods. The Company's businesses include corrugated packaging, recycling, paper and plastic packaging. The Company's operating segments include UK, Western Europe, DACH and Northern Europe, Central Europe and Italy, and Plastics. It offers a range of recycling and recovery processes, including paper recycling, cardboard recycling, mixed dry recycling, plastics recycling and organics and food. The Company also offers recycling service to cover other materials, such as glass and metals. The Company manufactures recycled paper, corrugated case material or testliner and also grades of paper, such as core board and plasterboard liner. It operates its plastics business in two parts, such as flexible packaging and dispensing and rigid packaging. The Company provides corrugated packaging solutions in Europe and plastic packaging solutions across the world, supported by paper and recycling operations.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-16T06:29:14">BRIEF: For the six months ended 31 October 2015, DS Smith plc revenues decreased 1% to L1.95B. Net income decreased 26% to L71M. Revenues reflect DCH and Northern Europe segment decrease of 15% to L412M, Plastics segment decrease of 14% to L137M, UK segment decrease of 5% to L444M. Net income also reflects DCH and Northern Europe segment income decrease of 8% to L44M, Western Europe segment income decrease of 3% to L36M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T00:07:06">
+		<streetAddress line="1">7th Floor</streetAddress>
+		<streetAddress line="2">350 Euston Road, Regents Place</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>NW1 3AX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Hugo Fisher</contactName>
+		<contactTitle>Group Communications Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77561800</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>7756 1800</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-18T14:16:08"><webSite mainCategory="Home Page">http://www.dssmith.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@dssmith.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T00:07:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5130202010" mnem="">Paper Packaging - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="322121" mnem="">Paper (except Newsprint) Mills</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="322211" mnem="">Corrugated and Solid Fiber Box Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="326199" mnem="">All Other Plastics Product Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="326112" mnem="">Unsupported Plastics Packaging Film and Sheet Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="42212" mnem="">Stationary and Office Supplies Wholesalers</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2621" mnem="">Paper Mills</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2653" mnem="">Corrugated And Solid Fiber Boxes</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3089" mnem="">Plastics Products, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2671" mnem="">Paper Coated/laminated/packaging</Industry>
+			<Industry type="SIC" order="5" reported="0" code="5112" mnem="">Stationery And Office Supplies</Industry>
+			<Industry type="SIC" order="6" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/04/2010">
+			<firstName>Miles</firstName>
+			<mI>W.</mI>
+			<lastName>Roberts</lastName>
+			<age>51 </age>
+			<title startYear="2010" startMonth="05" startDay="04" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/2013">
+			<firstName>Adrian</firstName>
+			<mI></mI>
+			<lastName>Marsh</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="09" startDay="24" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="07/01/2011">
+			<firstName>Matthew</firstName>
+			<mI></mI>
+			<lastName>Jowett</lastName>
+			<age>46 </age>
+			<title startYear="2011" startMonth="07" startDay="01" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">Group General Counsel, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.73500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.23700</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.29100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.48564</Ratio>
+			<Ratio FieldName="EV" Type="N">4228.61800</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">3528.61800</Ratio>
+			<Ratio FieldName="AREV" Type="N">3820.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">470.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">156.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.16421</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.02105</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.08174</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10191</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.34526</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.11400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">30.20942</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">14.50488</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.92372</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">22.74527</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.45277</Ratio>
+			<Ratio FieldName="Employees" Type="N">22014</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="4" CurInterimEndCalYear="2016" CurInterimEndMonth="4" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.2143</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">4.07000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">9.6000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.35600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4081.22890</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">2102.49270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.26017</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.13360</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">292.97750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.12238</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

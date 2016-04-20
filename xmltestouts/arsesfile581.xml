@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B37D4</CoID>
+		<CoID Type="CompanyName">Yujin International Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">YUJ</IssueID>
+			<IssueID Type="CUSIP">Y9872A106</IssueID>
+			<IssueID Type="ISIN">SG9999005946</IssueID>
+			<IssueID Type="RIC">YUJ.L</IssueID>
+			<IssueID Type="SEDOL">B00DF14</IssueID>
+			<IssueID Type="DisplayRIC">YUJ.L</IssueID>
+			<IssueID Type="InstrumentPI">56534615</IssueID>
+			<IssueID Type="QuotePI">56900304</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2008-06-30">17</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="16529005.0">30000010.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:09:38">Yujin International Ltd. is an owner and operator of a fleet of short range tankers. The Company is engaged in the business of ship owners, shippers, shipping agents, ship chandlers and ship management services. The Company has three segments: Bunker tankers, Regional tankers, and Ship management and other related activities. The Bunker tankers' customers are bunker traders operating in the port of Singapore, who charter the Company's ships to supply bunker fuel to ships calling at the port. The Regional tankers' customers are manufacturers and traders of chemicals. The Company provides logistics support to these customers by transporting their products mainly within the Asia Pacific region. The Company, through its ship management company JR Orion Services Pte. Ltd, provides crew and technical management, as well as ancillary services to ship owners. The Company's non-core activity includes Bunker trade, which occasionally sells off any excess bunker fuel over its own requirements.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-01T03:07:23">BRIEF: For the six months ended 30 June 2015, Yujin International Ltd revenues decreased 4% to $3.1M. Net loss decreased 50% to $459K. Revenues reflect Revenue decrease of 3% to $3M, Other income decrease of 47% to $71K. Lower net loss reflects Finance income / (costs) increase from $265K (expense) to $31K (income), Other operating expenses decrease of 16% to $941K (expense), Depreciation decrease of 23% to $514K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-01T03:07:24">
+		<streetAddress line="1">400 Orchard Road, #20-05 Orchard Towers</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city></city>
+		<state-region></state-region>
+		<postalCode>238875</postalCode>
+		<country code="SGP">Singapore</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>65</countryPhoneCode>
+				<city-areacode>6</city-areacode>
+				<number>2262963</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>65</countryPhoneCode>
+				<city-areacode>6</city-areacode>
+				<number>8366342</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-15T09:15:29"><webSite mainCategory="Home Page">http://www.yujininternational.com</webSite><eMail mainCategory="Company Contact/E-mail">info@yujininternational.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-01T03:07:24">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240702010" mnem="">Marine Port Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="48839" mnem="">Other Support Activities for Water Transportation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="48851" mnem="">Freight Transportation Arrangement</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="336611" mnem="">Ship Building and Repairing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="56132" mnem="">Temporary Help Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="483111" mnem="">Deep Sea Freight Transportation</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4499" mnem="">Water Transportation Services Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4731" mnem="">Freight Trans Arrangement</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3731" mnem="">Ship Building And Repairing</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7363" mnem="">Help Supply Services</Industry>
+			<Industry type="SIC" order="5" reported="0" code="4412" mnem="">Deep Sea Foreign Trans Of Freight</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Chin Chye</firstName>
+			<mI></mI>
+			<lastName>Liew</lastName>
+			<age>57 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="DRC" abbr2="Dir.">Joint Managing Director, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Siew Chiong</firstName>
+			<mI></mI>
+			<lastName>Ting</lastName>
+			<age>51 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="DRC" abbr2="Dir.">Joint Managing Director, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Lathika</firstName>
+			<mI></mI>
+			<lastName>Devi Amma</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.16000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.19000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.16000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00000</Ratio>
+			<Ratio FieldName="EV" Type="N">5.78799</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.80000</Ratio>
+			<Ratio FieldName="AREV" Type="N">5.11847</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">0.69344</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.15273</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00509</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.17062</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.17770</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00739</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.02377</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">45.01861</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-2.93856</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.93778</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.90041</Ratio>
+			<Ratio FieldName="Employees" Type="N">17</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2012" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

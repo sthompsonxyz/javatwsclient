@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">DA43C</CoID>
+		<CoID Type="CompanyName">TLA Worldwide Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TLA</IssueID>
+			<IssueID Type="CUSIP">G8917B103</IssueID>
+			<IssueID Type="ISIN">GB00B68HD384</IssueID>
+			<IssueID Type="RIC">TLAT.L</IssueID>
+			<IssueID Type="SEDOL">B68HD38</IssueID>
+			<IssueID Type="DisplayRIC">TLAT.L</IssueID>
+			<IssueID Type="InstrumentPI">98213914</IssueID>
+			<IssueID Type="QuotePI">98787453</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-16</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">51</Employees>
+		<SharesOut Date="2015-10-05" TotalFloat="64537990.0">142959325.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-14T07:02:21">TLA Worldwide PLC is an integrated talent representation and sports marketing company. The Company operates through two segments: Baseball Representation and Sports Marketing. Its Baseball Representation segment primarily assists the on field activities of baseball players, including all aspects of a player's contract negotiation. Its Sports Marketing segment primarily assists the off-field activities of athletes; it represents broadcasters and coaches in respect of their contract negotiations; manages and produces events, primarily in sports and media consultancy. The Company is also an agency in baseball and Australian Football League players (AFL). Its golf business is a service agency with a diverse client base. The Company's broadcasting business is responsible for the representation of media personalities, producers and directors for all facets of their career in television, radio, print and Internet.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-16T01:10:21">BRIEF: For the six months ended 30 June 2015, TLA Worldwide Plc revenues increased from $10M to $21.2M. Net loss totaled $1.9M vs. income of $1M. Revenues reflect Sports Marketing segment increase from $3.6M to $14M, Baseball representation segment increase of 13% to $7.2M. Net loss reflects Unallocated segment loss increase from $1.4M to $5M. Basic Earnings per Share excluding Extraordinary Items decreased from $0.01 to -$0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-09-16T01:10:23">
+		<streetAddress line="1">Ground Floor/21 Dartmouth Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1H 9BP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>32863754</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-26T14:56:11"><webSite mainCategory="Home Page">http://tlaww-plc.com</webSite><eMail mainCategory="Company Contact/E-mail">info@tlaww-plc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-09-16T01:10:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330201010" mnem="">Advertising &amp; Marketing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="71141" mnem="">Agents and Managers for Artists, Athletes, Entertainers  and Other Public Figures</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="71399" mnem="">All Other  Amusement and Recreation Industries</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7389" mnem="">Business Services, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7993" mnem="">Coin-Operated Amusement Devices</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Michael</firstName>
+			<mI>Jonathon</mI>
+			<lastName>Principe</lastName>
+			<age>44 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/16/2013">
+			<firstName>Donald</firstName>
+			<mI></mI>
+			<lastName>Malter</lastName>
+			<age>49 </age>
+			<title startYear="2013" startMonth="09" startDay="16" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Gregory</firstName>
+			<mI></mI>
+			<lastName>Genske</lastName>
+			<age>43 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Dwight</firstName>
+			<mI></mI>
+			<lastName>Mighty</lastName>
+			<age>54 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.42250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.60000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.41000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01865</Ratio>
+			<Ratio FieldName="EV" Type="N">65.05748</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">60.40031</Ratio>
+			<Ratio FieldName="AREV" Type="N">14.71296</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">5.09751</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.01202</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00009</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.11177</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.20103</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03381</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.02556</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00565</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">99.87990</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">0.04863</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.10525</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">4598.12400</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.10171</Ratio>
+			<Ratio FieldName="Employees" Type="N">51</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.67000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">16.03416</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">14.62360</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">11.92890</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02635</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.02933</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">5.20390</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.05270</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

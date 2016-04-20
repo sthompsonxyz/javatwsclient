@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A349F</CoID>
+		<CoID Type="CompanyName">Bovis Homes Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BVS</IssueID>
+			<IssueID Type="CUSIP">G12698109</IssueID>
+			<IssueID Type="ISIN">GB0001859296</IssueID>
+			<IssueID Type="RIC">BVS.L</IssueID>
+			<IssueID Type="SEDOL">0185929</IssueID>
+			<IssueID Type="DisplayRIC">BVS.L</IssueID>
+			<IssueID Type="InstrumentPI">285852</IssueID>
+			<IssueID Type="QuotePI">1081572</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-22</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">905</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="133340326.0">134379661.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:37:33">Bovis Homes Group PLC is a United Kingdom-based builder of homes in England and Wales. The Company's business is involved in the design, build and sale of new homes for both private customers and Registered Social Landlords. The Company's portfolio of properties range from one and two bedroom apartments to five and six bedroom detached family homes. The Company carries out and manages a range of housing development activities, from the purchasing of the land through to the building of the homes and the after-care service for its customers. The Company's key areas of activity include land acquisition, planning, legal, design, surveying, engineering, purchasing, construction, sales and marketing, public relations and customer service.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T15:20:45">BRIEF: For the fiscal year ended 31 December 2015, Bovis Homes Group plc revenues increased 17% to L946.5M. Net income increased 22% to L128M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Share of profit of Joint Ventures increase from L287K to L1.8M (income). Dividend per share increased from L0.35 to L0.40.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T15:20:52">
+		<streetAddress line="1">The Manor House, North Ash Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONGFIELD</city>
+		<state-region></state-region>
+		<postalCode>DA3 8HQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1474</city-areacode>
+				<number>876200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-12T00:42:33"><webSite mainCategory="Home Page">http://www.bovishomesgroup.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@bovishomes.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T15:20:52">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320301010" mnem="">Homebuilding - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23322" mnem="">Multifamily Housing Construction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1531" mnem="">Operative Builders</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1998">
+			<firstName>David</firstName>
+			<mI>James</mI>
+			<lastName>Ritchie</lastName>
+			<age>45 </age>
+			<title startYear="2008" startMonth="07" startDay="03" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/16/2015">
+			<firstName>Earl</firstName>
+			<mI></mI>
+			<lastName>Sibley</lastName>
+			<age>42 </age>
+			<title startYear="2015" startMonth="04" startDay="16" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Martin</firstName>
+			<mI>Trevor Digby</mI>
+			<lastName>Palmer</lastName>
+			<age>56 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.80500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.06000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">8.13500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.55057</Ratio>
+			<Ratio FieldName="EV" Type="N">1153.22200</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1183.21300</Ratio>
+			<Ratio FieldName="AREV" Type="N">946.50400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">165.59500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">128.00800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.95224</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">7.04093</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">7.12726</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.23806</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.96760</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.40000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">24.54379</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">13.93757</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.25009</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.24662</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.23540</Ratio>
+			<Ratio FieldName="Employees" Type="N">905</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.2857</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">11.69833</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">18.3000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.93050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1062.58520</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.11027</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">186.60000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.46197</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A60BC</CoID>
+		<CoID Type="CompanyName">Anglo-Eastern Plantations PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AEP</IssueID>
+			<IssueID Type="CUSIP">G03780106</IssueID>
+			<IssueID Type="ISIN">GB0000365774</IssueID>
+			<IssueID Type="RIC">ANEA.L</IssueID>
+			<IssueID Type="SEDOL">0036577</IssueID>
+			<IssueID Type="DisplayRIC">ANEA.L</IssueID>
+			<IssueID Type="InstrumentPI">260139</IssueID>
+			<IssueID Type="QuotePI">1080575</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">5522</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="9793817.0">39636372.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-06T07:34:38">Anglo-Eastern Plantations Plc (AEP) is a United Kingdom-based producer of palm oil and rubber. The Company has plantations across Indonesia and Malaysia, amounting to approximately 127,800 hectares. The Company operates five palm oil mills in Indonesia, including a mill at Northern Sumatera. The Company has developed around 46,800 hectares of mature oil palm at 14 plantations across Indonesia and Malaysia. The Group has approximately 678 hectares of rubber plantations. AEP's assets in Indonesia include the estates of Tasik, Anak Tasik, Labuhan Bilik, Blankahan, Rambung, Sg Musam and Cahaya Pelita in North Sumatera; the estates of Puding Mas, Alno, KKST, ELAP and RAA in Bengkulu and South Sumatera; the Bina Pitri estates in the Riau region, and the Sawit Graha Manunggal estates in Kalimantan.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-31T06:38:24">BRIEF: For the six months ended 30 June 2015, Anglo-Eastern Plantations PLC revenues decreased 20% to $104M. Net income decreased 94% to $2.3M. Revenues reflect Malaysia segment decrease of 22% to $1.7M. Net income also reflects Biological asset revaluation movement increase from $23.1M (income) to $17M (expense), Exchange gains / (losses) decrease from $413K (income) to $1.8M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-11T02:18:01">
+		<streetAddress line="1">Quadrant House</streetAddress>
+		<streetAddress line="2">6th Floor 4 Thomas More Square</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>E1W 1YW</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Ewe Chuan Lim</contactName>
+		<contactTitle>Executive Director - Corporate Finance and Corporate Affairs</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72164621</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77672602</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>72164621</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-13T00:33:51"><webSite mainCategory="Home Page">http://www.angloeastern.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-11T02:18:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410201010" mnem="">Fishing &amp; Farming - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="11112" mnem="">Oilseed (except Soybean) Farming</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="111998" mnem="">All Other Miscellaneous Crop Farming</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="0119" mnem="">Cash Grains, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="0139" mnem="">Field Crops Excld Cash Grains Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/01/2010">
+			<firstName>Ewe Chuan</firstName>
+			<mI></mI>
+			<lastName>Lim</lastName>
+			<age>65 </age>
+			<title startYear="2010" startMonth="09" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="IRC" abbr2="IR-Contact">Executive Director - Corporate Finance and Corporate Affairs</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.91125</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.83100</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.75000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00570</Ratio>
+			<Ratio FieldName="EV" Type="N">130.34510</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">194.66410</Ratio>
+			<Ratio FieldName="AREV" Type="N">177.59170</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">60.55807</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">21.74289</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.54797</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.47571</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">7.61863</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">2.24575</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.81105</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02120</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">34.46338</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.36566</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.09613</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">8.96265</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.64464</Ratio>
+			<Ratio FieldName="Employees" Type="N">5522</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">9.39838</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.36249</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">134.15961</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.36754</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">24.36374</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03534</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

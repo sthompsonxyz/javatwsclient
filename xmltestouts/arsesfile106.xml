@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A33D3</CoID>
+		<CoID Type="CompanyName">BTG plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BTG</IssueID>
+			<IssueID Type="CUSIP">G1660V103</IssueID>
+			<IssueID Type="ISIN">GB0001001592</IssueID>
+			<IssueID Type="RIC">BTG.L</IssueID>
+			<IssueID Type="SEDOL">0100159</IssueID>
+			<IssueID Type="DisplayRIC">BTG.L</IssueID>
+			<IssueID Type="InstrumentPI">263079</IssueID>
+			<IssueID Type="QuotePI">1081283</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2004-03-02">1.19449</MostRecentSplit>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">125058525</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">125058526</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-19</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">986</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="380684751.0">382968475.0</SharesOut>
+		<CommonShareholders Date="2015-03-31">9361</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-13T06:57:27">BTG plc is a specialist healthcare company. The Company operates in three business segments: Interventional Medicine (IM) (oncology, vascular and pulmonology products), Specialty Pharmaceuticals (antidote products) and Licensing (royalties from licensed assets). The Company's Interventional Medicine segment offers a portfolio of interventional medicine products that are designed to advance the treatment of liver tumors, advanced emphysema, severe blood clots and varicose veins. The Company's Specialty Pharmaceuticals segment offers a portfolio of antidote products that alleviate toxicity and treat rare conditions. The Company's Licensing segment receives royalties relating to the sales of products that are subject to intellectual property and license agreements between the Company and various partners. The Company's subsidiaries include BTG International (Holdings) Ltd, Provensis Ltd, BTG International Ltd and BTG Employee Share Schemes Ltd, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-19T08:50:54">BRIEF: For the six months ended 30 September 2015, BTG plc revenues increased 20% to L229.6M. Net income increased 31% to L51.3M. Revenues reflect Licensing &amp; Biotechnology segment increase of 31% to L80.9M, Interventional Medicine segment increase of 36% to L70.5M, Speciality Pharmaceutcals segment increase of 1% to L78.2M, USA segment increase of 19% to L203.7M, Europe segment increase of 37% to L19.5M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-19T08:50:59">
+		<streetAddress line="1">5 Fleet Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4M 7RD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Andy Burrows</contactName>
+		<contactTitle>Director - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75750000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75750010</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75751741</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-02T06:38:37"><webSite mainCategory="Home Page">http://www.btgplc.com</webSite><eMail mainCategory="Company Contact/E-mail">andy.burrows@btgplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-19T08:50:59">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5620104010" mnem="">Pharmaceuticals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325412" mnem="">Pharmaceutical Preparation  Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="325411" mnem="">Medicinal and Botanical Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2834" mnem="">Pharmaceutical Preparations</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2833" mnem="">Medicinals And Botanicals</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/19/2004">
+			<firstName>Dame Pamela</firstName>
+			<mI></mI>
+			<lastName>Louise Makin</lastName>
+			<age>54 </age>
+			<title startYear="2004" startMonth="10" startDay="19" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="12/04/2008">
+			<firstName>Rolf</firstName>
+			<mI>B.</mI>
+			<lastName>Soderstrom</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="03" startDay="18" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="11/01/2014">
+			<firstName>Melanie</firstName>
+			<mI>G.</mI>
+			<lastName>Lee</lastName>
+			<age>57 </age>
+			<title startYear="2014" startMonth="11" startDay="01" iD1="CSO" abbr1="CSO" iD2="" abbr2="">Chief Scientific Officer</title>
+		</officer>
+		<officer rank="4" since="03/18/2010">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Mussenden</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="03" startDay="18" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.98000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">8.06900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.04000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.31122</Ratio>
+			<Ratio FieldName="EV" Type="N">2216.35100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2290.15100</Ratio>
+			<Ratio FieldName="AREV" Type="N">367.80000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">67.50000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">33.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.09001</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.98527</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.98703</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.19331</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.18377</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">69.05927</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">5.21334</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.22662</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">66.43706</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.00952</Ratio>
+			<Ratio FieldName="Employees" Type="N">986</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">7.33333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">32.4000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">31.81189</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">427.33750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.18798</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">83.42860</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4101</CoID>
+		<CoID Type="CompanyName">Coral Products PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CRU</IssueID>
+			<IssueID Type="CUSIP">G24225107</IssueID>
+			<IssueID Type="ISIN">GB0002235736</IssueID>
+			<IssueID Type="RIC">CRU.L</IssueID>
+			<IssueID Type="SEDOL">0223573</IssueID>
+			<IssueID Type="DisplayRIC">CRU.L</IssueID>
+			<IssueID Type="InstrumentPI">328396</IssueID>
+			<IssueID Type="QuotePI">1081028</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-10</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-04-30">121</Employees>
+		<SharesOut Date="2015-10-31" TotalFloat="36812444.0">65614865.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-18T20:04:49">Coral Products PLC is a United Kingdom-based manufacturer of plastic injection molded products and, a reseller and distributor of a range of food packaging products. The Company also operates as a trade molder for other companies in the United Kingdom. The Company develops and manufactures a range of products for the industries, including food catering, waste disposal, online retail distribution, telecommunications and rail infrastructure. It offers media packaging products, waste and recycling products, food packaging products and contract manufacturing services. It also offers trade molding, extrusion and blow molding services. The Company also offers caps, closures and blown bottles. The Company has manufacturing facilities in Haydock, Merseyside, and Halifax, West Yorkshire, and a distribution facility in Dunstable, Luton. Its subsidiaries include Interpack Limited, Coral Products (Mouldings) Limited and Tatra Plastics Manufacturing Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-08T03:46:43">BRIEF: For the six months ended 31 October 2015, Coral Products PLC revenues decreased 9% to L8.3M. Net income increased 36% to L611K. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Basic Earnings per Share excluding Extraordinary Items remained flat at L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-10T23:05:08">
+		<streetAddress line="1">North Florida Road</streetAddress>
+		<streetAddress line="2">Haydock Industrial Estate</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HAYDOCK</city>
+		<state-region></state-region>
+		<postalCode>WA11 9TP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1942</city-areacode>
+				<number>272882</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1942</city-areacode>
+				<number>726116</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-18T07:58:05"><webSite mainCategory="Home Page">http://www.coralproducts.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-10T23:05:08">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5130201014" mnem="">Plastic Container &amp; Packaging</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="326112" mnem="">Unsupported Plastics Packaging Film and Sheet Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="326199" mnem="">All Other Plastics Product Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2671" mnem="">Paper Coated/laminated/packaging</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3089" mnem="">Plastics Products, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/01/2014">
+			<firstName>Joe</firstName>
+			<mI></mI>
+			<lastName>Grimmond</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="01" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="09/2002">
+			<firstName>Stephen</firstName>
+			<mI>G.</mI>
+			<lastName>Fletcher</lastName>
+			<age>57 </age>
+			<title startYear="2006" startMonth="10" startDay="26" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.22000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.26000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.10250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07992</Ratio>
+			<Ratio FieldName="EV" Type="N">18.42127</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">14.43527</Ratio>
+			<Ratio FieldName="AREV" Type="N">17.42500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.59700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.19100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00348</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.31743</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.15763</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00116</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01567</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">29.52654</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">2.33097</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.82842</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">63.21839</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.39563</Ratio>
+			<Ratio FieldName="Employees" Type="N">121</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="4" CurInterimEndCalYear="2016" CurInterimEndMonth="4" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.25000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">9.56522</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">19.60000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1.60000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.01000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

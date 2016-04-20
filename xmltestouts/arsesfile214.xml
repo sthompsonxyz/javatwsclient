@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5AE7</CoID>
+		<CoID Type="CompanyName">Finsbury Growth &amp; Income Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">FGT</IssueID>
+			<IssueID Type="CUSIP">G34585102</IssueID>
+			<IssueID Type="ISIN">GB0007816068</IssueID>
+			<IssueID Type="RIC">FGT.L</IssueID>
+			<IssueID Type="SEDOL">0781606</IssueID>
+			<IssueID Type="DisplayRIC">FGT.L</IssueID>
+			<IssueID Type="InstrumentPI">262565</IssueID>
+			<IssueID Type="QuotePI">1079981</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">126147585</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-16</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">0</Employees>
+		<SharesOut Date="2016-02-15" TotalFloat="127121380.0">128871212.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-16T10:33:34">Finsbury Growth &amp; Income Trust PLC is a United Kingdom-based investment trust. The Company's investment objective is to achieve capital and income growth and to provide shareholders with a total return in excess of that of the financial times stock exchange (FTSE) all-share index. Its investment policy is to invest principally in the securities of the United Kingdom listed companies, whilst up to a maximum of 20% of the Company's portfolio, at the time of acquisition, can be invested in quoted companies around the world. It does not invests more than 15%, in aggregate, of the value of its gross assets in other closed ended investment companies (including investment trusts) listed on the London stock exchange. The portfolio of the Company comprises approximately 30 investments. It invests in various sectors, such as consumer goods and services sector, financials, technology, oil and gas, and healthcare. Lindsell Train Limited (Lindsell Train) is the portfolio manager of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-16T05:58:31">BRIEF: For the fiscal year ended 30 September 2015, Finsbury Growth &amp; Income Trust PLC revenues increased 60% to L64.6M. Net income increased 64% to L59M. Revenues reflect Net movement in investment holding increase of 77% to L46.5M, Dividend Income increase of 27% to L14.8M, Overseas Dividend increase of 35% to L2.3M. Net income benefited from Other Expenses decrease of 10% to L199K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T05:58:32">
+		<streetAddress line="1">25 Southampton Buildings</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC2A 1AL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>30084910</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>30438889</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-30T13:24:22"><webSite mainCategory="Home Page">http://www.frostrow.com/clients/finsbury-growth-and-income-trust/</webSite><eMail mainCategory="Company Contact/E-mail">info@frostrow.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T05:58:32">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.76000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.09360</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.21995</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.23417</Ratio>
+			<Ratio FieldName="EV" Type="N">762.85820</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">742.29820</Ratio>
+			<Ratio FieldName="AREV" Type="N">64.62300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">59.37000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">59.00700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.54322</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.59492</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.56929</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06977</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12100</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">93.34447</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.09857</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.48659</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.60344</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.03424</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

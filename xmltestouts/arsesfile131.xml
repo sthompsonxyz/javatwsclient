@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A424E</CoID>
+		<CoID Type="CompanyName">Chelverton Growth Trust plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">CGW</IssueID>
+			<IssueID Type="ISIN">GB0002621349</IssueID>
+			<IssueID Type="RIC">CHLV.L</IssueID>
+			<IssueID Type="SEDOL">0262134</IssueID>
+			<IssueID Type="DisplayRIC">CHLV.L</IssueID>
+			<IssueID Type="InstrumentPI">353257</IssueID>
+			<IssueID Type="QuotePI">793293</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-08</LastModified>
+		<LatestAvailableAnnual>2015-08-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2012-08-31">0</Employees>
+		<SharesOut Date="2015-08-31" TotalFloat="3140934.0">8501650.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-26T22:19:19">Chelverton Growth Trust PLC is a United Kingdom-based investment trust. The Companys objective is to provide capital growth through investment in companies listed on the official List and traded on the Alternative Investment Market (AIM) with a market capitalization at the time of investment. The Company also aims at investing in unquoted investments where it is believed that there is a likelihood of the shares becoming listed or traded on AIM or the investee company being sold. Chelverton Asset Management Limited is the investment manager of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-08T13:16:28">BRIEF: For the fiscal year ended 31 August 2015, Chelverton Growth Trust plc revenues decreased 42% to L466K. Net income decreased 54% to L289K. Revenues reflect Gain on Investments at fair value decrease of 46% to L406K, Dividends decrease of 28% to L21K, Bank Interest decrease of 20% to L4K. Net income also reflects Auditor Fees increase of 7% to L15K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-02T22:00:26">
+		<streetAddress line="1">Waterside Court, Falmouth Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>PENRYN</city>
+		<state-region></state-region>
+		<postalCode>TR10 8AW</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1326</city-areacode>
+				<number>378288</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-28T10:21:41"><webSite mainCategory="Home Page">http://www.chelvertonam.com</webSite><eMail mainCategory="Company Contact/E-mail">cam@chelvertonam.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-02T22:00:26">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>David</firstName>
+			<mI>A.</mI>
+			<lastName>Horner</lastName>
+			<age>55 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Girdlestone</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-08-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.49500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.55000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.38110</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00396</Ratio>
+			<Ratio FieldName="EV" Type="N">4.13932</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.20832</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.46600</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">0.28900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.28900</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.03204</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.05167</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.54954</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00812</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">89.48498</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">6.06760</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">9.03072</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">15.44944</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.90075</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

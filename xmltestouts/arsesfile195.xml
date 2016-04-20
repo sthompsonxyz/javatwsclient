@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A8CE0</CoID>
+		<CoID Type="CompanyName">Epwin Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">EPWN</IssueID>
+			<IssueID Type="CUSIP">G30828126</IssueID>
+			<IssueID Type="ISIN">GB00BNGY4Y86</IssueID>
+			<IssueID Type="RIC">EPWN.L</IssueID>
+			<IssueID Type="SEDOL">BNGY4Y8</IssueID>
+			<IssueID Type="DisplayRIC">EPWN.L</IssueID>
+			<IssueID Type="InstrumentPI">163192001</IssueID>
+			<IssueID Type="QuotePI">163214539</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-17</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">2268</Employees>
+		<SharesOut Date="2016-01-08" TotalFloat="96392457.0">141515621.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-02T02:03:21">Epwin Group Plc is a United Kingdom-based vertically integrated manufacturer of extrusions, moldings and fabricated low maintenance building products, operating in the repair, maintenance and improvement (RMI), new build and social housing sectors. The Company operates through two segments: Extrusion, and Fabrication and Distribution. Extrusion segment is engaged in the extrusion and marketing of unplasticised polyvinyl chloride (PVC-U) window profile systems, PVC-UE cellular roofline and cladding, rigid rainwater and drainage products. The Fabrication and Distribution segment is involved in the fabrication and marketing of windows and doors, distribution of cellular roofline, cladding, rainwater and drainage products, and manufacture of glass sealed units. The Company's subsidiaries include Specialist Building Products Limited, Venture Building Plastics Limited, CET Glass Processors (Holdings) Limited, Indigo Products Limited and Specialist Building Distribution Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-17T01:50:36">BRIEF: For the six months ended 30 June 2015, Epwin Group PLC revenues decreased 1% to L124.1M. Net income before extraordinary items increased 72% to L6.2M. Revenues reflect Fabrication and Distribution segment decrease of 6% to L54.2M. Net income reflects Elimination segment loss decrease of 68% to L1M, Extrusion segment income increase of 29% to L7.2M. Dividend per share increased from L0.01 to L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-02T02:49:30">
+		<streetAddress line="1">1b Stratford Court, Cranmore Boulevard</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SOLIHULL</city>
+		<state-region></state-region>
+		<postalCode>B90 4QT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>121</city-areacode>
+				<number>7463700</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1242</city-areacode>
+				<number>233548</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-07-24T09:36:54"><webSite mainCategory="Home Page">http://www.epwin.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@epwin.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-02T02:49:30">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320302010" mnem="">Construction Supplies &amp; Fixtures - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="321911" mnem="">Wood Window and Door Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="332323" mnem="">Ornamental and Architectural Metal Work  Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2431" mnem="">Millwork</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3446" mnem="">Architectural Metal Work</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Jonathan</firstName>
+			<mI>Albert</mI>
+			<lastName>Bednall</lastName>
+			<age>43 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Christopher</firstName>
+			<mI>Anthony</mI>
+			<lastName>Empson</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Director, Group Finance Director, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.26250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.55000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.90000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.08349</Ratio>
+			<Ratio FieldName="EV" Type="N">177.56350</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">178.66350</Ratio>
+			<Ratio FieldName="AREV" Type="N">259.50000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">22.50000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">15.10000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11786</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.02552</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.46519</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01704</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.17016</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04240</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">28.05395</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">30.38229</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.68849</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.71186</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.71397</Ratio>
+			<Ratio FieldName="Employees" Type="N">2268</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="3" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.17257</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">258.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.11300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">19.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

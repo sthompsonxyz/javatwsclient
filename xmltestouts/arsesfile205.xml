@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AB6DA</CoID>
+		<CoID Type="CompanyName">F&amp;C Commercial Property Trust Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">FCPT</IssueID>
+			<IssueID Type="CUSIP">G3336X125</IssueID>
+			<IssueID Type="ISIN">GG00B4ZPCJ00</IssueID>
+			<IssueID Type="RIC">FCPTL.L</IssueID>
+			<IssueID Type="SEDOL">B4ZPCJ0</IssueID>
+			<IssueID Type="DisplayRIC">FCPTL.L</IssueID>
+			<IssueID Type="InstrumentPI">19950588</IssueID>
+			<IssueID Type="QuotePI">19948091</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-03</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="799329318.0">799366108.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:41:50">F&amp;C Commercial Property Trust Limited is a closed-ended investment fund. The investment objective of the Fund is to provide ordinary shareholders with an attractive level of income together with the potential for capital and income growth from investing in United Kingdom commercial property portfolio. The Company invests in properties which the Board, on the advice of the Managers, believes will generate a combination of long-term growth in capital and income for shareholders. The Fund invests in arrange of sectors, including retail, offices, industrial and logistics and other sectors, which include healthcare, student accommodation, hotels, data centers and automotive uses. F&amp;C Investment Business Limited is the investment manager of the Fund.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-03T11:55:50">BRIEF: For the six months ended 30 June 2015, F&amp;C Commercial Property Trust Limited revenues decreased 18% to L90.8M. Net income decreased 18% to L78.7M. Revenues reflect Unrealised gains/ (losses) on revaluatio decrease of 30% to L57.4M. Net income also reflects Interest receivable decrease of 52% to L108K (income), Other expenses increase of 12% to L252K (expense), Valuers' &amp; Other Professional Fees increase of 5% to L339K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T11:55:51">
+		<streetAddress line="1">Trafalgar Court, Les Banques,</streetAddress>
+		<streetAddress line="2">PO Box 255</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 3QL</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-18T05:17:42"><webSite mainCategory="Home Page">http://www.fctr.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">investor.enquiries@fandc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T11:55:51">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.27800</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.49000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.26265</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.09413</Ratio>
+			<Ratio FieldName="EV" Type="N">1240.65900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1021.59000</Ratio>
+			<Ratio FieldName="AREV" Type="N">209.04900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">195.88300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">173.90100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.22530</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.27084</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.22094</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.11321</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.06000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.72707</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.59455</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.88684</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">5.67244</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.04673</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

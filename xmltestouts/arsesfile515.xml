@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AD9E2</CoID>
+		<CoID Type="CompanyName">Styles and Wood Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">STY</IssueID>
+			<IssueID Type="CUSIP">G85476144</IssueID>
+			<IssueID Type="ISIN">GB00BLG2TG58</IssueID>
+			<IssueID Type="RIC">STY.L</IssueID>
+			<IssueID Type="SEDOL">BLG2TG5</IssueID>
+			<IssueID Type="DisplayRIC">STY.L</IssueID>
+			<IssueID Type="InstrumentPI">28910794</IssueID>
+			<IssueID Type="QuotePI">28910793</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2014-05-29">0.1</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="InstrumentPI">126626321</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">284</Employees>
+		<SharesOut Date="2015-10-15" TotalFloat="3330137.0">7077585.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:07:33">Styles &amp; Wood Group plc is a United Kingdom-based company, which provides property services to banking, retail, leisure, commercial and public sector organizations. The Company's operating segments include Projects, which fall under contracting services, and Frameworks, Design and iSite, which fall under professional services. It operates as a contractor for projects, such as minor refresh to refurbishment, shell fit-out, acquisition conversion, or complex structural re-configuration and renewable solutions. Formal framework agreements with contractors and suppliers create the forum for sharing practice in planning, procurement and delivery. Design provides outsourced design and development services, including architectural services, space planning, retail initiative design and models, and work. iSite provides clients with technology-based property information solutions that store, manage and communicate data relating to their property portfolio and associated property activities.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-07T00:41:13">BRIEF: For the six months ended 30 June 2015, Styles and Wood Group Plc revenues increased 37% to L46.2M. Net loss decreased 38% to L637K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Lower net loss reflects Restructuring Charges/Provisions decrease from L284K (expense) to L0K, Cash Coupon on Preference Shares decrease of 59% to L87K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-15T02:11:35">
+		<streetAddress line="1">No: 99,Charterhouse Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC1M 6HR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70140400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>9266001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-27T03:04:32"><webSite mainCategory="Home Page">http://www.stylesandwood.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">investors@stylesandwood.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-15T02:11:35">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541611" mnem="">Administrative Management and General Management Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/01/2011">
+			<firstName>Tony</firstName>
+			<mI></mI>
+			<lastName>Lenehan</lastName>
+			<age>53 </age>
+			<title startYear="2011" startMonth="01" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="08/01/2009">
+			<firstName>Philip</firstName>
+			<mI>Nicholas</mI>
+			<lastName>Lanigan</lastName>
+			<age>48 </age>
+			<title startYear="2009" startMonth="08" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.91500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.86950</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.50000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01791</Ratio>
+			<Ratio FieldName="EV" Type="N">23.31558</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">13.55358</Ratio>
+			<Ratio FieldName="AREV" Type="N">96.97100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.90000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.19800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.03203</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">15.68506</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-1.06901</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.20025</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.09317</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">8.51492</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.13977</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">59.78770</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">284</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">6.49153</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">114.80000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.29500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">3.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

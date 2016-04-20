@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A334C</CoID>
+		<CoID Type="CompanyName">Bloomsbury Publishing Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BMY</IssueID>
+			<IssueID Type="CUSIP">G1179Q132</IssueID>
+			<IssueID Type="ISIN">GB0033147751</IssueID>
+			<IssueID Type="RIC">BLPU.L</IssueID>
+			<IssueID Type="SEDOL">3314775</IssueID>
+			<IssueID Type="DisplayRIC">BLPU.L</IssueID>
+			<IssueID Type="InstrumentPI">354752</IssueID>
+			<IssueID Type="QuotePI">1081162</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2003-06-30">4.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-02</LastModified>
+		<LatestAvailableAnnual>2015-02-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-02-28">550</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="71984302.0">75081177.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:32:14">Bloomsbury Publishing Plc is a worldwide publisher. The Company has publishing offices in London, New York, New Delhi and Sydney. The Company operates in four publishing divisions: Adult, Children's &amp; Educational, Academic &amp; Professional and Information. These divisions derive their revenue from book publishing, sale of publishing and distribution rights, management and other publishing services. The Company's subsidiaries include A.&amp; C. Black Plc, Bloomsbury Publishing Inc, Bloomsbury Information Limited, Bloomsbury Professional Limited, Bloomsbury Australia PTY Limited, Bloomsbury Australia PTY Limited, Hart Publishing Limited, A &amp; C Black Publishers Limited, Christopher Helm (Publishers) Limited, Oxford International Publishers Limited t/a Berg Publishers, Berg Fashion Library Limited, John Wisden &amp; Co Limited, The Continuum International Publishing Group Inc and Bloomsbury Publishing India Private Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-02T00:34:08">BRIEF: For the six months ended 31 August 2015, Bloomsbury Publishing Plc revenues increased 13% to L52.7M. Net income decreased 34% to L273K. Revenues reflect Children's and Educational segment increase of 45% to L16.3M, Adult segment increase of 6% to L20.4M, Academic &amp; Professional segment increase of 3% to L14.4M. Net income was offset by Information segment income decrease of 56% to L281K, Unallocated segment loss increase from L284K to L628K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-02T00:34:10">
+		<streetAddress line="1">50 Bedford Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC1B 3DP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Michael Daykin</contactName>
+		<contactTitle>Group Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76315600</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76315800</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>207</city-areacode>
+				<number>6315627</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-10T13:29:11"><webSite mainCategory="Home Page">http://www.bloomsbury-ir.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-02T00:34:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330204010" mnem="">Consumer Publishing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51113" mnem="">Book Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="45411" mnem="">Electronic Shopping and Mail-Order Houses</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2731" mnem="">Book Publishing</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5961" mnem="">Catalog And Mail-Order Houses</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>J. Nigel</firstName>
+			<mI></mI>
+			<lastName>Newton</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="09" startDay="27" iD1="CEO" abbr1="CEO" iD2="FDR" abbr2="Fndr.">Chief Executive Officer, Founder, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/08/2011">
+			<firstName>Wendy</firstName>
+			<mI></mI>
+			<lastName>Pallot</lastName>
+			<age>45 </age>
+			<title startYear="2011" startMonth="04" startDay="08" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="10/01/2007">
+			<firstName>Richard</firstName>
+			<mI>D.P.</mI>
+			<lastName>Charkin</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="10" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Glasspool</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="07" startDay="23" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="02/2011">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Daykin</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="02" startDay="" iD1="SEC" abbr1="Secy." iD2="IRC" abbr2="IR-Contact">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-02-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.54250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.85000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.40500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.85494</Ratio>
+			<Ratio FieldName="EV" Type="N">108.29170</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">115.81270</Ratio>
+			<Ratio FieldName="AREV" Type="N">111.12500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">14.22900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">8.74800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11900</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.51164</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.65530</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.13361</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.17231</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.06100</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">56.98538</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.28423</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.04218</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">12.96218</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.93185</Ratio>
+			<Ratio FieldName="Employees" Type="N">550</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="2" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.93667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.96538</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">119.06670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">66.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.14067</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">13.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.06330</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

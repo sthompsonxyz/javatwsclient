@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EF671</CoID>
+		<CoID Type="CompanyName">Galasys PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GLS</IssueID>
+			<IssueID Type="CUSIP">G3R234102</IssueID>
+			<IssueID Type="ISIN">JE00BKWBXC36</IssueID>
+			<IssueID Type="RIC">GLS.L</IssueID>
+			<IssueID Type="SEDOL">BKWBXC3</IssueID>
+			<IssueID Type="DisplayRIC">GLS.L</IssueID>
+			<IssueID Type="InstrumentPI">158311692</IssueID>
+			<IssueID Type="QuotePI">158396878</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-14</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">53</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="15276808.0">76556693.0</SharesOut>
+		<ReportingCurrency Code="MYR">Ringgit</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">4.194</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2014-05-11T04:30:59">Galasys Plc is an integrated services and solutions provider for the amusement industry in Asia. The Company specializes in customizing and implementing ticketing, admission control, point-of-sale and e-wallet systems. The Company provides localized support service and implementation capabilities. The Companys e-point-of-sale system (GPOS) automates daily sales transactions and tracks customers spending behaviors on a real-time basis, providing an integrated Web storefront. The Companys e-ticketing system (GSET) is the product of software research and development and business modeling. The system is designed to deal with complex information flows and facilitate the management and analysis of visitors, merchandise sales and amusement park business operations.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-14T22:39:21">BRIEF: For the six months ended 30 June 2015, Galasys PLC revenues increased 43% to RM23.5M. Net income increased 22% to RM5.3M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income was partially offset by Administrative expenses increase from RM2.4M to RM5.3M (expense). Basic Earnings per Share excluding Extraordinary Items decreased from RM0.08 to RM0.07.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-20T21:31:21">
+		<streetAddress line="1">Queensway House, Hilgrove Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SAINT HELIER</city>
+		<state-region></state-region>
+		<postalCode>JE1 1ES</postalCode>
+		<country code="JEY">Jersey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-11T05:01:49"><webSite mainCategory="Home Page">http://www.galasystec.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-20T21:31:21">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="561599" mnem="">All Other Travel Arrangement and Reservation Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4729" mnem="">Passenger Trans Arrangement, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Kok Wah</firstName>
+			<mI></mI>
+			<lastName>Seah</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="FDR" abbr2="Fndr.">Chief Executive Officer, Founder, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/22/2015">
+			<firstName>Sui Lun</firstName>
+			<mI></mI>
+			<lastName>Lo</lastName>
+			<age>55 </age>
+			<title startYear="2015" startMonth="10" startDay="22" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Interim Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="05/07/2014">
+			<firstName>Teong Ming</firstName>
+			<mI></mI>
+			<lastName>Chuah</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="07" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="MYR" ExchangeRate="0.16853" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.13000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.34500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.12000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00105</Ratio>
+			<Ratio FieldName="EV" Type="N">8.00892</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">9.95237</Ratio>
+			<Ratio FieldName="AREV" Type="N">6.50890</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.11934</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.58346</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02661</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.10936</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.09758</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03093</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.02988</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00183</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">50.54872</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">34.15348</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.52904</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">4.88618</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.33219</Ratio>
+			<Ratio FieldName="Employees" Type="N">53</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.45000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">5.27383</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">7.24550</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02465</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">2.13400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00245</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

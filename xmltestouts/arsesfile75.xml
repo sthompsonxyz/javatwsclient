@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3659</CoID>
+		<CoID Type="CompanyName">A.G. Barr plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BAG</IssueID>
+			<IssueID Type="CUSIP">G012A7101</IssueID>
+			<IssueID Type="ISIN">GB00B6XZKY75</IssueID>
+			<IssueID Type="RIC">BAG.L</IssueID>
+			<IssueID Type="SEDOL">B6XZKY7</IssueID>
+			<IssueID Type="DisplayRIC">BAG.L</IssueID>
+			<IssueID Type="InstrumentPI">260291</IssueID>
+			<IssueID Type="QuotePI">1080596</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2012-05-28">3.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-01-25</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-25</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-25">1048</Employees>
+		<SharesOut Date="2015-07-25" TotalFloat="83247906.0">116768778.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T01:02:20">A.G. BARR p.l.c. is a United Kingdom-based branded soft drinks business. The Company is engaged in making, marketing and selling soft drinks brands in the United Kingdom. The Company operates through three segments: Carbonates, Still drinks and water, and Other, including ice-cream. The Carbonates segment includes the Company's carbonate products, such as the Barr range of flavored carbonates. The Other segment represent income from water coolers for the Findlays 19 liter water business, rental income for vending machines, the sale of IRN-BRU and Rubicon ice-cream, and other soft drink related items, such as water cups. The Company's brands include IRN-BRU, Rubicon, Barr Brands, KA, Strathmore, Simply, Tizer, D'N'B, St. Clement's and Abbott's. The Company's franchise partner brands include Rockstar and Snapple.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T13:00:17">BRIEF: For the six months ended 25 July 2015, A.G. Barr plc revenues decreased 4% to L130.3M. Net income increased 4% to L13.3M. Revenues reflect Carbonates segment decrease of 6% to L96.3M, Still Drinks and Water segment decrease of 13% to L27.6M., offset by Other Income decrease from L747K (income) to L0K, Finance costs increase from L183K to L460K (expense). Dividend per share remained flat at L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T13:00:21">
+		<streetAddress line="1">Westfield House, 4 Mollins Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CUMBERNAULD</city>
+		<state-region></state-region>
+		<postalCode>G68 9HD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1236</city-areacode>
+				<number>852400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1236</city-areacode>
+				<number>852477</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-30T02:24:23"><webSite mainCategory="Home Page">http://www.agbarr.co.uk/about-us/about-ag-barr/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T13:00:21">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410103011" mnem="">Carbonated Soft Drinks</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="312111" mnem="">Soft Drink Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="312112" mnem="">Bottled Water Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="42249" mnem="">Other Grocery and Related Products Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2086" mnem="">Bottled And Canned Soft Drinks</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5149" mnem="">Groceries/related Products, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2002">
+			<firstName>Roger</firstName>
+			<mI>A.</mI>
+			<lastName>White</lastName>
+			<age>47 </age>
+			<title startYear="2004" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/2015">
+			<firstName>Stuart</firstName>
+			<mI></mI>
+			<lastName>Lorimer</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2003">
+			<firstName>Jonathan</firstName>
+			<mI>D.</mI>
+			<lastName>Kemp</lastName>
+			<age></age>
+			<title startYear="2003" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Commercial Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="03/01/2008">
+			<firstName>Andrew</firstName>
+			<mI>L.</mI>
+			<lastName>Memmott</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Supply Chain Director, Executive Director</title>
+		</officer>
+		<officer rank="5" since="03/01/2008">
+			<firstName>Julie</firstName>
+			<mI>A.</mI>
+			<lastName>Barr</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="03" startDay="01" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-25">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.98000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.99360</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.82800</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.05131</Ratio>
+			<Ratio FieldName="EV" Type="N">571.08850</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">581.50850</Ratio>
+			<Ratio FieldName="AREV" Type="N">260.89500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">49.12500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">29.99700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.25859</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.24907</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.34057</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.21784</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.31887</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12120</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">45.95680</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.24285</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.22890</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">19.25829</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.71483</Ratio>
+			<Ratio FieldName="Employees" Type="N">1048</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5714</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.74500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">3.8000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.75908</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">257.93030</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.28042</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">41.21600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.12857</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

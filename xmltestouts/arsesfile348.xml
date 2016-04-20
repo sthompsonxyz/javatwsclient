@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F130C</CoID>
+		<CoID Type="CompanyName">Medaphor Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MED</IssueID>
+			<IssueID Type="CUSIP">G5952K105</IssueID>
+			<IssueID Type="ISIN">GB00BN791Q39</IssueID>
+			<IssueID Type="RIC">MEDM.L</IssueID>
+			<IssueID Type="SEDOL">BN791Q3</IssueID>
+			<IssueID Type="DisplayRIC">MEDM.L</IssueID>
+			<IssueID Type="InstrumentPI">164813264</IssueID>
+			<IssueID Type="QuotePI">164860105</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-05</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-08-27">22</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="4706904.0">20136300.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:27:58">MedaPhor Group plc is a global provider of advanced ultrasound training simulators. The Company is engaged in the development, marketing and distribution of ultrasound simulation devices for use in the training of medical professionals. The Company's ScanTrainer simulators are engaged in providing a number of medical institutions with the advanced virtual-reality simulation training and online e-learning. Combining real-feel haptic technology with real patient scans, real-time one-to-one expert guidance and curriculum-based interactive learning, ScanTrainer offers trainees a self-learning experience without the need for patients and with minimal supervision. There are two ScanTrainer platform systems on the market, which include the transvaginal simulator and the transabdominal simulator, which are sold into obstetrics, gynecology and radiology departments, simulation centers, university teaching hospitals, military hospitals and community colleges across the world.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-05T11:01:24">BRIEF: For the six months ended 30 June 2015, Medaphor Group PLC revenues increased 63% to L1.1M. Net loss increased 31% to L988K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Administrative expenses increase of 43% to L1.7M (expense). Basic Earnings per Share excluding Extraordinary Items increased from -L0.07 to -L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-01T01:06:57">
+		<streetAddress line="1">Heath Park</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CARDIFF</city>
+		<state-region></state-region>
+		<postalCode>CF14 4UJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>29</city-areacode>
+				<number>20756534</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-14T07:38:41"><webSite mainCategory="Home Page">http://www.medaphor.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-01T01:06:57">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304015" mnem="">Educational Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="611519" mnem="">Other Technical and Trade Schools</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8249" mnem="">Vocational Schools, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2009">
+			<firstName>Stuart</firstName>
+			<mI></mI>
+			<lastName>Gall</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="07" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/2014">
+			<firstName>Wilson</firstName>
+			<mI></mI>
+			<lastName>Jennings</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="07" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="08/2012">
+			<firstName>Nicholas</firstName>
+			<mI></mI>
+			<lastName>Sleep</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="08" startDay="14" iD1="CTO" abbr1="CTO" iD2="EDR" abbr2="Exec. Dir.">Chief Technology Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.49500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.60000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.48000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00000</Ratio>
+			<Ratio FieldName="EV" Type="N">7.10086</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">9.96747</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.80415</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.23330</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.48892</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.10622</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.12871</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.18310</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.14236</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.08683</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">62.34182</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-68.10897</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.52474</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.70337</Ratio>
+			<Ratio FieldName="Employees" Type="N">22</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

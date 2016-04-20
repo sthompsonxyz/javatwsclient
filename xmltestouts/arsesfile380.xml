@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E3C44</CoID>
+		<CoID Type="CompanyName">Northcote Energy Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">NCT</IssueID>
+			<IssueID Type="CUSIP">G6622A105</IssueID>
+			<IssueID Type="ISIN">VGG6622A1057</IssueID>
+			<IssueID Type="RIC">NCTN.L</IssueID>
+			<IssueID Type="SEDOL">B8BXRM4</IssueID>
+			<IssueID Type="DisplayRIC">NCTN.L</IssueID>
+			<IssueID Type="InstrumentPI">87643033</IssueID>
+			<IssueID Type="QuotePI">124362182</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">12</Employees>
+		<SharesOut Date="2015-11-27" TotalFloat="6240200135.0">6981874882.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:09:51">Northcote Energy Limited is a United Kingdom-based oil and gas exploration and production company. The Company is engaged in the acquisition, exploitation and development of oil and gas properties in the United States onshore hydrocarbon formations, primarily the Mississippi Lime formation, the Layton and the Massie South sand, Oklahoma. The Company also holds a 35% working interest in Shoats Creek, Louisiana. The Company holds leases in Osage County, Oklahoma, totaling approximately 1,680 acres with around 10 producing leases, and leases in Woods County, Oklahoma, covering approximately 8,200 acres. The Company's Horizon Project in Osage County, Oklahoma, consists of three sub-areas, namely, Big Hill, Little Drum and Mathis. It holds a 100% working interest in the 1,040 acre Oklahoma Energy project in Osage County, Oklahoma. The Company's other projects include the Zink Ranch and South Weslaco, Texas.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-07T07:14:49">BRIEF: For the six months ended 30 June 2015, Northcote Energy Ltd revenues decreased 55% to $349K. Net loss increased 20% to $2.1M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Finance costs increase from $127K to $357K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-06T23:12:59">
+		<streetAddress line="1">1st Floor</streetAddress>
+		<streetAddress line="2">18-19 Pall Mall</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 5LU</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70248391</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>3720093</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-18T01:23:52"><webSite mainCategory="Home Page">http://www.northcoteenergy.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-06T23:12:59">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="213111" mnem="">Drilling Oil and Gas Wells</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1381" mnem="">Drilling Oil And Gas Wells</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/31/2011">
+			<firstName>Ross</firstName>
+			<mI>Michael</mI>
+			<lastName>Warner</lastName>
+			<age>41 </age>
+			<title startYear="2011" startMonth="03" startDay="31" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="01/14/2013">
+			<firstName>Randall</firstName>
+			<mI>James</mI>
+			<lastName>Connally</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="01" startDay="14" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00060</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.00310</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00033</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">37.97954</Ratio>
+			<Ratio FieldName="EV" Type="N">5.43876</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.18912</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.01215</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.03349</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-6.91119</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00550</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00081</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.00032</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00543</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-9.42737</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-262.35580</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.13883</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">12</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2014" CurInterimEndMonth="3" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5B1C</CoID>
+		<CoID Type="CompanyName">European Assets Trust NV</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">EAT</IssueID>
+			<IssueID Type="CUSIP">N31150118</IssueID>
+			<IssueID Type="ISIN">NL0000226090</IssueID>
+			<IssueID Type="RIC">EUNZ.L</IssueID>
+			<IssueID Type="SEDOL">0322566</IssueID>
+			<IssueID Type="DisplayRIC">EUNZ.L</IssueID>
+			<IssueID Type="InstrumentPI">269021</IssueID>
+			<IssueID Type="QuotePI">1079958</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2008-08-13">1.03125</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-11</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2016-02-10" TotalFloat="32520113.0">32521638.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">15610</CommonShareholders>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:32:04">European Assets Trust NV is a United Kingdom-based closed-end investment company. The investment objective of the Company is to achieve growth of capital through investment in quoted small and medium-sized companies in Europe, excluding the United Kingdom. Its portfolio includes sectors, such as telecommunications, healthcare, technology, consumer services, industrials, basic materials, financials and consumer goods. The Company seeks investments in small and medium-sized companies in Europe, excluding the United Kingdom, defined as those with a market capitalization below that of the largest company in the Euromoney Smaller European Companies (ex UK) Index. The Company will not invest more than 20 per cent of its total assets in any one company. The Company does not restrict its investments to any specific industrial sectors. F&amp;C Investment Business Limited (F&amp;C) is the investment manager of the Company. F&amp;C is a company within the F&amp;C Asset Management plc group (F&amp;C Group).</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-11T09:33:59">BRIEF: For the six months ended 30 June 2015, European Assets Trust NV revenues increased from EUR15.8M to EUR68.5M. Net income increased from EUR14.2M to EUR66.4M. Revenues reflect Movements on investments unrealised increase from EUR5.6M to EUR47.3M, Movements on investments realised increase from EUR6.2M to EUR15.5M, Dividends from securities increase of 42% to EUR5.7M. Dividend per share increased from EUR0.24 to EUR0.25.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-11T09:34:00">
+		<streetAddress line="1">Weena 210-212</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ROTTERDAM</city>
+		<state-region></state-region>
+		<postalCode>3012 NJ</postalCode>
+		<country code="NLD">Netherlands</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>31</countryPhoneCode>
+				<city-areacode>10</city-areacode>
+				<number>2013600</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>31</countryPhoneCode>
+				<city-areacode>10</city-areacode>
+				<number>2013601</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-10T00:23:08"><webSite mainCategory="Home Page">http://www.fctr.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-11T09:34:00">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550102010" mnem="">Mutual Funds - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52591" mnem="">Open-End Investment Funds</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6722" mnem="">Management Investment, Open-End</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Tim</firstName>
+			<mI></mI>
+			<lastName>Koster</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MGB" abbr1="Mgt.Bd." iD2="" abbr2="">Member of the Management Board, representing the Managing Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Wilbert</firstName>
+			<mI></mI>
+			<lastName>van Twuijver</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MGB" abbr1="Mgt.Bd." iD2="" abbr2="">Member of the Management Board, representing the Managing Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Scott</firstName>
+			<mI></mI>
+			<lastName>McEllen</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">10.25000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">11.60000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">9.50000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.06779</Ratio>
+			<Ratio FieldName="EV" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">335.23100</Ratio>
+			<Ratio FieldName="AREV" Type="N">29.83396</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">27.11336</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">27.11336</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.33686</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.47100</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">9.84640</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.56275</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.06427</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">14.42992</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.23656</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">7.66720</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.04099</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2012" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">4</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

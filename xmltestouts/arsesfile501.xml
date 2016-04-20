@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AE88F</CoID>
+		<CoID Type="CompanyName">Sports Direct International Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SPD</IssueID>
+			<IssueID Type="CUSIP">G83694102</IssueID>
+			<IssueID Type="ISIN">GB00B1QH8P22</IssueID>
+			<IssueID Type="RIC">SPD.L</IssueID>
+			<IssueID Type="SEDOL">B1QH8P2</IssueID>
+			<IssueID Type="DisplayRIC">SPD.L</IssueID>
+			<IssueID Type="InstrumentPI">31611257</IssueID>
+			<IssueID Type="QuotePI">31660149</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-31</LastModified>
+		<LatestAvailableAnnual>2015-04-26</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-25</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-26">17207</Employees>
+		<SharesOut Date="2015-10-25" TotalFloat="251730087.0">598464861.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-21T10:31:52">Sports Direct International Plc is a United Kingdom-based holding company. The Company is a sports retailer engaged in retailing of sports and leisure clothing, footwear and equipment; wholesale distribution and sale of sports and leisure clothing, footwear and equipment under Company-owned or licensed brands, and licensing of its brands. It operates through three business segments: Sports Retail, Premium Lifestyle and Brands. Its Sports Retail segment includes the United Kingdom and international retail network of sports stores along with related Websites. Its Premium Lifestyle segment includes premium retail businesses, such as Cruise and Flannels. Its Brands segment includes the portfolio of internationally recognized brands, such as Everlast, Lonsdale and Dunlop. The Company offers its products under the brands, including Slazenger, Karrimor, Nike, Under Armour, Reebok, Puma, Kangol, No Fear and Firetrap. Its subsidiaries include Direct Fishing Limited and Campri Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-31T23:43:58">BRIEF: For the 26 weeks ended 25 October 2015, Sports Direct International Plc revenues remained flat at L1.43B. Net income increased 27% to L145.4M. Revenues reflect Brands segment increase of 10% to L112.5M, Sports Retail segment remaining flat at L1.23B, Retail Sales- Sports Retail remaining flat at L1.23B, also reflect Retail - Life style segment decrease of 12% to L87.7M, Retail Sales- Premium Lifestyle decrease of 12% to L87.7M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-31T23:44:09">
+		<streetAddress line="1">Unit A, Brook Park East Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MANSFIELD</city>
+		<state-region></state-region>
+		<postalCode>NG20 8RY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Cameron Olsen</contactName>
+		<contactTitle>Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>84</city-areacode>
+				<number>51299200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-27T09:06:58"><webSite mainCategory="Home Page">http://www.sportsdirectplc.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@sportsdirect.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-31T23:44:09">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340309023" mnem="">Sporting Goods Stores</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="45111" mnem="">Sporting Goods Stores</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42191" mnem="">Sporting and Recreational Goods and Supplies Wholesalers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5941" mnem="">Sporting Goods And Bicycle Shops</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5091" mnem="">Sporting &amp; Recreational Goods</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>David</firstName>
+			<mI>M.</mI>
+			<lastName>Forsey</lastName>
+			<age>47 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Michael</firstName>
+			<mI>J. W.</mI>
+			<lastName>Ashley</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VCH" abbr1="Vice Chmn." iD2="DRC" abbr2="Dir.">Executive Deputy Chairman of the Board</title>
+		</officer>
+		<officer rank="3" since="06/04/2015">
+			<firstName>Matt</firstName>
+			<mI></mI>
+			<lastName>Pearson</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="06" startDay="04" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Acting Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="4" since="2014">
+			<firstName>Cameron</firstName>
+			<mI></mI>
+			<lastName>Olsen</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="IRC" abbr1="IR-Contact" iD2="SEC" abbr2="Secy.">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-26">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.01700</Ratio>
+			<Ratio FieldName="NHIG" Type="N">8.20500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.59100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.01835</Ratio>
+			<Ratio FieldName="EV" Type="N">2463.76800</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2404.03300</Ratio>
+			<Ratio FieldName="AREV" Type="N">2832.56000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">374.28000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">240.39700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.38994</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.59462</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.94558</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.13086</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.51420</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">43.80532</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">24.21583</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.84871</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.30158</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.06468</Ratio>
+			<Ratio FieldName="Employees" Type="N">17207</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="4" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.4167</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.14167</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">4.7000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.71486</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2823.98710</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.37490</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">304.00470</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

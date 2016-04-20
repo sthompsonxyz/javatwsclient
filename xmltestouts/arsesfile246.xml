@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC45D</CoID>
+		<CoID Type="CompanyName">Goldenport Holdings Inc.</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GPRT</IssueID>
+			<IssueID Type="CUSIP">Y27499139</IssueID>
+			<IssueID Type="ISIN">MHY274991394</IssueID>
+			<IssueID Type="RIC">GPRT.L</IssueID>
+			<IssueID Type="SEDOL">BMBMW35</IssueID>
+			<IssueID Type="DisplayRIC">GPRT.L</IssueID>
+			<IssueID Type="InstrumentPI">23045008</IssueID>
+			<IssueID Type="QuotePI">25499454</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-05-12">0.1</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2005-12-31">525</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="3775507.0">9361964.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-16T23:29:37">Goldenport Holdings Inc. (Goldenport) is a holding company. The Company is a shipping company that owns and operates a fleet of container and dry bulk vessels that transport cargo. Its fleet consists of 17 vessels, of which eight are containers and nine are dry-bulk carriers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-01T04:22:11">BRIEF: For the six months ended 30 June 2015, Goldenport Holdings Inc. revenues decreased 25% to $18.5M. Net loss increased from $1.4M to $14.7M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Gain/ (loss) from disposal of vessels increase from $3.1M (income) to $105K (expense), Finance income decrease of 95% to $5K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-16T21:53:23">
+		<streetAddress line="1">c/o Goldenport Mrn Srvcs Inc,Sts Ctr</streetAddress>
+		<streetAddress line="2">41 Athinas Avenue</streetAddress>
+		<streetAddress line="3">Vouliagmeni</streetAddress>
+		<city>ATHINA</city>
+		<state-region></state-region>
+		<postalCode>166 71</postalCode>
+		<country code="GRC">Greece</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>30</countryPhoneCode>
+				<city-areacode>21</city-areacode>
+				<number>08910500</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>30</countryPhoneCode>
+				<city-areacode>21</city-areacode>
+				<number>09670311</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-07-02T17:52:29"><webSite mainCategory="Home Page">http://www.goldenport.biz</webSite><eMail mainCategory="Company Contact/E-mail">contact@goldenport.gr</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-16T21:53:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240502013" mnem="">Deep Sea Freight</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="483111" mnem="">Deep Sea Freight Transportation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4412" mnem="">Deep Sea Foreign Trans Of Freight</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/21/2005">
+			<firstName>Paraskevas</firstName>
+			<mI></mI>
+			<lastName>Dragnis</lastName>
+			<age>70 </age>
+			<title startYear="2012" startMonth="04" startDay="04" iD1="PRE" abbr1="Pres." iD2="EDR" abbr2="Exec. Dir.">President, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/05/2006">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Dragnis</lastName>
+			<age>37 </age>
+			<title startYear="2012" startMonth="04" startDay="04" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Commercial Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/2014">
+			<firstName>Alexis</firstName>
+			<mI></mI>
+			<lastName>Stephanou</lastName>
+			<age>38 </age>
+			<title startYear="2014" startMonth="02" startDay="" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="4" since="01/2011">
+			<firstName>Iosif</firstName>
+			<mI></mI>
+			<lastName>Efstathopoulos</lastName>
+			<age>38 </age>
+			<title startYear="2011" startMonth="01" startDay="" iD1="CTR" abbr1="Contr." iD2="" abbr2="">Group Controller</title>
+		</officer>
+		<officer rank="5" since="11/21/2014">
+			<firstName>Kalliopi</firstName>
+			<mI></mI>
+			<lastName>Kyriakakou</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="21" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Interim Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.13250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.44750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.12000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00033</Ratio>
+			<Ratio FieldName="EV" Type="N">89.73941</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.24046</Ratio>
+			<Ratio FieldName="AREV" Type="N">32.91756</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">8.12337</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-19.16445</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-2.04808</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.51786</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">11.52048</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.92067</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.66857</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">78.58799</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-16.33418</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.03768</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.01150</Ratio>
+			<Ratio FieldName="Employees" Type="N">525</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

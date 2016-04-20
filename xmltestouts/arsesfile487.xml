@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EF46B</CoID>
+		<CoID Type="CompanyName">Shoe Zone PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SHOE</IssueID>
+			<IssueID Type="CUSIP">G81105101</IssueID>
+			<IssueID Type="ISIN">GB00BLTVCF91</IssueID>
+			<IssueID Type="RIC">SHOE.L</IssueID>
+			<IssueID Type="SEDOL">BLTVCF9</IssueID>
+			<IssueID Type="DisplayRIC">SHOE.L</IssueID>
+			<IssueID Type="InstrumentPI">157867344</IssueID>
+			<IssueID Type="QuotePI">158068909</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2015-10-03</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-03</LatestAvailableInterim>
+		<Employees LastUpdated="2015-10-03">3721</Employees>
+		<SharesOut Date="2015-10-03" TotalFloat="24729400.0">50000000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-05-01T09:57:49">Shoe Zone plc is a United Kingdom-based holding company. The Company's principal activity includes the footwear retailing in the United Kingdom and the Republic of Ireland. It operates a portfolio of approximately 553 stores. The Company's online offering along with the store network provides customers to shop through multiple channels. The Company's subsidiaries include Shoe Zone Retail Limited, which is a trading company; Castle Acres Development Limited, which is a property holding company, and Zone Property Limited, which is a property holding company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-12T14:43:16">BRIEF: For the fiscal year ended 03 October 2015, Shoe Zone PLC revenues decreased 3% to L166.8M. Net income increased 1% to L8.1M. Revenues reflect United Kingdom segment decrease of 3% to L161.8M, Republic of Ireland segment decrease of 11% to L5.1M. Net Income benefited from Exceptional items in administration expe decrease from L936K (expense) to L0K, Administration expenses decrease of 7% to L10.9M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T07:27:23">
+		<streetAddress line="1">HARAMEAD BUSINESS CENTRE</streetAddress>
+		<streetAddress line="2">HUMBERSTONE ROAD</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>Leicester</city>
+		<state-region></state-region>
+		<postalCode>LE1 2LH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Alex Beagley</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>116</city-areacode>
+				<number>2223000</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>3727 1000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-21T22:52:59"><webSite mainCategory="Home Page">http://www.shoezoneplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T07:27:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340304011" mnem="">Footwear Retailers</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="42234" mnem="">Footwear Wholesalers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42299" mnem="">Other Miscellaneous Nondurable Goods Wholesalers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="45411" mnem="">Electronic Shopping and Mail-Order Houses</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5139" mnem="">Footwear</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5199" mnem="">Nondurable Goods, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5961" mnem="">Catalog And Mail-Order Houses</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/26/2014">
+			<firstName>Anthony</firstName>
+			<mI></mI>
+			<lastName>Smith</lastName>
+			<age>46 </age>
+			<title startYear="2014" startMonth="03" startDay="26" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/26/2014">
+			<firstName>Nicholas</firstName>
+			<mI>John</mI>
+			<lastName>Davis</lastName>
+			<age>35 </age>
+			<title startYear="2014" startMonth="03" startDay="26" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director, Secretary</title>
+		</officer>
+		<officer rank="3" since="03/26/2014">
+			<firstName>Charles</firstName>
+			<mI></mI>
+			<lastName>Smith</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="03" startDay="26" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Naomi</firstName>
+			<mI></mI>
+			<lastName>Shefford</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="DMK" abbr1="Dir.-Mktg." iD2="" abbr2="">Marketing Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Charlie</firstName>
+			<mI></mI>
+			<lastName>Bloor</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Distribution &amp; Merchandise Director</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Clare</firstName>
+			<mI></mI>
+			<lastName>Howes</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Buying Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-10-03">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.17500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.66756</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.55000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02275</Ratio>
+			<Ratio FieldName="EV" Type="N">94.52900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">108.75000</Ratio>
+			<Ratio FieldName="AREV" Type="N">166.81900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">14.50500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">8.10100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.16202</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.33638</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.72568</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.28442</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.23628</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.09700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">16.37463</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">23.82122</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.65190</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.42427</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.99719</Ratio>
+			<Ratio FieldName="Employees" Type="N">3721</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.16500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.42857</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">164.90000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.17500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">10.93000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.10450</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A337A</CoID>
+		<CoID Type="CompanyName">Laura Ashley Holdings plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ALY</IssueID>
+			<IssueID Type="CUSIP">G53872100</IssueID>
+			<IssueID Type="ISIN">GB0000533728</IssueID>
+			<IssueID Type="RIC">ALY.L</IssueID>
+			<IssueID Type="SEDOL">0053372</IssueID>
+			<IssueID Type="DisplayRIC">ALY.L</IssueID>
+			<IssueID Type="InstrumentPI">261769</IssueID>
+			<IssueID Type="QuotePI">1079737</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-07</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-01</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">2523</Employees>
+		<SharesOut Date="2015-08-01" TotalFloat="240490957.0">727762868.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:11:12">Laura Ashley Holdings plc is a United Kingdom-based international lifestyle brand, which specializes in retailing furniture, home accessories, decorating and fashion products. The Company's furniture product category includes upholstered and cabinet furniture, beds and mirrors. Its targeted range of gift products include coordinated bed linen, design led lighting ranges and soft furnishings. Its decorating product category includes curtains, blinds, fabric, paint, decorative accessories and wall coverings. It also has various licensing partners manufacturing and supplying products, such as carpets, shutters, kitchens, tiles and cookware in the United Kingdom, Europe, Japan, America and Australia. It has five store types: 130 mixed product stores (selling all product categories), 50 home stores (selling home products), 24 home concession stores, four gifts and accessories stores and one clearance outlet. The Company has retail stores based in the United Kingdom, Eire and France.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-07T21:29:07">BRIEF: For the 26 weeks ended 01 August 2015, Laura Ashley Holdings plc revenues decreased 3% to L139.7M. Net income increased 6% to L6.7M. Revenues reflect Non-Retail segment decrease of 30% to L12.4M, Rest of the World segment decrease of 28% to L10.8M, Retail Sales-Retail Stores decrease of less than 1% to L102.6M. Net income reflects Operatingexpenses decrease of 1% to L52.5M (expense). Dividend per share remained flat at L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-07T21:29:10">
+		<streetAddress line="1">Design Centre</streetAddress>
+		<streetAddress line="2">27 Bagleys Lane</streetAddress>
+		<streetAddress line="3">Fulham</streetAddress>
+		<city>NEWTOWN</city>
+		<state-region></state-region>
+		<postalCode>SY16 1DZ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-09T00:01:21"><webSite mainCategory="Home Page">http://www.lauraashley.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-07T21:29:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340303010" mnem="">Home Furnishings Retailers - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="44211" mnem="">Furniture Stores</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="442299" mnem="">All Other Home Furnishings Stores</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="442291" mnem="">Window Treatment Stores</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="44812" mnem="">Women's Clothing Stores</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="44813" mnem="">Children's and Infants' Clothing Stores</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="44811" mnem="">Men's Clothing Stores</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="44412" mnem="">Paint and Wallpaper Stores</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="45322" mnem="">Gift, Novelty and Souvenir Stores</Industry>
+			<Industry type="SIC" order="0" reported="1" code="5712" mnem="">Furniture Stores</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5712" mnem="">Furniture Stores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5719" mnem="">Misc. Homefurnishings Stores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5714" mnem="">Drapery And Upholstery Stores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="5621" mnem="">Women's Clothing Stores</Industry>
+			<Industry type="SIC" order="5" reported="0" code="5641" mnem="">Children's/infants' Wear Stores</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5611" mnem="">Men's &amp; Boys' Clothing Stores</Industry>
+			<Industry type="SIC" order="7" reported="0" code="5231" mnem="">Paint/glass/wallpaper Stores</Industry>
+			<Industry type="SIC" order="8" reported="0" code="5947" mnem="">Gift, Novelty, And Souvenir Shops</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1999">
+			<firstName>Kwan Cheong</firstName>
+			<mI></mI>
+			<lastName>Ng</lastName>
+			<age>66 </age>
+			<title startYear="2012" startMonth="01" startDay="05" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/01/2009">
+			<firstName>Sean</firstName>
+			<mI></mI>
+			<lastName>Anglim</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="10" startDay="01" iD1="CFO" abbr1="CFO" iD2="COO" abbr2="COO">Chief Financial Officer, Joint Chief Operating Officer</title>
+		</officer>
+		<officer rank="3" since="2013">
+			<firstName>Nick</firstName>
+			<mI></mI>
+			<lastName>Kaloyirou</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Joint Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="01/19/2015">
+			<firstName>Meng Poh</firstName>
+			<mI></mI>
+			<lastName>Sit</lastName>
+			<age>50 </age>
+			<title startYear="2015" startMonth="01" startDay="19" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="08/05/2013">
+			<firstName>Sai Hup</firstName>
+			<mI></mI>
+			<lastName>Fong</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="05" startDay="14" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Joint Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.24750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.36000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.22800</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.24707</Ratio>
+			<Ratio FieldName="EV" Type="N">152.32130</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">180.12130</Ratio>
+			<Ratio FieldName="AREV" Type="N">303.60000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">26.80000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">18.30000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02515</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.41717</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.06032</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03820</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.02995</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">42.52306</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">39.56757</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.59328</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.84095</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.10299</Ratio>
+			<Ratio FieldName="Employees" Type="N">2523</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

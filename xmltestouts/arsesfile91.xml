@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EE006</CoID>
+		<CoID Type="CompanyName">B&amp;M European Value Retail SA</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BME</IssueID>
+			<IssueID Type="CUSIP">L1175H106</IssueID>
+			<IssueID Type="ISIN">LU1072616219</IssueID>
+			<IssueID Type="RIC">BMEB.L</IssueID>
+			<IssueID Type="SEDOL">BMTRW10</IssueID>
+			<IssueID Type="DisplayRIC">BMEB.L</IssueID>
+			<IssueID Type="InstrumentPI">160475440</IssueID>
+			<IssueID Type="QuotePI">160475439</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-03-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-26</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-28">19462</Employees>
+		<SharesOut Date="2015-09-26" TotalFloat="682844634.0">1000000000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:06:58">B&amp;M European Value Retail S.A. is a United Kingdom-based holding company of the Group. The Company is engaged in variety retailing in the United Kingdom and Germany. It operates in two segments: the UK retail segment, including grocery retailers and general merchandise retailers, and the German retail segment. It sells a range of grocery and fast moving consumer goods (FMCG) products in its B&amp;M stores. Its FMCG products include do it yourself and decorating goods, household goods, food, confectionery, soft drinks, alcohol, and toiletries and seasonal goods. It sells non-grocery products under various categories, such as housewares, electrical, gardening, toys and pet care. Its grocery products are ambient food, drink and confectionery lines. It also operates under categories, such as sports and leisure, home and living, everyday essentials, stationery, clothing and footwear, gifts, baby and winter fuel. Its brands include Duracell, Kellogg's, Coca-Cola and Nestle, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T13:59:05">BRIEF: For the 26 weeks ended 26 September 2015, B&amp;M European Value Retail SA revenues increased 26% to L930.3M. Net income totaled L52M vs. loss of L20.7M. Revenues reflect UK Retail segment increase of 27% to L861.7M, UK Retail segment increase of 27% to L861.7M, Retail Sales B&amp;M increase of 27% to L861.7M. Net Income reflects Finance costs decrease of 81% to L11.3M (expense). Dividend per share increased from L0.01 to L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T13:59:06">
+		<streetAddress line="1">16, Avenue Pasteur</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LUXEMBOURG</city>
+		<state-region></state-region>
+		<postalCode>2310</postalCode>
+		<country code="LUX">Luxembourg</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>352</countryPhoneCode>
+				<city-areacode></city-areacode>
+				<number>440929</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-06-12T18:23:58"><webSite mainCategory="Home Page">http://www.bandmretail.com</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@bmstores.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T13:59:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340202010" mnem="">Discount Stores - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="45211" mnem="">Department Stores</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5311" mnem="">Department Stores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/19/2014">
+			<firstName>Sundeep</firstName>
+			<mI></mI>
+			<lastName>Arora</lastName>
+			<age>45 </age>
+			<title startYear="2014" startMonth="05" startDay="19" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/03/2011">
+			<firstName>Paul</firstName>
+			<mI>Andrew</mI>
+			<lastName>McDonald</lastName>
+			<age>49 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Bobby</firstName>
+			<mI></mI>
+			<lastName>Arora</lastName>
+			<age></age>
+			<title startYear="2005" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Trading Director</title>
+		</officer>
+		<officer rank="4" since="01/2011">
+			<firstName>Robert</firstName>
+			<mI>Michael</mI>
+			<lastName>Benson</lastName>
+			<age>48 </age>
+			<title startYear="2011" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Distribution Director</title>
+		</officer>
+		<officer rank="5" since="01/2014">
+			<firstName>Allison</firstName>
+			<mI>Dawn</mI>
+			<lastName>Green</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">People Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.83100</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.61000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.42900</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.29636</Ratio>
+			<Ratio FieldName="EV" Type="N">3219.51500</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2831.00000</Ratio>
+			<Ratio FieldName="AREV" Type="N">1646.82400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">172.63600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">38.64000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.03862</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.64597</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.71317</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06609</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.05551</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">34.60649</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.13925</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.71907</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">73.30399</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.96958</Ratio>
+			<Ratio FieldName="Employees" Type="N">19462</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.875</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.50313</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">20.9000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">23.10832</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2034.12570</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">644.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.12251</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">159.34140</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04664</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

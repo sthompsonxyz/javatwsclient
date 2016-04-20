@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3F25</CoID>
+		<CoID Type="CompanyName">Law Debenture Corporation plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">LWDB</IssueID>
+			<IssueID Type="CUSIP">G53900125</IssueID>
+			<IssueID Type="ISIN">GB0031429219</IssueID>
+			<IssueID Type="RIC">LWDB.L</IssueID>
+			<IssueID Type="SEDOL">3142921</IssueID>
+			<IssueID Type="DisplayRIC">LWDB.L</IssueID>
+			<IssueID Type="InstrumentPI">261772</IssueID>
+			<IssueID Type="QuotePI">1079336</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126260625</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-02</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">120</Employees>
+		<SharesOut Date="2015-08-31" TotalFloat="114169138.0">118328874.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:36:13">The Law Debenture Corporation p.l.c. is a United Kingdom-based investment trust and provider of independent fiduciary services. The Company offers a range of activities in the financial and professional services sectors. The Company operates in two segments: investment trust and independent fiduciary services. The Company's objective is to achieve long term capital growth in real terms and steadily increasing income. The Company provides independent third party fiduciary services, including corporate trusts, such as trustee and escrow banking, agency services, pension trusts, corporate services, agent for service of process, whistleblowing services and governance services to client boards and pension funds. The Company invests in sectors, including industrials, financials, consumer goods, basic materials, oil and gas, consumer services, and others. The Company's portfolio of investments is managed by Henderson Global Investors Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-02T21:41:36">BRIEF: For the six months ended 30 June 2015, Law Debenture Corporation plc revenues decreased 9% to L31.5M. Net income decreased 14% to L17.5M. Revenues reflect Independent fiduciary services segment decrease of 2% to L15M. Net income also reflects Administrativeexpenses increase of 3% to L10.7M (expense), Total Financial Expense increase of 1% to L1.4M (expense). Dividend per share remained flat at L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-15T21:43:31">
+		<streetAddress line="1">Fifth Floor,100 Wood Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2V 7EX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76065451</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76060643</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-09T23:03:47"><webSite mainCategory="Home Page">http://www.lawdeb.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-15T21:43:31">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510105010" mnem="">Corporate Financial Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="523991" mnem="">Trust, Fiduciary and Custody Activities</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="523999" mnem="">Miscellaneous Financial Investment Activities</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6091" mnem="">Nondeposit Trust Facilities</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6289" mnem="">Security/commodity Services Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/29/2002">
+			<firstName>Caroline</firstName>
+			<mI>J.</mI>
+			<lastName>Banszky</lastName>
+			<age></age>
+			<title startYear="2002" startMonth="04" startDay="09" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.48250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.45500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.32500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07231</Ratio>
+			<Ratio FieldName="EV" Type="N">546.10820</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">530.40920</Ratio>
+			<Ratio FieldName="AREV" Type="N">54.22800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">28.97300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">24.54000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.20821</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.46009</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.85324</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.42531</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.21079</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.15700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.29290</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">9.78109</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.52875</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.92361</Ratio>
+			<Ratio FieldName="Employees" Type="N">120</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2013" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

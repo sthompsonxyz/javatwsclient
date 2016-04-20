@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D49C4</CoID>
+		<CoID Type="CompanyName">Sovereign Mines of Africa PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SMA</IssueID>
+			<IssueID Type="CUSIP">G8308Z107</IssueID>
+			<IssueID Type="ISIN">GB00B3P3XP06</IssueID>
+			<IssueID Type="RIC">SMAS.L</IssueID>
+			<IssueID Type="SEDOL">B3P3XP0</IssueID>
+			<IssueID Type="DisplayRIC">SMAS.L</IssueID>
+			<IssueID Type="InstrumentPI">72803756</IssueID>
+			<IssueID Type="QuotePI">90329104</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">14</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="665420690.0">860858850.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-29T23:40:36">Sovereign Mines of Africa Plc is a United Kingdom-based holding company. The principal activity of the Company is the exploration of gold concessions in the Republic of Guinea. Its Mandiana-Magana gold project, which is located in Mandiana Province, northeast Guinea, and covers an area of approximately 127 square kilometer (sq km). The Companys other projects include Dalaghna and Marela gold project. The Dalaghna gold project is located approximately near south of the town of Kankan in eastern Guinea and covers an area of approximately 500 sq km. The Marela gold project is located near southeast of the regional center of Mamou in south central Guinea on the border with Sierra Leone and covers an area totaling approximately 736 sq km. The Companys subsidiaries include Sovereign Mines of Africa Ltd., Sovereign Mines of Guinea Ltd. and Guiord SA.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-07T20:30:47">BRIEF: For the six months ended 30 June 2015, Sovereign Mines of Africa PLC revenues was not reported. Net loss decreased 45% to L47K. Lower net loss reflects Other administrative expenses decrease of 43% to L47K (expense), Losses on financial assets at fair value decrease from L2K (expense) to L0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-07T20:30:48">
+		<streetAddress line="1">2nd Floor</streetAddress>
+		<streetAddress line="2">Manfield House,1 Southampton Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC2R 0LR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78457500</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-09-13T15:26:09"><webSite mainCategory="Home Page">http://www.sovmines.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-07T20:30:48">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120106011" mnem="">Gold Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/21/2010">
+			<firstName>Nathan</firstName>
+			<mI>Anthony</mI>
+			<lastName>Steinberg</lastName>
+			<age>60 </age>
+			<title startYear="2010" startMonth="04" startDay="21" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Financial Director, Executive Director</title>
+		</officer>
+		<officer rank="2" since="2011">
+			<firstName>Cherif</firstName>
+			<mI></mI>
+			<lastName>Haidara</lastName>
+			<age>46 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="" abbr2="">Group Vice President</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>John</firstName>
+			<mI>P.</mI>
+			<lastName>Barry</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Exploration Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00240</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.01787</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00117</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.38232</Ratio>
+			<Ratio FieldName="EV" Type="N">1.81611</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2.06606</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.18503</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.87963</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01308</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.00434</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00080</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-129.67130</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.55248</Ratio>
+			<Ratio FieldName="Employees" Type="N">14</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-1.71429</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00140</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

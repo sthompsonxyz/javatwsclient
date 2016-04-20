@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A350F</CoID>
+		<CoID Type="CompanyName">Findel plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">FDL</IssueID>
+			<IssueID Type="CUSIP">G3440H164</IssueID>
+			<IssueID Type="ISIN">GB00B8B4R053</IssueID>
+			<IssueID Type="RIC">FDL.L</IssueID>
+			<IssueID Type="SEDOL">B8B4R05</IssueID>
+			<IssueID Type="DisplayRIC">FDL.L</IssueID>
+			<IssueID Type="InstrumentPI">261149</IssueID>
+			<IssueID Type="QuotePI">1082266</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2013-04-09">0.05</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-28</LastModified>
+		<LatestAvailableAnnual>2015-03-27</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-25</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-27">2314</Employees>
+		<SharesOut Date="2015-09-25" TotalFloat="69884482.0">86442534.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:07:53">Findel plc (Findel) is engaged in the business of home shopping and education supplies in the United Kingdom. The Company operates through four segments: Express Gifts, Findel Education, Kitbag and Overseas Sourcing. Its Express Gifts includes direct mail order businesses in the United Kingdom, offering online and via catalogue a range of home and leisure items, clothing, toys and gifts supported by credit offer. Its Findel Education supplies resources and equipment to schools and educational establishments in the United Kingdom. Its Kitbag is a retailer of sports leisurewear and official football kits both through its own online operation, kitbag.com, as well as various partnership relationships with football clubs and other sports organizations whereby Kitbag manages a range of retail, online or mail order channels. Its Overseas Sourcing includes sourcing office based in Hong Kong supplying importing services to various group companies and a small number of external customers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-28T01:47:55">BRIEF: For the 26 weeks ended 25 September 2015, Findel plc revenues decreased less than 1% to L191.4M. Net loss before extraordinary items decreased 33% to L437K. Revenues reflect Express Gifts segment increase of 3% to L133.2M, Overseas Sourcing segment increase of 38% to L2.3M, also reflect Educational Supplies segment decrease of 8% to L55.9M. Lower net loss reflects Educational Supplies segment income increase from L486K to L3.2M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-02T02:02:24">
+		<streetAddress line="1">2 Gregory Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HYDE</city>
+		<state-region></state-region>
+		<postalCode>SK14 4TH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Timothy John Kowalski</contactName>
+		<contactTitle>Group Finance Director, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>3033465</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>3672139</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>3033465</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-09T15:11:43"><webSite mainCategory="Home Page">http://findel.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-02T02:02:24">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340201013" mnem="">Internet &amp; Mail Order Department Stores</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="45411" mnem="">Electronic Shopping and Mail-Order Houses</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="45322" mnem="">Gift, Novelty and Souvenir Stores</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="42221" mnem="">Drug, Drug Proprietaries and Druggists' Sundries Wholesalers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="561499" mnem="">All Other Business Support Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="42212" mnem="">Stationary and Office Supplies Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5961" mnem="">Catalog And Mail-Order Houses</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5947" mnem="">Gift, Novelty, And Souvenir Shops</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5122" mnem="">Drugs/proprietaries/sundries</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7389" mnem="">Business Services, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5112" mnem="">Stationery And Office Supplies</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/2015">
+			<firstName>David</firstName>
+			<mI>A.</mI>
+			<lastName>Sugden</lastName>
+			<age>63 </age>
+			<title startYear="2015" startMonth="03" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="08/02/2010">
+			<firstName>Timothy John</firstName>
+			<mI></mI>
+			<lastName>Kowalski</lastName>
+			<age>56 </age>
+			<title startYear="2010" startMonth="08" startDay="02" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="1987">
+			<firstName>Philip Binns</firstName>
+			<mI></mI>
+			<lastName>Maudsley</lastName>
+			<age>54 </age>
+			<title startYear="2010" startMonth="09" startDay="15" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Managing Director - Home Shopping, Executive Director</title>
+		</officer>
+		<officer rank="4" since="2010">
+			<firstName>M.</firstName>
+			<mI></mI>
+			<lastName>Ashcroft</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-27">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.88500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.55000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.62000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00691</Ratio>
+			<Ratio FieldName="EV" Type="N">369.49520</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">162.94420</Ratio>
+			<Ratio FieldName="AREV" Type="N">406.93000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">46.30800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-4.79600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.05631</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.77775</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.95682</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.44504</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.04363</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">47.12948</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-4.93522</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.40042</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.97007</Ratio>
+			<Ratio FieldName="Employees" Type="N">2314</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.40000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.61714</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">406.59780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.21875</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">25.36580</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

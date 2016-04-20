@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">DC304</CoID>
+		<CoID Type="CompanyName">Ruspetro PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RPO</IssueID>
+			<IssueID Type="CUSIP">G7722P109</IssueID>
+			<IssueID Type="ISIN">GB00B4ZH7J18</IssueID>
+			<IssueID Type="RIC">RPO.L</IssueID>
+			<IssueID Type="SEDOL">B4ZH7J1</IssueID>
+			<IssueID Type="DisplayRIC">RPO.L</IssueID>
+			<IssueID Type="InstrumentPI">101344943</IssueID>
+			<IssueID Type="QuotePI">101355422</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-11-17">1.04852</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-17</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">205</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="108130813.0">870112016.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-05T07:07:02">Ruspetro plc is a United Kingdom-based company engaged in the exploration for and production of crude oil. The Company has three oil and gas exploration and production licenses: the Pottymsko-Inginsky (PI) License, the VostochnoInginsky License and the Palyanovsky License. The operating subsidiaries of the Company include OJSC INGA (INGA) and OJSC Trans-Oil (Trans-Oil) hold three licenses for exploration for, and extraction of, crude oil and natural gas in the Khanty-Mansiysk region of the Russian Federation. The Company's other subsidiaries include Ruspetro Holding Limited, which is a holding company and Ruspetro LLC, which is engaged in crude oil sale. The Company's three license blocks cover around 1,205 square kilometer in area and contain over 1.8 billion barrels of proven and probable reserves.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-17T09:25:10">BRIEF: For the six months ended 30 June 2015, Ruspetro PLC revenues decreased 14% to $24M. Net loss decreased 52% to $19M. Revenues reflect Revenue from Crude Oil Sales decrease of 12% to $23.7M, Revenue from gas condensate sales decrease from $328K to $0K, Other Revenue decrease of 39% to $334K. Lower net loss reflects Foreign exchange loss increase from $9.1M (expense) to $2.6M (income), Finance costs decrease of 33% to $12.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-05T06:07:02">
+		<streetAddress line="1">First Floor/Berkeley Square House</streetAddress>
+		<streetAddress line="2">Berkeley Square</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1J 6BD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Dominic Manley</contactName>
+		<contactTitle>Head of Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78877624</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73181265</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-29T05:24:47"><webSite mainCategory="Home Page">http://www.ruspetro.com</webSite><eMail mainCategory="Company Contact/E-mail">dmanley@ruspetro.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-05T06:07:02">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="211112" mnem="">Natural Gas Liquid Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1321" mnem="">Natural Gas Liquids</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/01/2011">
+			<firstName>Alexander</firstName>
+			<mI></mI>
+			<lastName>Chistyakov</lastName>
+			<age>42 </age>
+			<title startYear="2013" startMonth="08" startDay="01" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="12/17/2013">
+			<firstName>John</firstName>
+			<mI>Martin</mI>
+			<lastName>Conlin</lastName>
+			<age>62 </age>
+			<title startYear="2013" startMonth="12" startDay="17" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/03/2015">
+			<firstName>Alexander</firstName>
+			<mI></mI>
+			<lastName>Betsky</lastName>
+			<age>46 </age>
+			<title startYear="2015" startMonth="02" startDay="03" iD1="FID" abbr1="Fin. Dir." iD2="" abbr2="">Finance Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.04075</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.12000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01203</Ratio>
+			<Ratio FieldName="EV" Type="N">201.61539</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">35.45706</Ratio>
+			<Ratio FieldName="AREV" Type="N">38.94523</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">5.95275</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-185.81540</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.51013</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.10692</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.06153</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00977</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.45775</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">6.19238</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-307.47540</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.91043</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.66233</Ratio>
+			<Ratio FieldName="Employees" Type="N">205</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">33.43211</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

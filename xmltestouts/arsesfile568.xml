@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2EA1</CoID>
+		<CoID Type="CompanyName">Vitec Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VTC</IssueID>
+			<IssueID Type="CUSIP">G93682105</IssueID>
+			<IssueID Type="ISIN">GB0009296665</IssueID>
+			<IssueID Type="RIC">VTC.L</IssueID>
+			<IssueID Type="SEDOL">0929666</IssueID>
+			<IssueID Type="DisplayRIC">VTC.L</IssueID>
+			<IssueID Type="InstrumentPI">263064</IssueID>
+			<IssueID Type="QuotePI">1081676</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1876</Employees>
+		<SharesOut Date="2016-01-31" TotalFloat="37957876.0">44499073.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:31:46">The Vitec Group plc is a United Kingdom-based company, which designs, manufactures and supplies branded products and services to capture and share images. The Company operates through two divisions: Broadcast Division and Photographic Division. The Broadcast Division designs, manufactures and distributes branded products for broadcasting, film and video production for broadcasters and independent content creators. The Photographic Division designs, manufactures and distributes branded equipment and provides dedicated solutions to professional and non-professional image takers. Its products attach to or support a camera, primarily for broadcast, video and photographic applications. The Company also provides technical services to broadcasters. The Company's brands include Avenger, Gitzo, Manfrotto, OConnor, Sachtler, Vinten, Colorama, Lastolite, Litepanels, Haigh-Farr, Teradek, Anton/Bauer, Autocue, Autoscript, Vinten Radamec, SmallHD, Bexel, Camera Corps and The Camera Store.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T13:05:39">BRIEF: For the six months ended 30 June 2015, Vitec Group plc revenues increased 2% to L155.9M. Net income decreased 18% to L8.4M. Revenues reflect North America segment increase of 7% to L70.5M, United Kingdom segment increase of 17% to L16M. Net income was offset by Operating Expenses - Balancing value increase of 3% to L47.9M (expense), Amortisationofacquiredintangibleassets increase of 67% to L2.5M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T13:05:44">
+		<streetAddress line="1">Bridge House, 3 Heron Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>RICHMOND</city>
+		<state-region></state-region>
+		<postalCode>TW9 1EN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Jon Bolton</contactName>
+		<contactTitle>Group Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>83324600</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>89488277</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>208</city-areacode>
+				<number>3324600</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-15T04:10:03"><webSite mainCategory="Home Page">http://www.vitecgroup.com</webSite><eMail mainCategory="Company Contact/E-mail">info@vitecgroup.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T13:05:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710603011" mnem="">Photographic Equipment</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333315" mnem="">Photographic and Photocopying Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42141" mnem="">Photographic Equipment and Supplies Wholesalers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="33429" mnem="">Other Communications Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="53249" mnem="">Other Commercial and Industrial Machinery and Equipment Rental and Leasing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="541921" mnem="">Photography Studios, Portrait</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="42169" mnem="">Other Electronic Parts and Equipment Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3861" mnem="">Photographic Equipment Supplies</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5043" mnem="">Photographic Equipment/supplies</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3669" mnem="">Communications Equipment, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7359" mnem="">Equipment Rental &amp; Leasing, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7221" mnem="">Photographic Studios, Portrait</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5065" mnem="">Electronic Parts And Equipment</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/14/2009">
+			<firstName>Stephen</firstName>
+			<mI>Clive</mI>
+			<lastName>Bird</lastName>
+			<age>54 </age>
+			<title startYear="2009" startMonth="04" startDay="14" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="06/13/2011">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Hayes</lastName>
+			<age>48 </age>
+			<title startYear="2011" startMonth="06" startDay="13" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="06/2005">
+			<firstName>Martin</firstName>
+			<mI></mI>
+			<lastName>Green</lastName>
+			<age>45 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Development and Human Resource Director</title>
+		</officer>
+		<officer rank="4" since="07/2012">
+			<firstName>Matt</firstName>
+			<mI></mI>
+			<lastName>Danilowicz</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Broadcast Divisional Chief Executive</title>
+		</officer>
+		<officer rank="5" since="03/2009">
+			<firstName>Marco</firstName>
+			<mI></mI>
+			<lastName>Pezzana</lastName>
+			<age>44 </age>
+			<title startYear="2009" startMonth="03" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Photographic Divisional Chief Executive</title>
+		</officer>
+		<officer rank="6" since="10/01/2008">
+			<firstName>Jon</firstName>
+			<mI></mI>
+			<lastName>Bolton</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="10" startDay="01" iD1="SEC" abbr1="Secy." iD2="IRC" abbr2="IR-Contact">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.25250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.70850</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.20000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00243</Ratio>
+			<Ratio FieldName="EV" Type="N">304.63140</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">233.73140</Ratio>
+			<Ratio FieldName="AREV" Type="N">309.60000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">54.90000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">13.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.29373</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">6.99535</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.67587</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.20757</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.73433</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.24000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">41.31137</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.88777</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.75495</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.88207</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.96291</Ratio>
+			<Ratio FieldName="Employees" Type="N">1876</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">7.07500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">9.03267</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">328.80000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.58150</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">37.05000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.26300</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

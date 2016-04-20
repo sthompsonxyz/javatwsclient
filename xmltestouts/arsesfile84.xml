@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3FC5</CoID>
+		<CoID Type="CompanyName">Baillie Gifford Japan Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">BGFD</IssueID>
+			<IssueID Type="CUSIP">G50708125</IssueID>
+			<IssueID Type="ISIN">GB0000485838</IssueID>
+			<IssueID Type="RIC">BGFD.L</IssueID>
+			<IssueID Type="SEDOL">0048583</IssueID>
+			<IssueID Type="DisplayRIC">BGFD.L</IssueID>
+			<IssueID Type="InstrumentPI">261625</IssueID>
+			<IssueID Type="QuotePI">1079094</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-18</LastModified>
+		<LatestAvailableAnnual>2015-08-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-08-31">0</Employees>
+		<SharesOut Date="2016-02-05" TotalFloat="77613510.0">77934925.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-16T05:43:51">The Baillie Gifford Japan Trust PLC is a United Kingdom-based investment trust company. The Companys investment objective is to achieve long term capital growth principally through investment in medium to smaller sized Japanese companies which have above average prospects for growth. The Company also invests in larger companies when considered appropriate. The Companys investments are managed by Baillie Gifford &amp; Co. The Companys top 10 holdings in its portfolio include Fuji Heavy Industries, Toyo Tire &amp; Rubber Co Ltd, SoftBank, Don Quijote, Kubota, Sysmex Corp., Itochu Corp., Japan Exchange Group, CyberAgent Inc, and Rakuten.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-18T04:26:23">BRIEF: For the fiscal year ended 31 August 2015, Baillie Gifford Japan Trust PLC revenues increased 97% to L52.1M. Net income increased from L23.1M to L48M. Revenues reflect Changes in investment holding gains increase from L11.3M to L36.6M, Gains on sales of investments increase of 13% to L8.5M, Overseas dividends increase of 15% to L4.3M. Basic Earnings per Share excluding Extraordinary Items increased from L0.34 to L0.67.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-18T04:26:25">
+		<streetAddress line="1">Calton Square, 1 Greenside Row</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH1 3AN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>2752000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>2753955</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-06T10:45:46"><webSite mainCategory="Home Page">http://www.bailliegifford.com</webSite><eMail mainCategory="Company Contact/E-mail">trustenquiries@bailliegifford.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-18T04:26:25">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-08-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.20250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.93250</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.85000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.14780</Ratio>
+			<Ratio FieldName="EV" Type="N">373.50550</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">327.52150</Ratio>
+			<Ratio FieldName="AREV" Type="N">52.08700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">48.40200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">47.97000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.67454</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.73243</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.30172</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.11637</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">93.88907</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.77663</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.28797</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.23017</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.97693</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="8" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

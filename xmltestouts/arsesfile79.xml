@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA59E</CoID>
+		<CoID Type="CompanyName">Begbies Traynor Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BEG</IssueID>
+			<IssueID Type="CUSIP">G1145D108</IssueID>
+			<IssueID Type="ISIN">GB00B0305S97</IssueID>
+			<IssueID Type="RIC">BEG.L</IssueID>
+			<IssueID Type="SEDOL">B0305S9</IssueID>
+			<IssueID Type="DisplayRIC">BEG.L</IssueID>
+			<IssueID Type="InstrumentPI">18233766</IssueID>
+			<IssueID Type="QuotePI">18233764</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">202934102</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-18</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-30">480</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="61191350.0">111011537.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-11T23:17:56">Begbies Traynor Group plc is a United Kingdom-based professional services consultancy. The Company provides independent professional advice and solutions to businesses and banks in the areas of corporate recovery, restructuring, corporate finance, risk consulting and forensic investigations. The Company operates through two business segments: insolvency and restructuring, and global risk partners. Insolvency and restructuring segment is an independent business recovery practice which provides a partner-led service to stakeholders in troubled businesses. Global risk partners segment is engaged in providing specialist risk consulting and forensic investigation consultancy services. The Companys subsidiaries include Begbies Traynor Limited, BTG Consulting Limited, Begbies Traynor International Limited, Begbies Traynor (Central) LLP, BTG Corporate Finance LLP, BTG Global Risk Partners Limited, BTG Financial Consulting LLP and BTG Risk LLP (formerly Begbies Traynor (South) LLP).</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-18T05:12:45">BRIEF: For the six months ended 31 October 2015, Begbies Traynor Group plc revenues increased 22% to L25.5M. Net income before extraordinary items decreased 63% to L406K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income was offset by Administrative expenses increase of 20% to L8.7M (expense), Amortisation of intangible assets increase from L456K to L1.3M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T05:12:48">
+		<streetAddress line="1">340 Deansgate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MANCHESTER</city>
+		<state-region></state-region>
+		<postalCode>M3 4LY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>8371700</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>8371701</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-05-21T06:24:24"><webSite mainCategory="Home Page">http://www.begbies-traynorgroup.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T05:12:48">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541611" mnem="">Administrative Management and General Management Consulting Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="54191" mnem="">Marketing Research and Public Opinion Polling</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8732" mnem="">Commercial Nonphysical Research</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/05/2004">
+			<firstName>Ric</firstName>
+			<mI>W.</mI>
+			<lastName>Traynor</lastName>
+			<age>55 </age>
+			<title startYear="2004" startMonth="05" startDay="05" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="11/2007">
+			<firstName>Edward</firstName>
+			<mI>Nicholas</mI>
+			<lastName>Taylor</lastName>
+			<age>44 </age>
+			<title startYear="2010" startMonth="12" startDay="21" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="07/07/2011">
+			<firstName>Mark</firstName>
+			<mI>Robert</mI>
+			<lastName>Fry</lastName>
+			<age>47 </age>
+			<title startYear="2011" startMonth="07" startDay="07" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Head - Insolvency and Restructuring, Executive Director</title>
+		</officer>
+		<officer rank="4" since="07/08/2009">
+			<firstName>John</firstName>
+			<mI>A.</mI>
+			<lastName>Humphrey</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="07" startDay="08" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.47000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.51080</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.38500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.06046</Ratio>
+			<Ratio FieldName="EV" Type="N">62.65919</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">49.86819</Ratio>
+			<Ratio FieldName="AREV" Type="N">45.36000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">5.72000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.60100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00624</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.47108</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.55671</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.08407</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01915</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02200</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">44.78836</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-0.99848</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.09939</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.84425</Ratio>
+			<Ratio FieldName="Employees" Type="N">480</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="4" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.51000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.75667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">51.35000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03185</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">4.53000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02200</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

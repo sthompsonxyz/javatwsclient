@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AFA9E</CoID>
+		<CoID Type="CompanyName">Volga Gas plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VGAS</IssueID>
+			<IssueID Type="CUSIP">G93813106</IssueID>
+			<IssueID Type="ISIN">GB00B1VN4809</IssueID>
+			<IssueID Type="RIC">VGAS.L</IssueID>
+			<IssueID Type="SEDOL">B1VN480</IssueID>
+			<IssueID Type="DisplayRIC">VGAS.L</IssueID>
+			<IssueID Type="InstrumentPI">32580454</IssueID>
+			<IssueID Type="QuotePI">32945663</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-30</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">164</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="72775590.0">81017800.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T01:02:13">Volga Gas plc is a United Kingdom-based independent oil and gas exploration and production company. The principal activities of the Company and its subsidiaries are the acquisition, exploration and development of hydrocarbon assets and production of hydrocarbons in the Volga Region of the Russian Federation. The Company has 100% interests in four oil and gas exploration and production licenses in the Saratov and Volgograd regions: Karpenskiy, Vostochny-Makarovskoye (VM), Dobrinskoye and Urozhainoye-2. The production from VM and Dobrinskoye fields is processed at the gas plant, extracting the condensate and processing the gas to pipeline standards before input into Gazprom's regional pipeline system through an inlet located at the plant. The Company's subsidiaries include Woodhurst Holdings Ltd., Pre-Caspian Gas Company, Gaznefteservice, Shropak Investments Ltd, Volga Gas (Cyprus) Ltd., Gazservice and Volga Gas Finance Ltd.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-30T07:36:54">BRIEF: For the six months ended 30 June 2015, Volga Gas plc revenues decreased 66% to $7.9M. Net loss totaled $1.6M vs. income of $6.2M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net loss reflects Mineral Extraction Tax refund increase from $0K to $384K (expense). Basic Earnings per Share excluding Extraordinary Items decreased from $0.08 to -$0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-09-30T07:36:56">
+		<streetAddress line="1">3rd Floor,Regal House, 70 London Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>TWICKENHAM</city>
+		<state-region></state-region>
+		<postalCode>TW1 3QS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Billy Clegg</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>86224451</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>86224452</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>207</city-areacode>
+				<number>8313113</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-05-30T11:49:43"><webSite mainCategory="Home Page">http://www.volgagas.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-09-30T07:36:56">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="211112" mnem="">Natural Gas Liquid Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1321" mnem="">Natural Gas Liquids</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/12/2009">
+			<firstName>Antonio</firstName>
+			<mI>Maria</mI>
+			<lastName>Alves</lastName>
+			<age>56 </age>
+			<title startYear="2009" startMonth="01" startDay="12" iD1="CFO" abbr1="CFO" iD2="SEC" abbr2="Secy.">Chief Financial Officer, Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.32500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.76500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.25500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01035</Ratio>
+			<Ratio FieldName="EV" Type="N">15.18652</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">26.33079</Ratio>
+			<Ratio FieldName="AREV" Type="N">27.86457</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">12.32323</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">9.22952</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11392</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.34393</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.66114</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.13755</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.15477</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03534</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">42.89121</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">13.70911</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.94496</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">2.85297</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.49157</Ratio>
+			<Ratio FieldName="Employees" Type="N">164</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.51039</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-41.82754</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">13.42939</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00777</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-0.63613</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

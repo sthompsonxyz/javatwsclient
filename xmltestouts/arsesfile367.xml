@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D0F18</CoID>
+		<CoID Type="CompanyName">Microsaic Systems PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MSYS</IssueID>
+			<IssueID Type="CUSIP">G60838102</IssueID>
+			<IssueID Type="ISIN">GB00B547ZY09</IssueID>
+			<IssueID Type="RIC">MSYS.L</IssueID>
+			<IssueID Type="SEDOL">B547ZY0</IssueID>
+			<IssueID Type="DisplayRIC">MSYS.L</IssueID>
+			<IssueID Type="InstrumentPI">84309053</IssueID>
+			<IssueID Type="QuotePI">84898837</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">39</Employees>
+		<SharesOut Date="2015-10-20" TotalFloat="51672767.0">73365146.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:33:59">Microsaic Systems plc is a technology company. The Company is engaged in the research, development and commercialization of scientific instruments for the analysis of gaseous, liquid and solid samples. The Company develops micro-engineered analytical instruments that are based on the scientific technique of mass spectrometry (MS). It has miniaturized mass spectrometry by integrating the MS components onto chip technologies called ionchip, spraychip and vac-chip. It caters to various sectors, including Government, energy, utilities, pharmaceutical, diagnostics and healthcare, environmental, food and drink, security and defense, and industrial chemicals.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-08T15:36:15">BRIEF: For the six months ended 30 June 2015, Microsaic Systems PLC revenues decreased 52% to L291K. Net loss increased 19% to L1.7M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Operating expenses increase of 11% to L2M (expense). Basic Earnings per Share excluding Extraordinary Items remained flat at -L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-22T02:47:41">
+		<streetAddress line="1">GMS House Boundary Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>WOKING</city>
+		<state-region></state-region>
+		<postalCode>GU21 5BX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Colin Jump</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1483</city-areacode>
+				<number>751577</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1483</city-areacode>
+				<number>757901</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1483</city-areacode>
+				<number>751577</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-24T01:34:27"><webSite mainCategory="Home Page">http://www.microsaic.com</webSite><eMail mainCategory="Company Contact/E-mail">info@microsaic.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-22T02:47:41">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710501014" mnem="">Scientific &amp; Precision Equipment</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334516" mnem="">Analytical Laboratory Instrument Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="334513" mnem="">Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3826" mnem="">Analytical Instruments</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3823" mnem="">Process Control Instruments</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/02/2015">
+			<firstName>James</firstName>
+			<mI>C.</mI>
+			<lastName>Ramage</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="02" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="12/21/2015">
+			<firstName>Bevan</firstName>
+			<mI>John</mI>
+			<lastName>Metcalf</lastName>
+			<age>57 </age>
+			<title startYear="2015" startMonth="12" startDay="21" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Finance Director, Director</title>
+		</officer>
+		<officer rank="3" since="03/2015">
+			<firstName>Glenn</firstName>
+			<mI></mI>
+			<lastName>Tracey</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="02" iD1="COO" abbr1="COO" iD2="DRC" abbr2="Dir.">Chief Operating Officer, Director</title>
+		</officer>
+		<officer rank="4" since="2004">
+			<firstName>Andrew</firstName>
+			<mI>S.</mI>
+			<lastName>Holmes</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="NID" abbr2="Non Ex.Ind.Dir.">Company Secretary, Non-Executive Independent Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.22000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.50788</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.20000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01588</Ratio>
+			<Ratio FieldName="EV" Type="N">11.59178</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">16.14033</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.20364</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.99305</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.00412</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.05465</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.02190</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.07603</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07191</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.05154</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">41.82812</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-71.71192</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">13.40960</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.89360</Ratio>
+			<Ratio FieldName="Employees" Type="N">39</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

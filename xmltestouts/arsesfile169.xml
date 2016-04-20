@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AB93D</CoID>
+		<CoID Type="CompanyName">Dolphin Capital Investors Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DCI</IssueID>
+			<IssueID Type="CUSIP">G2803G102</IssueID>
+			<IssueID Type="ISIN">VGG2803G1028</IssueID>
+			<IssueID Type="RIC">DOLC.L</IssueID>
+			<IssueID Type="SEDOL">B06GJ37</IssueID>
+			<IssueID Type="DisplayRIC">DOLC.L</IssueID>
+			<IssueID Type="InstrumentPI">23438041</IssueID>
+			<IssueID Type="QuotePI">23659982</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-28</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">366</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="816404610.0">904626856.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:17:30">Dolphin Capital Investors Limited is a global investor and developer in residential resorts. The Company owns seafront sites in the eastern Mediterranean, Caribbean and Latin America. The Company owns 58 million square meters of land under development. The Company's core projects comprise five leisure-integrated residential resorts; four hotels and two golf courses. Its portfolio includes Amanzoe, Playa Grande Club &amp; Reserve in Dominican Republic; Pearl Island in Archipelago de las Perlas, Panama; Kilada Hills Golf Resort in Peloponnese, Greece, and Kea Resort in Tzia, Greece. The Company's non-core assets consist of Nikki Beach Resort &amp; Spa in Peloponnese, Greece; Sitia Bay Golf Resort in Crete, Greece; Scorpio Bay Resort in Viotia, Greece; Lavender Bay Resort in Magnesia, Greece; Plaka Bay Resort in Crete, Greece, and Triopetra in Crete, Greece. Amanzoe consist of 38 pavilions; four beach cabanas; private beach club; 47 villas planned, 13 villas sold/reserved and four delivered.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-28T06:57:53">BRIEF: For the six months ended 30 June 2015, Dolphin Capital Investors Limited revenues decreased 42% to EUR5M. Net loss totaled EUR36.1M vs. income of EUR30.4M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net loss reflects Gain on Disposal of Investment decrease from EUR42.9M (income) to EUR7.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-31T06:01:42">
+		<streetAddress line="1">Vanterpool Plaza</streetAddress>
+		<streetAddress line="2">2nd Floor, Wickams Cay 1, Road Town</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>TORTOLA</city>
+		<state-region></state-region>
+		<postalCode></postalCode>
+		<country code="VGB">Virgin Islands (British)</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-06-18T11:03:59"><webSite mainCategory="Home Page">http://www.dolphinci.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-31T06:01:42">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540201012" mnem="">Retail  Real Estate Development</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1531" mnem="">Operative Builders</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.11500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.28400</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.11000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.34455</Ratio>
+			<Ratio FieldName="EV" Type="N">232.52974</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">104.03210</Ratio>
+			<Ratio FieldName="AREV" Type="N">22.07442</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-18.86905</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">16.86384</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02625</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.03436</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.67622</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10105</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.03342</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">17.10503</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.00307</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.71279</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">4.38133</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.17006</Ratio>
+			<Ratio FieldName="Employees" Type="N">366</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.34000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-1.36256</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">28.13190</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.08440</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

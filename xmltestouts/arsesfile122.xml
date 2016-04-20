@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E6A0D</CoID>
+		<CoID Type="CompanyName">Coca Cola HBC AG</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CCH</IssueID>
+			<IssueID Type="CUSIP">H1512E100</IssueID>
+			<IssueID Type="ISIN">CH0198251305</IssueID>
+			<IssueID Type="RIC">CCH.L</IssueID>
+			<IssueID Type="SEDOL">B9895B7</IssueID>
+			<IssueID Type="DisplayRIC">CCH.L</IssueID>
+			<IssueID Type="InstrumentPI">131634271</IssueID>
+			<IssueID Type="QuotePI">131644608</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-19</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-02</LatestAvailableInterim>
+		<Employees LastUpdated="2015-07-03">33670</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="179712506.0">361696237.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-02T02:03:45">Coca-Cola HBC AG is a Switzerland-based company engaged in the production, sales and distribution of non-alcoholic ready to drink beverages, under franchise from The Coca-Cola Company. The Company distributes its products in approximately 27 countries in Europe and Nigeria. It is a bottler of the brands of The Coca-Cola Company. The Company produces, sells and distributes Coca-Cola, a beverage brand, and a brand of non-alcoholic ready-to-drink beverages. The other brands licensed to the Company by The Coca-Cola Company include Coca-Cola Light, Sprite and Fanta. Its product portfolio also consists of Coca-Cola Light (diet Coke), Coca-Cola Zero, Fanta and Sprite; water and juice brands that the Company owns, manufactures and distributes, including Amita, Avra, Deep RiverRock and Fruice, and iced tea and sports and energy brands licensed by other companies, such as Nestea and Monster.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-19T23:17:04">BRIEF: For the six months ended 03 July 2015, Coca Cola HBC AG revenues totaled EUR3.15B. Net income totaled to EUR125.2M. Results are not comparable due to year end change.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-19T23:17:05">
+		<streetAddress line="1">Turmstrasse 26</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ZUG</city>
+		<state-region>ZUG</state-region>
+		<postalCode>6300</postalCode>
+		<country code="CHE">Switzerland</country>
+		<contactName>Basak Kotler</contactName>
+		<contactTitle>Director - Investor Relations</contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-31T12:27:34"><webSite mainCategory="Home Page">http://www.coca-colahellenic.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@cchellenic.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-19T23:17:05">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410103010" mnem="">Non-Alcoholic Beverages - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="312111" mnem="">Soft Drink Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42249" mnem="">Other Grocery and Related Products Wholesalers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="312112" mnem="">Bottled Water Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="31212" mnem="">Breweries</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2086" mnem="">Bottled And Canned Soft Drinks</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5149" mnem="">Groceries/related Products, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2082" mnem="">Malt Beverages</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/2011">
+			<firstName>Dimitrios</firstName>
+			<mI>P.</mI>
+			<lastName>Lois</lastName>
+			<age>52 </age>
+			<title startYear="2013" startMonth="04" startDay="25" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/2012">
+			<firstName>Michalis</firstName>
+			<mI></mI>
+			<lastName>Imellos</lastName>
+			<age>46 </age>
+			<title startYear="2012" startMonth="04" startDay="" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Jan</firstName>
+			<mI></mI>
+			<lastName>Gustavsson</lastName>
+			<age>49 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary and Director of Strategic Development</title>
+		</officer>
+		<officer rank="4" since="06/2013">
+			<firstName>John</firstName>
+			<mI>Earl</mI>
+			<lastName>Brady</lastName>
+			<age>57 </age>
+			<title startYear="2013" startMonth="06" startDay="" iD1="DSL" abbr1="Dir.-Sales" iD2="" abbr2="">Group Chief Customer and Commercial Officer</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>June</firstName>
+			<mI></mI>
+			<lastName>Hirst</lastName>
+			<age>53 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Human Resources Director</title>
+		</officer>
+		<officer rank="6" since="06/01/2013">
+			<firstName>Zoran</firstName>
+			<mI></mI>
+			<lastName>Bogdanovic</lastName>
+			<age>43 </age>
+			<title startYear="2013" startMonth="06" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Region Director</title>
+		</officer>
+		<officer rank="7" since="06/2013">
+			<firstName>Alain</firstName>
+			<mI></mI>
+			<lastName>Brouhard</lastName>
+			<age>52 </age>
+			<title startYear="2013" startMonth="06" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Water and Juice Business Director</title>
+		</officer>
+		<officer rank="8" since="01/2015">
+			<firstName>Marcel</firstName>
+			<mI></mI>
+			<lastName>Martin</lastName>
+			<age>56 </age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Supply Chain Director</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Keith</firstName>
+			<mI></mI>
+			<lastName>Sanders</lastName>
+			<age>54 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Region Director</title>
+		</officer>
+		<officer rank="10" since="07/01/2014">
+			<firstName>Sotiris</firstName>
+			<mI></mI>
+			<lastName>Yannopoulos</lastName>
+			<age>47 </age>
+			<title startYear="2014" startMonth="07" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Region Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">14.58000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">16.38000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">10.86000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.45928</Ratio>
+			<Ratio FieldName="EV" Type="N">6322.11470</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">5273.53100</Ratio>
+			<Ratio FieldName="AREV" Type="N">5073.57000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">585.50790</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">229.74540</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.62841</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">13.87738</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.96086</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.36092</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.34506</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.28056</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">35.60106</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.25534</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.03941</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">23.20142</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.44596</Ratio>
+			<Ratio FieldName="Employees" Type="N">33670</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.3125</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">14.31021</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">7.7148</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">20.67000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4938.85409</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.70537</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">334.05980</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.32171</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

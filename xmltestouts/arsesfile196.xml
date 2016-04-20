@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF637</CoID>
+		<CoID Type="CompanyName">European Real Estate Investment Trst Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="Ticker">ERET</IssueID>
+			<IssueID Type="CUSIP">G31669115</IssueID>
+			<IssueID Type="ISIN">GG00BYXZ6909</IssueID>
+			<IssueID Type="RIC">ERET_p.L</IssueID>
+			<IssueID Type="SEDOL">BYXZ690</IssueID>
+			<IssueID Type="DisplayRIC">ERET_p.L</IssueID>
+			<IssueID Type="InstrumentPI">26234754</IssueID>
+			<IssueID Type="QuotePI">33988855</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-07-11">0.894</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-21</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="15886875.0">27513901.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:32:20">European Real Estate Investment Trust Limited (EREIT) is a closed-ended real estate investment company. The Company's objective is to maximize returns to shareholders through the orderly disposal of assets. EREIT owns three investments, including a total of five properties in Germany, France and Spain. The Company's properties portfolio includes retail, office and industrial assets. The Company's tenants include Peek &amp; Cloppenberg and Hennes &amp; Mauritz for retail in Kaiserslautern, Germany; IBM for office in Nice, France, and Panrico for industrial in Valladolid, Madrid, Cordoba and Murcia, Spain. The Company's investment manager is Schroder Property Investment Management Limited (Schroder REIM), a wholly owned subsidiary of Schroders Plc., a global asset management company.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-07T11:28:09">BRIEF: For the six months ended 30 June 2015, European Real Estate Investment Trst Ltd revenues decreased 28% to L2.2M. Net income totaled L307K vs. loss of L3.5M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net Income reflects Net deficit on revaluation of investment decrease of 92% to L322K (expense), Administrative Expenses decrease of 50% to L819K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-21T17:04:53">
+		<streetAddress line="1">Sarnia House, Le Truchot</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 4NA</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName>Duncan Owen</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>737600</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>207</city-areacode>
+				<number>6584954</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-10-16T11:20:10"><webSite mainCategory="Home Page">http://www.ereit.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">duncan.owen@schroders.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-21T17:04:53">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540302010" mnem="">Commercial REITs - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/30/2014">
+			<firstName>Stephen</firstName>
+			<mI>Charles</mI>
+			<lastName>Coe</lastName>
+			<age>49 </age>
+			<title startYear="2014" startMonth="06" startDay="30" iD1="CHM" abbr1="Chmn." iD2="NID" abbr2="Non Ex.Ind.Dir.">Non-Executive Independent Chairman of the Board</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.38000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.46878</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.92281</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01210</Ratio>
+			<Ratio FieldName="EV" Type="N">23.31618</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">37.96918</Ratio>
+			<Ratio FieldName="AREV" Type="N">5.71400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.38800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-2.96100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.10515</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.20292</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.92765</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.52540</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">72.19111</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-4.88908</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.64494</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.71590</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

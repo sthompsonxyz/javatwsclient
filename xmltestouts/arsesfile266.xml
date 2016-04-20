@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EDEC7</CoID>
+		<CoID Type="CompanyName">Hurricane Energy PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HUR</IssueID>
+			<IssueID Type="CUSIP">G4708G120</IssueID>
+			<IssueID Type="ISIN">GB00B580MF54</IssueID>
+			<IssueID Type="RIC">HUR.L</IssueID>
+			<IssueID Type="SEDOL">B580MF5</IssueID>
+			<IssueID Type="DisplayRIC">HUR.L</IssueID>
+			<IssueID Type="InstrumentPI">152048577</IssueID>
+			<IssueID Type="QuotePI">152095144</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-24</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">17</Employees>
+		<SharesOut Date="2016-01-28" TotalFloat="461896298.0">634129509.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:05:20">Hurricane Energy plc is an oil and gas exploration company. The Company's acreage is on the United Kingdom Continental Shelf, West of Shetland on which the Company has two basement reservoir discoveries, each containing approximately 200 million barrels of oil equivalent (MMboe). The Company also has approximately 440 MMboe of P50 Prospective Resources in its portfolio of exploration opportunities. The Company's Lancaster discovery is located in blocks 205/21a, 205/22a and 205/26b. The Whirlwind discovery is located across blocks 205/21a and 205/22a in the West of Shetland, about 10 kilometers to the north of its Lancaster discovery. The Lincoln Basement prospect is located in Block 205/26b, the Lincoln basement prospect is geologically similar to the nearby Lancaster structure. The Typhoon prospect is located in blocks 204//22a, 204/23c 204/27a and 204/28a, around 30 kilometers to the west of Lancaster. The Strathmore Prospect is located 20 kilometers to the southwest of Lancaster.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-24T09:56:48">BRIEF: For the six months ended 30 June 2015, Hurricane Energy PLC revenues was not reported. Net loss decreased 56% to L3.2M. Lower net loss reflects Operating expenses decrease of 37% to L3.1M (expense), Foreign exchange (losses)/gains decrease of 97% to L55K (expense), Finance costs decrease of 88% to L68K (expense). Basic Earnings per Share excluding Extraordinary Items remained flat at -L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T04:29:24">
+		<streetAddress line="1">The Wharf, GROUND FLOOR, Lower Eashing</streetAddress>
+		<streetAddress line="2">Abbey Mill Business Park</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>GODALMING</city>
+		<state-region></state-region>
+		<postalCode>GU7 2QN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1483</city-areacode>
+				<number>862820</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1483</city-areacode>
+				<number>862859</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-11T10:27:14"><webSite mainCategory="Home Page">http://www.hurricaneenergy.com</webSite><eMail mainCategory="Company Contact/E-mail">communications@hurricaneenergy.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T04:29:24">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Robert</firstName>
+			<mI>Clive</mI>
+			<lastName>Trice</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Neil</firstName>
+			<mI></mI>
+			<lastName>Platt</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operations Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.10250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.19000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.08846</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.15963</Ratio>
+			<Ratio FieldName="EV" Type="N">51.52827</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">64.99827</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-8.48900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-9.00600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01449</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.29464</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02130</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01434</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-5.66011</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.34788</Ratio>
+			<Ratio FieldName="Employees" Type="N">17</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.33500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-37.96296</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-6.04530</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

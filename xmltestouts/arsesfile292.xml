@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A30B1</CoID>
+		<CoID Type="CompanyName">IQE plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">IQE</IssueID>
+			<IssueID Type="CUSIP">G49356119</IssueID>
+			<IssueID Type="ISIN">GB0009619924</IssueID>
+			<IssueID Type="RIC">IQE.L</IssueID>
+			<IssueID Type="SEDOL">0961992</IssueID>
+			<IssueID Type="DisplayRIC">IQE.L</IssueID>
+			<IssueID Type="InstrumentPI">461916</IssueID>
+			<IssueID Type="QuotePI">1082719</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2003-10-08">1.02409</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-16</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">581</Employees>
+		<SharesOut Date="2015-03-31" TotalFloat="563659145.0">660921472.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:48:32">IQE plc is a United Kingdom-based holding company. The Company is engaged in the research, development and provision of engineering consultancy services to the compound semiconductor industry. It is engaged in the sale of advanced semiconductor materials. Its operating segments are wireless, photonics and electronics. Its finished products are compound semiconductor wafers. It operates in the United States, Asia and Europe. Its products include heterojunction bipolar transistor (HBT), edge emitting lasers, vertical-cavity surface-emitting laser (VCSELs), distributed feedback laser (DFB) lasers, detectors, multi junction concentrating photovoltaics (CPV), metal-semiconductor field effect transistors (MESFETs) and quantum well infrared photodetector (QWIPs), among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-16T00:50:57">BRIEF: For the six months ended 30 June 2015, IQE plc revenues increased 2% to L53.2M. Net income totaled L4.4M vs. loss of L5.9M. Revenues reflect Photonics segment increase of 28% to L7.4M, InfraRed segment increase of 6% to L4.6M, CMOS++ segment increase of 36% to L822K. Net Income reflects Wireless segment income totaling L3.7M vs. loss of L1.9M, Photonics segment income increase from L520K to L1.5M, InfraRed segment income increase of 6% to L569K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-26T02:21:00">
+		<streetAddress line="1">Pascal Close,St. Mellons</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CARDIFF</city>
+		<state-region></state-region>
+		<postalCode>CF3 0LW</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>29</city-areacode>
+				<number>20839400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>29</city-areacode>
+				<number>20794592</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-15T09:15:28"><webSite mainCategory="Home Page">http://www.iqep.com</webSite><eMail mainCategory="Company Contact/E-mail">info@iqesilicon.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-26T02:21:00">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710101011" mnem="">Integrated Circuits</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334413" mnem="">Semiconductor and Related Device Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3674" mnem="">Semiconductors/related Devices</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/1999">
+			<firstName>Andrew</firstName>
+			<mI>W.</mI>
+			<lastName>Nelson</lastName>
+			<age>60 </age>
+			<title startYear="2002" startMonth="02" startDay="" iD1="CEO" abbr1="CEO" iD2="PRE" abbr2="Pres.">President, Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/12/2007">
+			<firstName>Phillip</firstName>
+			<mI>J.</mI>
+			<lastName>Rasmussen</lastName>
+			<age>44 </age>
+			<title startYear="2009" startMonth="01" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2004">
+			<firstName>Howard</firstName>
+			<mI>R.</mI>
+			<lastName>Williams</lastName>
+			<age>59 </age>
+			<title startYear="2004" startMonth="12" startDay="10" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Director - Operations, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.18250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.27000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.15780</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.28799</Ratio>
+			<Ratio FieldName="EV" Type="N">152.72380</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">121.47280</Ratio>
+			<Ratio FieldName="AREV" Type="N">112.01100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">25.53600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.63200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00241</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.16571</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.18030</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00846</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01847</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">23.20843</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">1.42189</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.08447</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">75.72614</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.01221</Ratio>
+			<Ratio FieldName="Employees" Type="N">581</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.33333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.22772</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">117.47580</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02525</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">17.32500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

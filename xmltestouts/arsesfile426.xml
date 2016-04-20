@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF31E</CoID>
+		<CoID Type="CompanyName">Pro Global Insurance Solutions PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PROG</IssueID>
+			<IssueID Type="CUSIP">G7255B105</IssueID>
+			<IssueID Type="ISIN">GB00B1Z5KB73</IssueID>
+			<IssueID Type="RIC">PROG.L</IssueID>
+			<IssueID Type="SEDOL">B1Z5KB7</IssueID>
+			<IssueID Type="DisplayRIC">PROG.L</IssueID>
+			<IssueID Type="InstrumentPI">35346446</IssueID>
+			<IssueID Type="QuotePI">35895549</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-11</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">366</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="13871815.0">113375177.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T03:58:11">Pro Global Insurance Solutions plc, formerly Tawa plc, is a provider of specialized services to clients across the insurance market. The Company is organized into two distinct business segments. The Outsourcing business segment consists of legacy solutions and technical outsourcing services provided to insurance and reinsurance industry clients in both the live and runoff markets. These services include risk portfolio management, exit solutions, asset collection, and underwriting support, claims and TPA services, technical accounting, intermediary services. The Consulting business segment consists of operational consulting and Risk, Audit and Compliance (RAC) also exclusively within the insurance and reinsurance industry. These services include project management, change management, process improvement, system transformation, and Risk framework, claims peer reviews, regulatory compliance, cover holder audits and litigation support.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-07T02:34:12">BRIEF: For the six months ended 30 June 2015, Pro Global Insurance Solutions PLC revenues increased 5% to L12.5M. Net income before extraordinary items totaled L377K vs. loss of L1.2M. Revenues reflect Revenue increase of 7% to L12.3M. Net Income reflects Expenses decrease of 7% to L12.5M (expense), Finance costs decrease of 11% to L266K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-13T00:55:01">
+		<streetAddress line="1">Floor 6 Walsingham House</streetAddress>
+		<streetAddress line="2">35 Seething Lane</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC3N 4AH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70688000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70688001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-20T22:54:22"><webSite mainCategory="Home Page">http://www.pro-global.com/uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-13T00:55:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5530103012" mnem="">Health Insurance</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="524114" mnem="">Direct Health and Medical Insurance Carriers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="524126" mnem="">Direct Property and Casualty Insurance Carriers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="524113" mnem="">Direct Life Insurance Carriers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="524298" mnem="">All Other Insurance Related Activities</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6324" mnem="">Hospital/medical Service Plans</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6331" mnem="">Fire/marine/casualty Insurance</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6311" mnem="">Life Insurance</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6411" mnem="">Insurance Agents/brokers/service</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/01/2014">
+			<firstName>Artur</firstName>
+			<mI></mI>
+			<lastName>Niemczewski</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="04" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/2015">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Donnelly</lastName>
+			<age>48 </age>
+			<title startYear="2016" startMonth="01" startDay="12" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="09/01/2014">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Dalzell</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="01" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.14000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.24950</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.04100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00100</Ratio>
+			<Ratio FieldName="EV" Type="N">20.57252</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">15.87252</Ratio>
+			<Ratio FieldName="AREV" Type="N">26.20000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.80000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00773</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.22489</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.06980</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06891</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00258</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-2.60116</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.60582</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.00580</Ratio>
+			<Ratio FieldName="Employees" Type="N">366</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2013" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

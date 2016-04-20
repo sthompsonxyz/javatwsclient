@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA85F</CoID>
+		<CoID Type="CompanyName">Regenersis PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RGS</IssueID>
+			<IssueID Type="CUSIP">G3651P103</IssueID>
+			<IssueID Type="ISIN">GB00B06GNN57</IssueID>
+			<IssueID Type="RIC">RGS.L</IssueID>
+			<IssueID Type="SEDOL">B06GNN5</IssueID>
+			<IssueID Type="DisplayRIC">RGS.L</IssueID>
+			<IssueID Type="InstrumentPI">19934661</IssueID>
+			<IssueID Type="QuotePI">20125651</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-23</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">4249</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="75365822.0">79022599.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-30T10:05:07">Regenersis Plc is a provider of diagnostics, repair and data erasure services to the consumer electronics industry. The Company offers a full cycle refurbishment service, device diagnostics, protection and repair, and onward disposition. The Company's operating divisions include Depot Solutions, Advanced Solutions and Software. The Depot Solutions division provides the Company's geographic infrastructure and repair service, and includes the operations in Germany, Poland, Romania, Turkey, South Africa, Spain, Argentina, Mexico and Czech Republic. The Software and Advanced Solutions division comprises of two segments. The Advanced Solutions segment includes the set top box activities in Glenrothes, the set top box diagnostics business, including the In Field Tester business and other remote diagnostics capabilities, and the Digital Care Insurance. The Software segment includes the Blancco business and the Xcaliber smartphone diagnostic business, which is focused on product development.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-23T15:41:14">BRIEF: For the fiscal year ended 30 June 2015, Regenersis PLC revenues increased 3% to L202.6M. Net income increased 82% to L5.4M. Revenues reflect Depot Solutions segment increase of 2% to L154.3M, Software and advanced solutions segment increase of 4% to L48.3M, Other Foreign segment increase of 54% to L55.3M, Poland segment increase of 14% to L51.2M, Germany segment increase of 15% to L31.5M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-30T09:05:07">
+		<streetAddress line="1">32 Wigmore Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1U 2RP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>36577000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>36577019</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-11-04T07:56:55"><webSite mainCategory="Home Page">http://www.regenersis.com</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@regenersis.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-30T09:05:07">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541614" mnem="">Process, Physical, Distribution and Logistics Consulting Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="811212" mnem="">Computer and Office Machine Repair and Maintenance</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7378" mnem="">Computer Maintenance &amp; Repair</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/08/2011">
+			<firstName>Matthew</firstName>
+			<mI>Roy</mI>
+			<lastName>Peacock</lastName>
+			<age>51 </age>
+			<title startYear="2011" startMonth="03" startDay="08" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="03/07/2012">
+			<firstName>Jog</firstName>
+			<mI></mI>
+			<lastName>Dhody</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="03" startDay="07" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="10/01/2015">
+			<firstName>Patrick</firstName>
+			<mI>J.</mI>
+			<lastName>Clawson</lastName>
+			<age>49 </age>
+			<title startYear="2015" startMonth="10" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer - Digital Security Software, Executive Director</title>
+		</officer>
+		<officer rank="4" since="10/01/2015">
+			<firstName>Ian</firstName>
+			<mI>Donald</mI>
+			<lastName>Powell</lastName>
+			<age>52 </age>
+			<title startYear="2015" startMonth="10" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer - Aftermarket Services, Executive Director</title>
+		</officer>
+		<officer rank="5" since="2013">
+			<firstName>Thomas</firstName>
+			<mI>Alexander</mI>
+			<lastName>Russell</lastName>
+			<age>35 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.93500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.43750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.35000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.11289</Ratio>
+			<Ratio FieldName="EV" Type="N">145.12270</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">152.90870</Ratio>
+			<Ratio FieldName="AREV" Type="N">202.56400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">17.72900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">5.40400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.06967</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.61161</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.54928</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.15366</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.14531</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">26.46225</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.28428</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.75487</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">27.77379</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.24897</Ratio>
+			<Ratio FieldName="Employees" Type="N">4249</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.47333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.71757</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">210.76000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.14106</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">12.32980</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04900</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

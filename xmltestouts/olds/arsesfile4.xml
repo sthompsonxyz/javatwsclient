@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A60C3</CoID>
+		<CoID Type="CompanyName">Albion Development VCT PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AADV</IssueID>
+			<IssueID Type="CUSIP">G0220T111</IssueID>
+			<IssueID Type="ISIN">GB0004832472</IssueID>
+			<IssueID Type="RIC">AADV.L</IssueID>
+			<IssueID Type="SEDOL">0483247</IssueID>
+			<IssueID Type="DisplayRIC">AADV.L</IssueID>
+			<IssueID Type="InstrumentPI">365302</IssueID>
+			<IssueID Type="QuotePI">1154016</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares Class C</IssueID>
+			<IssueID Type="Ticker">CBDC</IssueID>
+			<IssueID Type="CUSIP">G2211M113</IssueID>
+			<IssueID Type="ISIN">GB0032042185</IssueID>
+			<IssueID Type="RIC">CBDc.L^D07</IssueID>
+			<IssueID Type="SEDOL">3204218</IssueID>
+			<IssueID Type="InstrumentPI">9926618</IssueID>
+			<IssueID Type="QuotePI">9926526</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares Series D</IssueID>
+			<IssueID Type="InstrumentPI">70489874</IssueID>
+			<Exchange Code="LSS" Country="GBR">London Stock Exchange (SETS)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-27</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="39233457.0">45896301.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:39:16">Albion Development VCT PLC is a venture capital trust. The Company's investment policy is intended to provide investors with a regular and predictable source of dividend income combined with the prospects of long term capital growth. This is achieved by establishing a diversified portfolio of holdings in smaller, unquoted companies whilst at the same time selecting and structuring investments in such a way as to manage and mitigate the risks normally associated with investment in such companies. Albion Ventures LLP is the manager of Albion Development VCT PLC. The Company invests in various sectors, including information technology (IT)/software; healthcare; travel and retail; education; pubs and leisure; health and fitness club, and support services, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-27T09:57:49">BRIEF: For the six months ended 30 June 2015, Albion Development VCT PLC revenues increased 82% to L2.2M. Net income increased from L767K to L1.7M. Revenues reflect Unrealised gains sub-total increase from L722K to L1.5M, Realised gains sub-total increase from L0K to L55K, UK Dividend Income increase of 97% to L61K. Dividend per share remained flat at L0.03. Basic Earnings per Share excluding Extraordinary Items increased from L0.02 to L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-12T05:39:16">
+		<streetAddress line="1">1 King's Arms Yard</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2R 7AF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76011850</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-09T07:37:16"><webSite mainCategory="Home Page">http://www.albion-ventures.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">info@albion-ventures.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-12T05:39:16">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.68000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.70890</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.66000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00501</Ratio>
+			<Ratio FieldName="EV" Type="N">35.54069</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">40.18569</Ratio>
+			<Ratio FieldName="AREV" Type="N">2.96800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.01600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.92700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.04518</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.06959</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.78412</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10577</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">74.76415</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">5.80098</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">13.53965</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">15.05091</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.86722</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

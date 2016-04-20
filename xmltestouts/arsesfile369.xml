@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5B32</CoID>
+		<CoID Type="CompanyName">Montanaro European Smaller Co.s Trust</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">MTE</IssueID>
+			<IssueID Type="CUSIP">G49699104</IssueID>
+			<IssueID Type="ISIN">GB0004543517</IssueID>
+			<IssueID Type="RIC">MONT.L</IssueID>
+			<IssueID Type="SEDOL">0454351</IssueID>
+			<IssueID Type="DisplayRIC">MONT.L</IssueID>
+			<IssueID Type="InstrumentPI">261153</IssueID>
+			<IssueID Type="QuotePI">1080043</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-18</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">0</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="14227804.0">16733260.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:08:22">Montanaro European Smaller Companies Trust plc is a United Kingdom-based investment trust. The investment objective of the Company is to achieve capital growth by investing principally in Continental European quoted smaller companies. The Company invests principally in quoted smaller companies within the European Union, Norway and Switzerland. In addition, the Company may invest in Companies listed on non-European stock exchanges that derive revenues or profits from Europe; European securities, such as global depositary receipts, listed on other international stock exchanges, and debt issued by European Governments or denominated in European currencies. The Company may also invest, where appropriate, in open-ended collective investment schemes and closed-ended funds that invest in Europe. Montanaro Asset Management Limited is the investment manager of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-18T21:33:05">BRIEF: For the six months ended 30 September 2015, Montanaro European Smaller Co.s Trust revenues increased from -L9.8M to L1.7M. Net income totaled L601K vs. loss of L10.8M. Revenues reflect Losses on investments held at fair value increase of 99% to -L88K, Investment income increase of 2% to L2M. Net Income reflects Other Expenses decrease of 9% to L248K (expense). Dividend per share remained flat at L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T21:33:10">
+		<streetAddress line="1">53 Threadneedle Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2R 8AR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74488600</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74488601</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-13T09:37:15"><webSite mainCategory="Home Page">http://www.montanaro.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@montanaro.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T21:33:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.34250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.90000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.58025</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01237</Ratio>
+			<Ratio FieldName="EV" Type="N">96.29844</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">89.39744</Ratio>
+			<Ratio FieldName="AREV" Type="N">-0.48300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.21600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-2.25600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.13553</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.02902</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.72220</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.23163</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.07500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-2.32058</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.93364</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2013" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

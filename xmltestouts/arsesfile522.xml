@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AAB62</CoID>
+		<CoID Type="CompanyName">Telit Communications Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TCM</IssueID>
+			<IssueID Type="CUSIP">G87535103</IssueID>
+			<IssueID Type="ISIN">GB00B06GM726</IssueID>
+			<IssueID Type="RIC">TELT.L</IssueID>
+			<IssueID Type="SEDOL">B06GM72</IssueID>
+			<IssueID Type="DisplayRIC">TELT.L</IssueID>
+			<IssueID Type="InstrumentPI">19945048</IssueID>
+			<IssueID Type="QuotePI">20151406</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">814</Employees>
+		<SharesOut Date="2016-01-31" TotalFloat="81805305.0">114810974.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-21T09:32:52">Telit Communications PLC (Telit) is a United Kingdom-based is a global of machine-to-machine (M2M) communications providing cellular, short range and positioning modules via its brand Telit Wireless Solutions. Through its business unit m2mAIR, Telit provides PaaS (platform as a service), including M2M managed and value added services, application enablement and connectivity, including mobile network side and cloud backend services. Telit is M2M's top ONE STOP. ONE SHOP offering hardware and services bundles along with PaaS for rapid application development. The Company markets its cellular, short-range and positioning products in over 80 countries. The Company is involved in the asset tracking, healthcare, security, point of sale, wearables, telemetry, industry and energy and smart metering verticals, among others. Two solution Business Units integrate the Company: Telit Automotive Solutions and Telit GNSS Solutions.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-11T04:13:34">BRIEF: For the six months ended 30 June 2015, Telit Communications Plc revenues increased 13% to $156.3M. Net income increased 16% to $7.4M. Revenues reflect Asia Pacific segment increase from $14.2M to $33M, Europe/EMEA segment increase of 1% to $58.5M. Net income benefited from Research and development expenses decrease of 2% to $12.8M (expense). Basic Earnings per Share excluding Extraordinary Items remained flat at $0.06.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-13T02:06:51">
+		<streetAddress line="1">7th Floor, 90 High Holborn</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC1V 6XX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Gila Grauer</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>972</city-areacode>
+				<number>37914012</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-22T17:53:29"><webSite mainCategory="Home Page">http://www.telit.com</webSite><eMail mainCategory="Company Contact/E-mail">gila.grauer@telit.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-13T02:06:51">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710201011" mnem="">Network Equipment</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="33421" mnem="">Telephone Apparatus Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="513322" mnem="">Cellular and Other Wireless Telecommunications</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="51333" mnem="">Telecommunications Resellers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="33422" mnem="">Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3661" mnem="">Telephone And Telegraph Apparatus</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4812" mnem="">Radiotelephone Communications</Industry>
+			<Industry type="SIC" order="3" reported="0" code="4813" mnem="">Telephon Communications Not Radio</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3663" mnem="">Radio/tv Communications Equip</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/04/2007">
+			<firstName>Enrico</firstName>
+			<mI></mI>
+			<lastName>Testa</lastName>
+			<age>63 </age>
+			<title startYear="2007" startMonth="05" startDay="04" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="06/21/2011">
+			<firstName>Yosi</firstName>
+			<mI></mI>
+			<lastName>Fait</lastName>
+			<age>54 </age>
+			<title startYear="2015" startMonth="05" startDay="27" iD1="PRE" abbr1="Pres." iD2="FID" abbr2="Fin. Dir.">President, Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Oozi</firstName>
+			<mI></mI>
+			<lastName>Cats</lastName>
+			<age>54 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="07/2012">
+			<firstName>Eran</firstName>
+			<mI></mI>
+			<lastName>Edri</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="07" startDay="" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Dominikus</firstName>
+			<mI></mI>
+			<lastName>Hierl</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="12" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - Telit Automotive Solutions</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Yossi</firstName>
+			<mI></mI>
+			<lastName>Moscovitz</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Telit Wireless Solutions</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Taneli</firstName>
+			<mI></mI>
+			<lastName>Tuurnala</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="12" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - Telit GNSS Solutions</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Michael</firstName>
+			<mI>A.</mI>
+			<lastName>Ueland</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="12" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Americas</title>
+		</officer>
+		<officer rank="9" since="04/2011">
+			<firstName>Mathy</firstName>
+			<mI></mI>
+			<lastName>Gurusamy</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="04" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operations Officer</title>
+		</officer>
+		<officer rank="10" since="06/30/2010">
+			<firstName>Yariv</firstName>
+			<mI></mI>
+			<lastName>Dafna</lastName>
+			<age>37 </age>
+			<title startYear="2012" startMonth="07" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Corporate Business Development</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.05000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.57500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.67750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.23156</Ratio>
+			<Ratio FieldName="EV" Type="N">238.69157</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">235.36250</Ratio>
+			<Ratio FieldName="AREV" Type="N">207.80500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">21.37818</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">8.83088</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.07540</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.77442</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.60696</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.15767</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.16280</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">39.54708</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">14.13332</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.13261</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">27.18743</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.37746</Ratio>
+			<Ratio FieldName="Employees" Type="N">814</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.62530</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">16.60188</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">236.08041</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.12348</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">10.95556</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

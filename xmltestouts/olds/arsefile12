@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AB4EB</CoID>
+		<CoID Type="CompanyName">Abcam Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ABC</IssueID>
+			<IssueID Type="CUSIP">G0060R118</IssueID>
+			<IssueID Type="ISIN">GB00B6774699</IssueID>
+			<IssueID Type="RIC">ABCA.L</IssueID>
+			<IssueID Type="SEDOL">B677469</IssueID>
+			<IssueID Type="DisplayRIC">ABCA.L</IssueID>
+			<IssueID Type="InstrumentPI">22820119</IssueID>
+			<IssueID Type="QuotePI">23031265</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2010-11-15">5.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-22</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">782</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="168842872.0">202325679.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-04T11:05:24">Abcam plc is engaged in producing and marketing protein research tools. The Company offers products, such as primary antibodies, including monoclonals, polyclonals, conjugated primary antibodies, tags and cell markers, loading controls, flow cytometry antibodies and others; secondary antibodies, such as Alexa Fluor conjugated secondaries, alkaline phosphatase (AP), horseradish peroxidase (HRP), Biotin and others; immunoassay kits and reagents, such as lateral flow and dipstick assays, antibody arrays and others; cell and tissue imaging tools, such as fluorescent cell imaging and immunohistochemistry (IHC); cellular and biochemical assays, such as cell signaling, and cell damage and oxidative stress, and others; proteins and peptides, such as enzymes, signaling proteins and others; proteomics tools, cellular fractionation and others; lysates, such as cytoplasmic, membrane and others; multiplex micro ribonucleic acid (miRNA) assays, and agonists, activators, antagonists and inhibitors.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-22T06:28:24">BRIEF: For the fiscal year ended 30 June 2015, Abcam Plc revenues increased 13% to L144M. Net income increased 10% to L37.4M. Revenues reflect United States segment increase of 13% to L62.3M, China segment increase of 79% to L13.1M. Dividend per share remained flat at L0.08. Basic Earnings per Share excluding Extraordinary Items increased from L0.17 to L0.19.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T01:54:18">
+		<streetAddress line="1">330 Cambridge Science Park</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CAMBRIDGE</city>
+		<state-region></state-region>
+		<postalCode>CB4 0FL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1223</city-areacode>
+				<number>696000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1223</city-areacode>
+				<number>771600</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-09T13:20:23"><webSite mainCategory="Home Page">http://www.abcam.com</webSite><eMail mainCategory="Company Contact/E-mail">corporate@abcam.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T01:54:18">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5620104012" mnem="">Biopharmaceuticals</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325411" mnem="">Medicinal and Botanical Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="325199" mnem="">All Other Basic Organic Chemical Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="45411" mnem="">Electronic Shopping and Mail-Order Houses</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2833" mnem="">Medicinals And Botanicals</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2869" mnem="">Industrial Organic Chemicals, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5961" mnem="">Catalog And Mail-Order Houses</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2013">
+			<firstName>Alan</firstName>
+			<mI>Thomas</mI>
+			<lastName>Hirzel</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="08" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/20/2007">
+			<firstName>Jeffrey</firstName>
+			<mI>Michel</mI>
+			<lastName>Iliffe</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="07" startDay="06" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Jim</firstName>
+			<mI></mI>
+			<lastName>Warwick</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="01/09/2014">
+			<firstName>Sean</firstName>
+			<mI></mI>
+			<lastName>Hickey</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="01" startDay="09" iD1="CIO" abbr1="CIO" iD2="" abbr2="">Chief Information Officer</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Bushfield</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Scientific Director</title>
+		</officer>
+		<officer rank="6" since="01/2015">
+			<firstName>Yvonne</firstName>
+			<mI></mI>
+			<lastName>Chien</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Digital Officer</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Jane</firstName>
+			<mI></mI>
+			<lastName>Cooke</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director - People and Organisational Development</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Philippe</firstName>
+			<mI></mI>
+			<lastName>Cotrel</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Commercial Director</title>
+		</officer>
+		<officer rank="9" since="06/2013">
+			<firstName>Danielle</firstName>
+			<mI></mI>
+			<lastName>Miller</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="06" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Operations Director</title>
+		</officer>
+		<officer rank="10" since="2014">
+			<firstName>Matthew</firstName>
+			<mI></mI>
+			<lastName>Roe</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Reagents</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">6.56000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.74000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.60000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.45399</Ratio>
+			<Ratio FieldName="EV" Type="N">1270.19700</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1327.25600</Ratio>
+			<Ratio FieldName="AREV" Type="N">144.03300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">54.12400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">37.38400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.18573</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.71559</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.06492</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.28380</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.22567</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.08210</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">70.48801</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">18.92842</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">9.21495</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">35.32009</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">6.16010</Ratio>
+			<Ratio FieldName="Employees" Type="N">782</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.4</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">6.25250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">31.91438</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">162.77950</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.20555</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">52.08170</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.08575</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

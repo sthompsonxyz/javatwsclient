@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A30D9</CoID>
+		<CoID Type="CompanyName">Babcock International Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BAB</IssueID>
+			<IssueID Type="CUSIP">G0689Q152</IssueID>
+			<IssueID Type="ISIN">GB0009697037</IssueID>
+			<IssueID Type="RIC">BAB.L</IssueID>
+			<IssueID Type="SEDOL">0969703</IssueID>
+			<IssueID Type="DisplayRIC">BAB.L</IssueID>
+			<IssueID Type="InstrumentPI">260252</IssueID>
+			<IssueID Type="QuotePI">1281429</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-04-17">1.13417</MostRecentSplit>
+		</Issue>
+		<Issue ID="1" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="Ticker">BABB</IssueID>
+			<IssueID Type="InstrumentPI">72165132</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-22</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">32368</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="497478261.0">504196597.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-01-19T07:05:42">Babcock International Group PLC is a United Kingdom-based engineering support services company, which delivers complex and critical support to the defense, emergency services, energy, transport and education sectors, both in the United Kingdom and overseas. The Company is a supplier to all three of the United Kingdoms armed forces, providing through-life support for naval and land fleets, technical training and asset management through its Marine &amp; Technology and Defense and Security divisions. Its Support Services division includes Cavendish Nuclear, the United Kingdoms foremost nuclear services company, and also manages critical assets and provides training for government and commercial organizations. The International division provides helicopter and fixed-wing emergency services, together with engineering support and crew-change services for the energy, mining and construction industries. </Text>
+		<Text Type="Financial Summary" lastModified="2016-01-22T00:26:26">BRIEF: For the six months ended 30 September 2015, Babcock International Group PLC revenues increased 5% to L2.04B. Net income increased 9% to L124.1M. Revenues reflect Marine segment increase of 11% to L792.8M, Defence Services segment increase of 2% to L361.6M, International segment increase of 2% to L408.8M. Net income benefited from Marine segment income increase of 11% to L84.9M, Support segment income increase of 16% to L37.8M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-28T23:58:29">
+		<streetAddress line="1">33 Wigmore Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1U 1QX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Kate Hill</contactName>
+		<contactTitle>Head of Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73555300</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73555360</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73555300</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-07T10:37:48"><webSite mainCategory="Home Page">http://www.babcockinternational.com</webSite><eMail mainCategory="Company Contact/E-mail">kate.hill@babcockinternational.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-28T23:58:29">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220102010" mnem="">Construction &amp; Engineering - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="336611" mnem="">Ship Building and Repairing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="61171" mnem="">Educational Support Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="48821" mnem="">Support Activities for Rail Transportation</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="62431" mnem="">Vocational Rehabilitation Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="56121" mnem="">Facilities Support Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="611512" mnem="">Flight Training</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3731" mnem="">Ship Building And Repairing</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8299" mnem="">Schools/educational Services, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="4789" mnem="">Transportation Services, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="8331" mnem="">Job Training And Related Services</Industry>
+			<Industry type="SIC" order="5" reported="0" code="8744" mnem="">Facilities Support Services</Industry>
+			<Industry type="SIC" order="6" reported="0" code="8711" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="7" reported="0" code="8249" mnem="">Vocational Schools, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/13/2002">
+			<firstName>Peter</firstName>
+			<mI>L.</mI>
+			<lastName>Rogers</lastName>
+			<age>66 </age>
+			<title startYear="2003" startMonth="08" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="08/01/2014">
+			<firstName>Franco</firstName>
+			<mI></mI>
+			<lastName>Martinelli</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="08" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/01/2013">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Davies</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="11" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="EDR" abbr2="Exec. Dir.">Chief Executive - Support Services, Executive Director</title>
+		</officer>
+		<officer rank="4" since="05/01/2010">
+			<firstName>Archie</firstName>
+			<mI></mI>
+			<lastName>Bethel</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="05" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">Chief Executive - Marine and Technology Division, Executive Director</title>
+		</officer>
+		<officer rank="5" since="01/25/2002">
+			<firstName>William</firstName>
+			<mI></mI>
+			<lastName>Tame</lastName>
+			<age>59 </age>
+			<title startYear="2014" startMonth="08" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">Chief Executive - International division, Executive Director</title>
+		</officer>
+		<officer rank="6" since="11/2015">
+			<firstName>Roger</firstName>
+			<mI></mI>
+			<lastName>Hardy</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="11" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive - Defence &amp; Security Division</title>
+		</officer>
+		<officer rank="7" since="04/01/2016">
+			<firstName>John</firstName>
+			<mI>S.</mI>
+			<lastName>Howie</lastName>
+			<age>72 </age>
+			<title startYear="2016" startMonth="04" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive - Marine &amp; Technology Division</title>
+		</officer>
+		<officer rank="8" since="02/01/2002">
+			<firstName>Albert</firstName>
+			<mI>N.</mI>
+			<lastName>Dungate</lastName>
+			<age></age>
+			<title startYear="2002" startMonth="02" startDay="01" iD1="SEC" abbr1="Secy." iD2="GCN" abbr2="Counsel">Group Company Secretary, General Counsel</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">9.10000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">11.52760</Ratio>
+			<Ratio FieldName="NLOW" Type="N">8.40000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.21196</Ratio>
+			<Ratio FieldName="EV" Type="N">6033.28900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4588.18900</Ratio>
+			<Ratio FieldName="AREV" Type="N">3996.60000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">524.40000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">260.20000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.53175</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">8.16760</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.34113</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.28455</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.89614</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.23600</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.34165</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.14802</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.11331</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.09623</Ratio>
+			<Ratio FieldName="Employees" Type="N">32368</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.0588</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">11.91000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">10.4105</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.25986</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4693.22990</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.74226</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">434.65340</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.25858</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

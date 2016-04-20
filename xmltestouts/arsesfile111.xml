@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC94E</CoID>
+		<CoID Type="CompanyName">Cadogan Petroleum Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CAD</IssueID>
+			<IssueID Type="CUSIP">G1846D100</IssueID>
+			<IssueID Type="ISIN">GB00B12WC938</IssueID>
+			<IssueID Type="RIC">CADP.L</IssueID>
+			<IssueID Type="SEDOL">B12WC93</IssueID>
+			<IssueID Type="DisplayRIC">CADP.L</IssueID>
+			<IssueID Type="InstrumentPI">26682336</IssueID>
+			<IssueID Type="QuotePI">47685779</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">100</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="70397705.0">231091734.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T04:41:57">Cadogan Petroleum plc is a United Kingdom-based company engaged oil and gas exploration, development and production. The Company holds working interests in nine conventional gas, condensate and oil exploration and production licenses in the east and west of Ukraine. The Company's assets are located in two of the three hydrocarbon basins in Ukraine, the DnieperDonets basin and the Carpathian basin. The Zagoryanska license covers an area of 49.6 square kilometers and is located in the Dnieper-Donets basin. The Pokrovskoe license area covers 49.5 square kilometers and is located in the Dnieper-Donets basin. Pirkovskoe is adjacent to the Company's Zagoryanska license. The exploration and appraisal license covers 71.6 square kilometers. The Bitlyanska exploration and development license covers an area of 390 square kilometers, belonging to the Krosno zone of the folded Carpathians and includes the Bitlya, Borynya and Vovchenska areas.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-01T00:22:39">BRIEF: For the six months ended 30 June 2015, Cadogan Petroleum Plc revenues increased from $1.6M to $40.6M. Net loss increased 25% to $4.5M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Share of losses in joint ventures increase from $834K to $4.2M (expense), Finance (costs)/income decrease from $667K (income) to $1.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-14T00:00:27">
+		<streetAddress line="1">27A Taras Shevchenko Boulevard</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>KIEV</city>
+		<state-region></state-region>
+		<postalCode>01032</postalCode>
+		<country code="UKR">Ukraine</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>380</countryPhoneCode>
+				<city-areacode>44</city-areacode>
+				<number>5910390</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>380</countryPhoneCode>
+				<city-areacode>44</city-areacode>
+				<number>5910391</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-11-14T00:00:27"><webSite mainCategory="Home Page">http://www.cadoganpetroleum.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@cadoganpetroleum.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-14T00:00:27">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/25/2015">
+			<firstName>Guido</firstName>
+			<mI></mI>
+			<lastName>Michelotti</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="06" startDay="25" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="01/25/2012">
+			<firstName>Adelmo</firstName>
+			<mI></mI>
+			<lastName>Schenato</lastName>
+			<age>63 </age>
+			<title startYear="2012" startMonth="01" startDay="25" iD1="COO" abbr1="COO" iD2="DRC" abbr2="Dir.">Chief Operating Officer, Director</title>
+		</officer>
+		<officer rank="3" since="08/02/2011">
+			<firstName>Bertrand</firstName>
+			<mI></mI>
+			<lastName>des Pallieres</lastName>
+			<age>48 </age>
+			<title startYear="2015" startMonth="06" startDay="22" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="02/27/2015">
+			<firstName>Marta</firstName>
+			<mI></mI>
+			<lastName>Halabala</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="02" startDay="27" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.09875</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.13250</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.07750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00683</Ratio>
+			<Ratio FieldName="EV" Type="N">0.48512</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">22.82031</Ratio>
+			<Ratio FieldName="AREV" Type="N">23.05826</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.79035</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-41.89334</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.18128</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.09978</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.27385</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.14965</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.17854</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">8.61355</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-44.48205</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.98968</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.36060</Ratio>
+			<Ratio FieldName="Employees" Type="N">100</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.36000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-7.59615</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">56.54470</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-2.07890</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

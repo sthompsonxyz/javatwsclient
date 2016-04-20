@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D3DFC</CoID>
+		<CoID Type="CompanyName">Venn Life Sciences Holdings PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VENN</IssueID>
+			<IssueID Type="CUSIP">G05462117</IssueID>
+			<IssueID Type="ISIN">GB00B9275X97</IssueID>
+			<IssueID Type="RIC">VENN.L</IssueID>
+			<IssueID Type="SEDOL">B9275X9</IssueID>
+			<IssueID Type="DisplayRIC">VENN.L</IssueID>
+			<IssueID Type="InstrumentPI">122498461</IssueID>
+			<IssueID Type="QuotePI">122498460</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-19</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">39</Employees>
+		<SharesOut Date="2015-10-26" TotalFloat="36802212.0">60239263.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-14T07:03:36">Venn Life Sciences Holdings Plc is a United Kingdom-based Clinical Research Organization (CRO). The Company is engaged in providing a suite of consulting and clinical trial services to pharmaceutical, biotechnology and medical device organizations. The Company offers services in France, Netherlands, the United Kingdom and Germany. The Company offers international clinical research services, including protocol development, feasibility and site selection, investigator and site selection, regulatory submissions, project management, site management and monitoring, vendor management and quality assurance. It offers Independent statistical center (ISC) and independent data monitoring committee (IDMC) coordination training, among others. It offers pharmacovigilance services, and resourcing and recruitment, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-28T10:48:06">BRIEF: For the six months ended 30 June 2015, Venn Life Sciences Holdings PLC revenues increased from EUR1.5M to EUR4.3M. Net loss decreased 74% to EUR259K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Lower net loss reflects Exceptional items decrease from EUR20K (expense) to EUR0K. Basic Earnings per Share excluding Extraordinary Items increased from -EUR0.04 to -EUR0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-12T02:20:51">
+		<streetAddress line="1">1 Berkeley Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1J 8DJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>28</city-areacode>
+				<number>90737900</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-20T00:02:10"><webSite mainCategory="Home Page">http://www.vennlifesciences.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@vlsworldwide.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-12T02:20:51">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2012">
+			<firstName>Anthony</firstName>
+			<mI></mI>
+			<lastName>Richardson</lastName>
+			<age>50 </age>
+			<title startYear="2016" startMonth="01" startDay="08" iD1="CHM" abbr1="Chmn." iD2="CEO" abbr2="CEO">Interim Executive Chairman of the Board, Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="06/15/2015">
+			<firstName>Jonathan</firstName>
+			<mI>David</mI>
+			<lastName>Hartshorn</lastName>
+			<age>44 </age>
+			<title startYear="2015" startMonth="06" startDay="15" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="01/06/2015">
+			<firstName>Gracielle</firstName>
+			<mI>Anna Maria</mI>
+			<lastName>Beijerbacht-Schutjens</lastName>
+			<age>48 </age>
+			<title startYear="2015" startMonth="01" startDay="06" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="10/19/2015">
+			<firstName>Kees</firstName>
+			<mI></mI>
+			<lastName>Groen</lastName>
+			<age>54 </age>
+			<title startYear="2015" startMonth="10" startDay="19" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.19500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.26440</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.18600</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02099</Ratio>
+			<Ratio FieldName="EV" Type="N">11.42402</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">11.74666</Ratio>
+			<Ratio FieldName="AREV" Type="N">3.80545</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.19471</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.19471</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.04431</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.14115</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.03457</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02215</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.04689</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-144.18350</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.08680</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.64065</Ratio>
+			<Ratio FieldName="Employees" Type="N">39</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">38.76740</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">7.04580</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00503</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">0.12440</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

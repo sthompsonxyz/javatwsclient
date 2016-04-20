@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3EE5</CoID>
+		<CoID Type="CompanyName">TR European Growth Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">TRG</IssueID>
+			<IssueID Type="CUSIP">G9032Q157</IssueID>
+			<IssueID Type="ISIN">GB0009066928</IssueID>
+			<IssueID Type="RIC">TRG.L</IssueID>
+			<IssueID Type="SEDOL">0906692</IssueID>
+			<IssueID Type="DisplayRIC">TRG.L</IssueID>
+			<IssueID Type="InstrumentPI">310721</IssueID>
+			<IssueID Type="QuotePI">1080199</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="48851427.0">49975897.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-12T08:03:05">TR European Growth Trust PLC is a United Kingdom-based investment company. The Company's investment objective is to achieve capital growth by investing predominantly in smaller and medium sized companies in Europe (excluding the United Kingdom). The Company invests in a portfolio of sectors, including industrial goods, technology, financials, business providers, basic materials, consumer goods, retail providers and natural resources. The Company's investment portfolio includes unquoted investments, which total 3.5% of the total portfolio. Its unquoted investments include limited liability partnerships and unquoted holdings. The Company invests in equities and other investments for long term so as to secure its investment objective. Henderson Investment Funds Limited serves as the investment fund manager for the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T16:48:27">BRIEF: For the fiscal year ended 30 June 2015, TR European Growth Trust PLC revenues decreased 75% to L21.9M. Net income decreased 80% to L16.6M. Revenues reflect Revaluation of investments held at 30 Ju decrease of 76% to L10.1M, Less Revaluation Recognized in Previous decrease of 51% to L25.8M, Realized G/L on Investments Securities decrease of 51% to -L25.8M. Dividend per share remained flat at L0.07.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T09:58:40">
+		<streetAddress line="1">201 Bishopsgate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2M 3AE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78181818</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78181819</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-07T13:10:51"><webSite mainCategory="Home Page">https://www.henderson.com</webSite><eMail mainCategory="Company Contact/E-mail">support@henderson.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T09:58:40">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Ollie</firstName>
+			<mI></mI>
+			<lastName>Beckett</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Member of the Management Board</title>
+		</officer>
+		<officer rank="2" since="2013">
+			<firstName>Rory</firstName>
+			<mI></mI>
+			<lastName>Stokes</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Member of Management Board</title>
+		</officer>
+		<officer rank="3" since="2013">
+			<firstName>Debbie</firstName>
+			<mI></mI>
+			<lastName>Fish</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary, Member of the Management Board</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.94500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.61000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.52624</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.06842</Ratio>
+			<Ratio FieldName="EV" Type="N">337.43170</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">297.10670</Ratio>
+			<Ratio FieldName="AREV" Type="N">21.87100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">17.17500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">16.56500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.33146</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.43763</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">6.75616</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00214</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.07000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">81.11655</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.99457</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">13.58450</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.93580</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.87994</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="6" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A31CD</CoID>
+		<CoID Type="CompanyName">Johnston Press plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">JPR</IssueID>
+			<IssueID Type="CUSIP">G51688185</IssueID>
+			<IssueID Type="ISIN">GB00BRK8Y334</IssueID>
+			<IssueID Type="RIC">JPR.L</IssueID>
+			<IssueID Type="SEDOL">BRK8Y33</IssueID>
+			<IssueID Type="DisplayRIC">JPR.L</IssueID>
+			<IssueID Type="InstrumentPI">261658</IssueID>
+			<IssueID Type="QuotePI">1080778</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-11-13">0.02</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">13.75% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">124986534</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">13.75% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">124986606</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-10</LastModified>
+		<LatestAvailableAnnual>2015-01-03</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-04</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-03">3242</Employees>
+		<SharesOut Date="2015-10-01" TotalFloat="73654740.0">105877777.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T01:00:50">Johnston Press plc is a United Kingdom-based local and regional multimedia organization. The Company provides news and information services to local and regional communities through its portfolio of publications and Websites. The Company operates through two segments: Publishing (in print and online) and Contract Printing. The Company's portfolio includes approximately 193 paid for weekly newspapers, around 13 paid for daily newspapers, approximately 38 free titles and around 10 lifestyle magazines. The Company's DigitalKitbag enables small businesses market their companies online. The Company's brands include BallymenaTimes, BanbridgeLeader, Belfast News, News Letter, CarrickTimes, ColeraineTimes, Mid-Ulster Mail, Derry Journal, Sunday Journal, TyroneTimes, LarneTimes, LurganMail, Farming Life, Isle of Man Examiner, Brighouse Echo, Spenborough Guardian, Mirfield Reporter, Yorkshire Post, Weekly News, Todmorden News, Wakefield Express, Leader, Dispatch, Chad and Matlock Mercury.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-07T07:01:22">BRIEF: For the 26 weeks ended 04 July 2015, Johnston Press plc revenues decreased 5% to L128.9M. Net income before extraordinary items totaled L1.5M vs. loss of L2.6M. Revenues reflect Newspaper Publishing segment decrease of 5% to L121.8M. Basic Earnings per Share excluding Extraordinary Items increased from -L0.05 to L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T23:29:16">
+		<streetAddress line="1">Orchard Brae House, 30 Queensferry Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH4 2HS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Peter McCall</contactName>
+		<contactTitle>Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>2253361</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>2254580</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0131</city-areacode>
+				<number>2253361</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-26T05:13:27"><webSite mainCategory="Home Page">http://www.johnstonpress.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">PMcCall@johnstonpress.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T23:29:16">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330204011" mnem="">Newspaper Publishing</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51111" mnem="">Newspaper Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="51112" mnem="">Periodical Publishers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2711" mnem="">Newspapers</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2721" mnem="">Periodicals</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/01/2011">
+			<firstName>Ashley</firstName>
+			<mI></mI>
+			<lastName>Highfield</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="12" startDay="" iD1="CEO" abbr1="CEO" iD2="" abbr2="">Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="06/01/2013">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>King</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="12" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="11/01/2009">
+			<firstName>Peter</firstName>
+			<mI>M.</mI>
+			<lastName>McCall</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="11" startDay="01" iD1="SEC" abbr1="Secy." iD2="IRC" abbr2="IR-Contact">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-03">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.47000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.72000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.35000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.29914</Ratio>
+			<Ratio FieldName="EV" Type="N">234.38256</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">49.76256</Ratio>
+			<Ratio FieldName="AREV" Type="N">268.82300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">60.95200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-15.48800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.22000</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.81859</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.88879</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.29106</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.14188</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">43.54687</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-10.31141</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.18511</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.24884</Ratio>
+			<Ratio FieldName="Employees" Type="N">3242</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.8</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.19400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">2.17030</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">253.67500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.21656</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">30.75000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

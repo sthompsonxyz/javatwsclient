@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EBDCD</CoID>
+		<CoID Type="CompanyName">Mincon Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MIO</IssueID>
+			<IssueID Type="CUSIP">G6129G100</IssueID>
+			<IssueID Type="ISIN">IE00BD64C665</IssueID>
+			<IssueID Type="RIC">MCON.I</IssueID>
+			<IssueID Type="SEDOL">BGY6S89</IssueID>
+			<IssueID Type="DisplayRIC">MCON.I</IssueID>
+			<IssueID Type="InstrumentPI">145425575</IssueID>
+			<IssueID Type="QuotePI">146857063</IssueID>
+			<Exchange Code="ISE" Country="IRL">Irish Stock Exchange</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-19</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">187</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="60501004.0">210541102.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T01:58:21">Mincon Group Plc is an Ireland-based engineering company. The Company is specialized in the design, manufacture, sale and servicing of rock drilling tools and associated products. It manufactures a range of rock-drilling down-the-hole (DTH) Hammers and bits for a range of industries, including mining exploration, mining production, oil and gas drilling, water well drilling, geothermal drilling, construction, quarrying and seismic drilling. In addition, it provides a hard-rock horizontal directional drilling (HDD) system to provide access for fiber optic cable laying and similar activities. Its manufacturing facilities are located in Ireland, the United States, Canada and Australia. The Company also maintains a network of sales and distribution companies in a number of international markets to provide after sales support and service to customers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-19T13:52:34">BRIEF: For the six months ended 30 June 2015, Mincon Group PLC revenues increased 40% to EUR32.7M. Net income decreased 20% to EUR3.5M. Revenues reflect Australias segment increase from EUR3.4M to EUR7.1M, Americas segment increase of 47% to EUR9.5M. Net income was offset by Finance income decrease of 60% to EUR179K (income). Dividend per share remained flat at EUR0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-08-19T14:15:34">
+		<streetAddress line="1">Smithstown Industrial Estate, Co. Clare</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SHANNON</city>
+		<state-region></state-region>
+		<postalCode></postalCode>
+		<country code="IRL">Ireland</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>353</countryPhoneCode>
+				<city-areacode>61</city-areacode>
+				<number>361099</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2015-08-19T14:15:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201010" mnem="">Industrial Machinery &amp; Equipment - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333132" mnem="">Oil and Gas Field Machinery and Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="333131" mnem="">Mining Machinery and Equipment Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3533" mnem="">Oil And Gas Field MacHinery</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3532" mnem="">Mining MacHinery</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="EUR" ReportingCurrency="EUR" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.67000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.80000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.59000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.06182</Ratio>
+			<Ratio FieldName="EV" Type="N">99.30850</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">141.06250</Ratio>
+			<Ratio FieldName="AREV" Type="N">54.54400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">12.76400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">9.13400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.04400</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.26276</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.45128</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.21237</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.05452</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">43.17982</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.12801</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.58622</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">15.22727</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.48467</Ratio>
+			<Ratio FieldName="Employees" Type="N">187</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.59000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">19.14286</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">67.05000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">8.95000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

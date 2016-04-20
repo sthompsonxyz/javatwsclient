@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">CE5D9</CoID>
+		<CoID Type="CompanyName">Hummingbird Resources Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HUM</IssueID>
+			<IssueID Type="CUSIP">G4706Q104</IssueID>
+			<IssueID Type="ISIN">GB00B60BWY28</IssueID>
+			<IssueID Type="RIC">HUMR.L</IssueID>
+			<IssueID Type="SEDOL">B60BWY2</IssueID>
+			<IssueID Type="DisplayRIC">HUMR.L</IssueID>
+			<IssueID Type="InstrumentPI">78886972</IssueID>
+			<IssueID Type="QuotePI">78886971</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-28</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">89</Employees>
+		<SharesOut Date="2015-10-23" TotalFloat="58544986.0">106952469.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:05:18">Hummingbird Resources plc is a United Kingdom-based gold exploration and development company with assets in Mali and Liberia. The Company's operations and its principal activities are the exploration, evaluation and development of mineral exploration targets, principally gold, focused exclusively in West Africa. The Company owns Yanfolila Gold Project, located in the Yanfolila greenstone belt along the eastern margin of the Siguiri Basin, and Dugbe 1 Project, a 4.2 million ounces (Moz) gold Resource in Liberia, West Africa. The Yanfolila Project has a mineral inventory of 1.8 Moz of gold at 2.8 grams per ton (g/t). The Company is a multi-project, near-term producer with a 6Moz of gold and 5,000 square kilometers of exploration ground.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-25T07:20:05">BRIEF: For the six months ended 30 June 2015, Hummingbird Resources Ltd revenues was not reported. Net loss totaled to $1.9M. Results are not comparable due to year end change.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-09-29T19:05:18">
+		<streetAddress line="1">94 Jermyn Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 6JE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77667560</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>34163573</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-01-16T21:39:55"><webSite mainCategory="Home Page">http://www.hummingbirdresources.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-09-29T19:05:18">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120106011" mnem="">Gold Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="21221" mnem="">Iron Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1011" mnem="">Iron Ores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Daniel</firstName>
+			<mI>Edward</mI>
+			<lastName>Betts</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Thomas</firstName>
+			<mI>Rowland</mI>
+			<lastName>Hill</lastName>
+			<age>36 </age>
+			<title startYear="2012" startMonth="07" startDay="18" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>William</firstName>
+			<mI>Benjamin Thurston</mI>
+			<lastName>Cook</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Operations Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.17500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.39000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.11005</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.09670</Ratio>
+			<Ratio FieldName="EV" Type="N">19.60514</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">18.71668</Ratio>
+			<Ratio FieldName="AREV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.56227</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07071</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.31124</Ratio>
+			<Ratio FieldName="Employees" Type="N">89</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.62400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

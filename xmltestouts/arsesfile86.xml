@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5A39</CoID>
+		<CoID Type="CompanyName">Blue Planet Investment Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">BLP</IssueID>
+			<IssueID Type="CUSIP">G1351L109</IssueID>
+			<IssueID Type="ISIN">GB0005327076</IssueID>
+			<IssueID Type="RIC">BLP.L</IssueID>
+			<IssueID Type="SEDOL">0532707</IssueID>
+			<IssueID Type="DisplayRIC">BLP.L</IssueID>
+			<IssueID Type="InstrumentPI">450012</IssueID>
+			<IssueID Type="QuotePI">1331846</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-14</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-30">0</Employees>
+		<SharesOut Date="2015-10-31" TotalFloat="31519672.0">49474863.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-25T09:33:28">Blue Planet Investment Trust plc, formerly Blue Planet International Investment Trust plc, is a United Kingdom-based investment company. The Company's objective is to provide investors with a combination of capital growth and income. In order to achieve its objective, the Company invests in securities, including equities, exchange traded funds, equity-related securities, bonds and derivatives issued by companies, governments and other types of issuers located across the world. The Company invests in a range of sectors, such as financials, information technology, consumer discretionary, utilities, energy, industrial, telecommunication services, healthcare, materials and consumer staples, among others. The Company has operations in the United Kingdom, the United States, France, Ireland, China, the Netherlands, Bermuda, Germany, Greece, Argentina, Nigeria and Australia. Blue Planet Investment Management Ltd is the manager of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-14T03:08:48">BRIEF: For the six months ended 31 October 2015, Blue Planet Investment Trust PLC revenues decreased from -L702K to -L2.8M. Net loss increased from L1.4M to L3.4M. Revenues reflect Unrealised gains decrease from -L3.2M to -L6.5M, Exchange gains / (losses) decrease from L392K to -L44K, Interest receivable decrease from L15K to L0K. Basic Earnings per Share excluding Extraordinary Items decreased from -L0.03 to -L0.07.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-14T03:08:49">
+		<streetAddress line="1">Greenside House, 25 Greenside Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH1 3AA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>4666666</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>4666677</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-11T10:53:12"><webSite mainCategory="Home Page">http://www.blueplanet.eu</webSite><eMail mainCategory="Company Contact/E-mail">info@blueplanet.eu</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-14T03:08:49">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5560101010" mnem="">Holding Companies - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.30750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.43000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.28500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01818</Ratio>
+			<Ratio FieldName="EV" Type="N">27.60348</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">15.21352</Ratio>
+			<Ratio FieldName="AREV" Type="N">3.39019</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.22054</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">2.20570</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.04458</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.06852</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.57474</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00004</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02820</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">77.57117</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.90531</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.48751</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.89771</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.53502</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

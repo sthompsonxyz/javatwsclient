@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF320</CoID>
+		<CoID Type="CompanyName">Sepura Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SEPU</IssueID>
+			<IssueID Type="CUSIP">G8061M103</IssueID>
+			<IssueID Type="ISIN">GB00B1ZBLD47</IssueID>
+			<IssueID Type="RIC">SEPU.L</IssueID>
+			<IssueID Type="SEDOL">B1ZBLD4</IssueID>
+			<IssueID Type="DisplayRIC">SEPU.L</IssueID>
+			<IssueID Type="InstrumentPI">35306850</IssueID>
+			<IssueID Type="QuotePI">36139249</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-26</LastModified>
+		<LatestAvailableAnnual>2015-03-27</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-02</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-27">389</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="129387486.0">184328374.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-21T10:38:27">Sepura plc (Sepura) is a United Kingdom-based company engaged in the design, development and supply of digital radio solutions, complementary accessories, support tools and devices. The Company's products include TErrestrial Trunked RAdio (TETRA), Digital Mobile Radio (DMR) and Multi-Platform. TETRA is an open digital trunked mobile radio standard developed to meet the needs of Professional Mobile Radio (PMR) user organizations, including public safety, transportation, utilities, government, military, commercial and industry, and oil and gas. DMR is an open digital standard that defines a direct digital replacement for analogue PMR. DMR serves a range of users from trunked mission-critical applications through to single buildings. Its Multi-Platform product applications include image messaging, message and query. Its subsidiaries include Sepura Systems GmbH, Sepura Deutschland GmbH, Sepura LLC, Sepura Mexico, S.A. de C.V., Fylde Micro Limited and Portalify OY.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-26T09:47:40">BRIEF: For the six months ended 02 October 2015, Sepura Plc revenues increased 70% to EUR92.9M. Net loss totaled EUR6.1M vs. income of EUR3.8M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net loss reflects Administrative Expenses increase of 92% to EUR11.1M (expense), Non-Recurring Costs increase from EUR642K to EUR5.4M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-05T00:33:44">
+		<streetAddress line="1">Radio House St Andrews Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CAMBRIDGE</city>
+		<state-region></state-region>
+		<postalCode>CB4 1GR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1223</city-areacode>
+				<number>876000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1223</city-areacode>
+				<number>879000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-09-20T16:50:14"><webSite mainCategory="Home Page">http://www.sepura.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-05T00:33:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710201015" mnem="">Broadcasting Equipment</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="33422" mnem="">Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="33429" mnem="">Other Communications Equipment Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3663" mnem="">Radio/tv Communications Equip</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3669" mnem="">Communications Equipment, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/2006">
+			<firstName>Gordon John</firstName>
+			<mI></mI>
+			<lastName>Watling</lastName>
+			<age>46 </age>
+			<title startYear="2008" startMonth="10" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/02/2016">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Smith</lastName>
+			<age>44 </age>
+			<title startYear="2016" startMonth="01" startDay="02" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="2013">
+			<firstName>Thomas</firstName>
+			<mI></mI>
+			<lastName>Hashberger</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - Sepura Systems</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Kasper</firstName>
+			<mI></mI>
+			<lastName>Barfoed</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="DSL" abbr2="Dir.-Sales">Vice President, Director of Sales</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>D Agular</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="" abbr2="">Vice President, Commercial</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Hamill</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="" abbr2="">Vice President, Government and Public Safety</title>
+		</officer>
+		<officer rank="7" since="2011">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Barber</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Product Strategy</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Griffiths</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group HR Director</title>
+		</officer>
+		<officer rank="9" since="2012">
+			<firstName>Tony</firstName>
+			<mI></mI>
+			<lastName>Hunter</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2015-03-27">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.81000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.92733</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.26939</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.50791</Ratio>
+			<Ratio FieldName="EV" Type="N">334.51348</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">333.63440</Ratio>
+			<Ratio FieldName="AREV" Type="N">102.21640</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">22.22015</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">11.74912</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.08442</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.73450</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.47965</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01361</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.14171</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01870</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">46.24276</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">18.84300</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.26400</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.43929</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.77356</Ratio>
+			<Ratio FieldName="Employees" Type="N">389</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.25</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.14051</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">18.14536</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">164.66542</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">93.20787</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.09975</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.05767</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">21.79163</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

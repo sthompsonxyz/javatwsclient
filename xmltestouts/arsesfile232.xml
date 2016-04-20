@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A40A8</CoID>
+		<CoID Type="CompanyName">Goodwin plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GDWN</IssueID>
+			<IssueID Type="CUSIP">G39900108</IssueID>
+			<IssueID Type="ISIN">GB0003781050</IssueID>
+			<IssueID Type="RIC">GDWN.L</IssueID>
+			<IssueID Type="SEDOL">0378105</IssueID>
+			<IssueID Type="DisplayRIC">GDWN.L</IssueID>
+			<IssueID Type="InstrumentPI">261304</IssueID>
+			<IssueID Type="QuotePI">1079246</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-30</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-30">1137</Employees>
+		<SharesOut Date="2015-10-31" TotalFloat="2065411.0">7200000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-21T10:32:51">Goodwin PLC is a United Kingdom-based manufacturing company. The Company is principally engaged in manufacturing within two sectors, namely, mechanical engineering and refractory engineering. The Company operates through segments: Mechanical Engineering, engaged in casting, machining and general engineering, and Refractory Engineering, engaged in powder manufacture and mineral processing. Through its Mechanical Engineering division, the Company produces a range of dual plate and axial nozzle check valves to serve the oil, petrochemical, gas, liquefied natural gas (LNG) and water markets, high alloy castings, machining and general engineering products. Within the Refractory Engineering Division, Goodwin Refractory Services is engaged in developing, manufacturing and selling investment casting powders, waxes, silicone rubber and machinery for use in various operations, such as jewelry casting, aerospace, tire molding and the compressor wheels for turbochargers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-28T03:33:06">BRIEF: For the six months ended 31 October 2015, Goodwin plc revenues decreased 16% to L61.2M. Net income decreased 52% to L4.9M. Revenues reflect Engineering segment decrease of 23% to L52.3M, Refractories segment decrease of 5% to L18.4M, Pacific Basin segment decrease of 38% to L15.9M, Rest of Europe segment decrease of 20% to L11.8M, United States segment decrease of 1% to L5.9M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-30T22:44:03">
+		<streetAddress line="1">Jubilee Site, Ivy House Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>STOKE-ON-TRENT</city>
+		<state-region></state-region>
+		<postalCode>ST1 3NW</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>John Goodwin</contactName>
+		<contactTitle>Executive Chairman of the Board</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1782</city-areacode>
+				<number>220000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1782</city-areacode>
+				<number>208060</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1782</city-areacode>
+				<number>220000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-07T14:35:54"><webSite mainCategory="Home Page">http://www.goodwin.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">jwgoodwin@goodwingroup.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-30T22:44:03">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201010" mnem="">Industrial Machinery &amp; Equipment - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="332911" mnem="">Industrial Valve Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="333911" mnem="">Pump and Pumping Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="331513" mnem="">Steel Foundries, (except Investment)</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="331522" mnem="">Nonferrous (except Aluminum) Die-Castings</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="327124" mnem="">Clay Refractory Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="33422" mnem="">Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3491" mnem="">Industrial Valves</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3561" mnem="">Pumps And Pumping Equipment</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3325" mnem="">Steel Foundries, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3364" mnem="">Nonferrous Die-Casting Not Alum.</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3255" mnem="">Clay Refractories</Industry>
+			<Industry type="SIC" order="6" reported="0" code="3663" mnem="">Radio/tv Communications Equip</Industry>
+			<Industry type="SIC" order="7" reported="0" code="8711" mnem="">Engineering Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1992">
+			<firstName>John</firstName>
+			<mI>W.</mI>
+			<lastName>Goodwin</lastName>
+			<age>63 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="1992">
+			<firstName>Richard</firstName>
+			<mI>S.</mI>
+			<lastName>Goodwin</lastName>
+			<age>61 </age>
+			<title startYear="1992" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="11/14/2012">
+			<firstName>Steven</firstName>
+			<mI>Charles</mI>
+			<lastName>Birks</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="11" startDay="14" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="12/21/2006">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Connolly</lastName>
+			<age>55 </age>
+			<title startYear="2006" startMonth="12" startDay="21" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="11/14/2012">
+			<firstName>Bernard</firstName>
+			<mI>Rafe Ernest</mI>
+			<lastName>Goodwin</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="11" startDay="14" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="6" since="12/21/2006">
+			<firstName>Matthew</firstName>
+			<mI>S.</mI>
+			<lastName>Goodwin</lastName>
+			<age>34 </age>
+			<title startYear="2006" startMonth="12" startDay="21" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="7" since="12/10/2010">
+			<firstName>Simon</firstName>
+			<mI>Robert</mI>
+			<lastName>Goodwin</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="12" startDay="10" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="8" since="04/14/2015">
+			<firstName>Timothy</firstName>
+			<mI>J. W.</mI>
+			<lastName>Goodwin</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="14" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Pam</firstName>
+			<mI></mI>
+			<lastName>Ashley</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="DRC" abbr2="Dir.">Secretary, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">14.82500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">30.00000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">14.10000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00235</Ratio>
+			<Ratio FieldName="EV" Type="N">116.43400</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">106.74000</Ratio>
+			<Ratio FieldName="AREV" Type="N">127.04900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">25.94300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">15.02500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">2.08681</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">17.64569</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">11.49181</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.07389</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">2.87694</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.42348</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">32.50321</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.22204</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.84015</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">7.10414</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.29005</Ratio>
+			<Ratio FieldName="Employees" Type="N">1137</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

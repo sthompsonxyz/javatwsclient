@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">CFF8C</CoID>
+		<CoID Type="CompanyName">Produce Investments Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PIL</IssueID>
+			<IssueID Type="CUSIP">G724A2102</IssueID>
+			<IssueID Type="ISIN">GB00B3ZGBY47</IssueID>
+			<IssueID Type="RIC">PIL.L</IssueID>
+			<IssueID Type="SEDOL">B3ZGBY4</IssueID>
+			<IssueID Type="DisplayRIC">PIL.L</IssueID>
+			<IssueID Type="InstrumentPI">77841271</IssueID>
+			<IssueID Type="QuotePI">77841231</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-12</LastModified>
+		<LatestAvailableAnnual>2015-06-27</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-27</LatestAvailableInterim>
+		<Employees LastUpdated="2014-06-28">1178</Employees>
+		<SharesOut Date="2015-10-30" TotalFloat="15320279.0">26808884.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-04T11:07:45">Produce Investments plc is a United Kingdom-based holding company. The Company and its subsidiaries are engaged in growing, sourcing, packing and marketing fresh potatoes, daffodils bulbs and flowers. It operates through segments, including Fresh, Processing and Other. The Fresh segments consists of the sites, staff and assets that grow, source, pack and deliver fresh produce to customers, ranging from retailers, wholesalers to private businesses. The Processing segment includes the staff and assets that supply pre-prepared potato products, which are sold as ingredients for food manufacturers. The Other segment consists of seed sales for both the United Kingdom and export, traded volume where the Company's subsidiary, Greenvale AP Ltd., acts as an intermediary between the farmer and the end customer taking a small margin to cover costs, and all sales activities of Restrain Company Limited, a subsidiary that provides ethylene-based storage solutions for potatoes and onions.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-09T12:47:46">BRIEF: For the fiscal year ended 27 June 2015, Produce Investments Ltd revenues decreased 7% to L178.4M. Net income decreased 28% to L5.5M. Revenues reflect Other segment decrease of 21% to L23.9M, Fresh segment decrease of 3% to L148M, UK segment decrease of 7% to L173.6M, Rest of the world segment decrease of 21% to L2.6M. Net income also reflects Staff Cost increase of 17% to L36.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-04T11:07:45">
+		<streetAddress line="1">Greenvale AP, Craigswalls</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DUNS</city>
+		<state-region></state-region>
+		<postalCode>TD11 3PZ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1890</city-areacode>
+				<number>819503</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1890</city-areacode>
+				<number>818120</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-09-05T23:02:02"><webSite mainCategory="Home Page">http://www.produceinvestments.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-04T11:07:45">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410201010" mnem="">Fishing &amp; Farming - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="111211" mnem="">Potato Farming</Industry>
+			<Industry type="SIC" order="1" reported="0" code="0134" mnem="">Irish Potatoes</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Angus</firstName>
+			<mI></mI>
+			<lastName>Armstrong</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Brian</firstName>
+			<mI></mI>
+			<lastName>Macdonald</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="EDR" abbr2="Exec. Dir.">Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-27">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.25000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.82000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.20000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.05039</Ratio>
+			<Ratio FieldName="EV" Type="N">55.43011</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">33.51111</Ratio>
+			<Ratio FieldName="AREV" Type="N">178.44300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">12.75500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">5.48500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.19766</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">6.43058</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.90439</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10324</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.37234</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.07165</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">36.41891</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.05535</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.18780</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.32399</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.65638</Ratio>
+			<Ratio FieldName="Employees" Type="N">1178</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">6.91372</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">181.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.18080</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">6.80000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.07500</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

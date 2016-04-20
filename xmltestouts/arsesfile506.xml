@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3164</CoID>
+		<CoID Type="CompanyName">Spirax-Sarco Engineering plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SPX</IssueID>
+			<IssueID Type="CUSIP">G83561129</IssueID>
+			<IssueID Type="ISIN">GB00BWFGQN14</IssueID>
+			<IssueID Type="RIC">SPX.L</IssueID>
+			<IssueID Type="SEDOL">BWFGQN1</IssueID>
+			<IssueID Type="DisplayRIC">SPX.L</IssueID>
+			<IssueID Type="InstrumentPI">262766</IssueID>
+			<IssueID Type="QuotePI">1080182</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-06-15">0.96428</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-03</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">4797</Employees>
+		<SharesOut Date="2015-12-21" TotalFloat="71650724.0">73385583.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-29T05:37:36">Spirax-Sarco Engineering plc is a United Kingdom-based industrial engineering company, which is engaged in steam system specialties and peristaltic pumps, and associated fluid path technologies. The Company's two businesses are Spirax Sarco for steam specialties, and Watson-Marlow for peristaltic pumps and associated fluid path technologies. Spirax Sarco's steam specialties supplies engineered solutions for the design, maintenance and provision of industrial and commercial steam systems. Watson-Marlow Fluid Technology Group is engaged in the design and manufacture of peristaltic pumps and associated fluid path technologies. The Company's pumps are suited for a range of applications from biopharmaceutical processes to precious metal processing. The Company serves a range of industries, including foods, beverages, pharmaceuticals, healthcare, chemicals, pulp and paper, power generation, and others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-03T13:56:40">BRIEF: For the six months ended 30 June 2015, Spirax-Sarco Engineering plc revenues increased less than 1% to L320M. Net income decreased 11% to L39.4M. Revenues reflect market conditions. Net income was partially offset by Operating cost increase of 1% to L254.1M (expense), Share of proft of associates decrease from L338K (income) to L1.5M (expense), Amortisation of intangibles increase of 11% to L2.2M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T13:56:45">
+		<streetAddress line="1">Charlton House</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CHELTENHAM</city>
+		<state-region></state-region>
+		<postalCode>GL53 8ER</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1242</city-areacode>
+				<number>521361</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1242</city-areacode>
+				<number>581470</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-04T02:18:05"><webSite mainCategory="Home Page">http://www.spiraxsarcoengineering.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T13:56:45">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201010" mnem="">Industrial Machinery &amp; Equipment - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="332911" mnem="">Industrial Valve Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="332919" mnem="">Other Metal Valve and Pipe Fitting Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="333911" mnem="">Pump and Pumping Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="332999" mnem="">All Other Miscellaneous Fabricated Metal Product Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3491" mnem="">Industrial Valves</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3494" mnem="">Valves And Pipe Fittings, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3561" mnem="">Pumps And Pumping Equipment</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3499" mnem="">Fabricated Metal Products, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/15/2012">
+			<firstName>Nicholas</firstName>
+			<mI>J.</mI>
+			<lastName>Anderson</lastName>
+			<age>54 </age>
+			<title startYear="2014" startMonth="01" startDay="16" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/10/2016">
+			<firstName>Kevin</firstName>
+			<mI>J.</mI>
+			<lastName>Boyd</lastName>
+			<age>51 </age>
+			<title startYear="2016" startMonth="05" startDay="10" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="1992">
+			<firstName>David</firstName>
+			<mI>J.</mI>
+			<lastName>Meredith</lastName>
+			<age>55 </age>
+			<title startYear="1992" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="07/01/2012">
+			<firstName>A.</firstName>
+			<mI>J.</mI>
+			<lastName>Robson</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="07" startDay="01" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="5" since="1996">
+			<firstName>Neil</firstName>
+			<mI>H.</mI>
+			<lastName>Daws</lastName>
+			<age>52 </age>
+			<title startYear="2009" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director, Asia Pacific and Supply, Director</title>
+		</officer>
+		<officer rank="6" since="03/15/2012">
+			<firstName>James</firstName>
+			<mI>L.</mI>
+			<lastName>Whalen</lastName>
+			<age>57 </age>
+			<title startYear="2012" startMonth="03" startDay="15" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">30.72000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">36.37469</Ratio>
+			<Ratio FieldName="NLOW" Type="N">26.64000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.13943</Ratio>
+			<Ratio FieldName="EV" Type="N">2201.91200</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2254.40500</Ratio>
+			<Ratio FieldName="AREV" Type="N">678.27700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">175.92700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">100.32700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.36922</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">9.25681</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">6.05104</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.95415</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.73831</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.66889</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">40.39957</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">23.78172</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.32372</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">22.43613</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.07681</Ratio>
+			<Ratio FieldName="Employees" Type="N">4797</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6429</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">31.43462</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">2.3005</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.11042</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">669.93690</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">345.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.38939</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.79450</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">144.91050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.68974</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

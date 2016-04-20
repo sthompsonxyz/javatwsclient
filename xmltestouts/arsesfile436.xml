@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3280</CoID>
+		<CoID Type="CompanyName">Parity Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PTY</IssueID>
+			<IssueID Type="CUSIP">G6911R132</IssueID>
+			<IssueID Type="ISIN">GB00B1235860</IssueID>
+			<IssueID Type="RIC">PTY.L</IssueID>
+			<IssueID Type="SEDOL">B123586</IssueID>
+			<IssueID Type="DisplayRIC">PTY.L</IssueID>
+			<IssueID Type="InstrumentPI">260756</IssueID>
+			<IssueID Type="QuotePI">1049474</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2011-05-11">1.03383</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-23</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">159</Employees>
+		<SharesOut Date="2015-12-21" TotalFloat="65846448.0">102524020.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T01:02:54">Parity Group plc is engaged in the provision of a range of recruitment and business and technology solutions to clients across the public and private sectors. The Company operates two segments: Parity Professionals and SuperCommunications. Parity Professionals segment provides information technology (IT) recruitment services across all United Kingdom markets. It also provides graduate selection, training, placement and career development services. SuperCommunications segment delivers three dimensional (3D) technology, digital content production and business intelligence solutions designed around client problems. SuperCommunications segment designs and develops IT systems, including eCRM to convert brands into Tech Brands, and creates technology augmented and virtual reality solutions for Out of Home marketing. The Company's subsidiaries include Parity Professionals Limited, Parity Solutions Limited, Inition Limited and Golden Square Content Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-23T20:49:28">BRIEF: For the six months ended 30 June 2015, Parity Group plc revenues decreased 15% to L41.2M. Net loss before extraordinary items totaled L886K vs. income of L90K. Revenues reflect Parity Professionals segment decrease of 15% to L37.8M, Super communications segment decrease of 15% to L3.4M. Net loss reflects Employee benefit costs - Restructuring increase from L109K to L421K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-16T02:09:06">
+		<streetAddress line="1">2 Bath Place Rivington Street Shoreditch</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2A 3DR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>85435353</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>85456355</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-25T05:33:24"><webSite mainCategory="Home Page">http://www.parity.net</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-16T02:09:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220303010" mnem="">Employment Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="56131" mnem="">Employment Placement Agencies</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="56132" mnem="">Temporary Help Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="541612" mnem="">Human Resources and Executive Search Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7361" mnem="">Employment Agencies</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7363" mnem="">Help Supply Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="6" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/2008">
+			<firstName>Alan</firstName>
+			<mI>David</mI>
+			<lastName>Rommel</lastName>
+			<age>44 </age>
+			<title startYear="2015" startMonth="11" startDay="04" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/14/2015">
+			<firstName>Michael</firstName>
+			<mI>Stuart</mI>
+			<lastName>Aspinall</lastName>
+			<age>43 </age>
+			<title startYear="2015" startMonth="09" startDay="14" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/01/2013">
+			<firstName>Suzanne</firstName>
+			<mI></mI>
+			<lastName>Chase</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="09" startDay="26" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.11500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.14750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.07250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03884</Ratio>
+			<Ratio FieldName="EV" Type="N">18.39826</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">11.79026</Ratio>
+			<Ratio FieldName="AREV" Type="N">92.26400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.36200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.43300</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00426</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.90762</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.08740</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02924</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.00043</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-4.66796</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.12779</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.31577</Ratio>
+			<Ratio FieldName="Employees" Type="N">159</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-9.58333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">85.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-1.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

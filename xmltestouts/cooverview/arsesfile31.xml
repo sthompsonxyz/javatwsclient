@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3475</CoID>
+		<CoID Type="CompanyName">Aminex plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AEX</IssueID>
+			<IssueID Type="CUSIP">G0333T107</IssueID>
+			<IssueID Type="ISIN">IE0003073255</IssueID>
+			<IssueID Type="RIC">AMNX.L</IssueID>
+			<IssueID Type="SEDOL">0307325</IssueID>
+			<IssueID Type="DisplayRIC">AMNX.L</IssueID>
+			<IssueID Type="InstrumentPI">260985</IssueID>
+			<IssueID Type="QuotePI">1080576</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-01-30">1.0609</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-27</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">16</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="1673330875.0">1976205480.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:31:11">Aminex PLC is a United Kingdom-based company, which is engaged in exploration for and the development and production of oil and gas reserves. The Company's operating segments include Producing Oil and Gas Properties, Exploration Activities and Oilfield Services and Supplies. The Company operates in Tanzania, Egypt and Moldova. In Tanzania, the Company operates through its wholly owned subsidiary Ndovu Resources Limited (Ndovu), which has a 58.5% working interest and is the operator of Kiliwani North Development license. Its other operations in Tanzania include Ruvuma Exploration License and Nyuni Exploration License. At the West Esh el Mallaha-2 (WEEM-2) concession in Egypt, the Company holds a free-carried 10% interest through a shareholding in Aminex Petroleum Egypt Limited. The Company has an interest under the terms of a partnership agreement with Valiexchimp SRL, the concession-holder of two licenses for the Valeni and Victorovca oil and gas fields in the Republic of Moldova.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-27T06:55:35">BRIEF: For the six months ended 30 June 2015, Aminex plc revenues decreased 48% to $166K. Net loss before extraordinary items decreased 85% to $606K. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Lower net loss reflects Administrative expenses decrease of 61% to $756K (expense), Interest expenses decrease of 45% to $776K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-08-27T06:55:36">
+		<streetAddress line="1">7 Gower Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC1E 6HA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72913100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76369667</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-10-28T00:33:04"><webSite mainCategory="Home Page">http://www.aminex-plc.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@aminex-plc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-08-27T06:55:36">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="211112" mnem="">Natural Gas Liquid Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1321" mnem="">Natural Gas Liquids</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Brian</firstName>
+			<mI>Arthur</mI>
+			<lastName>Hall</lastName>
+			<age>69 </age>
+			<title startYear="2014" startMonth="03" startDay="14" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="08/29/2013">
+			<firstName>Jay</firstName>
+			<mI></mI>
+			<lastName>Bhattacherjee</lastName>
+			<age>37 </age>
+			<title startYear="2014" startMonth="03" startDay="14" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Max</firstName>
+			<mI>V.</mI>
+			<lastName>Williams</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="03" startDay="14" iD1="CFO" abbr1="CFO" iD2="FID" abbr2="Fin. Dir.">Chief Financial Officer, Finance Director, Company Secretary, Director</title>
+		</officer>
+		<officer rank="4" since="08/29/2013">
+			<firstName>W</firstName>
+			<mI>A Philip</mI>
+			<lastName>Thompson</lastName>
+			<age>55 </age>
+			<title startYear="2014" startMonth="03" startDay="14" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>I.</firstName>
+			<mI></mI>
+			<lastName>Chialo</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Resident Director of Ndovu Resources Limited</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Thierry</firstName>
+			<mI></mI>
+			<lastName>Murcia</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager, Tanzania</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01325</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.02401</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01210</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">4.79767</Ratio>
+			<Ratio FieldName="EV" Type="N">32.15938</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">26.18472</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.31382</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.89425</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-4.14544</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00243</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00018</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.03237</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00066</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00239</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">7.20721</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-7.15479</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">83.43770</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.40932</Ratio>
+			<Ratio FieldName="Employees" Type="N">16</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-0.11027</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">0.21204</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.12016</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-2.26179</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

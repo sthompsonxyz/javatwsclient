@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3092</CoID>
+		<CoID Type="CompanyName">Renold plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RNO</IssueID>
+			<IssueID Type="CUSIP">G75035108</IssueID>
+			<IssueID Type="ISIN">GB0007325078</IssueID>
+			<IssueID Type="RIC">RNO.L</IssueID>
+			<IssueID Type="SEDOL">0732507</IssueID>
+			<IssueID Type="DisplayRIC">RNO.L</IssueID>
+			<IssueID Type="InstrumentPI">262417</IssueID>
+			<IssueID Type="QuotePI">1080153</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-11-17">1.17439</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">6% Preferred Shares</IssueID>
+			<IssueID Type="Ticker">32ID</IssueID>
+			<IssueID Type="CUSIP">G75035116</IssueID>
+			<IssueID Type="ISIN">GB0007325417</IssueID>
+			<IssueID Type="RIC">32ID_p.L</IssueID>
+			<IssueID Type="SEDOL">0732541</IssueID>
+			<IssueID Type="DisplayRIC">32ID_p.L</IssueID>
+			<IssueID Type="InstrumentPI">1478204</IssueID>
+			<IssueID Type="QuotePI">2791306</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-22</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">2243</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="211409526.0">223064703.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:08:34">Renold plc is a United Kingdom-based company engaged in delivering engineered and power transmission products and solutions to its customers across the world. The Company operates through two segments: Chain and Torque Transmission. The Chain segment manufactures and sells power transmission and conveyor chain and also includes sales of torque transmission product through Chain National Sales Companies (NSCs). The Torque Transmission segment manufactures and sells torque transmission products, such as gearboxes and couplings. The Company's products include transmission chain, conveyor chain, leaf chain, smartlink, gears, couplings, and freewheels, among others. The applications of conveyor chain include theme park rides, water treatment plants, cement mills, agricultural machinery, mining and sugar production.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-22T19:51:12">BRIEF: For the six months ended 30 September 2015, Renold plc revenues decreased 7% to L84.5M. Net income increased 6% to L3.6M. Revenues reflect Chain segment decrease of 8% to L64.1M. Net Income benefited from Chain segment income increase of 9% to L7.2M. Basic Earnings per Share excluding Extraordinary Items remained flat at L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-22T19:51:16">
+		<streetAddress line="1">Renold House, Styal Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MANCHESTER</city>
+		<state-region></state-region>
+		<postalCode>M22 5WL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>4984500</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>4377782</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-06T14:34:53"><webSite mainCategory="Home Page">http://www.renold.com</webSite><eMail mainCategory="Company Contact/E-mail">enquiry@renold.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-22T19:51:16">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201024" mnem="">Industrial Machinery &amp; Equipment Wholesale</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333613" mnem="">Mechanical Power Transmission Equipment Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3568" mnem="">Power Transmission Equipment, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/21/2013">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Purcell</lastName>
+			<age>53 </age>
+			<title startYear="2013" startMonth="01" startDay="21" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive, Director</title>
+		</officer>
+		<officer rank="2" since="09/27/2010">
+			<firstName>Brian</firstName>
+			<mI>Thomas</mI>
+			<lastName>Tenner</lastName>
+			<age>46 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2014">
+			<firstName>Louise</firstName>
+			<mI></mI>
+			<lastName>Brace</lastName>
+			<age>42 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Legal Manager and Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.36500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.86000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.28200</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.85537</Ratio>
+			<Ratio FieldName="EV" Type="N">101.33262</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">81.83262</Ratio>
+			<Ratio FieldName="AREV" Type="N">181.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">20.10000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">5.50000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02466</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.81322</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.04035</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05649</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.04886</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">65.32525</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">53.92157</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.45112</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.80130</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">9.04651</Ratio>
+			<Ratio FieldName="Employees" Type="N">2243</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.44750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.67808</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">163.58000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.04206</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">11.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00100</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

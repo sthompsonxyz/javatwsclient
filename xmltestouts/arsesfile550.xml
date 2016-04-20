@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B082B</CoID>
+		<CoID Type="CompanyName">UMC Energy Corp</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">UEP</IssueID>
+			<IssueID Type="CUSIP">G0698M101</IssueID>
+			<IssueID Type="ISIN">KYG0698M1015</IssueID>
+			<IssueID Type="RIC">UEP.L</IssueID>
+			<IssueID Type="SEDOL">BCKFPP8</IssueID>
+			<IssueID Type="DisplayRIC">UEP.L</IssueID>
+			<IssueID Type="InstrumentPI">21158400</IssueID>
+			<IssueID Type="QuotePI">21564303</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-30</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="127908217.0">484444763.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-21T09:33:55">UMC Energy Corporation is engaged in the investment in, and exploration and development of natural resources projects, specifically in a petroleum exploration project in Papua New Guinea and a uranium exploration project in Madagascar. During the year, the Company's main undertaking was the development of the Papua New Guinea petroleum project in which it holds a 30% interest and continuing interest in the Morondava uranium exploration project, based in Madagascar, in which the Company has an 80% interest. The Company has one on-shore (PPL 378) and two offshore (PPLs 374 and 375) petroleum prospecting licenses (PPLs) in Papua New Guinea. The two blocks (western and eastern) of PPL 378 are located in the Central Highlands of the Papua Fold Belt. PPL 405 is also located in the Central Highlands region of Papua New Guinea east of PPL 378. PPLs 374 and 375 are contiguous licenses located offshore in deep water in the Gulf of Papua.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-30T01:06:27">BRIEF: For the six months ended 30 June 2015, UMC Energy Corp revenues was not reported. Net loss increased from $1.3M to $4.6M. Higher net loss reflects Finance Costs-Loan charges &amp; interest pa increase of 12% to $978K (expense), Share of results of associates increase from $8K to $37K (expense). Basic Earnings per Share excluding Extraordinary Items totaled to -$0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-21T08:33:55">
+		<streetAddress line="1">Third Floor, 2-4 King Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 6QL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>36421633</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>30700046</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-01-05T15:39:58"><webSite mainCategory="Home Page">http://www.umc-energy.com</webSite><eMail mainCategory="Company Contact/E-mail">info@umc-energy.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-21T08:33:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212291" mnem="">Uranium-Radium-Vanadium Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1094" mnem="">Uranium-Radium-Vanadium Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00275</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.03300</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00000</Ratio>
+			<Ratio FieldName="EV" Type="N">11.48415</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.33222</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.68450</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-2.02350</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00418</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.01723</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00012</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00424</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-21.62327</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.15962</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

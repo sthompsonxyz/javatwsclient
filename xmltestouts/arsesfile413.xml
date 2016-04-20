@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5A34</CoID>
+		<CoID Type="CompanyName">Powerhouse Energy Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PHE</IssueID>
+			<IssueID Type="CUSIP">G7204D103</IssueID>
+			<IssueID Type="ISIN">GB00B4WQVY43</IssueID>
+			<IssueID Type="RIC">PHEG.L</IssueID>
+			<IssueID Type="SEDOL">B4WQVY4</IssueID>
+			<IssueID Type="DisplayRIC">PHEG.L</IssueID>
+			<IssueID Type="InstrumentPI">353998</IssueID>
+			<IssueID Type="QuotePI">1082517</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2011-06-29">0.1</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">0</Employees>
+		<SharesOut Date="2016-01-26" TotalFloat="293872401.0">439254323.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:11:35">PowerHouse Energy Group plc is a United Kingdom-based holding company. The Company, through its wholly owned subsidiary Pyromex Holdings AG and its subsidiaries, provides ultra-high temperature thermal reactor technology together with auxiliary waste and power solutions. The Company's zero-emission system converts a range of waste materials into useful energy products, which include syngas, hydrogen, electricity and liquid fuels. The Company's solutions include waste to energy, power generation, renewable fuels and PHE/pyromex gasification process animation. The Company's technologies enable energy recovery from municipal waste streams that would otherwise be directed to landfills and incinerators or from renewable and alternative fuels, such as biomass, lignite (brown coal), tires and plastics to create syngas for power generation or reformed into liquid fuels for transportation. The Company serves commercial, industrial and government energy consumers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-09T07:25:21">BRIEF: For the six months ended 30 June 2015, Powerhouse Energy Group PLC revenues was not reported. Net loss decreased 18% to $452K. Lower net loss reflects Administrative expenses decrease of 52% to $209K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-09T07:25:22">
+		<streetAddress line="1">Level 3,8 Cavendish Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1G 0PD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70794407</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33267336</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-11-19T03:40:06"><webSite mainCategory="Home Page">http://www.powerhouseenergy.net</webSite><eMail mainCategory="Company Contact/E-mail">inquire@powerhousegroup.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-09T07:25:22">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5020101016" mnem="">Waste to Energy Systems &amp; Equipment</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334519" mnem="">Other Measuring and Controlling Device Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="335999" mnem="">All Other Miscellaneous Electrical Equipment and Component Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3829" mnem="">Measuring/controlling Devices Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3699" mnem="">Electrical Equip/supplies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/19/2012">
+			<firstName>Robert</firstName>
+			<mI>Keith</mI>
+			<lastName>Allaun</lastName>
+			<age>53 </age>
+			<title startYear="2012" startMonth="06" startDay="19" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="2011">
+			<firstName>Nigel</firstName>
+			<mI>Brent</mI>
+			<lastName>Fitzpatrick</lastName>
+			<age>64 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="NID" abbr2="Non Ex.Ind.Dir.">Company Secretary, Non-Executive Independent Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00725</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.02050</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00515</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">7.32199</Ratio>
+			<Ratio FieldName="EV" Type="N">5.58884</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">3.18459</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.77235</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.56796</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01250</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.00987</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01103</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

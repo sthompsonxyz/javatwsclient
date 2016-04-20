@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A34DC</CoID>
+		<CoID Type="CompanyName">Tullett Prebon Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TLPR</IssueID>
+			<IssueID Type="CUSIP">G9130W106</IssueID>
+			<IssueID Type="ISIN">GB00B1H0DZ51</IssueID>
+			<IssueID Type="RIC">TLPR.L</IssueID>
+			<IssueID Type="SEDOL">B1H0DZ5</IssueID>
+			<IssueID Type="DisplayRIC">TLPR.L</IssueID>
+			<IssueID Type="InstrumentPI">538068</IssueID>
+			<IssueID Type="QuotePI">29861690</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2007-03-15">1.29399</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="Ticker">CSHA</IssueID>
+			<IssueID Type="InstrumentPI">125058926</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="Ticker">CSHB</IssueID>
+			<IssueID Type="InstrumentPI">125059137</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-06</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">2536</Employees>
+		<SharesOut Date="2016-01-04" TotalFloat="232215001.0">243516227.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:06:13">Tullett Prebon plc is a United Kingdom-based interdealer broker. The Company acts as an intermediary in the wholesale over-the-counter and exchange traded financial and commodity markets, facilitating the trading activities of its clients, in particular commercial and investment banks. It operates in the Europe and the Middle East; Americas, and Asia Pacific segments. It covers five product groups: Fixed Income Securities and their derivatives; Interest Rate Derivatives, Treasury Products, Equities and Energy. The Company operates a hybrid voice broking business, where brokers, supported by screens displaying historical data, analytics and real-time prices, discover price and liquidity. The Company also operates an information sales business, Tullett Prebon Information, which collects, cleanses, collates and distributes real-time information to data providers, and a Risk Management Services business, which provides clients with post-trade and multi-product matching services.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-06T10:48:30">BRIEF: For the six months ended 30 June 2015, Tullett Prebon Plc revenues increased 15% to L415.7M. Net income increased from L2.8M to L88.3M. Revenues reflect Energy segment increase from L46.6M to L101.2M, Interest Rate Derivatives segment increase of 8% to L76.2M, Information Sales segment increase of 19% to L27.2M, Europe and Middle East segment increase of 16% to L241.9M, Americas segment increase of 15% to L117.9M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-06T10:48:33">
+		<streetAddress line="1">155 Bishopsgate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2M 3TQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Nigel Szembel</contactName>
+		<contactTitle>IR Contact</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72007300</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72007176</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-29T08:58:47"><webSite mainCategory="Home Page">http://www.tullettprebon.com</webSite><eMail mainCategory="Company Contact/E-mail">nszembel@tullettprebon.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-06T10:48:33">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510201010" mnem="">Investment Banking &amp; Brokerage Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52312" mnem="">Securities Brokerage</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52313" mnem="">Commodity Contracts Dealing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52314" mnem="">Commodity Brokerage</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="52311" mnem="">Investment Banking and Securities Dealing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="514199" mnem="">All Other Information Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="523999" mnem="">Miscellaneous Financial Investment Activities</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6211" mnem="">Security Brokers And Dealers</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6221" mnem="">Commodity Contracts Brokers/dlrs</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6289" mnem="">Security/commodity Services Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/01/2014">
+			<firstName>John</firstName>
+			<mI>P.</mI>
+			<lastName>Phizackerley</lastName>
+			<age>53 </age>
+			<title startYear="2014" startMonth="09" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/10/2006">
+			<firstName>Paul</firstName>
+			<mI>R.</mI>
+			<lastName>Mainwaring</lastName>
+			<age>51 </age>
+			<title startYear="2012" startMonth="05" startDay="10" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="03/03/2015">
+			<firstName>Tiffany</firstName>
+			<mI></mI>
+			<lastName>Brill</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="03" startDay="03" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.32100</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.15900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.87100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.31777</Ratio>
+			<Ratio FieldName="EV" Type="N">732.31740</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">808.71740</Ratio>
+			<Ratio FieldName="AREV" Type="N">703.50000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">114.30000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">24.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11151</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.18903</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.89679</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.21594</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.16636</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16850</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">5.73293</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.14956</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">29.78208</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.75085</Ratio>
+			<Ratio FieldName="Employees" Type="N">2536</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.7778</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.63625</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">1.2000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.89352</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">795.54600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.30486</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">108.26270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.16975</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

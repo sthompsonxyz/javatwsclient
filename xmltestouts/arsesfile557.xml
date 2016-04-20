@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A9F67</CoID>
+		<CoID Type="CompanyName">Vectura Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VEC</IssueID>
+			<IssueID Type="CUSIP">G9325J100</IssueID>
+			<IssueID Type="ISIN">GB00B01D1K48</IssueID>
+			<IssueID Type="RIC">VEC.L</IssueID>
+			<IssueID Type="SEDOL">B01D1K4</IssueID>
+			<IssueID Type="DisplayRIC">VEC.L</IssueID>
+			<IssueID Type="InstrumentPI">17379582</IssueID>
+			<IssueID Type="QuotePI">17378944</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Redeem. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">126499892</IssueID>
+			<Exchange Code="LSS" Country="GBR">London Stock Exchange (SETS)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-08</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">243</Employees>
+		<SharesOut Date="2016-01-31" TotalFloat="399639990.0">410530184.0</SharesOut>
+		<CommonShareholders Date="2015-03-31">3244</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-13T07:01:27">Vectura Group plc is a product development company. The Company focuses on the development of pharmaceutical therapies for the treatment of airways-related diseases (airways diseases). The Company has eight products marketed by its partners and a portfolio of drugs in clinical development, a number of which have been licensed to pharmaceutical companies. Its portfolio comprises partnered and licensed marketed products, as well as branded and generic investigational drugs. It has various products in the pipeline, which include VR588, VR942, VR475, VR465, VR096, VR647, VR179, VR736, VR876, NVA237, QVA149, VR315, VR506 and VR632. Its marketed products include Ultibro Breezhaler, Seebri Breezhaler, AirFluSal Forspiro, ADVATE and Adept. Its licensed products include Anoro Ellipta, Relvar Ellipta/Breo Ellipta and Incruse Ellipta. It also has a range of technology platforms, which include formulation technologies, such as PowderHale and ParticleMAX, and device technology, such as GyroHaler.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-08T05:48:52">BRIEF: For the six months ended 30 September 2015, Vectura Group PLC revenues increased 35% to L26.1M. Net loss decreased 53% to L2.7M. Revenues reflect Rest of Europe segment increase of 73% to L11.6M, United Kingdom segment increase of 57% to L4.7M. Lower net loss reflects Investment Income increase from L100K to L2.3M (income), Amortisation decrease of 13% to L9.3M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T23:57:56">
+		<streetAddress line="1">One Prospect West</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CHIPPENHAM</city>
+		<state-region></state-region>
+		<postalCode>SN14 6FH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Fleur Wood</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1249</city-areacode>
+				<number>667700</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1249</city-areacode>
+				<number>667701</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1249</city-areacode>
+				<number>667701</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-08-30T09:20:03"><webSite mainCategory="Home Page">http://www.vectura.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T23:57:56">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5620104015" mnem="">Generic Pharmaceuticals</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325412" mnem="">Pharmaceutical Preparation  Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2834" mnem="">Pharmaceutical Preparations</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/24/2015">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Ward-Lilley</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="09" startDay="24" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/01/2015">
+			<firstName>Andrew</firstName>
+			<mI>J.</mI>
+			<lastName>Oakley</lastName>
+			<age>53 </age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Financial Officer, Executive Director, Company Secretary</title>
+		</officer>
+		<officer rank="3" since="01/2010">
+			<firstName>Trevor</firstName>
+			<mI>Michael</mI>
+			<lastName>Phillips</lastName>
+			<age>54 </age>
+			<title startYear="2015" startMonth="09" startDay="24" iD1="COO" abbr1="COO" iD2="DRC" abbr2="Dir.">Chief Operating Officer, President - US Operations, Director</title>
+		</officer>
+		<officer rank="4" since="01/2015">
+			<firstName>Joanne</firstName>
+			<mI></mI>
+			<lastName>Hombal</lastName>
+			<age>41 </age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Director of Human Resources</title>
+		</officer>
+		<officer rank="5" since="2013">
+			<firstName>Roger</firstName>
+			<mI></mI>
+			<lastName>Heerman</lastName>
+			<age>42 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Commercial Officer</title>
+		</officer>
+		<officer rank="6" since="09/03/2012">
+			<firstName>Karl</firstName>
+			<mI>D.</mI>
+			<lastName>Keegan</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Corporate Development Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.62500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.00100</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.42340</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.62724</Ratio>
+			<Ratio FieldName="EV" Type="N">577.11160</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">667.11160</Ratio>
+			<Ratio FieldName="AREV" Type="N">58.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">15.10000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">3.70000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00899</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.14091</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.55000</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.22307</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.06268</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">95.86207</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">1.64958</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.50192</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">180.75640</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.95457</Ratio>
+			<Ratio FieldName="Employees" Type="N">243</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.625</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.33250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">47.87861</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">71.44290</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03394</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">11.68570</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

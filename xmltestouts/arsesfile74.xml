@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3FF7</CoID>
+		<CoID Type="CompanyName">British &amp; American Investment Trust Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">BAF</IssueID>
+			<IssueID Type="CUSIP">G15036117</IssueID>
+			<IssueID Type="ISIN">GB0000653112</IssueID>
+			<IssueID Type="RIC">BAF.L</IssueID>
+			<IssueID Type="SEDOL">0065311</IssueID>
+			<IssueID Type="DisplayRIC">BAF.L</IssueID>
+			<IssueID Type="InstrumentPI">271700</IssueID>
+			<IssueID Type="QuotePI">1079467</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="1996-01-03">12.5</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="Ticker">BAFZ</IssueID>
+			<IssueID Type="InstrumentPI">126342378</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">8</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="6531834.0">25000000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T04:36:36">British &amp; American Investment Trust PLC is a United Kingdom-based investment company. The Company invests primarily in investment trusts and other United Kingdom quoted companies.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-31T23:04:51">BRIEF: For the six months ended 30 June 2015, British &amp; American Investment Trust Plc revenues increased from -L2.4M to L3.3M. Net income totaled L2.9M vs. loss of L2.7M. Revenues reflect Gains/Losses on disposal of investments increase from -L5.3M to L2M, Income from investments increase of 26% to L398K, Foreign exchange losses increase from L0K to L18K. Dividend per share remained flat at L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-08T12:59:13">
+		<streetAddress line="1">Wessex House 1 Chesham Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1X 8ND</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72013100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72013101</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-08-31T01:14:33"><webSite mainCategory="Home Page">http://www.baitgroup.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">admin@baitgroup.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-08T12:59:13">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2014">
+			<firstName>J. Anthony</firstName>
+			<mI>V.</mI>
+			<lastName>Townsend</lastName>
+			<age>67 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Jonathan</firstName>
+			<mI>C.</mI>
+			<lastName>Woolf</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.85000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.15000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.68000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00075</Ratio>
+			<Ratio FieldName="EV" Type="N">33.74300</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">21.25000</Ratio>
+			<Ratio FieldName="AREV" Type="N">-0.81500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.52300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.46900</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.05876</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.03260</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.08504</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01000</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.08000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-7.90848</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.24080</Ratio>
+			<Ratio FieldName="Employees" Type="N">8</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

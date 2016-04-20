@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3820</CoID>
+		<CoID Type="CompanyName">Tribal Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TRB</IssueID>
+			<IssueID Type="CUSIP">G9042N103</IssueID>
+			<IssueID Type="ISIN">GB0030181522</IssueID>
+			<IssueID Type="RIC">TRBG.L</IssueID>
+			<IssueID Type="SEDOL">3018152</IssueID>
+			<IssueID Type="DisplayRIC">TRBG.L</IssueID>
+			<IssueID Type="InstrumentPI">564042</IssueID>
+			<IssueID Type="QuotePI">953548</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2001-11-21">1.00992</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-18</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1411</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="89919964.0">94849241.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:46:02">Tribal Group plc is a United Kingdom-based provider of software and services that support the management of education. The Company operates in four business segments: Product Development and Customer Services, Implementation Services, Professional and Business Solutions and Quality Assurance Solutions. The Company's Product Development and Customer Services segment represents the delivery of software and subsequent maintenance and support services. The Company's Implementation Services segment represents the activities through which it deploys and configures its software for its customers. The Company's Professional and Business Solutions segment represents a portfolio of performance improvement tools and services, including analytics, benchmarking and transformation services. The Company's Quality Assurance Solutions segment represents inspection and review services, which support the assessment of educational delivery.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-18T05:42:18">BRIEF: For the six months ended 30 June 2015, Tribal Group plc revenues decreased 8% to L58M. Net loss before extraordinary items decreased 26% to L6.3M. Revenues reflect Professional and Business Solutions segment decrease of 31% to L7.4M, Quality segment decrease of 7% to L18.2M, Implementationa Services segment decrease of 8% to L8.5M, United Kingdom segment decrease of 7% to L40.2M, Asia Pacific (Region) segment decrease of 10% to L12.4M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T00:28:58">
+		<streetAddress line="1">Kings Orchard, 1 Queen Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BRISTOL</city>
+		<state-region></state-region>
+		<postalCode>BS2 0HQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>845</city-areacode>
+				<number>1236001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-27T03:54:29"><webSite mainCategory="Home Page">http://www.tribalgroup.com/Pages/default.aspx</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T00:28:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304015" mnem="">Educational Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="61171" mnem="">Educational Support Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="62161" mnem="">Home Health Care Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541611" mnem="">Administrative Management and General Management Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8299" mnem="">Schools/educational Services, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8082" mnem="">Home Health Care Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/01/2015">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>Garner</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="07" startDay="01" iD1="CEO" abbr1="CEO" iD2="" abbr2="">Interim Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="01/01/2010">
+			<firstName>Steve</firstName>
+			<mI>D.</mI>
+			<lastName>Breach</lastName>
+			<age>46 </age>
+			<title startYear="2014" startMonth="05" startDay="19" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="05/19/2014">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>Ewin</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="19" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+		<officer rank="4" since="03/01/2016">
+			<firstName>Ian</firstName>
+			<mI>J.</mI>
+			<lastName>Bowles</lastName>
+			<age>54 </age>
+			<title startYear="2016" startMonth="02" startDay="17" iD1="DRC" abbr1="Dir." iD2="" abbr2="">Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.46000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.88000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.19157</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.37766</Ratio>
+			<Ratio FieldName="EV" Type="N">55.30865</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">43.63065</Ratio>
+			<Ratio FieldName="AREV" Type="N">123.70300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">22.35400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-7.74800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.08237</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.31514</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.57615</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.09852</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01942</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">40.15667</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-12.61098</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.35270</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.79841</Ratio>
+			<Ratio FieldName="Employees" Type="N">1411</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.22222</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">113.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.04500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">5.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.01800</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

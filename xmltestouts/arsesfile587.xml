@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EDEB1</CoID>
+		<CoID Type="CompanyName">Zoopla Property Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ZPLA</IssueID>
+			<IssueID Type="CUSIP">G98930103</IssueID>
+			<IssueID Type="ISIN">GB00BMHTHT14</IssueID>
+			<IssueID Type="RIC">ZPLAZ.L</IssueID>
+			<IssueID Type="SEDOL">BMHTHT1</IssueID>
+			<IssueID Type="DisplayRIC">ZPLAZ.L</IssueID>
+			<IssueID Type="InstrumentPI">152047220</IssueID>
+			<IssueID Type="QuotePI">152240239</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-24</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">303</Employees>
+		<SharesOut Date="2016-02-19" TotalFloat="213679648.0">417953683.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-04-28T23:56:16">Zoopla Property Group Plc is a United Kingdom-based company that is engaged in digital media business. The Company owns and operates online property brands, including Zoopla, PrimeLocation, SmartNewHomes and HomesOverseas. The Company provides online resources to property consumers. The Company's products, such as ZooplaPro and MarketView, provide members with information on their marketing performance and their competitive position in a local area. The Company has over 19,600 estate agents, lettings agents and new homes developers across the United Kingdom who advertise on its Websites. In addition to operating its own Websites, the Company powers the property search facility on a number of other United Kingdom Websites.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-21T13:22:27">BRIEF: For the fiscal year ended 30 September 2015, Zoopla Property Group PLC revenues increased 34% to L107.6M. Net income increased 20% to L25.4M. Revenues reflect Comparison Services segment increase from L0K to L27.7M. Net income was partially offset by Finance income : Interest Received decrease of 9% to L184K (income). Dividend per share increased from L0.01 to L0.04.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-02T00:01:28">
+		<streetAddress line="1">Harlequin Building 65 Southwark Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SE1 0HR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76204770</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-09T00:01:58"><webSite mainCategory="Home Page">http://www.zpg.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-02T00:01:28">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330201019" mnem="">Digital Media Agencies</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Alexander Edward</firstName>
+			<mI></mI>
+			<lastName>Chesterman</lastName>
+			<age>44 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="FDR" abbr2="Fndr.">Chief Executive Officer, Founder, Director</title>
+		</officer>
+		<officer rank="2" since="04/18/2016">
+			<firstName>Andrew</firstName>
+			<mI/>
+			<lastName>Botha</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="04" startDay="18" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="04/15/2013">
+			<firstName>Stephen</firstName>
+			<mI>Gavin</mI>
+			<lastName>Morana</lastName>
+			<age>44 </age>
+			<title startYear="2013" startMonth="04" startDay="15" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Ned</firstName>
+			<mI></mI>
+			<lastName>Staple</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.17300</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.86150</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.59020</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.05683</Ratio>
+			<Ratio FieldName="EV" Type="N">1001.44640</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">908.21340</Ratio>
+			<Ratio FieldName="AREV" Type="N">107.55600</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">46.82100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">25.38300</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.06039</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.25588</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.28040</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.04592</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.07008</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">23.56704</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">8.44410</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">35.98278</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">7.74963</Ratio>
+			<Ratio FieldName="Employees" Type="N">303</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.375</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.69625</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">24.9270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">20.27241</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">170.13240</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.10719</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">53.92600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04429</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

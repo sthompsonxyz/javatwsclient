@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AEBB1</CoID>
+		<CoID Type="CompanyName">Hargreaves Lansdown PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HL.</IssueID>
+			<IssueID Type="CUSIP">G43940108</IssueID>
+			<IssueID Type="ISIN">GB00B1VZ0M25</IssueID>
+			<IssueID Type="RIC">HRGV.L</IssueID>
+			<IssueID Type="SEDOL">B1VZ0M2</IssueID>
+			<IssueID Type="DisplayRIC">HRGV.L</IssueID>
+			<IssueID Type="InstrumentPI">32687550</IssueID>
+			<IssueID Type="QuotePI">33388658</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-03</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-12-31">964</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="316320981.0">474318625.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-11T03:34:19">Hargreaves Lansdown Plc is a financial service provider and asset management company. The Company offers a range of services, including self-select individual savings accounts (ISAs), funds, shares, self-invested personal pension (SIPPs) and group SIPPs. It operates in three business segments: the Vantage division, the Discretionary division and the Third Party/Other Services division. The Vantage division includes activities related to its direct to private investor platform. The Discretionary or Managed division is focused on the provision of managed services, such as portfolio management service (PMS) and range of multi-manager funds. The Third Party/Other Services division includes activities relating to the broking of third party investments and pensions, certificated share dealing and other services such as currency, contracts for difference (CFD) and spread betting. It has operations in fund supermarkets, fund managing, discount brokering and stock brokering, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-03T14:34:22">BRIEF: For the six months ended 31 December 2015, Hargreaves Lansdown PLC revenues increased 2% to L200.7M. Net income increased 9% to L86.7M. Revenues reflect Vantage segment increase of 10% to L119.3M, Discretionary segment increase of 19% to L29.2M. Net income benefited from Commission payable decrease of 21% to L41.9M (expense), Dividends from equity investment increase from L0K to L27K (income). Dividend per share increased from L0.07 to L0.08.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-04T22:53:31">
+		<streetAddress line="1">One College Square South Anchor Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BRISTOL</city>
+		<state-region></state-region>
+		<postalCode>BS1 5HL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-11T02:34:47"><webSite mainCategory="Home Page">http://www.hl.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">ir@hl.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-04T22:53:31">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202011" mnem="">Investment Management</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52312" mnem="">Securities Brokerage</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52519" mnem="">Other Insurance Funds</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6211" mnem="">Security Brokers And Dealers</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6733" mnem="">Trusts, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2009">
+			<firstName>Ian</firstName>
+			<mI></mI>
+			<lastName>Gorham</lastName>
+			<age>44 </age>
+			<title startYear="2010" startMonth="09" startDay="02" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="02/04/2016">
+			<firstName>Christopher</firstName>
+			<mI>F.</mI>
+			<lastName>Hill</lastName>
+			<age>44 </age>
+			<title startYear="2016" startMonth="02" startDay="04" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="06/2015">
+			<firstName>Vikki</firstName>
+			<mI></mI>
+			<lastName>Williams</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="06" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Lee</firstName>
+			<mI></mI>
+			<lastName>Gardhouse</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="CIN" abbr1="Chief Inv.Off." iD2="" abbr2="">Chief Investment Officer</title>
+		</officer>
+		<officer rank="5" since="11/2011">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Davies</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="" iD1="CIO" abbr1="CIO" iD2="" abbr2="">Chief Information Officer</title>
+		</officer>
+		<officer rank="6" since="03/25/2010">
+			<firstName>Judy</firstName>
+			<mI></mI>
+			<lastName>Matthews</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="03" startDay="25" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel and Company Secretary</title>
+		</officer>
+		<officer rank="7" since="01/2015">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>Byett</lastName>
+			<age>41 </age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Risk and Compliance Director</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Dampier</lastName>
+			<age>58 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Research Director</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Ian</firstName>
+			<mI></mI>
+			<lastName>Hunter</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Commercial Director</title>
+		</officer>
+		<officer rank="10" since="NA">
+			<firstName>Stuart</firstName>
+			<mI>W.</mI>
+			<lastName>Louden</lastName>
+			<age>43 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Savings Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">12.55000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">15.33000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">10.14540</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.92568</Ratio>
+			<Ratio FieldName="EV" Type="N">5742.63900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">5952.69900</Ratio>
+			<Ratio FieldName="AREV" Type="N">395.13700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">206.84800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">156.66400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.33071</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.83412</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.49875</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.44287</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.34119</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.21600</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">67.48119</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">15.06490</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">37.94866</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">25.16295</Ratio>
+			<Ratio FieldName="Employees" Type="N">964</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.3125</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">12.24214</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">16.6552</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">34.02836</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">334.80740</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.36881</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">219.30510</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.34510</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

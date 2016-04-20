@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EE329</CoID>
+		<CoID Type="CompanyName">Kennedy Wilson Europe Real Estate PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">KWE</IssueID>
+			<IssueID Type="CUSIP">G9877R104</IssueID>
+			<IssueID Type="ISIN">JE00BJT32513</IssueID>
+			<IssueID Type="RIC">KWE.L</IssueID>
+			<IssueID Type="SEDOL">BJT3251</IssueID>
+			<IssueID Type="DisplayRIC">KWE.L</IssueID>
+			<IssueID Type="InstrumentPI">153086773</IssueID>
+			<IssueID Type="QuotePI">153140591</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-10-03">1.01007</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-03</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-11-10" TotalFloat="111222528.0">136099957.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-05-13T14:24:42">Kennedy Wilson Europe Real Estate Plc is a property company. The Company invests in real estate and real estate loans across Europe. The Companys portfolio is primarily invested across office and retail in the United Kingdom and Ireland, weighted towards London, the South East and Dublin.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-03T12:46:23">BRIEF: For the six months ended 30 June 2015, Kennedy Wilson Europe Real Estate PLC revenues increased from L30M to L204.9M. Net income increased from L24.2M to L149.3M. Revenues reflect Real estate United Kingdom segment increase from L7.4M to L64.7M, United Kingdom segment increase from L24.9M to L107.3M, Republic of Ireland segment increase from L3.7M to L65.9M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T12:46:24">
+		<streetAddress line="1">50 Grosvenor Hill</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1K 3QT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Juliana Dalton</contactName>
+		<contactTitle>Investor Relations Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77343993</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>7479 7429</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-20T04:59:50"><webSite mainCategory="Home Page">http://www.kennedywilsoneuropeplc.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@kennedywilson.eu</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T12:46:24">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540201010" mnem="">Real Estate Development &amp; Operations - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="53111" mnem="">Lessors of Residential Buildings and Dwellings</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6513" mnem="">Apartment Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/23/2014">
+			<firstName>Mary</firstName>
+			<mI>L.</mI>
+			<lastName>Ricks</lastName>
+			<age>50 </age>
+			<title startYear="2014" startMonth="01" startDay="23" iD1="IVM" abbr1="Inv. Mgr." iD2="NED" abbr2="Non Ex. Dir.">Investment Manager Director, Non-Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">10.64000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.53000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">9.83000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.29976</Ratio>
+			<Ratio FieldName="EV" Type="N">1521.30400</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1448.10400</Ratio>
+			<Ratio FieldName="AREV" Type="N">122.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">90.80000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">78.50000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.57956</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.90146</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">10.27400</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">3.49415</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.58473</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.06000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">93.12039</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.85998</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">18.35875</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.03562</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">13.14750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">33.7000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">6.36706</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">140.26750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.67110</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">259.65000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.35870</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

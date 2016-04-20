@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3330</CoID>
+		<CoID Type="CompanyName">SEGRO plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Real Estate Trust</IssueID>
+			<IssueID Type="Ticker">SGRO</IssueID>
+			<IssueID Type="CUSIP">G81821103</IssueID>
+			<IssueID Type="ISIN">GB00B5ZN1N88</IssueID>
+			<IssueID Type="RIC">SGRO.L</IssueID>
+			<IssueID Type="SEDOL">B5ZN1N8</IssueID>
+			<IssueID Type="DisplayRIC">SGRO.L</IssueID>
+			<IssueID Type="InstrumentPI">262729</IssueID>
+			<IssueID Type="QuotePI">1079431</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-07-31">0.1</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Conv. Pref. Shrs</IssueID>
+			<IssueID Type="Ticker">SLOA</IssueID>
+			<IssueID Type="CUSIP">G81821129</IssueID>
+			<IssueID Type="ISIN">GB0008196825</IssueID>
+			<IssueID Type="RIC">SLOUpa.L^I06</IssueID>
+			<IssueID Type="InstrumentPI">293223</IssueID>
+			<IssueID Type="QuotePI">1254127</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">253</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="744584215.0">747709598.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:36:58">SEGRO plc is a real estate investment trust. The Company owns, develops and manages warehouse and industrial property assets in the United Kingdom and Continental Europe. Its portfolio of warehouse and light industrial buildings are located in four European countries: the United Kingdom, France, Germany and Poland. The Company operates in five geographic segments: Greater London, which manages its wholly owned and joint venture holdings around Heathrow Airport and in Park Royal; Thames Valley and National Logistics, which includes Slough Trading Estate, Thames Valley and big box logistics outside London; Northern Europe, which manages the Company's wholly owned and SEGRO European Logistics Partnership (SELP) joint venture assets in Germany, Belgium and the Netherlands; Southern Europe segment, which manages its wholly owned and SELP joint venture assets in France and Italy, and Central Europe segment, which is engaged in managing its assets in Poland, the Czech Republic and Hungary.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T13:07:53">BRIEF: For the fiscal year ended 31 December 2015, SEGRO plc revenues decreased 2% to L210.7M. Net income increased less than 1% to L682.5M. Revenues reflect Trading Property Rental Income decrease of 47% to L4.1M, Surrender Premiums decrease of 74% to L800K, Rental Income From Investment Property decrease of 1% to L198.6M. Net income reflects Fair Value Losses on Interest Rate Swaps decrease of 24% to L24.3M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T13:07:58">
+		<streetAddress line="1">Cunard House, 15 Regent Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 4LR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Harry Stokes</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74519100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74519150</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>207</city-areacode>
+				<number>4519124</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-17T14:22:55"><webSite mainCategory="Home Page">http://www.segro.com</webSite><eMail mainCategory="Company Contact/E-mail">Harry.Stokes@SEGRO.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T13:07:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540302010" mnem="">Commercial REITs - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53113" mnem="">Lessors of Miniwarehouses and Self Storage Units</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4225" mnem="">General Warehousing And Storage</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/01/2006">
+			<firstName>David</firstName>
+			<mI>J. R.</mI>
+			<lastName>Sleath</lastName>
+			<age>53 </age>
+			<title startYear="2011" startMonth="08" startDay="30" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="08/30/2011">
+			<firstName>Justin</firstName>
+			<mI>Richard</mI>
+			<lastName>Read</lastName>
+			<age>53 </age>
+			<title startYear="2011" startMonth="08" startDay="30" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Andrew</firstName>
+			<mI>S.</mI>
+			<lastName>Gulliford</lastName>
+			<age>52 </age>
+			<title startYear="2013" startMonth="05" startDay="01" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="11/04/2011">
+			<firstName>Phil</firstName>
+			<mI></mI>
+			<lastName>Redding</lastName>
+			<age>46 </age>
+			<title startYear="2013" startMonth="05" startDay="01" iD1="CIN" abbr1="Chief Inv.Off." iD2="EDR" abbr2="Exec. Dir.">Chief Investment Officer, Executive Director</title>
+		</officer>
+		<officer rank="5" since="05/21/2008">
+			<firstName>Elizabeth</firstName>
+			<mI></mI>
+			<lastName>Blease</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="05" startDay="21" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="6" since="2011">
+			<firstName>Liz</firstName>
+			<mI></mI>
+			<lastName>Reilly</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group HR Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.24300</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.66700</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.01400</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.77195</Ratio>
+			<Ratio FieldName="EV" Type="N">4979.03200</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">3172.53200</Ratio>
+			<Ratio FieldName="AREV" Type="N">210.70000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">143.20000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">682.50000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.91672</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.28301</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.66745</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02193</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.92183</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.15600</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">82.10726</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">21.39934</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">15.05710</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">4.62846</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.90906</Ratio>
+			<Ratio FieldName="Employees" Type="N">253</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3684</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">4.67421</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">3.9000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.56795</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">243.62430</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.18801</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">141.41050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.16043</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

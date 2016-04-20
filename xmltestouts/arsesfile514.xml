@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3206</CoID>
+		<CoID Type="CompanyName">STV Group Plc.</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">STVG</IssueID>
+			<IssueID Type="CUSIP">G8226W137</IssueID>
+			<IssueID Type="ISIN">GB00B3CX3644</IssueID>
+			<IssueID Type="RIC">STVG.L</IssueID>
+			<IssueID Type="SEDOL">B3CX364</IssueID>
+			<IssueID Type="DisplayRIC">STVG.L</IssueID>
+			<IssueID Type="InstrumentPI">262580</IssueID>
+			<IssueID Type="QuotePI">1081169</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2008-10-01">0.05</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">411</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="34469539.0">39298231.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:14:34">STV Group plc is a United Kingdom-based company which is engaged in the production and broadcasting of television programs, Internet services and the sale of advertising airtime and space in these media. The Company is focused on its television and digital media business. The Company's segments include Consumer and Productions. Its Consumer segment delivers content to attract mass audiences which are sold to advertisers to generate revenues. The content is delivered across multiple platforms, including digital, terrestrial, cable and satellite, online and through connected devices, such as games consoles and Smart televisions (TVs). Its Productions segment produces content for broadcast networks in the United Kingdom and overseas. Its subsidiaries include STV Central Limited, STV North Limited, STV Productions Limited, Solutions.tv Limited, Ginger Television Productions Limited and STV Glasgow Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-27T23:45:09">BRIEF: For the six months ended 30 June 2015, STV Group Plc. revenues decreased 2% to L53.6M. Net income decreased 13% to L6.2M. Revenues reflect Productions segment decrease of 56% to L1.7M. Net income also reflects Consumer segment income decrease of 11% to L9.7M. Dividend per share increased from L0.02 to L0.03. Basic Earnings per Share excluding Extraordinary Items decreased from L0.19 to L0.16.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-01T20:58:06">
+		<streetAddress line="1">Pacific Quay</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>GLASGOW</city>
+		<state-region></state-region>
+		<postalCode>G51 1PQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Eleanor Marshall</contactName>
+		<contactTitle>PR Manager</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>141</city-areacode>
+				<number>3003000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>141</city-areacode>
+				<number>3003030</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0141</city-areacode>
+				<number>3003670</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-15T02:08:02"><webSite mainCategory="Home Page">http://www.stvplc.tv</webSite><eMail mainCategory="Company Contact/E-mail">eleanor.marshall@stv.tv</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-01T20:58:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330203010" mnem="">Entertainment Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51211" mnem="">Motion Picture and Video Production</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51312" mnem="">Television Broadcasting</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="54184" mnem="">Media Representatives</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="514199" mnem="">All Other Information Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7812" mnem="">Motion Picture &amp; Video Production</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4833" mnem="">Television Broadcasting Stations</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7313" mnem="">Radio/tv/publisher Representative</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/28/2007">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>Woodward</lastName>
+			<age>55 </age>
+			<title startYear="2007" startMonth="02" startDay="28" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="1998">
+			<firstName>George</firstName>
+			<mI></mI>
+			<lastName>Watt</lastName>
+			<age>47 </age>
+			<title startYear="2001" startMonth="02" startDay="" iD1="CFO" abbr1="CFO" iD2="FID" abbr2="Fin. Dir.">Chief Financial Officer, Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Jane</firstName>
+			<mI>E.A.</mI>
+			<lastName>Tames</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.29000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.20000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.38000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.04583</Ratio>
+			<Ratio FieldName="EV" Type="N">197.98940</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">168.58940</Ratio>
+			<Ratio FieldName="AREV" Type="N">120.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">21.50000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">14.70000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.37600</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.07928</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.08906</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.50384</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.42711</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.08000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">264.86490</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.40024</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">11.40957</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">48.16812</Ratio>
+			<Ratio FieldName="Employees" Type="N">411</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.65333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.97776</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">124.32500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">73.16670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.39079</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.22500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">19.34080</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.10000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

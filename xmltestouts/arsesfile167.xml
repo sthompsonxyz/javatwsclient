@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3093</CoID>
+		<CoID Type="CompanyName">DCC plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DCC</IssueID>
+			<IssueID Type="CUSIP">G2689P101</IssueID>
+			<IssueID Type="ISIN">IE0002424939</IssueID>
+			<IssueID Type="RIC">DCC.L</IssueID>
+			<IssueID Type="SEDOL">0242493</IssueID>
+			<IssueID Type="DisplayRIC">DCC.L</IssueID>
+			<IssueID Type="InstrumentPI">354135</IssueID>
+			<IssueID Type="QuotePI">1081225</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-09</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">9447</Employees>
+		<SharesOut Date="2015-11-30" TotalFloat="84080397.0">88507328.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-13T06:57:21">DCC plc is an international sales, marketing, distribution and business support services company. The Company has four operating segments: DCC Energy, DCC Technology, DCC Healthcare and DCC Environmental. The Company's DCC Energy markets and sells oil products and services for transport, commercial/industrial, marine, aviation and home heating use in Europe. The Company's DCC Technology sells, markets and distributes a range of consumer, and small and medium-sized enterprise (SME) focused technology products in Europe. The Company's DCC Healthcare sells, markets and distributes pharmaceutical and medical devices in British and Irish markets. DCC Healthcare also provides outsourced product development, manufacturing, packaging and other services to health and beauty brand owners in Europe. The Company's DCC Environmental provides a range of waste management and recycling services to the industrial, commercial, construction and public sectors in Britain and Ireland.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-09T08:54:05">BRIEF: For the six months ended 30 September 2015, DCC plc revenues decreased 7% to L5.07B. Net income decreased 2% to L41.3M. Revenues reflect DCC Energy segment decrease of 10% to L3.66B. Net income also reflects DCC Sercom/Technology segment income decrease of 61% to L5M. Dividend per share increased from L0.29 to L0.33. Basic Earnings per Share excluding Extraordinary Items decreased from L0.50 to L0.47.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-09T08:54:10">
+		<streetAddress line="1">DCC House, Brewery Road</streetAddress>
+		<streetAddress line="2">Stillorgan, Blackrock, Co. Dublin</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DUBLIN</city>
+		<state-region></state-region>
+		<postalCode></postalCode>
+		<country code="IRL">Ireland</country>
+		<contactName>Stephen Casey</contactName>
+		<contactTitle>Finance &amp; Development Director - DCC Food &amp; Beverage, Investor Relations Manager</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>353</countryPhoneCode>
+				<city-areacode>1</city-areacode>
+				<number>2799400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>353</countryPhoneCode>
+				<city-areacode>1</city-areacode>
+				<number>2831017</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-07T15:33:14"><webSite mainCategory="Home Page">http://www.dcc.ie</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@dcc.ie</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-09T08:54:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010203010" mnem="">Oil &amp; Gas Refining and Marketing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="42272" mnem="">Petroleum and Petroleum Products (except Bulk Stations and Terminals) Wholesalers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42162" mnem="">Electrical Appliance, Television and Radio Set Wholesalers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="42169" mnem="">Other Electronic Parts and Equipment Wholesalers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="42145" mnem="">Medical, Dental and Hospital Equipment and Supplies Wholesalers</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="562211" mnem="">Hazardous Waste Treatment and Disposal</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="42248" mnem="">Fresh Fruit and Vegetable Wholesalers</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="42249" mnem="">Other Grocery and Related Products Wholesalers</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="42282" mnem="">Wine and Distilled Alcoholic Beverage Wholesalers</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="42242" mnem="">Packaged Frozen Food Wholesalers</Industry>
+			<Industry type="NAICS" order="10" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5172" mnem="">Petroleum Products, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5064" mnem="">Electrical Appliances/tv/radios</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5065" mnem="">Electronic Parts And Equipment</Industry>
+			<Industry type="SIC" order="4" reported="0" code="5047" mnem="">Medical And Hospital Equipment</Industry>
+			<Industry type="SIC" order="5" reported="0" code="4953" mnem="">Refuse Systems</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5148" mnem="">Fresh Fruits And Vegetables</Industry>
+			<Industry type="SIC" order="7" reported="0" code="5149" mnem="">Groceries/related Products, Nec</Industry>
+			<Industry type="SIC" order="8" reported="0" code="5182" mnem="">Wine And Distilled Beverages</Industry>
+			<Industry type="SIC" order="9" reported="0" code="5142" mnem="">Packaged Frozen Foods</Industry>
+			<Industry type="SIC" order="10" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Tommy</firstName>
+			<mI></mI>
+			<lastName>Breen</lastName>
+			<age>56 </age>
+			<title startYear="2008" startMonth="05" startDay="27" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="1994">
+			<firstName>Fergal</firstName>
+			<mI></mI>
+			<lastName>O'Dwyer</lastName>
+			<age>55 </age>
+			<title startYear="2000" startMonth="02" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Conor</firstName>
+			<mI></mI>
+			<lastName>Murphy</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="" abbr2="">Finance Director - DCC Energy</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Quinn</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="06" startDay="03" iD1="CIO" abbr1="CIO" iD2="" abbr2="">Chief Information Officer</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Donal</firstName>
+			<mI></mI>
+			<lastName>Murphy</lastName>
+			<age>49 </age>
+			<title startYear="2008" startMonth="12" startDay="01" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director - DCC Energy, Executive Director</title>
+		</officer>
+		<officer rank="6" since="2006">
+			<firstName>Conor</firstName>
+			<mI></mI>
+			<lastName>Costigan</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - DCC Healthcare</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Niall</firstName>
+			<mI></mI>
+			<lastName>Ennis</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - DCC Technology</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Scholefield</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - DCC Corporate Finance</title>
+		</officer>
+		<officer rank="9" since="2013">
+			<firstName>Stephen</firstName>
+			<mI></mI>
+			<lastName>Casey</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="IRC" abbr2="IR-Contact">Finance &amp; Development Director - DCC Food &amp; Beverage, Investor Relations Manager</title>
+		</officer>
+		<officer rank="10" since="NA">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Barcroft</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Group Sustainability</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">56.60000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">60.60000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">37.78000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.29661</Ratio>
+			<Ratio FieldName="EV" Type="N">5212.43100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">5009.51500</Ratio>
+			<Ratio FieldName="AREV" Type="N">10606.08000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">277.07800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">144.42700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.70730</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">125.37630</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">11.69686</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">15.00798</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">2.68422</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.84540</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">7.77073</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">15.01191</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.47232</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">33.15176</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.83891</Ratio>
+			<Ratio FieldName="Employees" Type="N">9447</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.0833</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">55.89546</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">11.6333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.39535</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">11630.51820</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">2.52731</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">255.77180</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.98312</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

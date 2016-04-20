@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A6B4C</CoID>
+		<CoID Type="CompanyName">Hygea VCT Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">HYG</IssueID>
+			<IssueID Type="CUSIP">G1124L105</IssueID>
+			<IssueID Type="ISIN">GB0031256109</IssueID>
+			<IssueID Type="RIC">HYG.L</IssueID>
+			<IssueID Type="SEDOL">3125610</IssueID>
+			<IssueID Type="DisplayRIC">HYG.L</IssueID>
+			<IssueID Type="InstrumentPI">7232129</IssueID>
+			<IssueID Type="QuotePI">7232121</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="3055812.0">8115376.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:06:15">Hygea vct plc is a United Kingdom-based venture capital trust (VCT) that invests its funds in a portfolio of unquoted and quoted United Kingdom medical technology (MedTech) companies. The Company's objective is to provide shareholders with an attractive income and capital return by investing its funds in a portfolio of unquoted and quoted United Kingdom MedTech companies which meet the relevant criteria under the VCT Rules and conform to the investment template. The Company's portfolio of unquoted investment includes Hallmarq Veterinary Imaging Limited, Arecor Limited, Insense Limited, Wound Solutions Limited and Axon Limited, among others. Its portfolio of quoted investment includes Scancell plc, Omega Diagnostics plc, EKF Diagnostics plc and EpiStem Holdings plc, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-01T01:16:03">BRIEF: For the six months ended 30 June 2015, Hygea VCT Plc revenues decreased 53% to -L307K. Net loss increased 35% to L383K. Revenues reflect Loss on Valuation of Fixed Asset Investm decrease of 48% to -L407K, Income decrease from L5K to L0K. Basic Earnings per Share excluding Extraordinary Items decreased from -L0.04 to -L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-08T00:37:50">
+		<streetAddress line="1">Steane Grounds Farm/Steane/Northants</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BRACKLEY</city>
+		<state-region></state-region>
+		<postalCode>NN13 5NP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1280</city-areacode>
+				<number>703482</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1280</city-areacode>
+				<number>706546</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-04T07:47:25"><webSite mainCategory="Home Page">http://www.hygeavct.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-08T00:37:50">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202015" mnem="">Venture Capital</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52391" mnem="">Miscellaneous Intermediation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="523999" mnem="">Miscellaneous Financial Investment Activities</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6799" mnem="">Investors, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6289" mnem="">Security/commodity Services Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Craig</firstName>
+			<mI></mI>
+			<lastName>Hunter</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.52000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.70490</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.48000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00040</Ratio>
+			<Ratio FieldName="EV" Type="N">4.20400</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.22000</Ratio>
+			<Ratio FieldName="AREV" Type="N">-0.33200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.49500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.49500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.06100</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.04091</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.90372</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00197</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-6.52905</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.57540</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

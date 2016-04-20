@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AD8FF</CoID>
+		<CoID Type="CompanyName">South African Property Opportunities Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SAPO</IssueID>
+			<IssueID Type="CUSIP">G8288M100</IssueID>
+			<IssueID Type="ISIN">GB00B16GQJ90</IssueID>
+			<IssueID Type="RIC">SAPO.L</IssueID>
+			<IssueID Type="SEDOL">B16GQJ9</IssueID>
+			<IssueID Type="DisplayRIC">SAPO.L</IssueID>
+			<IssueID Type="InstrumentPI">28011029</IssueID>
+			<IssueID Type="QuotePI">28632940</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-14</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">2</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="44217074.0">62292810.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-02-23T08:03:19">South African Property Opportunities plc (SAPRO) is a closed-end company. The Company's investment objective is to achieve capital growth from the development and subsequent sale of a portfolio of real estate assets in South Africa. SAPRO's portfolio includes real estate assets across the commercial, industrial and residential sectors in South Africa. SAPRO portfolio consists mainly of development sites, which are spread across industrial, mixed use and residential developments. The investments have been made in Gauteng, South Africa's powerhouse, with some developments in KwaZulu Natal. The Company's investment Manager is Bridgehead Real Estate Fund (Pty) Limited. Its subsidiaries include Business Venture Investments No 1172 (Pty) Limited, Imbonini Park (Pty) Ltd, Imbonini Park Phase 2 (Pty) Ltd, Madison Park Properties 40 (Pty) Limited, SAPSPV Holdings RSA (Pty) Limited and Business Venture Investments No 1187 (Pty) Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-14T13:06:54">BRIEF: For the fiscal year ended 30 June 2015, South African Property Opportunities Plc revenues decreased 89% to L1.4M. Net loss decreased 29% to L6.7M. Revenues reflect Revenue  sale of inventory decrease of 90% to L1.4M, Revenue  rental income decrease of 71% to L35K. Lower net loss reflects Foreign exchange loss decrease of 86% to L1.1M (expense), Other administration fees and expenses decrease of 26% to L629K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T08:03:19">
+		<streetAddress line="1">Millenium House, 46 Athol Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DOUGLAS</city>
+		<state-region></state-region>
+		<postalCode>IM1 1JB</postalCode>
+		<country code="IMN">Isle of Man</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>692600</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>692601</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-01-05T10:56:15"><webSite mainCategory="Home Page">http://www.saprofund.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T08:03:19">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/05/2009">
+			<firstName>John</firstName>
+			<mI>David</mI>
+			<lastName>Chapman</lastName>
+			<age>59 </age>
+			<title startYear="2009" startMonth="03" startDay="05" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/05/2009">
+			<firstName>Craig</firstName>
+			<mI>Justin</mI>
+			<lastName>McMurray</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="03" startDay="05" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.08000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.15091</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.05500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00085</Ratio>
+			<Ratio FieldName="EV" Type="N">3.15942</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.98342</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.42300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-5.36100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-6.68600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.10733</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.02284</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.21490</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05046</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-304.14620</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-36.41116</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.50206</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.37226</Ratio>
+			<Ratio FieldName="Employees" Type="N">2</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

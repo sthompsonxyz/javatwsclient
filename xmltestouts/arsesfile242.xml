@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA2EA</CoID>
+		<CoID Type="CompanyName">Good Energy Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GOOD</IssueID>
+			<IssueID Type="CUSIP">G6257U103</IssueID>
+			<IssueID Type="ISIN">GB0033600353</IssueID>
+			<IssueID Type="RIC">GOODG.L</IssueID>
+			<IssueID Type="SEDOL">3360035</IssueID>
+			<IssueID Type="DisplayRIC">GOODG.L</IssueID>
+			<IssueID Type="InstrumentPI">17963314</IssueID>
+			<IssueID Type="QuotePI">113275198</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2013-07-12">1.01001</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">228</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="6293504.0">14970680.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:06:00">Good Energy Group PLC is a United Kingdom-based Company, whose principal activities are those of a holding and management company to the Company and a lender to, and seller of, generation development sites. The principal activities of its subsidiaries are the purchase, generation and sale of electricity from renewable sources, the sale of gas and services relating to micro-renewable generation and the development of new electricity generation sites. Its segments include supply companies (including electricity supply, Feed-in Tariff administration and gas supply); electricity generation companies (including wind and solar generation companies); generation development (including early stage development companies), and holding companies. Some of the its subsidiaries include Good Energy Limited, Good Energy Generation Limited, Good Energy Gas Limited, Good Energy Generation Holding Company No.1 Limited, Good Energy Delabole Wind Farm Limited and Good Energy Carloggas Solar Park Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-15T03:07:41">BRIEF: For the six months ended 30 June 2015, Good Energy Group Plc revenues increased 47% to L32.6M. Net income increased 39% to L370K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income was partially offset by Finance Costs  including exceptional ite increase from L387K to L1.8M (expense), Administrative expenses increase of 19% to L7.9M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T03:07:47">
+		<streetAddress line="1">Monkton Reach, Monkton Hill</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CHIPPENHAM</city>
+		<state-region></state-region>
+		<postalCode>SN15 1EE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1249</city-areacode>
+				<number>766090</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-06T08:01:31"><webSite mainCategory="Home Page">http://www.goodenergygroup.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">goodenergygroup@good-energy.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T03:07:47">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5910101011" mnem="">Renewable Utilities</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="221119" mnem="">Other Electric Power Generation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="221122" mnem="">Electric Power Distribution</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="22121" mnem="">Natural Gas Distribution</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4911" mnem="">Electric Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4924" mnem="">Natural Gas Distribution</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Juliet</firstName>
+			<mI></mI>
+			<lastName>Davenport</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/01/2014">
+			<firstName>Denise</firstName>
+			<mI>Patricia</mI>
+			<lastName>Cockrem</lastName>
+			<age>52 </age>
+			<title startYear="2014" startMonth="05" startDay="01" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.86000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.54000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.81000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00118</Ratio>
+			<Ratio FieldName="EV" Type="N">60.42646</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">27.84546</Ratio>
+			<Ratio FieldName="AREV" Type="N">57.61800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">5.70500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.80800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11906</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.79440</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.22328</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.93422</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.24511</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03300</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">32.69117</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.50949</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.48328</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">15.62238</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.52050</Ratio>
+			<Ratio FieldName="Employees" Type="N">228</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.40000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-301.45867</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">63.94500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00617</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">0.05170</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02867</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

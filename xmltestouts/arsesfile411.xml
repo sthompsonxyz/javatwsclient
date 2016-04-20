@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA2B1</CoID>
+		<CoID Type="CompanyName">Plant Health Care plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PHC</IssueID>
+			<IssueID Type="CUSIP">G7134R107</IssueID>
+			<IssueID Type="ISIN">GB00B01JC540</IssueID>
+			<IssueID Type="RIC">PHC.L</IssueID>
+			<IssueID Type="SEDOL">B01JC54</IssueID>
+			<IssueID Type="DisplayRIC">PHC.L</IssueID>
+			<IssueID Type="InstrumentPI">17401357</IssueID>
+			<IssueID Type="QuotePI">17401308</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">34</Employees>
+		<SharesOut Date="2015-10-30" TotalFloat="42807316.0">71855085.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:49:36">Plant healthcare plc is an agricultural bio-technology company. The Company provides biological products for the agricultural markets. The Company's bio-stimulants are products, which mobilize plants to increase yields and to defend themselves against attack by pests or from the debilitating effects of drought. The Company's brands include Myconate, Harpin, ProAct, N-Hibit and Innatus. The Company's products consist of three segments: Europe, Mexico and the United States. The Company operates its business in two areas: discovery and commercial products. The Company's discovery area is focused on the discovery and evaluation of bio-stimulants, which it intends to license to companies for further development, registration and sale. The Company's commercial products area is focused on the commercialization and sale of bio-stimulant and related products.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-14T14:27:10">BRIEF: For the six months ended 30 June 2015, Plant Health Care plc revenues decreased 3% to $3.2M. Net loss decreased 17% to $3M. Revenues reflect Mexico segment decrease of 5% to $1.6M. Lower net loss reflects United States segment loss decrease of 70% to $958K. Basic Earnings per Share excluding Extraordinary Items increased from -$0.05 to -$0.04.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-08T17:00:39">
+		<streetAddress line="1">2626 Glenwood Avenue, Suite 350</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>RALEIGH</city>
+		<state-region>NC</state-region>
+		<postalCode>27608</postalCode>
+		<country code="USA">United States</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>919</city-areacode>
+				<number>9261600</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-15T17:05:15"><webSite mainCategory="Home Page">http://www.planthealthcare.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@planthealthcare.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-08T17:00:39">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5110102013" mnem="">Organic Fertilizer</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325314" mnem="">Fertilizer (Mixing Only) Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="32532" mnem="">Pesticide and Other Agricultural Chemical Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2875" mnem="">Fertilizers, Mixing Only</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2879" mnem="">Agricultural Chemicals, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/01/2015">
+			<firstName>Christopher</firstName>
+			<mI>G. J.</mI>
+			<lastName>Richards</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="01" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="04/02/2013">
+			<firstName>Paul Martin</firstName>
+			<mI></mI>
+			<lastName>Schmidt</lastName>
+			<age>55 </age>
+			<title startYear="2013" startMonth="04" startDay="02" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/01/2015">
+			<firstName>Richard</firstName>
+			<mI>H.</mI>
+			<lastName>Webb</lastName>
+			<age>55 </age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Andrew</firstName>
+			<mI>C.</mI>
+			<lastName>Wood</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.72000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.29000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.69000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00104</Ratio>
+			<Ratio FieldName="EV" Type="N">39.97505</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">51.73566</Ratio>
+			<Ratio FieldName="AREV" Type="N">4.86285</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-4.02034</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-4.33275</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.06061</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.06802</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.21336</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.16434</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.05681</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">50.88663</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-25.41354</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">10.63895</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.37450</Ratio>
+			<Ratio FieldName="Employees" Type="N">34</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">125.70729</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-9.98752</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">5.28906</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.07209</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-5.05864</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

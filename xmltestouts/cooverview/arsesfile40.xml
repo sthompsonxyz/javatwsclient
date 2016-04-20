@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F5A21</CoID>
+		<CoID Type="CompanyName">Assura PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AGR</IssueID>
+			<IssueID Type="CUSIP">G2386T109</IssueID>
+			<IssueID Type="ISIN">GB00BVGBWW93</IssueID>
+			<IssueID Type="RIC">AGRP.L</IssueID>
+			<IssueID Type="SEDOL">BVGBWW9</IssueID>
+			<IssueID Type="DisplayRIC">AGRP.L</IssueID>
+			<IssueID Type="InstrumentPI">186913758</IssueID>
+			<IssueID Type="QuotePI">194042110</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-20</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<SharesOut Date="2016-01-27" TotalFloat="1551310799.0">1637706738.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T07:28:23">ASSURA plc is a United Kingdom-based holding company for the Assura Group. Assura Group is a healthcare property partner that works with general practitioners (GPs), health professionals and the national health services (NHS) to enable the delivery of patient care in the community through property solutions. It invests in and develops property for the healthcare sector and then provides property management services for those premises. The Company operates in two segments: core and non-core. Through its core segment, Assura owns and develops care properties across the United Kingdom to support GP practices. The non-core segment manages land and investment properties. It owns and operates over 250 completed medical center investment properties around the United Kingdom. </Text>
+		<Text Type="Financial Summary" lastModified="2015-11-20T09:19:53">BRIEF: For the six months ended 30 September 2015, Assura PLC revenues increased 25% to L29.4M. Net income increased from L16.3M to L35.2M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Revaluation gains increase from L10.4M to L25.7M (income), Gain/(loss) on sale of property decrease from L100K (expense) to L0K. Dividend per share totaled to L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-09T02:11:38">
+		<streetAddress line="1">The Brew House, Greenalls Avenue</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>WARRINGTON</city>
+		<state-region></state-region>
+		<postalCode>WA4 6HL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1925</city-areacode>
+				<number>420660</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1925</city-areacode>
+				<number>234503</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-05-27T04:24:23"><webSite mainCategory="Home Page">http://assuragroup.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-09T02:11:38">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540304011" mnem="">Healthcare REITs</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="531312" mnem="">Nonresidential Property Managers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6531" mnem="">Real Estate Agents And Managers</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.53700</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.62880</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.49219</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.91779</Ratio>
+			<Ratio FieldName="EV" Type="N">1330.64850</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">879.44850</Ratio>
+			<Ratio FieldName="AREV" Type="N">51.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">63.20000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">37.20000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.03695</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.05075</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.45055</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06511</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01850</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.32485</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.96536</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">17.21034</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.53315</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.19187</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.57500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">25.53495</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">58.52700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02103</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">38.56100</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.01882</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

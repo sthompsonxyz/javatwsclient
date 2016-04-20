@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E71C8</CoID>
+		<CoID Type="CompanyName">Partnership Assurance Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PA.</IssueID>
+			<IssueID Type="CUSIP">G69345109</IssueID>
+			<IssueID Type="ISIN">GB00B9QN7S21</IssueID>
+			<IssueID Type="RIC">PA.L</IssueID>
+			<IssueID Type="SEDOL">B9QN7S2</IssueID>
+			<IssueID Type="DisplayRIC">PA.L</IssueID>
+			<IssueID Type="InstrumentPI">132787168</IssueID>
+			<IssueID Type="QuotePI">132825213</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-11</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">517</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="415407286.0">440132122.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:36:02">Partnership Assurance Group plc is a United Kingdom-based holding company. The Company is an insurer engaged in the design and manufacture of financial products. Partnership offers products within four main areas: retirement income, payment of care fees, life assurance/protection and lifetime mortgages/equity release. It offers Retirement Annuities, including pension annuity, enhanced choice annuity, purchased life annuity, and others. It offers payment of care fees products, including paying for long term care, immediate care plan, deferred care plan, care plan payment option and capital protection insurance. Its life assurance products include level/decreasing term assurance, whole of life insurance, inheritance tax planning, and others. The Company's equity release product includes Enhanced Lifetime Mortgage. The Company's subsidiaries include Partnership Holdings Limited, Partnership Group Holdings Limited, Partnership Home Loans Limited, Partnership Services Limited, and others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-11T22:52:54">BRIEF: For the six months ended 30 June 2015, Partnership Assurance Group PLC revenues decreased 34% to L172.5M. Net income decreased 80% to L2.2M. Revenues reflect Net investment income decrease of 94% to L6.6M. Net income also reflects Reinsurers share increase from L185.2M (income) to L103.1M (expense), Interest on external borrowings increase from L0K to L2.6M (expense). Dividend per share remained flat at L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-06T07:55:34">
+		<streetAddress line="1">Regent House</streetAddress>
+		<streetAddress line="2">1-3 Queensway</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>REDHILL</city>
+		<state-region></state-region>
+		<postalCode>RH1 1QT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>845</city-areacode>
+				<number>1087240</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>845</city-areacode>
+				<number>1087238</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-06T07:36:32"><webSite mainCategory="Home Page">http://www.partnership-group.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@partnership.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-06T07:55:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5610201010" mnem="">Healthcare Facilities &amp; Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="524113" mnem="">Direct Life Insurance Carriers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6311" mnem="">Life Insurance</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/2013">
+			<firstName>Christopher</firstName>
+			<mI>S.</mI>
+			<lastName>Gibson-Smith</lastName>
+			<age>69 </age>
+			<title startYear="2013" startMonth="04" startDay="" iD1="CHM" abbr1="Chmn." iD2="NID" abbr2="Non Ex.Ind.Dir.">Non-Executive Independent Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Groves</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="05" startDay="12" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Richardson</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="05" startDay="12" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="2006">
+			<firstName>Jane</firstName>
+			<mI></mI>
+			<lastName>Kennedy</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="5" since="11/2012">
+			<firstName>Kathryn</firstName>
+			<mI>E.</mI>
+			<lastName>Purves</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="11" startDay="" iD1="CRO" abbr1="CRO" iD2="" abbr2="">Chief Risk Officer</title>
+		</officer>
+		<officer rank="6" since="02/2009">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Dearsley</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="02" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - International</title>
+		</officer>
+		<officer rank="7" since="06/2009">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Megson</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="06" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Retirement</title>
+		</officer>
+		<officer rank="8" since="08/2010">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Chamberlain</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="08" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Actuarial Function Holder</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.08625</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.70000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.97750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.17800</Ratio>
+			<Ratio FieldName="EV" Type="N">390.84250</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">478.09350</Ratio>
+			<Ratio FieldName="AREV" Type="N">752.09700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">35.57700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">18.85200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.04682</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.86786</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.51173</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.21813</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.06300</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">3.13337</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.63568</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">23.20056</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.71855</Ratio>
+			<Ratio FieldName="Employees" Type="N">517</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.56500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.68639</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">558.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.09295</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">37.93330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.01595</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

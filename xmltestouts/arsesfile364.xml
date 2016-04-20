@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3F95</CoID>
+		<CoID Type="CompanyName">M.P. Evans Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MPE</IssueID>
+			<IssueID Type="CUSIP">G63363108</IssueID>
+			<IssueID Type="ISIN">GB0007538100</IssueID>
+			<IssueID Type="RIC">MPE.L</IssueID>
+			<IssueID Type="SEDOL">0753810</IssueID>
+			<IssueID Type="DisplayRIC">MPE.L</IssueID>
+			<IssueID Type="InstrumentPI">262464</IssueID>
+			<IssueID Type="QuotePI">1079417</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-22</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">2219</Employees>
+		<SharesOut Date="2015-11-03" TotalFloat="37636845.0">55700444.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T01:03:03">M.P. Evans Group PLC is a United Kingdom-based company which primarily produces palm oil. The Company's assets consist of oil-palm plantations in Indonesia, beef-cattle interests in Australia and residential property development in Malaysia. The Company operates through three segments: plantation crops, primarily palm oil, in Indonesia, with a residual balance in Malaysia; cattle in Australia, and property development in Malaysia. The Company's plantation crops segment involves the ownership, management and development of sustainable oil-palm estates in Indonesia, along with together with the management and development of smallholder areas adjoining the new projects. The cattle segment includes the ownership and management of beef-cattle operations in Australia. The property development segment is engaged in property development in West Malaysia.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-22T10:44:17">BRIEF: For the six months ended 30 June 2015, M.P. Evans Group PLC revenues decreased 17% to $39.2M. Net income decreased 13% to $14.7M. Revenues reflect Plantations segment decrease of 18% to $38M, Indonesia segment decrease of 18% to $37.9M, Malaysia segment decrease of 16% to $68K. Net income also reflects Foreign-exchange losses increase from $662K (income) to $4M (expense), Finance income decrease of 40% to $505K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-09-22T10:44:19">
+		<streetAddress line="1">3 Clanricarde Gardens</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>TUNBRIDGE WELLS</city>
+		<state-region></state-region>
+		<postalCode>TN1 1HQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Claire Hayes</contactName>
+		<contactTitle>Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1892</city-areacode>
+				<number>518639</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>18</city-areacode>
+				<number>92516333</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-05-14T22:16:04"><webSite mainCategory="Home Page">http://www.mpevans.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">claire.hayes@mpevans.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-09-22T10:44:19">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410201010" mnem="">Fishing &amp; Farming - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="112111" mnem="">Beef Cattle Ranching and Farming</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="111998" mnem="">All Other Miscellaneous Crop Farming</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23311" mnem="">Land Subdivision and Land Development</Industry>
+			<Industry type="SIC" order="1" reported="0" code="0212" mnem="">Beef Cattle, Except Feedlots</Industry>
+			<Industry type="SIC" order="2" reported="0" code="0139" mnem="">Field Crops Excld Cash Grains Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6552" mnem="">Subdividers And Developers, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Peter</firstName>
+			<mI>E.</mI>
+			<lastName>Hadsley-Chaplin</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="01/01/2010">
+			<firstName>Tristan</firstName>
+			<mI>Robert Julian</mI>
+			<lastName>Price</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="01" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="1991">
+			<firstName>Philip</firstName>
+			<mI>A.</mI>
+			<lastName>Fletcher</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Claire</firstName>
+			<mI></mI>
+			<lastName>Hayes</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="IRC" abbr2="IR-Contact">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.94125</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.44247</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.39875</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02488</Ratio>
+			<Ratio FieldName="EV" Type="N">218.45858</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">219.52940</Ratio>
+			<Ratio FieldName="AREV" Type="N">64.26458</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">21.15200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">23.80253</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.43093</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.16347</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.75114</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.61374</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.36610</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.06185</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">39.47779</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">9.36617</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.41602</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.14596</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.82954</Ratio>
+			<Ratio FieldName="Employees" Type="N">2219</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">6.45515</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.81874</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">50.20471</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.30746</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">14.74759</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.08058</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

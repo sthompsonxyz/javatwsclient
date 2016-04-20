@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4C9A</CoID>
+		<CoID Type="CompanyName">Nyota Minerals Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Fully Paid Ord. Shrs</IssueID>
+			<IssueID Type="Ticker">NYO</IssueID>
+			<IssueID Type="CUSIP">Q7018D108</IssueID>
+			<IssueID Type="ISIN">AU000000NYO7</IssueID>
+			<IssueID Type="RIC">NYO.AX</IssueID>
+			<IssueID Type="SEDOL">6312312</IssueID>
+			<IssueID Type="DisplayRIC">NYO.AX</IssueID>
+			<IssueID Type="InstrumentPI">550642</IssueID>
+			<IssueID Type="QuotePI">5676169</IssueID>
+			<Exchange Code="ASX" Country="AUS">Australian Stock Exchange Ltd</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-13</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-06-30">6</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="948247651.0">957149127.0</SharesOut>
+		<ReportingCurrency Code="AUD">Australian Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.38466</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-11T06:10:31">Nyota Minerals Limited (Nyota) is a gold exploration and development company. The Company's projects include the Ivrea Nickel Project in Italy and the Northern Blocks in Ethiopia. The Ivrea Project is focused on the evaluation of that part of the Ivrea Gabbroic Complex that hosts a number of small mines. The Alpe di Laghetto survey block comprises an approximate six kilometers long anomaly that encompasses the Alpe di Laghetto and La Balma mine workings. It has approximately two exploration licenses (totaling around 2,300 square kilometers) located approximately 100 kilometers north of Tulu Kapi, which cover around four distinct parcels of land. Nyota is focused on around two targets within the Northern Blocks: Bendokoro and Boka Sirba. The Bendokoro target is located north northwest of Boka Sirba in the Mendi Exploration License area and covers an area of around 13.5 square kilometers. Boka Sirba is a skarn target that extends over a strike length of approximately 15 kilometers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-13T22:14:36">BRIEF: For the fiscal year ended 30 June 2015, Nyota Minerals Limited revenues decreased 16% to A$5K. Net loss before extraordinary items decreased 20% to A$3M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Lower net loss reflects Other Operating Expense decrease of 70% to A$222K (expense), Impairment of mining properties decrease of 25% to A$750K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-11T22:00:43">
+		<streetAddress line="1">West Perth, U 2 L 1, 47 Havelock St</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>PERTH</city>
+		<state-region>WAS</state-region>
+		<postalCode>6005</postalCode>
+		<country code="AUS">Australia</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>93242955</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>93242977</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-01-22T08:32:45"><webSite mainCategory="Home Page">http://www.nyotaminerals.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@nyotaminerals.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-11T22:00:43">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120106011" mnem="">Gold Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/16/2011">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Chase</lastName>
+			<age>41 </age>
+			<title startYear="2011" startMonth="06" startDay="03" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/2012">
+			<firstName>P</firstName>
+			<mI></mI>
+			<lastName>Wilson</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="04" startDay="" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="07/01/2004">
+			<firstName>Michael</firstName>
+			<mI>James</mI>
+			<lastName>Langoulant</lastName>
+			<age>57 </age>
+			<title startYear="2012" startMonth="01" startDay="06" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="4" since="04/2012">
+			<firstName>A</firstName>
+			<mI></mI>
+			<lastName>Rowland</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="04" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Business development Manager</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="AUD" ReportingCurrency="AUD" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00200</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.00200</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-22T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07000</Ratio>
+			<Ratio FieldName="EV" Type="N">3.56581</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">3.75521</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00543</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.78220</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.04119</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00337</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00001</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.00040</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00020</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00335</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-90.60410</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">691.56670</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.04493</Ratio>
+			<Ratio FieldName="Employees" Type="N">6</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

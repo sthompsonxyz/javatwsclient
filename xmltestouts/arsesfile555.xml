@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A33B8</CoID>
+		<CoID Type="CompanyName">Victoria PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VCP</IssueID>
+			<IssueID Type="CUSIP">G9344K104</IssueID>
+			<IssueID Type="ISIN">GB0009290080</IssueID>
+			<IssueID Type="RIC">VCP.L</IssueID>
+			<IssueID Type="SEDOL">0929008</IssueID>
+			<IssueID Type="DisplayRIC">VCP.L</IssueID>
+			<IssueID Type="InstrumentPI">263061</IssueID>
+			<IssueID Type="QuotePI">1080971</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-30</LastModified>
+		<LatestAvailableAnnual>2015-03-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-03</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-28">1026</Employees>
+		<SharesOut Date="2016-01-27" TotalFloat="10392518.0">18193169.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-21T10:31:54">Victoria PLC is a United Kingdom-based manufacturer, supplier and distributor of design-led carpets, carpet tiles and other floorcoverings. The Company is organized into two operating divisions, the sale of floorcovering products in the United Kingdom and Australia. Its product offering in the United Kingdom ranges from both traditionally crafted, woven Wilton carpets to modern tufted carpets in a range of fashion colors and styles. Its stock range offerings cover saxonies, tonals, velvets, twists and natural loop pile styles for residential use. Its subsidiary, Munster Carpets Limited, manufactures and distributes floorcoverings for the contract market, including traditionally woven Axminster or Wiltons. Navan Carpets distribute a range of carpets, primarily for residential markets. Victoria Carpets, Australia offers a range of stocked product offerings made using tufted carpet technology. Its subsidiary, Westex (Carpets) Limited, manufactures two and three-fold yarn carpets.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-30T12:07:16">BRIEF: For the 27 weeks ended 03 October 2015, Victoria PLC revenues increased from L39.9M to L105.6M. Net income before extraordinary items totaled L1.9M vs. loss of L6.1M. Revenues reflect United Kingdom &amp; Ireland segment increase from L21.6M to L81.1M, Australia segment increase of 34% to L24.5M. Net Income reflects United Kingdom &amp; Ireland segment income increase from L2.7M to L5.9M, Australia segment income increase from L835K to L1.8M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-04T23:53:23">
+		<streetAddress line="1">Worcester Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>KIDDERMINSTER</city>
+		<state-region></state-region>
+		<postalCode>DY10 1JR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Geoffrey Wilding</contactName>
+		<contactTitle>Executive Chairman of the Board</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1562</city-areacode>
+				<number>749300</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1562</city-areacode>
+				<number>749649</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1562</city-areacode>
+				<number>749300</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-10-30T10:48:49"><webSite mainCategory="Home Page">http://www.victoriaplc.com/victoriaplc/contactus/headoffice/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-04T23:53:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320404010" mnem="">Home Furnishings - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="31411" mnem="">Carpet and Rug Mills</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="313111" mnem="">Yarn Spinning Mills</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2273" mnem="">Carpets And Rugs</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2281" mnem="">Yarn Spinning Mills</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/04/2016">
+			<firstName>Michael</firstName>
+			<mI>Andrew</mI>
+			<lastName>Scott</lastName>
+			<age>35 </age>
+			<title startYear="2016" startMonth="01" startDay="04" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Group Finance Director, Director</title>
+		</officer>
+		<officer rank="2" since="1993">
+			<firstName>Terry</firstName>
+			<mI>A.</mI>
+			<lastName>Danks</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="12" iD1="EDR" abbr1="Exec. Dir." iD2="SEC" abbr2="Secy.">Executive Director, Company Secretary</title>
+		</officer>
+		<officer rank="3" since="10/03/2012">
+			<firstName>Geoffrey</firstName>
+			<mI></mI>
+			<lastName>Wilding</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="10" startDay="03" iD1="PRC" abbr1="Prim. Cont." iD2="IRC" abbr2="IR-Contact">Executive Chairman of the Board</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">12.32500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">14.25000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">7.17500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.04385</Ratio>
+			<Ratio FieldName="EV" Type="N">260.51080</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">224.23080</Ratio>
+			<Ratio FieldName="AREV" Type="N">127.00300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">12.07100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-4.17800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.35231</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">10.70942</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.36227</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.16432</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.09697</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">32.48112</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-15.34084</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.76556</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">9.04740</Ratio>
+			<Ratio FieldName="Employees" Type="N">1026</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">16.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.11806</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">253.40000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.72000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">15.10000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

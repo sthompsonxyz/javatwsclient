@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A42C9</CoID>
+		<CoID Type="CompanyName">JPMorgan Overseas IT PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">JMO</IssueID>
+			<IssueID Type="CUSIP">G51984105</IssueID>
+			<IssueID Type="ISIN">GB00BYMKY695</IssueID>
+			<IssueID Type="RIC">JMO.L</IssueID>
+			<IssueID Type="SEDOL">BYMKY69</IssueID>
+			<IssueID Type="DisplayRIC">JMO.L</IssueID>
+			<IssueID Type="InstrumentPI">261196</IssueID>
+			<IssueID Type="QuotePI">10285837</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2016-01-08">5.0</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="CUSIP">G35756116</IssueID>
+			<IssueID Type="ISIN">GB0009142869</IssueID>
+			<IssueID Type="RIC">GB0914286.L^L98</IssueID>
+			<IssueID Type="InstrumentPI">1476807</IssueID>
+			<IssueID Type="QuotePI">2792805</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-22</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">0</Employees>
+		<SharesOut Date="2016-02-19" TotalFloat="122778806.0">128551481.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-11T06:05:45">JPMorgan Overseas Investment Trust plc is a United Kingdom-based investment trust company. The Company invests in equity shares of overseas companies and a sterling liquidity fund, which are held in accordance with the Company's investment objective: short- term debtors, creditors and cash arising directly from its operations; forward currency contracts; short-term forward currency contracts for the purpose of settling short term liabilities, and a floating rate loan facility with National Australia Bank (NAB). The Company invests in equities and other securities. It also invests in a range of sectors, including financials, consumer discretionary, industrial, healthcare, information technology, materials, energy, consumer staples, telecommunication services, investment companies, utilities and liquidity fund. It invests in companies, which are located in North America, Continental Europe, the United Kingdom and Japan. The Company's investment manager is JPMorgan Funds Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T03:06:49">BRIEF: For the fiscal year ended 30 June 2015, JPMorgan Overseas IT PLC revenues decreased 5% to L32.3M. Net income decreased 4% to L28.9M. Revenues reflect Net movement investment holding gains decrease of 33% to L15.6M, Realized G/L on Investments Securities decrease of 8% to L7.4M, Overseas Income decrease of 2% to L3.6M. Net income also reflects Other administrative expenses increase of 18% to L460K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T03:06:56">
+		<streetAddress line="1">9th Floor 24 Chiswell Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC1Y 4YY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72825555</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-06T09:22:08"><webSite mainCategory="Home Page">http://am.jpmorgan.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T03:06:56">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.87000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.31800</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.70500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.12671</Ratio>
+			<Ratio FieldName="EV" Type="N">264.42230</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">240.39130</Ratio>
+			<Ratio FieldName="AREV" Type="N">32.25700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">29.23300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">28.85300</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.24849</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.27781</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.32601</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01010</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03200</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">92.43575</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.21027</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">7.45238</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">7.52545</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.80395</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="6" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

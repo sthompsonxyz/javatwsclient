@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4BD1</CoID>
+		<CoID Type="CompanyName">Datatec Ltd.</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DTC</IssueID>
+			<IssueID Type="CUSIP">S2100Z123</IssueID>
+			<IssueID Type="ISIN">ZAE000017745</IssueID>
+			<IssueID Type="RIC">DTCJ.J</IssueID>
+			<IssueID Type="SEDOL">6149479</IssueID>
+			<IssueID Type="DisplayRIC">DTCJ.J</IssueID>
+			<IssueID Type="InstrumentPI">258743</IssueID>
+			<IssueID Type="QuotePI">757024</IssueID>
+			<Exchange Code="JNB" Country="ZAF">Johannesburg Stock Exchange</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-01</LastModified>
+		<LatestAvailableAnnual>2015-02-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-02-28">8248</Employees>
+		<SharesOut Date="2015-12-08" TotalFloat="192007009.0">209448161.0</SharesOut>
+		<CommonShareholders Date="2015-02-28">4318</CommonShareholders>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-25T09:33:05">Datatec Limited is an information and communication technology (ICT) solutions and services company. The Company offers its services in the technology, integration and consulting sectors of the ICT market. The Company's segments include Westcon, Logicalis, Consulting Services and Corporate. The Westcon segment is engaged in the distribution of networking, security, and unified communications products and data center solutions. The Logicalis segment is engaged in providing ICT infrastructure solutions and services. The Consulting Services segment offers strategic and technical consulting. The Corporate segment includes head office companies, including Datatec Financial Services, a capital/leasing business under development and Company consolidation adjustments. The Company operates in around 60 countries across North America, Latin America, Europe, Africa, the Middle East and Asia-Pacific.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-01T23:58:12">BRIEF: For the six months ended 31 August 2015, Datatec Ltd. revenues increased 10% to $3.29B. Net income decreased 23% to $24.4M. Revenues reflect Westcon segment increase of 12% to $2.51B, Logicalis segment increase of 5% to $751.4M. Net income was offset by Logicalis segment income decrease of 20% to $24.3M, Westcon segment income decrease of 8% to $39.5M, Consulting Services segment loss totaling $881K vs. income of $956K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-01T23:58:16">
+		<streetAddress line="1">Ground Floor</streetAddress>
+		<streetAddress line="2">Sandown Chambers, Sandown Village</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>JOHANNESBURG</city>
+		<state-region></state-region>
+		<postalCode>2146</postalCode>
+		<country code="ZAF">South Africa</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>27</countryPhoneCode>
+				<city-areacode>11</city-areacode>
+				<number>2331000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>27</countryPhoneCode>
+				<city-areacode>11</city-areacode>
+				<number>2333300</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-25T14:38:21"><webSite mainCategory="Home Page">http://www.datatec.co.za</webSite><eMail mainCategory="Company Contact/E-mail">ir@datatec.co.za</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-01T23:58:16">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541611" mnem="">Administrative Management and General Management Consulting Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="513322" mnem="">Cellular and Other Wireless Telecommunications</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="54169" mnem="">Other Scientific and Technical Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="4812" mnem="">Radiotelephone Communications</Industry>
+			<Industry type="SIC" order="4" reported="0" code="8999" mnem="">Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/06/1994">
+			<firstName>Jens</firstName>
+			<mI>Peter</mI>
+			<lastName>Montanana</lastName>
+			<age>53 </age>
+			<title startYear="1994" startMonth="10" startDay="06" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/01/2014">
+			<firstName>Petrus</firstName>
+			<mI>Jurgens</mI>
+			<lastName>Myburgh</lastName>
+			<age>40 </age>
+			<title startYear="2014" startMonth="06" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Simon</firstName>
+			<mI>P.</mI>
+			<lastName>Morris</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CCO" abbr1="Chief Comp." iD2="CRO" abbr2="CRO">Compliance Officer, Chief Risk Officer, Company Secretary, Group Corporate Director</title>
+		</officer>
+		<officer rank="4" since="05/01/2012">
+			<firstName>Robert</firstName>
+			<mI>Price</mI>
+			<lastName>Evans</lastName>
+			<age>49 </age>
+			<title startYear="2015" startMonth="09" startDay="10" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Operating Officer - Logicalis, Chairman - Consulting Services Division</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="ZAR" ReportingCurrency="USD" ExchangeRate="15.17820" LatestAvailableDate="2015-02-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">46.90000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">80.88000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">38.20000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.77703</Ratio>
+			<Ratio FieldName="EV" Type="N">11145.50500</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">9823.11900</Ratio>
+			<Ratio FieldName="AREV" Type="N">97801.28000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">3134.28300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1119.72600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">5.60121</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">489.23590</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">64.79380</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">27.24115</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">10.42192</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">14.47856</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.46753</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.10044</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">8.37319</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.72383</Ratio>
+			<Ratio FieldName="Employees" Type="N">8248</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="2" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">91.54276</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.03555</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">105220.33674</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">4.24990</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1718.17224</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">2.62583</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

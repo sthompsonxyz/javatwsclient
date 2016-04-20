@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2EC1</CoID>
+		<CoID Type="CompanyName">BAE Systems plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BA.</IssueID>
+			<IssueID Type="CUSIP">G14896180</IssueID>
+			<IssueID Type="ISIN">GB0002634946</IssueID>
+			<IssueID Type="RIC">BAES.L</IssueID>
+			<IssueID Type="SEDOL">0263494</IssueID>
+			<IssueID Type="DisplayRIC">BAES.L</IssueID>
+			<IssueID Type="InstrumentPI">260506</IssueID>
+			<IssueID Type="QuotePI">1049364</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Conv. Pref. Shrs</IssueID>
+			<IssueID Type="Ticker">BA.A</IssueID>
+			<IssueID Type="CUSIP">G14896115</IssueID>
+			<IssueID Type="ISIN">GB0001271690</IssueID>
+			<IssueID Type="RIC">GB0127169.L^I07</IssueID>
+			<IssueID Type="InstrumentPI">260509</IssueID>
+			<IssueID Type="QuotePI">1254197</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-18</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">83100</Employees>
+		<SharesOut Date="2016-02-23" TotalFloat="3158489113.0">3166608932.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-19T03:34:33">BAE Systems plc is a defense, aerospace and security company. The Company operates in five segments: Electronic Systems, which consists of the Company's United States and United Kingdom-based electronics activities; Cyber &amp; Intelligence, which comprises of its United States-based Intelligence &amp; Security business and United Kingdom-headquartered Applied Intelligence business, and covers the Company's cyber, secure government, and commercial and financial security activities; Platforms &amp; Services (United States), which comprises its United States-headquartered Land &amp; Armaments business, and the United States-based services and sustainment activities; Platforms &amp; Services (United Kingdom), which comprises its United Kingdom -based air, maritime, combat vehicle, munitions and shared services activities, and Platforms &amp; Services (International), which comprises the Company's businesses in Saudi Arabia, Australia and Oman, together with its 37.5% interest in the MBDA joint venture.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-18T07:30:57">BRIEF: For the fiscal year ended 31 December 2015, BAE Systems plc revenues increased 9% to L16.79B. Net income increased 24% to L918M. Revenues reflect investments increase of 8% to L17.9B, Share of Sales of Equity Accoutned Inves increase of 7% to -L1.12B. Net income benefited from Remeasurement of Fianancial Instrument increase of 69% to L167M (income), Share of results of equity accounted inv increase of 33% to L110M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T07:31:02">
+		<streetAddress line="1">Stirling Square , 6 Carlton Gardens</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 5AD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Andrew Wrathall</contactName>
+		<contactTitle>IR Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1252</city-areacode>
+				<number>373232</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1252</city-areacode>
+				<number>383991</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1252</city-areacode>
+				<number>383040</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-01T00:43:50"><webSite mainCategory="Home Page">http://www.baesystems.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T07:31:02">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210101010" mnem="">Aerospace &amp; Defense - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="336411" mnem="">Aircraft Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="336413" mnem="">Other Aircraft Part and Auxiliary Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="336414" mnem="">Guided Missile and Space Vehicle Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="332994" mnem="">Small Arms Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="334511" mnem="">Search, Detection, Navigation, Guidance, Aeronautical, and  Nautical System and Instrument Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="336611" mnem="">Ship Building and Repairing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="336992" mnem="">Military Armored Vehicle, Tank and Tank Component Manufacturing</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="54169" mnem="">Other Scientific and Technical Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3721" mnem="">Aircraft</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3728" mnem="">Aircraft Parts And Equipment, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3761" mnem="">Guided Missiles/space Vehicles</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3484" mnem="">Small Arms</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3812" mnem="">Search And Navigation Equipment</Industry>
+			<Industry type="SIC" order="6" reported="0" code="3731" mnem="">Ship Building And Repairing</Industry>
+			<Industry type="SIC" order="7" reported="0" code="3711" mnem="">Motor Vehicles And Car Bodies</Industry>
+			<Industry type="SIC" order="8" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+			<Industry type="SIC" order="9" reported="0" code="8999" mnem="">Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/01/2007">
+			<firstName>Ian</firstName>
+			<mI>G.</mI>
+			<lastName>King</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="09" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/01/2011">
+			<firstName>Peter</firstName>
+			<mI>J.</mI>
+			<lastName>Lynas</lastName>
+			<age>56 </age>
+			<title startYear="2011" startMonth="04" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/15/2016">
+			<firstName>Charles</firstName>
+			<mI></mI>
+			<lastName>Woodburn</lastName>
+			<age>44 </age>
+			<title startYear="2016" startMonth="02" startDay="15" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="02/01/2014">
+			<firstName>Gerard</firstName>
+			<mI>J.</mI>
+			<lastName>DeMuro</lastName>
+			<age>58 </age>
+			<title startYear="2014" startMonth="02" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">President and Chief Executive Officer of BAE Systems, Inc.; Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>David</firstName>
+			<mI>B.</mI>
+			<lastName>Parkes</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.08500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.49000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.19300</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">7.36602</Ratio>
+			<Ratio FieldName="EV" Type="N">17472.21000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">16102.21000</Ratio>
+			<Ratio FieldName="AREV" Type="N">16787.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1930.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">918.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.28900</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.29391</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.94420</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.83459</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.44245</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.20900</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">6.93989</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">38.00455</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.95921</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.59516</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.38549</Ratio>
+			<Ratio FieldName="Employees" Type="N">83100</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.0909</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.54474</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">1.9924</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.95442</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">17934.87240</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.39253</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1459.76120</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.21509</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EE7C1</CoID>
+		<CoID Type="CompanyName">Mosman Oil And Gas Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MSMN</IssueID>
+			<IssueID Type="CUSIP">Q6371A107</IssueID>
+			<IssueID Type="ISIN">AU0000XINET1</IssueID>
+			<IssueID Type="RIC">MSMN.L</IssueID>
+			<IssueID Type="SEDOL">BJ365T1</IssueID>
+			<IssueID Type="DisplayRIC">MSMN.L</IssueID>
+			<IssueID Type="InstrumentPI">154362258</IssueID>
+			<IssueID Type="QuotePI">154441871</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-22</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<SharesOut Date="2015-11-03" TotalFloat="157420074.0">215591008.0</SharesOut>
+		<ReportingCurrency Code="AUD">Australian Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.38466</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-02-23T08:02:03">Mosman Oil and Gas Limited is a United Kingdom-based company exploring prospective resource projects and exploration drilling at the Petroleum Creek Permit in New Zealand. The Company's operating segments are Australia and New Zealand. The Company owns PEP 38526 in New Zealand, which has an area of approximately 140 square kilometers and is located near Greymouth on the South Island in the southern extension of the Taranaki oil system. The Company's projects in Australia are in four basins: Officer Basin, Amadeus Basin, Canning Basin and Otway Basin. The Officer Basin onshore application STP-EPA-0071 is an early-stage exploration project. The Company owns approximately two granted permits and one application in the Amadeus Basin in Central Australia, which covers a total of approximately 5,460 square kilometers. The Company also has the right to farm into approximately 17.5% of exploration permit EP478, which is held by Buru Energy. The Company also owns VIC P62 in the Otway Basin.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-22T12:53:33">BRIEF: For the fiscal year ended 30 June 2015, Mosman Oil And Gas Ltd revenues increased from A$0K to A$4K. Net loss increased 82% to A$3.4M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Administrative expenses increase from A$57K to A$645K (expense), Corporate expenses increase of 26% to A$1.7M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T08:02:03">
+		<streetAddress line="1">Suite 1</streetAddress>
+		<streetAddress line="2">Gunshot Alley, Suakin Drive, Mosman</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>PERTH</city>
+		<state-region>NSW</state-region>
+		<postalCode>2088</postalCode>
+		<country code="AUS">Australia</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>2</city-areacode>
+				<number>92104600</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-20T01:18:32"><webSite mainCategory="Home Page">http://mosmanoilandgas.com</webSite><eMail mainCategory="Company Contact/E-mail">info@mosmanoilandgas.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T08:02:03">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>John</firstName>
+			<mI>William</mI>
+			<lastName>Barr</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Andrew</firstName>
+			<mI>Robert</mI>
+			<lastName>Carroll</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Technical Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Zane</firstName>
+			<mI>Robert</mI>
+			<lastName>Lewis</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="AUD" ExchangeRate="0.51046" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00775</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.10680</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00625</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">4.02307</Ratio>
+			<Ratio FieldName="EV" Type="N">1.10021</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.67083</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00206</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.66428</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.73009</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01593</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00002</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.05459</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00466</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01585</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-29.95298</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">812.20890</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.14196</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

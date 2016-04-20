@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EC322</CoID>
+		<CoID Type="CompanyName">Syqic PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SYQ</IssueID>
+			<IssueID Type="CUSIP">G8647B100</IssueID>
+			<IssueID Type="ISIN">JE00BF5S6G17</IssueID>
+			<IssueID Type="RIC">SYQS.L</IssueID>
+			<IssueID Type="SEDOL">BF5S6G1</IssueID>
+			<IssueID Type="DisplayRIC">SYQS.L</IssueID>
+			<IssueID Type="InstrumentPI">146423705</IssueID>
+			<IssueID Type="QuotePI">146443202</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-16</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">35</Employees>
+		<SharesOut Date="2015-07-03" TotalFloat="11184871.0">26898845.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:15:51">SyQic plc (SyQic) is a United Kingdom-based provider of live television (TV) and on-demand video content across mobile and Internet-enabled consumer devices. The Company provides a range of video services ranging from international broad content offerings delivered through telcos in Southeast Asia to over the top (OTT) services available via various Internet browsers. The Company delivers content through its various platforms, which covers movies, drama, music, sports, news, lifestyle and general entertainment genres. SyQic provides OTT mobile TV solutions which by enabling end users to gain access to premium mobile video content on user interfaces. The Company's Cool2vu platform is accessed by both Android and iPhone Operating System (iOS) Internet enabled devices in addition to personal computers (PCs). It also offers a mobile phone payment service. It offers audio and video content in Myanmar via its brand, Yoomob. It content portfolio includes Korean content.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-16T05:12:32">BRIEF: For the six months ended 30 June 2015, Syqic PLC revenues increased 30% to L6M. Net income increased 43% to L1.4M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Administrative Expenses decrease of 23% to L855K (expense), Other Income increase from L8K to L108K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-16T05:12:33">
+		<streetAddress line="1">13/14 Esplanade</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SAINT HELIER</city>
+		<state-region></state-region>
+		<postalCode>JE1 1BD</postalCode>
+		<country code="JEY">Jersey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-11T02:15:36"><webSite mainCategory="Home Page">http://www.syqic.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-16T05:12:33">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330202010" mnem="">Broadcasting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Muhamad</firstName>
+			<mI></mI>
+			<lastName>Bin Muhamad Hassim</lastName>
+			<age>48 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Group Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Stephen</firstName>
+			<mI>Robert</mI>
+			<lastName>Elliff</lastName>
+			<age>44 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="FID" abbr2="Fin. Dir.">Chief Financial Officer, Finance Director, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Kennett</lastName>
+			<age>52 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Chief Technology Officer</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Kong Yew</firstName>
+			<mI></mI>
+			<lastName>Chow</lastName>
+			<age>35 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Senior Manager, Group CEO's Office</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Graham</firstName>
+			<mI></mI>
+			<lastName>Fowke</lastName>
+			<age>52 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director of Product, Market, and Business Development</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Poh Tin</firstName>
+			<mI></mI>
+			<lastName>Lim</lastName>
+			<age>40 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Finance, HR and Administration</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Duncan</firstName>
+			<mI></mI>
+			<lastName>Ward</lastName>
+			<age>47 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Business Development Director (UK and Europe)</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.18000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.52000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.16050</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00644</Ratio>
+			<Ratio FieldName="EV" Type="N">4.71379</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.84179</Ratio>
+			<Ratio FieldName="AREV" Type="N">10.67200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.33600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.99100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.08138</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.43619</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.30737</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00840</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.09074</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">43.57196</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">31.14831</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.45369</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">2.21185</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.58561</Ratio>
+			<Ratio FieldName="Employees" Type="N">35</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">2.11765</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">12.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.08500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">2.36500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

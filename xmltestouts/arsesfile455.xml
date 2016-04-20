@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2FCA</CoID>
+		<CoID Type="CompanyName">Rotork p.l.c.</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ROR</IssueID>
+			<IssueID Type="CUSIP">G76717134</IssueID>
+			<IssueID Type="ISIN">GB00BVFNZH21</IssueID>
+			<IssueID Type="RIC">ROR.L</IssueID>
+			<IssueID Type="SEDOL">BVFNZH2</IssueID>
+			<IssueID Type="DisplayRIC">ROR.L</IssueID>
+			<IssueID Type="InstrumentPI">262460</IssueID>
+			<IssueID Type="QuotePI">1080877</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-05-18">10.0</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">1/2% Preferred Shares</IssueID>
+			<IssueID Type="Ticker">76ID</IssueID>
+			<IssueID Type="CUSIP">G76717118</IssueID>
+			<IssueID Type="ISIN">GB0007530149</IssueID>
+			<IssueID Type="RIC">76ID_p.L</IssueID>
+			<IssueID Type="SEDOL">0753014</IssueID>
+			<IssueID Type="DisplayRIC">76ID_p.L</IssueID>
+			<IssueID Type="InstrumentPI">1478248</IssueID>
+			<IssueID Type="QuotePI">2791332</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-29</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">3224</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="855611924.0">869750590.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">2991</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-29T05:33:25">Rotork PLC is a United Kingdom-based company engaged in the design and manufacture of actuators and flow control equipment. The Company has consists of four actuation and flow control divisions, such as Rotork Controls, Rotork Fluid Systems, Rotork Gears and Rotork Instruments. Rotork Controls designs and manufactures electric actuators for valve applications and network control systems. Rotork Fluid Systems designs and manufactures pneumatic, hydraulic and electro-hydraulic actuators and control systems. Rotork Gears designs and manufactures gearboxes, adaptations and accessories to the international valve and actuator industry. Rotork Instruments designs and manufactures products for flow control, pressure control, flow measurement and pressure measurement. The Company is active in markets, such as power, oil and gas, waste water, marine, mining and process industries. It has manufacturing facilities in the United Kingdom, Germany, Sweden, Spain, and the United States, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-29T05:50:27">BRIEF: For the six months ended 30 June 2015, Rotork p.l.c. revenues decreased 2% to L274.2M. Net income decreased 7% to L41.4M. Revenues reflect Fluid Systems segment decrease of 13% to L76.9M, Controls segment decrease of 3% to L146M, Rest of Europe segment decrease of 22% to L45.3M, Italy segment decrease of 24% to L26.5M. Net income also reflects Fluid Systems segment income decrease of 50% to L6.8M, Controls segment income decrease of 2% to L43.5M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-29T05:50:46">
+		<streetAddress line="1">Rotork House, Brassmill Lane</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BATH</city>
+		<state-region></state-region>
+		<postalCode>BA1 3JQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1225</city-areacode>
+				<number>733200</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1225</city-areacode>
+				<number>333467</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-09-30T00:00:16"><webSite mainCategory="Home Page">http://www.rotork.com/en/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-29T05:50:46">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201019" mnem="">Fluid Power Cylinder &amp; Actuators</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333995" mnem="">Fluid Power Cylinder and Actuator Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="332912" mnem="">Fluid Power Valve and Hose Fitting Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="332911" mnem="">Industrial Valve Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="334512" mnem="">Automatic Environmental Control Manufacturing for Residential, Commercial and Appliance Use</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="333612" mnem="">Speed Changer, Industrial High-Speed Drive and Gear Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="334519" mnem="">Other Measuring and Controlling Device Manufacturing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="335311" mnem="">Power, Distribution and Specialty Transformer Manufacturing</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3593" mnem="">Fluid Power Cylinders &amp; Actuators</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3492" mnem="">Fluid Power Valves/hose Fittings</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3491" mnem="">Industrial Valves</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3822" mnem="">Environmental Controls</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3566" mnem="">Speed Changers, Drives, And Gears</Industry>
+			<Industry type="SIC" order="6" reported="0" code="3829" mnem="">Measuring/controlling Devices Nec</Industry>
+			<Industry type="SIC" order="7" reported="0" code="3612" mnem="">Transformers, Except Electronic</Industry>
+			<Industry type="SIC" order="8" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/01/2007">
+			<firstName>Peter</firstName>
+			<mI>I.</mI>
+			<lastName>France</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="05" startDay="02" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/2010">
+			<firstName>Jonathan</firstName>
+			<mI>M.</mI>
+			<lastName>Davis</lastName>
+			<age>45 </age>
+			<title startYear="2010" startMonth="03" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="1988">
+			<firstName>Robert</firstName>
+			<mI>H.</mI>
+			<lastName>Arnold</lastName>
+			<age></age>
+			<title startYear="2001" startMonth="08" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">President of Rotork Controls Inc, Executive Director</title>
+		</officer>
+		<officer rank="4" since="03/2012">
+			<firstName>Pamela</firstName>
+			<mI></mI>
+			<lastName>Ann Bingham</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="31" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Gears Division</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Littlejohns</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="31" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Rotork Fluid Systems</title>
+		</officer>
+		<officer rank="6" since="2012">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Paine</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Rotork Instruments Division</title>
+		</officer>
+		<officer rank="7" since="03/2011">
+			<firstName>Grant</firstName>
+			<mI></mI>
+			<lastName>Wood</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="03" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Divisional Managing Director - Rotork Controls</title>
+		</officer>
+		<officer rank="8" since="01/2005">
+			<firstName>Graham</firstName>
+			<mI>M.</mI>
+			<lastName>Ogden</lastName>
+			<age></age>
+			<title startYear="2005" startMonth="01" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Research &amp; Development Director, Executive Director</title>
+		</officer>
+		<officer rank="9" since="03/02/2015">
+			<firstName>Stephen</firstName>
+			<mI>Rhys</mI>
+			<lastName>Jones</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="03" startDay="02" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary, Group Legal Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.63700</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.67200</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.50300</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">3.90469</Ratio>
+			<Ratio FieldName="EV" Type="N">1398.54300</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1423.78200</Ratio>
+			<Ratio FieldName="AREV" Type="N">594.73900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">164.88700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">103.20200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11850</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.68290</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.43346</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05386</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.14651</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05010</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">47.99736</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">29.11716</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.39396</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.81435</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.77662</Ratio>
+			<Ratio FieldName="Employees" Type="N">3224</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.5556</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.65389</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-7.0285</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">16.18069</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">537.20830</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.10117</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">120.65840</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04934</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

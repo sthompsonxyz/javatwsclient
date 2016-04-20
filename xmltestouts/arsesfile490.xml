@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E2D1C</CoID>
+		<CoID Type="CompanyName">Sherborne Investors (Guernsey) B Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SIGB</IssueID>
+			<IssueID Type="CUSIP">G8T17M107</IssueID>
+			<IssueID Type="ISIN">GG00B883XC99</IssueID>
+			<IssueID Type="RIC">SIGB.L</IssueID>
+			<IssueID Type="SEDOL">B883XC9</IssueID>
+			<IssueID Type="DisplayRIC">SIGB.L</IssueID>
+			<IssueID Type="InstrumentPI">121351786</IssueID>
+			<IssueID Type="QuotePI">121351772</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-22</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<SharesOut Date="2015-06-30" TotalFloat="254664274.0">314547258.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:36:13">Sherborne Investors (Guernsey) B Limited is a closed-ended investment company. The Company's investment objective is to realize capital growth from investment in a target company with the aim of generating a significant capital return for shareholders. The Company's investment policy is to invest in a company which is publicly quoted, most likely on one of the United Kingdom stock exchanges, which it considers to be undervalued as a result of operational deficiencies and which it believes can be rectified, thereby increasing the value of the investment. The Company invests in one target company at a time. Sherborne Investors Management (Guernsey) LLC is acting as the Investment Manager for the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T08:35:37">BRIEF: For the six months ended 30 June 2015, Sherborne Investors (Guernsey) B Ltd revenues increased from L7.1M to L17.8M. Net income increased from L4.3M to L10.3M. Revenues reflect Unrealised gain on investment held at fa increase from -L14M to L14M, Dividend Income increase from L0K to L3.8M. Net income was partially offset by Administrative fees increase of 1% to L135K (expense). Dividend per share totaled to L0.38.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T08:35:38">
+		<streetAddress line="1">1 Royal Plaza, Royal Avenue</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 2HL</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>713843</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-11-26T12:30:16"><webSite mainCategory="Home Page">http://www.sherborneinvestorsguernseyb.com</webSite><eMail mainCategory="Company Contact/E-mail">contact@sherborneinvestorsguernseyb.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T08:35:38">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.18000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.18000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.91000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00000</Ratio>
+			<Ratio FieldName="EV" Type="N">384.06955</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">371.16580</Ratio>
+			<Ratio FieldName="AREV" Type="N">33.56282</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">28.23628</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">22.03988</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.10647</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.16214</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.06029</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.12735</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">85.25094</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.57274</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.05884</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">11.08293</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.11291</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

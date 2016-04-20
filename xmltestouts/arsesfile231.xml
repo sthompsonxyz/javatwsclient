@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D11D4</CoID>
+		<CoID Type="CompanyName">Greka Drilling Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GDL</IssueID>
+			<IssueID Type="CUSIP">G41110100</IssueID>
+			<IssueID Type="ISIN">KYG411101002</IssueID>
+			<IssueID Type="RIC">GDL.L</IssueID>
+			<IssueID Type="SEDOL">B3PH493</IssueID>
+			<IssueID Type="DisplayRIC">GDL.L</IssueID>
+			<IssueID Type="InstrumentPI">83115350</IssueID>
+			<IssueID Type="QuotePI">83115347</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-10</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-12-31">665</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="113669197.0">398245758.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-26T22:26:26">Greka Drilling Limited is a holding company. The Company is an oil and gas drilling company. The Company, through its subsidiary, Greka (Zhengzhou) CBM Technical Services Co. Ltd. holds rigs in China. The principal activities of the Company are providing CBM drilling services. The Company provides drilling services across techniques, such as conventional, directional and liFaBriC (horizontal geo-steered completion). The Companys drilling fleet comprises purpose-built hydraulic rigs specifically designed for the application of drilling services within the unconventional gas industry. The Company provides financing and management services to its subsidiaries and is focused on continually developing technologies which service its customer base.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-10T04:56:57">BRIEF: For the six months ended 30 June 2015, Greka Drilling Ltd revenues increased 33% to $11.9M. Net loss increased 19% to $4.8M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Bank interest decrease of 100% to $1K (income). Basic Earnings per Share excluding Extraordinary Items remained flat at -$0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T13:55:56">
+		<streetAddress line="1">29th Floor, Landmark Plaza</streetAddress>
+		<streetAddress line="2">No. 1 Business Outer Ring Road</streetAddress>
+		<streetAddress line="3">Central Business District</streetAddress>
+		<city>ZHENGZHOU</city>
+		<state-region>HEN</state-region>
+		<postalCode>450000</postalCode>
+		<country code="CHN">China</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>86</countryPhoneCode>
+				<city-areacode>371</city-areacode>
+				<number>60130088</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>86</countryPhoneCode>
+				<city-areacode>371</city-areacode>
+				<number>60120066</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-08-15T04:47:56"><webSite mainCategory="Home Page">http://www.grekadrilling.com/</webSite><eMail mainCategory="Company Contact/E-mail">drilling@greka.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T13:55:56">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010301012" mnem="">Gas Drilling - Onshore</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="213111" mnem="">Drilling Oil and Gas Wells</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1381" mnem="">Drilling Oil And Gas Wells</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/01/2011">
+			<firstName>Randeep</firstName>
+			<mI>Singh</mI>
+			<lastName>Grewal</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="02" startDay="01" iD1="CHM" abbr1="Chmn." iD2="CEO" abbr2="CEO">Executive Chairman of the Board, Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="02/07/2011">
+			<firstName>Dongju</firstName>
+			<mI></mI>
+			<lastName>He</lastName>
+			<age>41 </age>
+			<title startYear="2015" startMonth="10" startDay="05" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.03250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.12000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.22151</Ratio>
+			<Ratio FieldName="EV" Type="N">20.14750</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">12.94299</Ratio>
+			<Ratio FieldName="AREV" Type="N">17.26101</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.25317</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-4.06911</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01022</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04334</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.13001</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00308</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00216</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">25.68281</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-7.57420</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.74984</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.24999</Ratio>
+			<Ratio FieldName="Employees" Type="N">665</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.14002</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-4.59689</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">31.17329</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00707</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-2.89792</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D39C1</CoID>
+		<CoID Type="CompanyName">AFH Financial Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AFHP</IssueID>
+			<IssueID Type="CUSIP">G0129H101</IssueID>
+			<IssueID Type="ISIN">GB00B4W5WQ08</IssueID>
+			<IssueID Type="RIC">AFHP.L</IssueID>
+			<IssueID Type="SEDOL">B4W5WQ0</IssueID>
+			<IssueID Type="DisplayRIC">AFHP.L</IssueID>
+			<IssueID Type="InstrumentPI">88459484</IssueID>
+			<IssueID Type="QuotePI">161697406</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-05</LastModified>
+		<LatestAvailableAnnual>2015-10-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-10-31">184</Employees>
+		<SharesOut Date="2015-12-17" TotalFloat="6958926.0">20174876.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:38:20">AFH Financial Group PLC is a United Kingdom-based company engaged in the provision of independent financial advice to the retail market. The Company provides financial planning led investment management services. The Company offers independent financial advice on retirement planning and options, and funding long term care. The Company offers discretionary portfolio management, investment advisory service, and stockbroking and share exchange services. The Company also offers tax and estate planning services, which include estate preservation and trust planning, inheritance tax planning and tax efficient investment solutions. The Company's corporate solutions include Pension planning for directors, company pension schemes, business and key person protection, business financing solutions and auto-enrolment.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-01T09:35:55">BRIEF: For the fiscal year ended 31 October 2015, AFH Financial Group Plc revenues increased 40% to L21M. Net income increased 95% to L1.2M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Finance Cost - on other loans wholly rep decrease of 75% to L1K (expense), Finance Income increase of 4% to L26K (income). Dividend per share remained flat at L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-05T08:59:24">
+		<streetAddress line="1">A F H House, Buntsford Drive</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BROMSGROVE</city>
+		<state-region></state-region>
+		<postalCode>B60 4JE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1527</city-areacode>
+				<number>577775</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1527</city-areacode>
+				<number>577624</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-05T08:59:24">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202014" mnem="">Wealth Management</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Hudson</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="02" startDay="11" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="02/10/2014">
+			<firstName>Paul</firstName>
+			<mI>Keith</mI>
+			<lastName>Wright</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="02" startDay="10" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="10/02/2015">
+			<firstName>Austin</firstName>
+			<mI>David</mI>
+			<lastName>Broad</lastName>
+			<age>52 </age>
+			<title startYear="2015" startMonth="10" startDay="02" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="10/02/2015">
+			<firstName>Alexis</firstName>
+			<mI></mI>
+			<lastName>James</lastName>
+			<age>33 </age>
+			<title startYear="2015" startMonth="10" startDay="02" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Anne-Marie</firstName>
+			<mI></mI>
+			<lastName>Brown</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-10-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.69000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.98000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.43000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00205</Ratio>
+			<Ratio FieldName="EV" Type="N">40.35555</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">40.62655</Ratio>
+			<Ratio FieldName="AREV" Type="N">20.97700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.62700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.17300</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.05490</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.98179</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.62767</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.18717</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.09571</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02250</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">52.28584</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.12647</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.93672</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">30.78324</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.69250</Ratio>
+			<Ratio FieldName="Employees" Type="N">184</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="10" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.80000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">76.5000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">16.84945</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">27.18250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.10030</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">3.10300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

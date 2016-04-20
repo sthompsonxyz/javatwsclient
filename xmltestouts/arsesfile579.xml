@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A405B</CoID>
+		<CoID Type="CompanyName">Young &amp; Co.'s Brewery plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">YNGA</IssueID>
+			<IssueID Type="CUSIP">G98715140</IssueID>
+			<IssueID Type="ISIN">GB00B2NDK765</IssueID>
+			<IssueID Type="RIC">YNGa.L</IssueID>
+			<IssueID Type="SEDOL">B2NDK76</IssueID>
+			<IssueID Type="DisplayRIC">YNGa.L</IssueID>
+			<IssueID Type="InstrumentPI">263223</IssueID>
+			<IssueID Type="QuotePI">1081001</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2008-02-25">4.0</MostRecentSplit>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">YNGN</IssueID>
+			<IssueID Type="CUSIP">G98715157</IssueID>
+			<IssueID Type="ISIN">GB00B2NDK989</IssueID>
+			<IssueID Type="RIC">YNGt.L</IssueID>
+			<IssueID Type="SEDOL">B2NDK98</IssueID>
+			<IssueID Type="DisplayRIC">YNGt.L</IssueID>
+			<IssueID Type="InstrumentPI">263226</IssueID>
+			<IssueID Type="QuotePI">1081003</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">6% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126349119</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="5" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">9% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126349120</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-25</LastModified>
+		<LatestAvailableAnnual>2015-03-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-28</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-30">3496</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="29611406.0">48666506.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-15T23:36:18">Young &amp; Co.s Brewery, P.L.C. (Youngs) is a United Kingdom-based company. The Company is engaged in the management and operation of its pub estate and the selling of food and drink through it. The Company operates in three segments: Youngs managed houses, Geronimo managed houses and Tenanted houses. Both Youngs and Geronimo managed houses operate pubs. Tenanted houses consists of pubs owned or leased by the company and leased or sub leased to third parties. The Company has more than 160 managed pubs and approximately 80 tenanted ones, principally located in London and the South East.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-25T22:13:57">BRIEF: For the 26 weeks ended 28 September 2015, Young &amp; Co.'s Brewery plc revenues increased 8% to L126.3M. Net income increased 8% to L15.9M. Revenues reflect Managed Houses segment increase of 9% to L119.6M, Tenanted Houses segment increase of 2% to L6.5M. Net income also reflects Managed Houses segment income increase of 8% to L29.5M. Dividend per share remained flat at L0.08.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-25T22:14:01">
+		<streetAddress line="1">Riverside House</streetAddress>
+		<streetAddress line="2">26 Osiers Road,Wandsworth</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW18 1NH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Anthony Ian Schroeder</contactName>
+		<contactTitle>Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>88757000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>88757100</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-17T12:34:48"><webSite mainCategory="Home Page">http://www.youngs.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">shareholder@youngs.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-25T22:14:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330102010" mnem="">Restaurants &amp; Bars - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="72241" mnem="">Drinking Places (Alcoholic Beverages)</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="72211" mnem="">Full-Service Restaurants</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="72111" mnem="">Hotels (except Casino Hotels) and Motels</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="44531" mnem="">Beer, Wine and Liquor Stores</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="53139" mnem="">Other Activities Related to Real Estate</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5813" mnem="">Drinking Places</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5812" mnem="">Eating Places</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7011" mnem="">Hotels And Motels</Industry>
+			<Industry type="SIC" order="4" reported="0" code="5921" mnem="">Liquor Stores</Industry>
+			<Industry type="SIC" order="5" reported="0" code="6531" mnem="">Real Estate Agents And Managers</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1995">
+			<firstName>Stephen</firstName>
+			<mI></mI>
+			<lastName>Goodyear</lastName>
+			<age>59 </age>
+			<title startYear="2003" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="1997">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Whitehead</lastName>
+			<age>53 </age>
+			<title startYear="1997" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Torquil</firstName>
+			<mI></mI>
+			<lastName>Sligo-Young</lastName>
+			<age>55 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="DHR" abbr2="Dir.-HR">Executive Director - Human and Information Resources, Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Patrick</firstName>
+			<mI></mI>
+			<lastName>Dardis</lastName>
+			<age>56 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director - Retail, Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Anthony Ian</firstName>
+			<mI></mI>
+			<lastName>Schroeder</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="IRC" abbr2="IR-Contact">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">11.47500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">13.20200</Ratio>
+			<Ratio FieldName="NLOW" Type="N">9.80000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00752</Ratio>
+			<Ratio FieldName="EV" Type="N">629.01020</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">500.01020</Ratio>
+			<Ratio FieldName="AREV" Type="N">227.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">52.20000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">26.70000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.55090</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.68364</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">8.42820</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00414</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.85626</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16460</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">74.18502</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">6.78818</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.20269</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">20.82955</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.36150</Ratio>
+			<Ratio FieldName="Employees" Type="N">3496</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">13.75000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">20.54611</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">246.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.55850</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">34.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.17250</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

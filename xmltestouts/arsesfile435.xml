@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AD3D3</CoID>
+		<CoID Type="CompanyName">PetroNeft Resources Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">P8ET</IssueID>
+			<IssueID Type="CUSIP">G70539104</IssueID>
+			<IssueID Type="ISIN">IE00B0Q82B24</IssueID>
+			<IssueID Type="RIC">PTR.I</IssueID>
+			<IssueID Type="SEDOL">B1FKZS4</IssueID>
+			<IssueID Type="DisplayRIC">PTR.I</IssueID>
+			<IssueID Type="InstrumentPI">27758588</IssueID>
+			<IssueID Type="QuotePI">28016038</IssueID>
+			<Exchange Code="ISE" Country="IRL">Irish Stock Exchange</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-05</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">110</Employees>
+		<SharesOut Date="2015-09-11" TotalFloat="168871394.0">707245906.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:04:09">PetroNeft Resources plc (PetroNeft) is an Ireland-based company engaged in oil and gas exploration, development and production. The Company holds a 50% operated interest in a 4,991 square kilometer oil and gas license (License 61) in the Tomsk Oblast in Russia and a 50% operating interest in 2,447 square kilometer oil and gas license (License 67) also located in the Tomsk Oblast. Both licenses are located in the Western Siberian Oil and Gas Basin. License 61 contains seven known oil fields, Lineynoye, Tungolskoye, Arbuzovskoye, Sibkrayevskoye, West Lineynoye, Kondrashevskoye and North Varyakhskoye and the Company is exploring over 25 prospects and leads. License 67 contains the Ledovoye and Cheremshanskoye oil fields and numerous prospects and leads.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-05T23:02:24">BRIEF: For the six months ended 30 June 2015, PetroNeft Resources Plc revenues decreased 93% to $1.2M. Net loss decreased 48% to $1.4M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Lower net loss reflects Administrative expenses decrease of 82% to $572K (expense), Exchange loss on intra-Group loans decrease from $2.1M (expense) to $16K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-05T23:02:26">
+		<streetAddress line="1">20 Holles Street, Dublin 2</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DUBLIN</city>
+		<state-region></state-region>
+		<postalCode></postalCode>
+		<country code="IRL">Ireland</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-07-06T10:18:45"><webSite mainCategory="Home Page">http://petroneft.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-05T23:02:26">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2005">
+			<firstName>Dennis</firstName>
+			<mI></mI>
+			<lastName>Francis</lastName>
+			<age>65 </age>
+			<title startYear="2005" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/01/2007">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Dowling</lastName>
+			<age>42 </age>
+			<title startYear="2008" startMonth="04" startDay="29" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2005">
+			<firstName>David</firstName>
+			<mI>E.</mI>
+			<lastName>Sanders</lastName>
+			<age>65 </age>
+			<title startYear="2005" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">Company Secretary, General Legal Counsel, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="EUR" ReportingCurrency="USD" ExchangeRate="0.90695" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.03000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.07500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.05174</Ratio>
+			<Ratio FieldName="EV" Type="N">18.14031</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">21.21738</Ratio>
+			<Ratio FieldName="AREV" Type="N">17.38211</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">0.32874</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-7.96700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01148</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.02504</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.08267</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00435</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01131</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">20.51571</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-11.67174</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.22064</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.36290</Ratio>
+			<Ratio FieldName="Employees" Type="N">110</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1.08834</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-0.63487</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A405D</CoID>
+		<CoID Type="CompanyName">Tiziana Life Sciences PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TILS</IssueID>
+			<IssueID Type="CUSIP">G8891H118</IssueID>
+			<IssueID Type="ISIN">GB00BKWNZY55</IssueID>
+			<IssueID Type="RIC">TILST.L</IssueID>
+			<IssueID Type="SEDOL">BKWNZY5</IssueID>
+			<IssueID Type="DisplayRIC">TILST.L</IssueID>
+			<IssueID Type="InstrumentPI">522580</IssueID>
+			<IssueID Type="QuotePI">1082867</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2014-04-24">0.00333</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="RIC">IPO-ALEX.L</IssueID>
+			<IssueID Type="DisplayRIC">IPO-ALEX.L</IssueID>
+			<IssueID Type="InstrumentPI">126349121</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2011-12-31">4</Employees>
+		<SharesOut Date="2015-11-05" TotalFloat="22778013.32403">213582062.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:07:35">Tiziana Life Sciences PLC is a clinical-stage biotechnology company. The Company is focused on targeted drugs to treat diseases in oncology and immunology, with a focus on metastatic cancers. The Company is engaged in the research and development of biotechnological and pharmaceutical products. Its subsidiary, Tiziana Pharma Limited (TPL), is formed as a vehicle to acquire and exploit certain intellectual property in biotechnology, specifically a program focused on metastatic breast cancer. TPL has discovered that Bcl-3 has a role in the metastasis of mammary cancers, and has elucidated the mechanism of Bcl-3 action to be a regulator of cancer cell motility. TPL has determined that Bcl-3 inhibition suppresses cell motility in triple-negative, human epidermal growth factor receptor 2 (HER-2)-positive, progesterone receptors (PR)-positive and estrogen-receptor-positive (ER-positive) breast cancer sub-types.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-02T14:14:29">BRIEF: For the six months ended 30 June 2015, Tiziana Life Sciences PLC revenues was not reported. Net loss increased from L1.6M to L4.1M. Higher net loss reflects Research and development increase from L141K to L2.7M (expense), Operating Expenses increase of 99% to L1.2M (expense), Financial expense increase from L93K to L210K (expense). Basic Earnings per Share excluding Extraordinary Items remained flat at -L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-29T22:55:23">
+		<streetAddress line="1">18 South Street Mayfair</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1K 1DG</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74932853</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74952379</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-09T08:04:08"><webSite mainCategory="Home Page">http://www.tizianalifesciences.com</webSite><eMail mainCategory="Company Contact/E-mail">info@tizianalifesciences.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-29T22:55:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/24/2014">
+			<firstName>Gabriele</firstName>
+			<mI>M.</mI>
+			<lastName>Cerrone</lastName>
+			<age>42 </age>
+			<title startYear="2014" startMonth="04" startDay="24" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="12/09/2015">
+			<firstName>Jim</firstName>
+			<mI></mI>
+			<lastName>Tripp</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="09" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer, Head of Global Clinical Operations</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>P.</firstName>
+			<mI></mI>
+			<lastName>Cooper</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.33000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.51950</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.58250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00667</Ratio>
+			<Ratio FieldName="EV" Type="N">120.61560</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">122.88160</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.58100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.51000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.15350</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.02099</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02676</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-430.41080</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">63.37320</Ratio>
+			<Ratio FieldName="Employees" Type="N">4</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

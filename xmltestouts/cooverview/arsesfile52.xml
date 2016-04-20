@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC063</CoID>
+		<CoID Type="CompanyName">Axa Property Trust Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">APT</IssueID>
+			<IssueID Type="CUSIP">G0743L173</IssueID>
+			<IssueID Type="ISIN">GG00BD5J7902</IssueID>
+			<IssueID Type="RIC">APT.L</IssueID>
+			<IssueID Type="SEDOL">BD5J790</IssueID>
+			<IssueID Type="DisplayRIC">APT.L</IssueID>
+			<IssueID Type="InstrumentPI">20630545</IssueID>
+			<IssueID Type="QuotePI">20630544</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2016-01-07">1.02873</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-13</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">2500</Employees>
+		<SharesOut Date="2016-01-18" TotalFloat="55356074.0">57577470.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-22T00:02:16">Axa Property Trust Limited is a Guernsey-based closed-ended investment company. The Company invests in commercial properties in Europe, which are held through its subsidiaries. The investment objective of the Company is to secure total returns for shareholders through a combination of dividends and capital appreciation from European properties (including the United Kingdom). It operates in the segments namely commercial property market, which includes offices, retail (both in and out of town), industrial and other sectors, including leisure and hotels. The Company also invests in properties through joint ventures. AXA Investment Managers UK Limited is the investment manager of the Company. AXA Real Estate Investment Managers UK Limited provides real estate advisory services to the Company. The Company operates through, the Luxembourg Subsidiary, which acts as an intermediate holding company for the acquisition and holding of properties or joint venture interests in Europe.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-13T06:50:01">BRIEF: For the fiscal year ended 30 June 2015, Axa Property Trust Limited revenues increased from L5.5M to L12.2M. Net income totaled L7.7M vs. loss of L2.4M. Revenues reflect Industrial segment increase of 52% to L3.4M, Leisure segment increase of 39% to L1.7M. Net Income reflects Performance fee decrease from L423K (expense) to L731K (income), Legal and professional fees decrease of 52% to L151K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-13T06:50:11">
+		<streetAddress line="1">Trafalgar Court, Les Banques,</streetAddress>
+		<streetAddress line="2">PO Box 255</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 3QL</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>745604</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>745085</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-04T11:02:51"><webSite mainCategory="Home Page">http://www.axa-im.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">contact@axa-im.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-13T06:50:11">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.54500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.55472</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.39292</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.06309</Ratio>
+			<Ratio FieldName="EV" Type="N">38.40872</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">31.37972</Ratio>
+			<Ratio FieldName="AREV" Type="N">12.17600</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">9.20000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">7.74300</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.09468</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.14889</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.63183</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.21925</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">83.88633</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">15.51781</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.57718</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">5.75623</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.86257</Ratio>
+			<Ratio FieldName="Employees" Type="N">2500</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2013" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F30F2</CoID>
+		<CoID Type="CompanyName">Midatech Pharma PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MTPH</IssueID>
+			<IssueID Type="CUSIP">G6091U103</IssueID>
+			<IssueID Type="ISIN">GB00BRTL9B63</IssueID>
+			<IssueID Type="RIC">MTPH.L</IssueID>
+			<IssueID Type="SEDOL">BRTL9B6</IssueID>
+			<IssueID Type="DisplayRIC">MTPH.L</IssueID>
+			<IssueID Type="InstrumentPI">173025277</IssueID>
+			<IssueID Type="QuotePI">174187830</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">38</Employees>
+		<SharesOut Date="2015-12-30" TotalFloat="21491782.0">33467507.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-12-30T14:30:53">Midatech Pharma Plc is a United Kingdom-based nanomedicine company. The Company is focused on the development and commercialization of various therapeutic products for diseases, which include diabetes, certain cancers, such as liver, ovarian and brain (glioblastoma), and certain neurological/ophthalmologic conditions. Its product candidates, which are in clinical and pre-clinical development, are Transbuccal Insulin, glucagon-like-peptide (GLP-1), GLP-1/Insulin Combination, Q-Exenatide and Q-Octreotide. It is also developing oncology products for the treatment of brain cancer (glioblastoma), ovarian cancer, liver cancer and pancreatic cancer. Its pipeline of product candidates is based on its drug conjugate and sustained release delivery platforms. The Company also offers Zuplenz for the prevention of chemotherapy-induced nausea and vomiting, radiotherapy-induced nausea and vomiting, and post-operative nausea and vomiting.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-08T08:41:47">BRIEF: For the six months ended 30 June 2015, Midatech Pharma PLC revenues increased from L36K to L324K. Net loss increased 75% to L4.9M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Administrative costs increase from L1.9M to L3.8M (expense),  Research and development costs increase of 45% to L1.8M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-10T09:17:16">
+		<streetAddress line="1">65 Milton Park</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ABINGDON</city>
+		<state-region></state-region>
+		<postalCode>OX14 4RQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>23</city-areacode>
+				<number>5841575</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-10T09:17:16">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5620201011" mnem="">Bio Therapeutic Drugs</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>James</firstName>
+			<mI>Neil</mI>
+			<lastName>Phillips</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Nicholas</firstName>
+			<mI>John</mI>
+			<lastName>Robbins-Cherry</lastName>
+			<age>45 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Finance Director, Director</title>
+		</officer>
+		<officer rank="3" since="01/01/2014">
+			<firstName>Craig</firstName>
+			<mI></mI>
+			<lastName>Cook</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer / Chief Medical Officer</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Daniel</firstName>
+			<mI>David</mI>
+			<lastName>Palmer</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CSO" abbr1="CSO" iD2="" abbr2="">Chief Scientific Officer</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Justin</firstName>
+			<mI></mI>
+			<lastName>Barry</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Manufacturing</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Tim</firstName>
+			<mI></mI>
+			<lastName>Sparey</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Business Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.71000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.30000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.50000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01792</Ratio>
+			<Ratio FieldName="EV" Type="N">28.88344</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">57.22944</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.15700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-9.36500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-8.82200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.97736</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.01739</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.51071</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.09105</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.94169</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-41.27348</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">364.51870</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.13192</Ratio>
+			<Ratio FieldName="Employees" Type="N">38</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.88000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-4.11058</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1.02470</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.41600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-12.05400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

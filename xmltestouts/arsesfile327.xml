@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E5C4C</CoID>
+		<CoID Type="CompanyName">Lekoil Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">LEK</IssueID>
+			<IssueID Type="CUSIP">G5462G107</IssueID>
+			<IssueID Type="ISIN">KYG5462G1073</IssueID>
+			<IssueID Type="RIC">LEK.L</IssueID>
+			<IssueID Type="SEDOL">B9FFQF9</IssueID>
+			<IssueID Type="DisplayRIC">LEK.L</IssueID>
+			<IssueID Type="InstrumentPI">130067603</IssueID>
+			<IssueID Type="QuotePI">131260906</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-05-12">13</Employees>
+		<SharesOut Date="2015-11-18" TotalFloat="431230369.0">488199893.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-06T07:33:39">Lekoil Limited (Lekoil) is a United Kingdom-based oil and gas exploration and production company. The Company is engaged in the international exploration, development and production of petroleum oil and natural gas. The Company holds around 40% participating interest in Otakikpo marginal field, which is located in Swamp location in OML 11, adjacent to shoreline. The Company's exploration assets include OPL 310 located in Nigeria, and Namibia blocks 2514 A and 2514 B. The Company has 17.14% participating interest in OPL 310. In the Namibia blocks 2514 A and 2514 B, the Company has 77.5% interest in Block 2514 A and 77.5% interest in Block 2514 B. The Company's subsidiaries include Lekoil Exploration and Production (Pty) Limited, Lekoil Management Corporation, Lekoil Singapore and Lekoil Limited SARL.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-01T03:12:54">BRIEF: For the six months ended 30 June 2015, Lekoil Ltd revenues was not reported. Net loss increased 26% to $4.9M. Higher net loss reflects Finance costs increase from $0K to $28K (expense). Basic Earnings per Share excluding Extraordinary Items remained flat at -$0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-24T09:19:13">
+		<streetAddress line="1">Churchgate Tower 1</streetAddress>
+		<streetAddress line="2">9th Floor, PC 30, Churchgate Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>VICTORIA ISLAND</city>
+		<state-region></state-region>
+		<postalCode></postalCode>
+		<country code="NGA">Nigeria</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>234</countryPhoneCode>
+				<city-areacode>1</city-areacode>
+				<number>2770560</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>234</countryPhoneCode>
+				<city-areacode>1</city-areacode>
+				<number>2770561</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-02T06:09:15"><webSite mainCategory="Home Page">http://www.lekoil.com</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@lekoil.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-24T09:19:13">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Olalekan</firstName>
+			<mI></mI>
+			<lastName>Akinyanmi</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.14000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.30500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.13430</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.92017</Ratio>
+			<Ratio FieldName="EV" Type="N">33.55475</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">68.34799</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-8.04083</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.36396</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00390</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.37556</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.09585</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.02325</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-1.10563</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.37278</Ratio>
+			<Ratio FieldName="Employees" Type="N">13</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.625</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.37164</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-13.94422</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">12.96403</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01004</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-1.94408</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

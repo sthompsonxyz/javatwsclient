@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A318C</CoID>
+		<CoID Type="CompanyName">Havelock Europa plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HVE</IssueID>
+			<IssueID Type="CUSIP">G43372104</IssueID>
+			<IssueID Type="ISIN">GB0004149356</IssueID>
+			<IssueID Type="RIC">HAVE.L</IssueID>
+			<IssueID Type="SEDOL">0414935</IssueID>
+			<IssueID Type="DisplayRIC">HAVE.L</IssueID>
+			<IssueID Type="InstrumentPI">261451</IssueID>
+			<IssueID Type="QuotePI">1080758</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-04</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">578</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="18330347.0">38532050.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:07:05">Havelock Europa PLC is a United Kingdom-based interior solutions provider. The Company operates in the retail, financial services, education/accommodation, healthcare and international sectors. The Company's services include interior design, equipment design and manufacture, supply and installation, worldwide procurement and turnkey project management. It operates in the segments of Interiors and Educational Supplies. The Interiors segment includes the design, manufacture and installation of interiors for schools, retail, financial services, hotels and other accommodation premises. The Educational Supplies segment engages in the design, manufacture, supply and installation of teaching aids, display boards and demountable stages for the education sector. The Educational Supplies segment includes Teacher boards and Stage Systems. Its customers include retailers, banks, construction companies, education authorities, National Health Service (NHS) Trusts and commercial organizations.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-04T04:22:51">BRIEF: For the six months ended 30 June 2015, Havelock Europa plc revenues decreased 6% to L30.7M. Net loss increased 5% to L1.9M. Revenues reflect Elimination segment decrease from L1.8M to L0K, Education segment decrease from L1.3M to L0K. Basic Earnings per Share excluding Extraordinary Items remained flat at -L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-04T04:22:55">
+		<streetAddress line="1">Westway Hillend Industrial Park</streetAddress>
+		<streetAddress line="2">DALGETY BAY</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>KIRKCALDY</city>
+		<state-region></state-region>
+		<postalCode>KY2 6NA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1592</city-areacode>
+				<number>643883</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1592</city-areacode>
+				<number>648401</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-17T04:56:44"><webSite mainCategory="Home Page">http://www.havelockeuropa.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-04T04:22:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340302016" mnem="">Interior Design Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54141" mnem="">Interior Design Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="337127" mnem="">Institutional Furniture Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="333315" mnem="">Photographic and Photocopying Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="337214" mnem="">Nonwood Office Furniture Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="339113" mnem="">Surgical Appliance and Supplies Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="33995" mnem="">Sign Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7389" mnem="">Business Services, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2599" mnem="">Furniture And Fixtures, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3861" mnem="">Photographic Equipment Supplies</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2522" mnem="">Office Furniture, Except Wood</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3842" mnem="">Surgical Appliances And Supplies</Industry>
+			<Industry type="SIC" order="6" reported="0" code="3993" mnem="">Signs And Advertising Specialties</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/30/2015">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Ritchie</lastName>
+			<age>43 </age>
+			<title startYear="2015" startMonth="05" startDay="05" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="06/23/2014">
+			<firstName>Ciaran</firstName>
+			<mI>Anthony</mI>
+			<lastName>Kennedy</lastName>
+			<age>49 </age>
+			<title startYear="2014" startMonth="06" startDay="23" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.11250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.18500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.05430</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01489</Ratio>
+			<Ratio FieldName="EV" Type="N">4.08286</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.33486</Ratio>
+			<Ratio FieldName="AREV" Type="N">83.40200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.40400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-5.20500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.13952</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.23556</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.33559</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.14051</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.11668</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">13.26587</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-31.16766</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.05198</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.33523</Ratio>
+			<Ratio FieldName="Employees" Type="N">578</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.18500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-7.03125</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">73.75000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-0.90000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

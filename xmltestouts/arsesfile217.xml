@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">CDE80</CoID>
+		<CoID Type="CompanyName">Flybe Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">FLYB</IssueID>
+			<IssueID Type="CUSIP">G3640F109</IssueID>
+			<IssueID Type="ISIN">GB00B4QMVR10</IssueID>
+			<IssueID Type="RIC">FLYB.L</IssueID>
+			<IssueID Type="SEDOL">B4QMVR1</IssueID>
+			<IssueID Type="DisplayRIC">FLYB.L</IssueID>
+			<IssueID Type="InstrumentPI">78569066</IssueID>
+			<IssueID Type="QuotePI">78886973</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-02-20">1.02954</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">2069</Employees>
+		<SharesOut Date="2015-03-31" TotalFloat="214189895.0">216656776.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2014-08-21T13:12:27">Flybe Group plc is a United Kingdom-based regional airline company with scheduled and white label flying operations based out the United Kingdom and Finland (operating through a joint venture with Finnair Oyj). As of June 30, 2014, its fleet had 96 aircraft. The Companys maintenance, repair and overhaul (MRO) business supports the airlines operations and serves third-party customers through the provision of aircraft maintenance and overhauls.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-14T22:16:28">BRIEF: For the fiscal year ended 31 March 2015, Flybe Group PLC revenues decreased 7% to L574.1M. Net loss before extraordinary items totaled L23.7M vs. income of L8.5M. Revenues reflect UK Airline segment decrease of 8% to L550.7M, Europe segment decrease of 76% to L76.6M, Revenue Passengers decrease of 1% to 7.7M. Net loss reflects EBITDAR decrease of 30% to L69.4M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T02:19:37">
+		<streetAddress line="1">Jack Walker House</streetAddress>
+		<streetAddress line="2">Exeter International Airport</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EXETER</city>
+		<state-region></state-region>
+		<postalCode>EX5 2HL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1392</city-areacode>
+				<number>268518</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-21T13:15:00"><webSite mainCategory="Home Page">http://www.flybe.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@flybe.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T02:19:37">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240601010" mnem="">Airlines - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="481111" mnem="">Scheduled Passenger Air Transportation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="48819" mnem="">Other Support Activities for Air Transportation</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="611512" mnem="">Flight Training</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4512" mnem="">Air Transportation, Scheduled</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4581" mnem="">Airports/flying Fields/services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8249" mnem="">Vocational Schools, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/01/2013">
+			<firstName>Saad</firstName>
+			<mI></mI>
+			<lastName>Hammad</lastName>
+			<age>53 </age>
+			<title startYear="2013" startMonth="08" startDay="01" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="08/19/2014">
+			<firstName>Philip</firstName>
+			<mI></mI>
+			<lastName>de Klerk</lastName>
+			<age>47 </age>
+			<title startYear="2014" startMonth="08" startDay="19" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="04/01/2015">
+			<firstName>Luke</firstName>
+			<mI></mI>
+			<lastName>Farajallah</lastName>
+			<age>47 </age>
+			<title startYear="2015" startMonth="04" startDay="01" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer &amp; Accountable Manager</title>
+		</officer>
+		<officer rank="4" since="01/2007">
+			<firstName>Simon Mark</firstName>
+			<mI></mI>
+			<lastName>Charles</lastName>
+			<age>48 </age>
+			<title startYear="2007" startMonth="01" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Director of Human Resources, Health and Safety</title>
+		</officer>
+		<officer rank="5" since="10/10/2013">
+			<firstName>Matt</firstName>
+			<mI></mI>
+			<lastName>Bennett</lastName>
+			<age>39 </age>
+			<title startYear="2013" startMonth="10" startDay="10" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director of Internal Audit, Risk and Special Projects</title>
+		</officer>
+		<officer rank="6" since="10/28/2013">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Simmons</lastName>
+			<age>50 </age>
+			<title startYear="2013" startMonth="10" startDay="28" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Commercial Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.69750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.99000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.52000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.32988</Ratio>
+			<Ratio FieldName="EV" Type="N">92.41810</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">151.11810</Ratio>
+			<Ratio FieldName="AREV" Type="N">574.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.90000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-23.70000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.10939</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.64982</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.64618</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.82111</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.04200</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">44.17349</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-14.18737</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.26323</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.07942</Ratio>
+			<Ratio FieldName="Employees" Type="N">2069</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.15667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">25.76653</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">614.93330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02707</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">3.25900</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00179</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

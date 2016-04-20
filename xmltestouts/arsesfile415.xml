@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">C73CF</CoID>
+		<CoID Type="CompanyName">Phoenix Group Holdings</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PHNX</IssueID>
+			<IssueID Type="CUSIP">G7091M109</IssueID>
+			<IssueID Type="ISIN">KYG7091M1096</IssueID>
+			<IssueID Type="RIC">PHNX.L</IssueID>
+			<IssueID Type="SEDOL">B45JKK9</IssueID>
+			<IssueID Type="DisplayRIC">PHNX.L</IssueID>
+			<IssueID Type="InstrumentPI">44727891</IssueID>
+			<IssueID Type="QuotePI">65514575</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2013-01-30">1.02574</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-23</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">757</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="204759100.0">225420232.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">1691</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:41:13">Phoenix Group Holdings is a specialist closed life and pension fund consolidator in the United Kingdom. The Company manages life insurance funds which no longer actively sell new life or pension policies and which run-off gradually over time. The Company, through its Phoenix Life segment, provides a range of whole life, term assurance and pension products. The Company's closed life funds consist of around five million policyholders and total life company assets of approximately 52 billion. The Company has three operating United Kingdom life companies, namely, Phoenix Life Limited, Phoenix Life Assurance Limited and National Provident Life Limited (NPLL). The Company's United Kingdom life companies consist of 14 with-profit funds and two non-profit funds. The Company operates its United Kingdom life insurance business under the Phoenix Life brand.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-21T00:16:27">BRIEF: For the six months ended 30 June 2015, Phoenix Group Holdings revenues decreased 69% to L810M. Net income before extraordinary items decreased 69% to L51M. Revenues reflect Net Investment Income decrease of 82% to L372M. Net income also reflects Administrative Expenses increase of 8% to L218M (expense), Gain on transfer of business decrease from L4M (income) to L0K. Dividend per share remained flat at L0.27.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-13T05:03:52">
+		<streetAddress line="1">1st Floor, 32 Commercial Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SAINT HELIER</city>
+		<state-region></state-region>
+		<postalCode>JE2 3RU</postalCode>
+		<country code="JEY">Jersey</country>
+		<contactName>Samuel Perowne</contactName>
+		<contactTitle>Head of Investor Relations</contactTitle>
+		<phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>37350021</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2016-01-06T07:00:08"><webSite mainCategory="Home Page">http://www.thephoenixgroup.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-13T05:03:52">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5530103010" mnem="">Life &amp; Health Insurance - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="524113" mnem="">Direct Life Insurance Carriers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6311" mnem="">Life Insurance</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/01/2015">
+			<firstName>Henry</firstName>
+			<mI>S.</mI>
+			<lastName>Staunton</lastName>
+			<age>67 </age>
+			<title startYear="2015" startMonth="09" startDay="01" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="02/08/2011">
+			<firstName>Clive</firstName>
+			<mI>C.R.</mI>
+			<lastName>Bannister</lastName>
+			<age>57 </age>
+			<title startYear="2011" startMonth="03" startDay="28" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="3" since="06/06/2012">
+			<firstName>Jim</firstName>
+			<mI></mI>
+			<lastName>McConville</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="06" startDay="28" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Group Finance Director, Director</title>
+		</officer>
+		<officer rank="4" since="05/19/2014">
+			<firstName>Andy</firstName>
+			<mI></mI>
+			<lastName>Moss</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="19" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive - Phoenix Life</title>
+		</officer>
+		<officer rank="5" since="07/2013">
+			<firstName>Wayne</firstName>
+			<mI></mI>
+			<lastName>Snow</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="07" startDay="" iD1="CRO" abbr1="CRO" iD2="" abbr2="">Group Chief Risk Officer</title>
+		</officer>
+		<officer rank="6" since="05/2014">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Fawcett</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Human Resources Director</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Fiona</firstName>
+			<mI></mI>
+			<lastName>Clutterbuck</lastName>
+			<age>56 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Strategy - Corporate Development and Communications</title>
+		</officer>
+		<officer rank="8" since="05/01/2013">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>True</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="05" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Chief Actuary</title>
+		</officer>
+		<officer rank="9" since="09/02/2009">
+			<firstName>Gerald</firstName>
+			<mI></mI>
+			<lastName>Watson</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="09" startDay="02" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.21000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">9.35000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">7.77000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.48562</Ratio>
+			<Ratio FieldName="EV" Type="N">-1454.30000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1850.70000</Ratio>
+			<Ratio FieldName="AREV" Type="N">5326.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">730.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">218.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.96889</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">23.67111</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">10.50644</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">22.51000</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.89778</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.53400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.20122</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.34748</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">8.47361</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.78143</Ratio>
+			<Ratio FieldName="Employees" Type="N">757</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">8.78429</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-33.6000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.63454</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2191.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.36272</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">194.25000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.53400</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

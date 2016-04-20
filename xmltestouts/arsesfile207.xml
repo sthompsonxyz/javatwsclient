@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AB397</CoID>
+		<CoID Type="CompanyName">Ferrum Crescent Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Fully Paid Ord. Shrs</IssueID>
+			<IssueID Type="Ticker">FCR</IssueID>
+			<IssueID Type="CUSIP">Q3747W103</IssueID>
+			<IssueID Type="ISIN">AU000000FCR2</IssueID>
+			<IssueID Type="RIC">FCR.AX</IssueID>
+			<IssueID Type="SEDOL">B0JK2H1</IssueID>
+			<IssueID Type="DisplayRIC">FCR.AX</IssueID>
+			<IssueID Type="InstrumentPI">21991262</IssueID>
+			<IssueID Type="QuotePI">22165644</IssueID>
+			<Exchange Code="ASX" Country="AUS">Australian Stock Exchange Ltd</Exchange>
+			<MostRecentSplit Date="2014-10-16">1.1538</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-15</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<SharesOut Date="2015-06-30" TotalFloat="444272665.0">616487353.0</SharesOut>
+		<ReportingCurrency Code="AUD">Australian Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.38466</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-11T06:01:27">Ferrum Crescent Limited is an Australia-based company engaged in exploration for minerals. The Company seeks to capitalize on the future demand for iron products by producing material that can be used in the manufacture of steel in electric arc furnaces. The Company's project includes Moonlight Iron Ore Project, which is based on development of the Moonlight Deposit in Limpopo Province in South Africa. The Moonlight Deposit is a magnetite deposit located on the farms Moonlight, Gouda Fontein and Julietta in the north of South Africa and consists of coarse-grained magnetite-quartz rocks. The Project consists of Joint Ore Reserves Committee (JORC) compliant resource of around 53 metric tons at 31.3% iron (Fe) in the measured category, 83 metric tons at 27.4% Fe in the indicated resource category and around 172 metric tons at 25.3% Fe in the inferred resource category. The Company is seeking to progress with final stage bankable feasibility study (BFS) work.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-15T03:25:29">BRIEF: For the fiscal year ended 30 June 2015, Ferrum Crescent Limited revenues decreased 34% to A$24K. Net loss decreased 8% to A$2.3M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Lower net loss reflects Administration expenses - Balancing valu decrease of 69% to A$485K (expense), Share based payments decrease of 53% to A$91K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-29T08:05:59">
+		<streetAddress line="1">Unit 2, Level 1, Churchill Court</streetAddress>
+		<streetAddress line="2">331-335 Hay Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SUBIACO</city>
+		<state-region>WAS</state-region>
+		<postalCode>6151</postalCode>
+		<country code="AUS">Australia</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>93675681</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>92380722</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-12-19T12:08:47"><webSite mainCategory="Home Page">http://www.ferrumcrescent.com</webSite><eMail mainCategory="Company Contact/E-mail">info@ferrumcresecent.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-29T08:05:59">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120102011" mnem="">Iron Ore Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="21221" mnem="">Iron Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1011" mnem="">Iron Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/19/2014">
+			<firstName>Thomas</firstName>
+			<mI>George</mI>
+			<lastName>Revy</lastName>
+			<age>50 </age>
+			<title startYear="2014" startMonth="02" startDay="19" iD1="CEO" abbr1="CEO" iD2="MDR" abbr2="Mgng.Dir.">Chief Executive Officer, Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/01/2011">
+			<firstName>Vernon</firstName>
+			<mI></mI>
+			<lastName>Harvey</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="04" startDay="01" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="3" since="12/01/2011">
+			<firstName>Beverley</firstName>
+			<mI></mI>
+			<lastName>Gardner</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="12" startDay="01" iD1="CTR" abbr1="Contr." iD2="" abbr2="">Financial Controller</title>
+		</officer>
+		<officer rank="4" since="04/09/2010">
+			<firstName>Lindsay</firstName>
+			<mI></mI>
+			<lastName>Cahill</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="04" startDay="09" iD1="OTH" abbr1="Other" iD2="" abbr2="">Consultant Geologist</title>
+		</officer>
+		<officer rank="5" since="01/11/2010">
+			<firstName>Kevin</firstName>
+			<mI>Scott</mI>
+			<lastName>Huntly</lastName>
+			<age>49 </age>
+			<title startYear="2011" startMonth="03" startDay="04" iD1="OTH" abbr1="Other" iD2="" abbr2="">Strategic Development Manager</title>
+		</officer>
+		<officer rank="6" since="04/04/2011">
+			<firstName>Dave</firstName>
+			<mI></mI>
+			<lastName>Richards</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="04" startDay="04" iD1="OTH" abbr1="Other" iD2="" abbr2="">Compliance Manager</title>
+		</officer>
+		<officer rank="7" since="03/08/2007">
+			<firstName>Andrew</firstName>
+			<mI>Blair</mI>
+			<lastName>Nealon</lastName>
+			<age>29 </age>
+			<title startYear="2007" startMonth="03" startDay="08" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="AUD" ReportingCurrency="AUD" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00300</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.01700</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00300</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-18T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02340</Ratio>
+			<Ratio FieldName="EV" Type="N">0.80021</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.86301</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.02375</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.04944</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-2.34586</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00500</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00005</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.00085</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00172</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00496</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-317.44780</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">78.44241</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.51930</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.41175</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

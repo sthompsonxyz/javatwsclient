@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF189</CoID>
+		<CoID Type="CompanyName">Monitise Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MONI</IssueID>
+			<IssueID Type="CUSIP">G6258F105</IssueID>
+			<IssueID Type="ISIN">GB00B1YMRB82</IssueID>
+			<IssueID Type="RIC">MONI.L</IssueID>
+			<IssueID Type="SEDOL">B1YMRB8</IssueID>
+			<IssueID Type="DisplayRIC">MONI.L</IssueID>
+			<IssueID Type="InstrumentPI">32952988</IssueID>
+			<IssueID Type="QuotePI">34817274</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">949</Employees>
+		<SharesOut Date="2016-02-22" TotalFloat="1779726045.0">2212986858.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-11T06:02:20">Monitise plc is a digital technology company delivering specialized technology relating to mobile banking and payments and digital agency and content sourcing services. The Company's geographical segments include the United Kingdom, Americas, Turkey, Europe and Rest of World. The Company's products include Digital Banking and Intelligent Messaging. The Company's cloud platform provides application program interface (API)-based delivery of its software-as-a-service (SaaS) products, as well as through its platform-as-a-service (PaaS) offering. Its platform's financial services development framework enables bank-grade security and authentication, storage, developer tools, audit capabilities and reporting. It provides digital payment services, which include cross-border mobile remittance capabilities, mobile transfer solutions and cloud-based payments services for businesses, such as financial institutions, merchants, digital service providers and public sector organizations.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T12:09:04">BRIEF: For the six months ended 31 December 2015, Monitise Plc revenues decreased 21% to L33.4M. Net loss increased from L56.8M to L205.4M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Depreciation/Amortization increase from L12.9M to L180M (expense), Restructuring costs increase from L2.6M to L6M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T12:09:07">
+		<streetAddress line="1">95 Gresham Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2V 7NA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>36570900</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79474301</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-12-07T04:16:49"><webSite mainCategory="Home Page">http://www.monitise.com</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@monitise.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T12:09:07">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52232" mnem="">Financial Transactions Processing, Reserve, and Clearing House Activities</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6099" mnem="">Funcions Related To Deposit Banks</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Lee</firstName>
+			<mI></mI>
+			<lastName>Cameron</lastName>
+			<age>44 </age>
+			<title startYear="2015" startMonth="09" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Tom</firstName>
+			<mI></mI>
+			<lastName>Spurgeon</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="12" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01850</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.23000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01610</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">16.94767</Ratio>
+			<Ratio FieldName="EV" Type="N">-37.48974</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">40.94026</Ratio>
+			<Ratio FieldName="AREV" Type="N">89.70000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-69.75300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-223.55100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.10804</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04335</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.11612</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.04096</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.09602</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">51.80936</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-70.39956</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.45641</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.15931</Ratio>
+			<Ratio FieldName="Employees" Type="N">949</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.07000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">78.12000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

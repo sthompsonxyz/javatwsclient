@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3BC2</CoID>
+		<CoID Type="CompanyName">Abbey plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DOY</IssueID>
+			<IssueID Type="CUSIP">G00224108</IssueID>
+			<IssueID Type="ISIN">IE0000020408</IssueID>
+			<IssueID Type="RIC">ABBY.I</IssueID>
+			<IssueID Type="SEDOL">4002284</IssueID>
+			<IssueID Type="DisplayRIC">ABBY.I</IssueID>
+			<IssueID Type="InstrumentPI">283356</IssueID>
+			<IssueID Type="QuotePI">1015284</IssueID>
+			<Exchange Code="ISE" Country="IRL">Irish Stock Exchange</Exchange>
+			<MostRecentSplit Date="2000-05-15">1.176</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-14</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-30">203</Employees>
+		<SharesOut Date="2015-10-31" TotalFloat="5230003.0">21526000.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-17T08:48:23">Abbey plc is an Ireland-based property development company. The principal activities of the Company are building and property development, plant hire and property rental. The Company's operating segments include Building and Property Development, Plant Hire and Property Rental. The Company is engaged in the hire, rental, sales and maintenance of construction plant, vehicles, tools and portable buildings. The Company operates in three markets: Ireland, the United Kingdom and the Czech Republic. The Company's operating subsidiaries include Kingscroft Developments Limited, Abbey Developments Limited and Abbey, s.r.o., which are engaged in residential housing and land development; Abbey Investments Limited, which is engaged in property investment; M&amp;J Engineers Limited, which is engaged in plant hire, and Abbey Holdings Limited and Abbey Group Limited, which are investment holding companies.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-14T07:37:01">BRIEF: For the six months ended 31 October 2015, Abbey plc revenues increased 54% to EUR112M. Net income increased 73% to EUR23.7M. Revenues reflect Building and Property Development segment increase of 60% to EUR100.1M, Plant Hire segment increase of 20% to EUR11.3M, Property Rental segment increase of 11% to EUR496K. Net income benefited from Building and Property Development segment income increase of 85% to EUR27.2M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-14T07:37:03">
+		<streetAddress line="1">Abbey House, 2 Southgate Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>POTTERS BAR</city>
+		<state-region></state-region>
+		<postalCode>EN6 5DU</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1707</city-areacode>
+				<number>651266</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1707</city-areacode>
+				<number>645920</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-31T06:19:22"><webSite mainCategory="Home Page">http://www.abbeyplc.ie</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-14T07:37:03">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320301010" mnem="">Homebuilding - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23311" mnem="">Land Subdivision and Land Development</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="53111" mnem="">Lessors of Residential Buildings and Dwellings</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="53231" mnem="">General Rental Centers</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1531" mnem="">Operative Builders</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6552" mnem="">Subdividers And Developers, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6513" mnem="">Apartment Building Operators</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7359" mnem="">Equipment Rental &amp; Leasing, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+			<Industry type="SIC" order="6" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/1993">
+			<firstName>Charles</firstName>
+			<mI>H.</mI>
+			<lastName>Gallagher</lastName>
+			<age></age>
+			<title startYear="1993" startMonth="05" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="12/09/2015">
+			<firstName>Nick</firstName>
+			<mI></mI>
+			<lastName>Collins</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="09" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="3" since="11/02/2009">
+			<firstName>Lorenzo</firstName>
+			<mI>G.</mI>
+			<lastName>Fraquelli</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="11" startDay="02" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="EUR" ReportingCurrency="EUR" ExchangeRate="1.00000" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">14.89000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">17.46900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">11.21500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-18T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00091</Ratio>
+			<Ratio FieldName="EV" Type="N">239.58810</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">320.52210</Ratio>
+			<Ratio FieldName="AREV" Type="N">172.46200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">53.09200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">39.61100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.84018</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">8.01196</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">11.47250</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">3.75983</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">2.18651</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">30.62762</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">18.13636</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.85851</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">8.09160</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.29789</Ratio>
+			<Ratio FieldName="Employees" Type="N">203</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="4" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.28117</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">214.40000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">2.04500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">55.05000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.13500</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

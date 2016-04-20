@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D4D86</CoID>
+		<CoID Type="CompanyName">China Africa Resources PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CAF</IssueID>
+			<IssueID Type="CUSIP">G2150M108</IssueID>
+			<IssueID Type="ISIN">GB00B3ZW6Z85</IssueID>
+			<IssueID Type="RIC">CAFR.L</IssueID>
+			<IssueID Type="SEDOL">B3ZW6Z8</IssueID>
+			<IssueID Type="DisplayRIC">CAFR.L</IssueID>
+			<IssueID Type="InstrumentPI">90478631</IssueID>
+			<IssueID Type="QuotePI">90519774</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-12-31">8</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="2276622.0">23076924.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T04:31:00">China Africa Resources plc is engaged in exploration and evaluation of mining assets. The Company owns 100% of the zinc, lead, silver and vanadium deposit at Berg Aukas, near Grootfontein, Northern Namibia. China Africa Resources Namibia (pty) Ltd is the Company's wholly owned subsidiary. The holding company of China Africa Resources plc is East China Mineral Exploration and Development Bureau for Non Ferrous Metals.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-03T10:24:46">BRIEF: For the six months ended 30 June 2015, China Africa Resources PLC revenues was not reported. Net loss decreased 24% to $304K. Lower net loss reflects Administrative expenses decrease of 29% to $297K (expense). Basic Earnings per Share excluding Extraordinary Items increased from -$0.02 to -$0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-09T00:00:25">
+		<streetAddress line="1">107 - 111 Fleet Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4A 2AB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79369910</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79369100</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-21T01:05:14"><webSite mainCategory="Home Page">http://www.chinaafricares.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-09T00:00:25">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120105010" mnem="">Specialty Mining &amp; Metals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212231" mnem="">Lead Ore and Zinc Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212291" mnem="">Uranium-Radium-Vanadium Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1031" mnem="">Lead And Zinc Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1094" mnem="">Uranium-Radium-Vanadium Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/27/2010">
+			<firstName>Roderick</firstName>
+			<mI>John</mI>
+			<lastName>Webster</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="10" startDay="27" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="2010">
+			<firstName>Maxwell</firstName>
+			<mI>Glyn</mI>
+			<lastName>Herbert</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.04750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.07780</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.03250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00242</Ratio>
+			<Ratio FieldName="EV" Type="N">0.28261</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.09615</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.55131</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.58877</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.02552</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.21823</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03525</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.02539</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-10.86687</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.21766</Ratio>
+			<Ratio FieldName="Employees" Type="N">8</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3EDF</CoID>
+		<CoID Type="CompanyName">Herald Investment Trust plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">HRI</IssueID>
+			<IssueID Type="CUSIP">G4410F105</IssueID>
+			<IssueID Type="ISIN">GB0004228648</IssueID>
+			<IssueID Type="RIC">HRI.L</IssueID>
+			<IssueID Type="SEDOL">0422864</IssueID>
+			<IssueID Type="DisplayRIC">HRI.L</IssueID>
+			<IssueID Type="InstrumentPI">303717</IssueID>
+			<IssueID Type="QuotePI">1081141</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2016-02-22" TotalFloat="75385916.0">75983052.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:33:53">Herald Investment Trust plc is a United Kingdom-based investment company. The Company's objective is to achieve capital appreciation through investments in smaller quoted companies, in the areas of telecommunications, multimedia and technology (TMT). It invests in various sectors, including information technology (IT), broadcasting, printing and publishing, and the supply of equipment and services to these companies. Herald Investment Management Limited (HIML) is the investment manager to the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T13:12:27">BRIEF: For the fiscal year ended 31 December 2015, Herald Investment Trust plc revenues increased from L17.2M to L60.4M. Net income increased from L7.5M to L51.2M. Revenues reflect Gains on investments increase from L17.2M to L50.1M,  Gain/losses on derivative instruments increase from -L9.4M to L532K. Basic Earnings per Share excluding Extraordinary Items increased from L0.10 to L0.66.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T13:12:35">
+		<streetAddress line="1">10-11 Charterhouse Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC1M 6EE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75536300</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-17T08:25:04"><webSite mainCategory="Home Page">http://www.heralduk.com</webSite><eMail mainCategory="Company Contact/E-mail">bc@heralduk.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T13:12:35">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">6.60000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">7.50000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">6.17000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.04367</Ratio>
+			<Ratio FieldName="EV" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">501.48810</Ratio>
+			<Ratio FieldName="AREV" Type="N">60.36500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">51.42100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">51.18800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.66390</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.78292</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">8.81781</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.91129</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">85.94384</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.87475</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">8.30760</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.94126</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.74849</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

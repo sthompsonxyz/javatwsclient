@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E731C</CoID>
+		<CoID Type="CompanyName">Ab Dynamics PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ABDP</IssueID>
+			<IssueID Type="CUSIP">G0032G109</IssueID>
+			<IssueID Type="ISIN">GB00B9GQVG73</IssueID>
+			<IssueID Type="RIC">ABDP.L</IssueID>
+			<IssueID Type="SEDOL">B9GQVG7</IssueID>
+			<IssueID Type="DisplayRIC">ABDP.L</IssueID>
+			<IssueID Type="InstrumentPI">132935385</IssueID>
+			<IssueID Type="QuotePI">133252620</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-13</LastModified>
+		<LatestAvailableAnnual>2015-08-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-08-31">64</Employees>
+		<SharesOut Date="2015-08-31" TotalFloat="8300762.0">17334406.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2013-09-17T17:54:58">Ab Dynamics PLC is a United Kingdom-based company engaged in the design, manufacture and supply to the global automotive industry of advanced testing and measurement products for vehicle suspension, brakes and steering both in the laboratory and on the test track. The Companys products service include Kinematics and compliance testing, Vehicle dynamics testing on the track, Driver assistance system testing, Driverless vehicle track testing, Steering system testing and Noise/vibration (NVH) testing of power train assemblies. The Companys products include Suspension Parameter Measurement Machine (SPMM), Steering System Test Machine (SSTM), Driving robots, Driverless Test Systems, Soft Crash Target Vehicles (SCTV) and Powertrain NVH Testing. </Text>
+		<Text Type="Financial Summary" lastModified="2015-11-13T10:00:30">BRIEF: For the fiscal year ended 31 August 2015, Ab Dynamics PLC revenues increased 19% to L16.5M. Net income increased 51% to L3.2M. Revenues reflect Rest of the World segment increase of 41% to L9.9M, European Union segment increase of 21% to L4.5M. Net income benefited from Foreign currency forward contracts increase from L0K to L34K (income), Interest received increase of 66% to L43K (income). Dividend per share remained flat at L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-13T10:00:30">
+		<streetAddress line="1">Holt Road, Bradford on Avon</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>United Kingdom</city>
+		<state-region></state-region>
+		<postalCode>BA15 1AJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-17T17:57:46"><webSite mainCategory="Home Page">http://www.abd.uk.com</webSite><eMail mainCategory="Company Contact/E-mail">info@abd.uk.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-13T10:00:30">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5310102014" mnem="">Automotive Systems</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334519" mnem="">Other Measuring and Controlling Device Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3829" mnem="">Measuring/controlling Devices Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/07/2013">
+			<firstName>Anthony</firstName>
+			<mI></mI>
+			<lastName>Best</lastName>
+			<age>76 </age>
+			<title startYear="2013" startMonth="02" startDay="07" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="03/20/2013">
+			<firstName>Robert</firstName>
+			<mI>Andrew Leonard</mI>
+			<lastName>Hart</lastName>
+			<age>45 </age>
+			<title startYear="2013" startMonth="03" startDay="20" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Director</title>
+		</officer>
+		<officer rank="3" since="02/07/2013">
+			<firstName>Timothy</firstName>
+			<mI>John</mI>
+			<lastName>Rogers</lastName>
+			<age>52 </age>
+			<title startYear="2013" startMonth="02" startDay="07" iD1="MDR" abbr1="Mgng.Dir." iD2="DRC" abbr2="Dir.">Managing Director, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-08-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.18500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.50500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.67990</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.09855</Ratio>
+			<Ratio FieldName="EV" Type="N">47.24227</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">55.21008</Ratio>
+			<Ratio FieldName="AREV" Type="N">16.52263</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">3.92444</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">3.24601</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.18264</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.92967</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.78744</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.45965</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.19298</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02750</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">32.37989</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">27.07742</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.34148</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.43868</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.04473</Ratio>
+			<Ratio FieldName="Employees" Type="N">64</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="8" CurInterimEndCalYear="2015" CurInterimEndMonth="11" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.25000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.38647</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">18.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.20700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">4.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

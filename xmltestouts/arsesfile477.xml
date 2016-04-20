@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A6289</CoID>
+		<CoID Type="CompanyName">Standard Life European Private Equity</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">SEP</IssueID>
+			<IssueID Type="CUSIP">G8425X100</IssueID>
+			<IssueID Type="ISIN">GB0030474687</IssueID>
+			<IssueID Type="RIC">STLI.L</IssueID>
+			<IssueID Type="SEDOL">3047468</IssueID>
+			<IssueID Type="DisplayRIC">STLI.L</IssueID>
+			<IssueID Type="InstrumentPI">575571</IssueID>
+			<IssueID Type="QuotePI">787083</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">122924827</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">122925177</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="4">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">122842253</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-29</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">0</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="151589159.0">155776294.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-02-23T08:01:05">Standard Life European Private Equity Trust PLC is an investment trust. The Company's investment objective is to achieve long-term capital gains through holding a diversified portfolio of private equity funds investing in Europe. It focuses on investing in the European private equity funds investing in mid to large sized buyouts, which can be categorized as transactions with enterprise values ranging between approximately 100 million and 2 billion euros. It invests in the industrial, consumer services, financial, consumer goods, healthcare, technology, basic materials, utilities, oil and gas, and telecommunications sectors. It invests in private equity funds, but may hold direct private equity investments or quoted securities as a result of distributions in specie from its portfolio of fund investments. It invests approximately 20% of its gross assets in private equity funds, which invest principally outside Europe. Its investment manager is SL Capital Partners LLP.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-29T12:37:30">BRIEF: For the fiscal year ended 30 September 2015, Standard Life European Private Equity revenues increased 59% to L52.8M. Net income increased 69% to L47.2M. Revenues reflect Net revaluation of unquoted investments increase from -L16.4M to L10.7M, Currency gains or Losses increase from -L2.1M to L495K, Income from Index Tracker Funds increase of 47% to L836K. Net income benefited from Other Expenses decrease of 7% to L156K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T08:01:05">
+		<streetAddress line="1">1 George Street, LOTHIAN</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH2 2LL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>2252345</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-26T07:14:36"><webSite mainCategory="Home Page">http://www.slcapital.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T08:01:05">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202011" mnem="">Investment Management</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.95375</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.23500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.92000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.06242</Ratio>
+			<Ratio FieldName="EV" Type="N">272.24890</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">304.34790</Ratio>
+			<Ratio FieldName="AREV" Type="N">52.75800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">47.35100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">47.19400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.30044</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.33586</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.81647</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.20606</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05250</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">91.10656</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.13273</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.76875</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.50296</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.69369</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2013" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.23000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

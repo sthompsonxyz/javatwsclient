@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E1AC0</CoID>
+		<CoID Type="CompanyName">Blur Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BLUR</IssueID>
+			<IssueID Type="CUSIP">G1194C100</IssueID>
+			<IssueID Type="ISIN">GB00B8DX2616</IssueID>
+			<IssueID Type="RIC">BLUR.L</IssueID>
+			<IssueID Type="SEDOL">B8DX261</IssueID>
+			<IssueID Type="DisplayRIC">BLUR.L</IssueID>
+			<IssueID Type="InstrumentPI">117279601</IssueID>
+			<IssueID Type="QuotePI">117865029</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2014-05-23">1.01491</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">72</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="30808157.0">47092851.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T03:58:15">blur Group plc (blur) is a United Kingdom-based technology company. The Company is engaged in reinventing how businesses source, buy and supply services, through its cloud platform. The Company's marketplace provides a way for businesses to source, manage and deliver business, and creative services, such as design, video, technology, marketing, legal, content, innovation, art and accounting. Its blur 4.0 focuses on the enterprise customer and enterprise service provider. It also provides sell services. blur is a cloud platform for the multi-trillion services market. The Company delivers its customers an unlimited supply of ready-to-go, ready-to-spend clients. The Company operates in three geographic areas: the United Kingdom, the United States and Rest of the World. Its wholly owned subsidiaries include blur Inc, which is engaged in the provision of marketing services, and blur Ltd, which is engaged in the provision of services.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-06T04:18:38">BRIEF: For the six months ended 30 June 2015, Blur Group PLC revenues decreased 9% to $1.7M. Net loss decreased 27% to $4.5M. Revenues reflect Project Revenue segment decrease of 11% to $1.1M, Listing fees segment decrease of 6% to $619K, Rest of world segment decrease of 32% to $304K, United States segment decrease of 8% to $818K. Lower net loss reflects Foreign Exchange Gain/Loss decrease from $852K (expense) to $459K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-27T02:10:42">
+		<streetAddress line="1">Eagle House 1 Babbage Way</streetAddress>
+		<streetAddress line="2">Exeter Science Park Clyst Honiton</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EXETER</city>
+		<state-region></state-region>
+		<postalCode>EX5 2FN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>80</city-areacode>
+				<number>07561037</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-10-05T14:24:39"><webSite mainCategory="Home Page">http://www.blurgroup.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-27T02:10:42">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101015" mnem="">Cloud Computing Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Philip</firstName>
+			<mI>Leslie</mI>
+			<lastName>Letts</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="CEO" abbr2="CEO">Chairman of the Board, Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="12/16/2015">
+			<firstName>Timothy</firstName>
+			<mI>Paul</mI>
+			<lastName>Allen</lastName>
+			<age>46 </age>
+			<title startYear="2015" startMonth="12" startDay="16" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="2014">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>O'Shea</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Chief Technology Officer</title>
+		</officer>
+		<officer rank="4" since="2012">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Hogg</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CMO" abbr1="CMO" iD2="" abbr2="">Chief Marketing Officer</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Kara</firstName>
+			<mI>Jean</mI>
+			<lastName>Cardinale</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="OTH" abbr2="Other">Chief Community Officer, Executive Director</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Barbara</firstName>
+			<mI>Joyce</mI>
+			<lastName>Spurrier</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="31" iD1="EDR" abbr1="Exec. Dir." iD2="SEC" abbr2="Secy.">Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="7" since="2014">
+			<firstName>Helen</firstName>
+			<mI></mI>
+			<lastName>Blackmore</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Co-Chief Operating Officer</title>
+		</officer>
+		<officer rank="8" since="2012">
+			<firstName>Gerry</firstName>
+			<mI></mI>
+			<lastName>Gross</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Co-Chief Operating Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.13000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.06000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.10000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01067</Ratio>
+			<Ratio FieldName="EV" Type="N">-6.16663</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">6.12207</Ratio>
+			<Ratio FieldName="AREV" Type="N">3.33276</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-6.69879</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-7.42084</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.18839</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.08461</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.30425</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.26118</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.17691</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">34.90004</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-67.37143</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.83694</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.42729</Ratio>
+			<Ratio FieldName="Employees" Type="N">72</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.99550</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-0.97298</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1.78380</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">0.66360</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.13361</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-6.66390</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

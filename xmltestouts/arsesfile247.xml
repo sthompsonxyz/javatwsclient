@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA933</CoID>
+		<CoID Type="CompanyName">Gulfsands Petroleum plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GPX</IssueID>
+			<IssueID Type="CUSIP">G4277P105</IssueID>
+			<IssueID Type="ISIN">GB00B06VGC01</IssueID>
+			<IssueID Type="RIC">GPX.L</IssueID>
+			<IssueID Type="SEDOL">B06VGC0</IssueID>
+			<IssueID Type="DisplayRIC">GPX.L</IssueID>
+			<IssueID Type="InstrumentPI">20005857</IssueID>
+			<IssueID Type="QuotePI">20196036</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="InstrumentPI">126502147</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-14</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">52</Employees>
+		<SharesOut Date="2016-01-14" TotalFloat="384909517.0">472723441.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-17T00:33:20">Gulfsands Petroleum Plc is a United Kingdom-based independent oil and gas exploration and production company. The Companys focus is on the oil and gas exploration projects in Morocco and Tunisia. The principal activity of the Company is that of provision of services to its subsidiaries which are engaged in oil and gas production, exploration and development activities. The Company is also operator of two exploration licenses in Colombia and produces oil and gas from a portfolio of properties in the non-core United States assets, offshore Gulf of Mexico. All segments are involved with production and exploration of oil and gas. The Companys projects are in Syria, Morocco, Tunisia, Colombia and United States of America. Gulfsands Petroleum USA, Inc., Gulfsands Petroleum Sud America Limited, Gulfsands Petroleum Iraq Limited are few of the companys subsidiaries.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-14T20:56:46">BRIEF: For the six months ended 30 June 2015, Gulfsands Petroleum plc revenues was not reported. Net loss before extraordinary items increased from $7.2M to $31.3M. Higher net loss reflects Morocco segment loss increase from $4M to $27.1M, Others segment loss increase of 39% to $3.1M. Basic Earnings per Share excluding Extraordinary Items decreased from -$0.06 to -$0.32.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T22:17:21">
+		<streetAddress line="1">2nd Floor,6 Duke Street St James</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 6BN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70242130</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70242131</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-09-17T00:01:11"><webSite mainCategory="Home Page">http://www.gulfsands.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@gulfsands.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T22:17:21">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/14/2015">
+			<firstName>Alastair</firstName>
+			<mI>John</mI>
+			<lastName>Beardsall</lastName>
+			<age>61 </age>
+			<title startYear="2015" startMonth="04" startDay="14" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="06/30/2014">
+			<firstName>Peter</firstName>
+			<mI>Ian</mI>
+			<lastName>Conway</lastName>
+			<age>52 </age>
+			<title startYear="2014" startMonth="06" startDay="30" iD1="OTH" abbr1="Other" iD2="DRC" abbr2="Dir.">Executive Director - Technical and Operations, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.03250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.49920</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02778</Ratio>
+			<Ratio FieldName="EV" Type="N">13.20632</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">15.36351</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-6.55708</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-8.56159</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.07262</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.96264</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.04741</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.05891</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-7.18433</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.03376</Ratio>
+			<Ratio FieldName="Employees" Type="N">52</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

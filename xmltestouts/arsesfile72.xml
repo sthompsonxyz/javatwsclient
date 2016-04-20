@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC659</CoID>
+		<CoID Type="CompanyName">BlueCrest AllBlue Fund Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BABS</IssueID>
+			<IssueID Type="CUSIP">G1340J157</IssueID>
+			<IssueID Type="ISIN">GB00B13YVW48</IssueID>
+			<IssueID Type="RIC">BABS.L</IssueID>
+			<IssueID Type="SEDOL">B13YVW4</IssueID>
+			<IssueID Type="DisplayRIC">BABS.L</IssueID>
+			<IssueID Type="InstrumentPI">26267179</IssueID>
+			<IssueID Type="QuotePI">26267339</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BABV</IssueID>
+			<IssueID Type="CUSIP">G1340J124</IssueID>
+			<IssueID Type="ISIN">GG00B2RJ9R34</IssueID>
+			<IssueID Type="RIC">BABScu.L^I08</IssueID>
+			<IssueID Type="SEDOL">B13YXC8</IssueID>
+			<IssueID Type="DisplayRIC">BABSx.L</IssueID>
+			<IssueID Type="InstrumentPI">49754783</IssueID>
+			<IssueID Type="QuotePI">49754782</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BABF</IssueID>
+			<IssueID Type="CUSIP">G1340J108</IssueID>
+			<IssueID Type="ISIN">GG00B2RJ9P10</IssueID>
+			<IssueID Type="RIC">BABScx.L^I08</IssueID>
+			<IssueID Type="SEDOL">B13YXH3</IssueID>
+			<IssueID Type="DisplayRIC">BABSu.L</IssueID>
+			<IssueID Type="InstrumentPI">49753848</IssueID>
+			<IssueID Type="QuotePI">49752805</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="6" Type="C" Desc="Common Stock" Order="4">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BABC</IssueID>
+			<IssueID Type="CUSIP">G1340J116</IssueID>
+			<IssueID Type="ISIN">GG00B2RJ9K64</IssueID>
+			<IssueID Type="RIC">BABSc.L^I08</IssueID>
+			<IssueID Type="InstrumentPI">49754700</IssueID>
+			<IssueID Type="QuotePI">49754652</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-11</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2014-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="368081268.0">419795990.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-02-23T08:03:15">BlueCrest AllBlue Fund Limited (AllBlue) is a closed-ended investment company. The Company's investment objective is to seek to provide consistent long-term capital growth through an investment policy of investing substantially all of its assets in AllBlue or any successor vehicle of AllBlue. It invests in share classes of funds of hedge funds incorporated in the Cayman Islands. It has two classes of shares in issue: Sterling Shares and the United States Dollar Shares. AllBlue is a multi-strategy fund of hedge funds investing in BlueCrest and Systematica funds across its two specializations: discretionary and systematic trading. AllBlue invests in approximately seven underlying funds, including BlueCrest Capital International Limited, BlueCrest Emerging Markets Fund Limited, BlueCrest Multi Strategy Credit Fund Limited, BlueCrest Mercantile Fund Limited, BlueCrest Equity Strategies Fund Limited and BlueTrend Fund Limited. BlueCrest Capital Management Limited is its investment manager.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-16T11:12:47">BRIEF: For the fiscal year ended 31 December 2014, BlueCrest AllBlue Fund Limited revenues increased from L11.7M to L58.4M. Net income increased from L10.8M to L57.5M. Revenues reflect Unrealized G/L on Investment increase from -L44.8M to L29M, Currency Conslidation Adjustment increase from -L4.2M to L1.9M, Net gain on Purchase of investments increase of 42% to L3.3M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T08:03:15">
+		<streetAddress line="1">Ground Floor, Dorey Court Admiral Park</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 2HT</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>702400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>702407</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T08:03:15">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.87100</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.00000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.85600</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.50793</Ratio>
+			<Ratio FieldName="EV" Type="N">695.81414</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">742.14520</Ratio>
+			<Ratio FieldName="AREV" Type="N">58.35030</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">57.47563</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">57.54047</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.12600</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.12777</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.88579</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10657</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">6.92687</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">12.71879</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.84921</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.99216</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2011" CurFiscalYearEndMonth="12" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

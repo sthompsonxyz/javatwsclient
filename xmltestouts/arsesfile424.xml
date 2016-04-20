@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A6B9F</CoID>
+		<CoID Type="CompanyName">Petropavlovsk PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">POG</IssueID>
+			<IssueID Type="CUSIP">G7053A101</IssueID>
+			<IssueID Type="ISIN">GB0031544546</IssueID>
+			<IssueID Type="RIC">POG.L</IssueID>
+			<IssueID Type="SEDOL">3154454</IssueID>
+			<IssueID Type="DisplayRIC">POG.L</IssueID>
+			<IssueID Type="InstrumentPI">7361177</IssueID>
+			<IssueID Type="QuotePI">7361147</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-02-27">2.79071</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-14</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">9532</Employees>
+		<SharesOut Date="2015-11-18" TotalFloat="2305654275.0">3278187139.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-05T07:06:10">Petropavlovsk PLC is a gold mining company. The Company operates gold mines in Russia in terms of their gold production output, processing capacity and resource base. The Company's operating segments include Pokrovskiy, Pioneer, Malomir and Albyn hard-rock gold mines which are engaged in gold and silver production, as well as field exploration and mine development; Alluvial operations segment, which comprises various alluvial gold operations which are engaged in gold production and field exploration, and Corporate and other segment, which amalgamates corporate administration, in-house geological exploration and construction, engineering and scientific operations, and other supporting in-house functions, as well as various gold projects and other activities. The Amur region has a total area of approximately 3,61,600 square kilometers. As of December 31, 2014, the Company had produced approximately 5.5 million ounces (Moz) of gold.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-14T08:00:50">BRIEF: For the six months ended 30 June 2015, Petropavlovsk PLC revenues decreased 34% to $297.3M. Net loss before extraordinary items increased 55% to $27.7M. Revenues reflect Pioneer segment decrease of 32% to $118.5M, Albyn segment decrease of 29% to $93.8M, Malomir segment decrease of 43% to $38.8M. Higher net loss reflects Malomir segment loss totaling $9.8M vs. income of $10M, Albyn segment income decrease of 69% to $7.9M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-25T05:02:56">
+		<streetAddress line="1">11 Grosvenor Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1X 7HH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Alfiya Samokhvalova</contactName>
+		<contactTitle>Group Head - External Communications</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72018900</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72018901</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>207</city-areacode>
+				<number>2018900</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-29T00:56:48"><webSite mainCategory="Home Page">http://www.petropavlovsk.net</webSite><eMail mainCategory="Company Contact/E-mail">as@petropavlovsk.net</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-25T05:02:56">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120106011" mnem="">Gold Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212222" mnem="">Silver Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="21221" mnem="">Iron Ore Mining</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1044" mnem="">Silver Ores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1011" mnem="">Iron Ores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="8711" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="5" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1994">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Hambro</lastName>
+			<age></age>
+			<title startYear="1994" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Pavel</firstName>
+			<mI>Alexeivich</mI>
+			<lastName>Maslovskiy</lastName>
+			<age>58 </age>
+			<title startYear="2014" startMonth="11" startDay="05" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/13/2005">
+			<firstName>Andrey</firstName>
+			<mI></mI>
+			<lastName>Maruta</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="04" startDay="13" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="2013">
+			<firstName>Dmitry</firstName>
+			<mI></mI>
+			<lastName>Chekashkin</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="30" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="5" since="2002">
+			<firstName>Alfiya</firstName>
+			<mI></mI>
+			<lastName>Samokhvalova</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="30" iD1="OTH" abbr1="Other" iD2="IRC" abbr2="IR-Contact">Group Head - External Communications</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Valery</firstName>
+			<mI></mI>
+			<lastName>Alexseev</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Head of Construction and Engineering</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Alexei</firstName>
+			<mI>P.</mI>
+			<lastName>Maslovskiy</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Business Development Manager</title>
+		</officer>
+		<officer rank="8" since="05/10/2005">
+			<firstName>Anna-Karolina</firstName>
+			<mI></mI>
+			<lastName>Subczynska-Samberger</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Head - Legal Affairs</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Andrey</firstName>
+			<mI></mI>
+			<lastName>Tarasov</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Deputy General Director of MC Petropavlovsk</title>
+		</officer>
+		<officer rank="10" since="2012">
+			<firstName>Amanda</firstName>
+			<mI></mI>
+			<lastName>Whalley</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.06850</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.07800</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.03673</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">8.04347</Ratio>
+			<Ratio FieldName="EV" Type="N">881.69398</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">224.55580</Ratio>
+			<Ratio FieldName="AREV" Type="N">611.36240</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">180.45430</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-130.26230</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.23764</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.11529</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.70733</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06200</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.04084</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">67.55827</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-26.16007</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.36730</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.09684</Ratio>
+			<Ratio FieldName="Employees" Type="N">9532</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.8</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.06255</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-6.13250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">511.17665</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01117</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1.27579</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

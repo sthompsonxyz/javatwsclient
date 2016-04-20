@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3F4D</CoID>
+		<CoID Type="CompanyName">Fidelity Special Values PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">FSV</IssueID>
+			<IssueID Type="CUSIP">G3410D102</IssueID>
+			<IssueID Type="ISIN">GB00BWXC7Y93</IssueID>
+			<IssueID Type="RIC">FSV.L</IssueID>
+			<IssueID Type="SEDOL">BWXC7Y9</IssueID>
+			<IssueID Type="DisplayRIC">FSV.L</IssueID>
+			<IssueID Type="InstrumentPI">270366</IssueID>
+			<IssueID Type="QuotePI">1081005</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-06-29">5.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-16</LastModified>
+		<LatestAvailableAnnual>2015-08-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-08-31">0</Employees>
+		<SharesOut Date="2015-11-24" TotalFloat="261607299.0">266424480.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:33:18">Fidelity Special Values PLC is a United Kingdom-based investment trust. The investment objective of the Company is to achieve long term capital growth from a portfolio of shares consisting primarily of United Kingdom-listed companies. The Company is engaged in the investments in larger, medium and smaller-sized companies. Its investments have the characteristics: Limited downside risk and unrecognized potential for positive change. The Company can invest up to 20% in the shares or related instruments of companies listed on overseas exchanges. It invests mainly in shares but may also invest in equity-related instruments, such as convertible bonds, warrants or derivative contracts, and in debt instruments. It may also invest up to 5% of its assets in unquoted securities. The Company will not, at the time of investment, have a holding in a company that represents more than 10% by value of the investing company's investments. It is managed by FIL Investment Services (UK) Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-16T00:46:30">BRIEF: For the fiscal year ended 31 August 2015, Fidelity Special Values PLC revenues decreased 26% to L43.6M. Net income decreased 30% to L35.5M. Revenues reflect Gains/Losses on Investments decrease of 44% to L18.4M, Interest Income - Investment decrease from -L4.6M to -L13.2M, Dividend received on CFD decrease of 43% to L3.4M. Net income also reflects Administrative Expenses increase of 32% to L597K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-16T00:47:02">
+		<streetAddress line="1">Beech Gate, Millfield Lane</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>TADWORTH</city>
+		<state-region></state-region>
+		<postalCode>KT20 6RP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1732</city-areacode>
+				<number>361144</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1737</city-areacode>
+				<number>836892</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-09-01T22:27:36"><webSite mainCategory="Home Page">https://www.fidelity.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-16T00:47:02">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-08-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.81750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.17000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.74500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.20650</Ratio>
+			<Ratio FieldName="EV" Type="N">478.32150</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">484.22650</Ratio>
+			<Ratio FieldName="AREV" Type="N">43.59200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">35.68400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">35.53500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.13290</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.16303</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.01608</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02216</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03350</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">85.79785</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">6.72658</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.10815</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.67570</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.90150</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="8" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

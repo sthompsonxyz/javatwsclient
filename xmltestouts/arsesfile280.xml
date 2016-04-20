@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A7243</CoID>
+		<CoID Type="CompanyName">InterContinental Hotels Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">IHG</IssueID>
+			<IssueID Type="CUSIP">G4804L205</IssueID>
+			<IssueID Type="ISIN">GB00BN33FD40</IssueID>
+			<IssueID Type="RIC">IHG.L</IssueID>
+			<IssueID Type="SEDOL">BN33FD4</IssueID>
+			<IssueID Type="DisplayRIC">IHG.L</IssueID>
+			<IssueID Type="InstrumentPI">11845103</IssueID>
+			<IssueID Type="QuotePI">11842537</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-07-01">0.92307</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">7797</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="220206876.0">236117256.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-08T01:28:53">InterContinental Hotels Group PLC is a hotel company. The Company franchises, leases, manages or owns over 4,800 hotels and approximately 710,000 guest rooms in nearly 100 countries. The Companys portfolio of hotel brands include InterContinental Hotels &amp; Resorts, HUALUXE Hotels and Resorts, Crowne Plaza Hotels &amp; Resorts, Hotel Indigo, EVEN Hotels, Holiday Inn, Holiday Inn Express, Staybridge Suites, Candlewood Suites and Kimpton Hotels &amp; Restaurant. The Company operates through four geographical regions: Americas, Europe, Asia, Middle East and Africa, and Greater China.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T08:17:03">BRIEF: For the fiscal year ended 31 December 2015, InterContinental Hotels Group PLC revenues decreased 3% to $1.8B. Net income increased from $391M to $1.22B. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net income reflects Gain on disposal of hotels increase from $130M to $871M (income), Office Reorganistion decrease from $45M (expense) to $0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T08:17:17">
+		<streetAddress line="1">Oak Court, Dudley Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BRIERLEY HILL</city>
+		<state-region></state-region>
+		<postalCode>DY5 1LG</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>David Kellett</contactName>
+		<contactTitle>Head of Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33499179</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33491715</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-08T09:54:55"><webSite mainCategory="Home Page">http://www.ihgplc.com</webSite><eMail mainCategory="Company Contact/E-mail">David.Kellett@ihg.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T08:17:17">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330101010" mnem="">Hotels, Motels &amp; Cruise Lines - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="72111" mnem="">Hotels (except Casino Hotels) and Motels</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="72211" mnem="">Full-Service Restaurants</Industry>
+			<Industry type="SIC" order="0" reported="1" code="7011" mnem="">Hotels And Motels</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7011" mnem="">Hotels And Motels</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5812" mnem="">Eating Places</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/2002">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Solomons</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="09" startDay="26" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/01/2014">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Edgecliffe-Johnson</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="08/01/2011">
+			<firstName>Angela</firstName>
+			<mI></mI>
+			<lastName>Brav</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="08" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive, Europe</title>
+		</officer>
+		<officer rank="4" since="02/13/2015">
+			<firstName>Elie</firstName>
+			<mI></mI>
+			<lastName>Maalouf</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="02" startDay="13" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer, Americas</title>
+		</officer>
+		<officer rank="5" since="04/2013">
+			<firstName>Kenneth</firstName>
+			<mI></mI>
+			<lastName>Macpherson</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="04" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive, Greater China</title>
+		</officer>
+		<officer rank="6" since="08/01/2011">
+			<firstName>Jan</firstName>
+			<mI></mI>
+			<lastName>Smits</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="08" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive, Asia, Middle East and Africa</title>
+		</officer>
+		<officer rank="7" since="02/2012">
+			<firstName>Eric</firstName>
+			<mI></mI>
+			<lastName>Pearson</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="02" startDay="" iD1="EVP" abbr1="Exec. VP" iD2="CIO" abbr2="CIO">Executive Vice President, Chief Information Officer</title>
+		</officer>
+		<officer rank="8" since="01/02/2009">
+			<firstName>George</firstName>
+			<mI></mI>
+			<lastName>Turner</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="01" startDay="02" iD1="EVP" abbr1="Exec. VP" iD2="GCN" abbr2="Counsel">Executive Vice President, General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Keith</firstName>
+			<mI></mI>
+			<lastName>Barr</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="05" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Commercial Officer</title>
+		</officer>
+		<officer rank="10" since="03/11/2015">
+			<firstName>Sandi</firstName>
+			<mI></mI>
+			<lastName>Macfie</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="03" startDay="11" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director - Hotel Performance Support, Africa</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">25.40000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">29.67000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">21.62484</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.93772</Ratio>
+			<Ratio FieldName="EV" Type="N">6371.28010</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">5997.37800</Ratio>
+			<Ratio FieldName="AREV" Type="N">1274.37800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">550.60500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">863.72180</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">3.62908</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.35453</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.92498</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">3.40358</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">3.92012</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.60079</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">64.50361</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.70612</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.99902</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">27.45998</Ratio>
+			<Ratio FieldName="Employees" Type="N">7797</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6538</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">28.67634</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">11.9733</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">18.96669</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1288.22236</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.33919</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">448.54827</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.63733</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

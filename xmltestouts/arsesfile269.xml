@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5B7D</CoID>
+		<CoID Type="CompanyName">Henderson Alternative Strategis Trst PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">HAST</IssueID>
+			<IssueID Type="CUSIP">G4403W107</IssueID>
+			<IssueID Type="ISIN">GB0001216000</IssueID>
+			<IssueID Type="RIC">HAST.L</IssueID>
+			<IssueID Type="SEDOL">0121600</IssueID>
+			<IssueID Type="DisplayRIC">HAST.L</IssueID>
+			<IssueID Type="InstrumentPI">262583</IssueID>
+			<IssueID Type="QuotePI">1080894</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">0</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="41933247.0">42976264.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-02-23T08:05:01">Henderson Alternative Strategies Trust plc, formerly Henderson Value Trust plc, is an investment company. The Company provides global opportunities to provide long-term growth to shareholders. It provides opportunities through a diversified, international, multi-strategy portfolio, which offers access also to specialist funds, including hedge and private equity. It aims to achieve its investment objective by investing in listed or unlisted closed-end investment funds, open-ended investment funds, listed or unlisted company shares, exchange traded funds, contracts for difference (CFD), and warrants and related instruments. It invests in sectors, such as property; technology and media; financial services and banks; personal goods and retail; industrial goods and services; healthcare and education; infrastructure and transport; oil and gas; utilities and telecoms; insurance; basic resources, and food and beverage. Henderson Investment Funds Limited is the investment fund manager.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T00:38:10">BRIEF: For the fiscal year ended 30 September 2015, Henderson Alternative Strategis Trst PLC revenues decreased from L3.1M to -L5.3M. Net loss totaled L6.6M vs. income of L1.5M. Revenues reflect Movement in investment holdings gains decrease from -L5.9M to -L15M, Total gains/losses on CFD liabilities he decrease from L2M to -L101K, UK Investment Income decrease of 48% to L355K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T08:05:01">
+		<streetAddress line="1">201 Bishopsgate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2M 3AE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78181818</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-19T08:22:56"><webSite mainCategory="Home Page">http://www.hendersonvaluetrust.com</webSite><eMail mainCategory="Company Contact/E-mail">trusts@henderson.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T08:05:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.10000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.41750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.99000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02664</Ratio>
+			<Ratio FieldName="EV" Type="N">80.34315</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">90.25015</Ratio>
+			<Ratio FieldName="AREV" Type="N">-5.33100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-6.60600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-6.60600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.14891</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.12017</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.75603</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.23052</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03300</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-5.12387</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.76196</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2014" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

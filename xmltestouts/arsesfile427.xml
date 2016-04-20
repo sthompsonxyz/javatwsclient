@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A31D6</CoID>
+		<CoID Type="CompanyName">Proteome Sciences plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PRM</IssueID>
+			<IssueID Type="CUSIP">G2994J105</IssueID>
+			<IssueID Type="ISIN">GB0003104196</IssueID>
+			<IssueID Type="RIC">PRM.L</IssueID>
+			<IssueID Type="SEDOL">0310419</IssueID>
+			<IssueID Type="DisplayRIC">PRM.L</IssueID>
+			<IssueID Type="InstrumentPI">306974</IssueID>
+			<IssueID Type="QuotePI">1082444</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2010-06-11">1.00879</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">36</Employees>
+		<SharesOut Date="2015-07-02" TotalFloat="164486799.0">227966732.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:07:56">Proteome Sciences plc is a protein biomarker company. The Company's principal activity includes biomarker research and development in applied proteomics and workflows using techniques to detect and characterize differentially expressed proteins in diseases for diagnostic, prognostic and therapeutic applications. It operates through three geographic regions: the United Kingdom, Germany and the United States. Through the United Kingdom segment, it provides protein separation and mass spectrometry capabilities for identification and analysis of post-translational modification of proteins particularly in protein phosphorylation, image analysis and bioinformatics. Through the Germany segment, it provides protein profiling technologies, including Tandem Mass Tags (TMT), which offers quantitation of various proteins for the discovery of biomarkers mass spectrometry. PS Biomarker Services provides integrated proteomic services for biomarker discovery, validation and assay development.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-01T22:31:35">BRIEF: For the six months ended 30 June 2015, Proteome Sciences plc revenues increased 8% to L850K. Net loss decreased 22% to L1.4M. Revenues reflect Licences/Sales/Services increase of 5% to L748K, Grant services increase of 40% to L102K. Lower net loss reflects Administrative expenses decrease of 16% to L2.1M (expense). Basic Earnings per Share excluding Extraordinary Items remained flat at -L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-01T22:31:38">
+		<streetAddress line="1">Coveham House/ Downside Bridge Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>COBHAM</city>
+		<state-region></state-region>
+		<postalCode>KT11 3EP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1932</city-areacode>
+				<number>865065</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1932</city-areacode>
+				<number>868696</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-12T08:34:25"><webSite mainCategory="Home Page">http://www.proteomics.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@proteomics.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-01T22:31:38">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5620201011" mnem="">Bio Therapeutic Drugs</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="325412" mnem="">Pharmaceutical Preparation  Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2834" mnem="">Pharmaceutical Preparations</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Christopher</firstName>
+			<mI>D. J.</mI>
+			<lastName>Pearce</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="06" startDay="30" iD1="CHM" abbr1="Chmn." iD2="CEO" abbr2="CEO">Executive Chairman of the Board, Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="10/01/2014">
+			<firstName>Geoffrey</firstName>
+			<mI>John</mI>
+			<lastName>Ellis</lastName>
+			<age>53 </age>
+			<title startYear="2014" startMonth="12" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Director</title>
+		</officer>
+		<officer rank="3" since="09/30/2010">
+			<firstName>Ian</firstName>
+			<mI>H.</mI>
+			<lastName>Pike</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="09" startDay="30" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="2011">
+			<firstName>Malcolm</firstName>
+			<mI></mI>
+			<lastName>Ward</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Chief Technical Officer - London Research Facility</title>
+		</officer>
+		<officer rank="5" since="2011">
+			<firstName>Glenn</firstName>
+			<mI></mI>
+			<lastName>Barney</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="VBD" abbr1="VP-Bus.Dev." iD2="" abbr2="">Vice President - Business Development, USA</title>
+		</officer>
+		<officer rank="6" since="2011">
+			<firstName>Josef</firstName>
+			<mI></mI>
+			<lastName>Schwarz</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Projects &amp; Production, Proteome Sciences R&amp;D</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.15500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.27000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.14250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.11960</Ratio>
+			<Ratio FieldName="EV" Type="N">41.65927</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">35.33484</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.56072</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-3.58653</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.56648</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01689</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00739</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.00410</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00873</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01496</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">61.26467</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">22.64009</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">36</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.38000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-10.54422</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2.10000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01470</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-3.90000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

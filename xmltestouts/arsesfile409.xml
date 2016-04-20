@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3FD0</CoID>
+		<CoID Type="CompanyName">Private Equity Investor PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">PEQ</IssueID>
+			<IssueID Type="ISIN">GB0000504034</IssueID>
+			<IssueID Type="RIC">PEQ.L</IssueID>
+			<IssueID Type="SEDOL">0050403</IssueID>
+			<IssueID Type="DisplayRIC">PEQ.L</IssueID>
+			<IssueID Type="InstrumentPI">499728</IssueID>
+			<IssueID Type="QuotePI">1327310</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-08</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">1</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="7943262.0">11945519.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-18T20:30:22">Private Equity Investor plc (PEI) is a United Kingdom-based investment company. The Company's investment portfolio includes United States-based venture capital and buyout funds, and in private companies in the technology sector. The objective of the Company has been to provide shareholders with long-term capital growth. The Company has all its investments in limited life funds with initial fund terms ranging from 9 to 13 years. Campton Group, Inc., the Company's wholly owned subsidiary, provides non-discretionary investment advice and portfolio monitoring services relating to the Company's investment portfolio. The Company has investments in and maintains a portfolio of the United States-based venture capital and buyout funds, managed by a number of different management groups, and focused on various stages of growth so as to obtain exposure to a diversified underlying portfolio of investments primarily in private companies in the technology sector.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-08T14:04:11">BRIEF: For the six months ended 30 September 2015, Private Equity Investor PLC revenues decreased from -L115K to -L3M. Net loss increased from L511K to L3.3M. Revenues reflect Realized Capital Gains/Losses - Total decrease from -L83K to -L3M, Investment income decrease of 80% to L1K, Other Income decrease from L2K to L0K. Basic Earnings per Share excluding Extraordinary Items decreased from -L0.03 to -L0.27.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-08T14:04:12">
+		<streetAddress line="1">1 Marylebone High Street, 1st Floor</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1U 4LZ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75631630</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74864534</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2010-08-11T09:08:52"><webSite mainCategory="Home Page">http://www.peiplc.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-08T14:04:12">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.67000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.34259</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.64000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00123</Ratio>
+			<Ratio FieldName="EV" Type="N">12.52402</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">19.94902</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.84300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.18800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.18800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.07703</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.11949</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.38688</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.50150</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">3.04467</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">10.82421</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.67986</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.69966</Ratio>
+			<Ratio FieldName="Employees" Type="N">1</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="3" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

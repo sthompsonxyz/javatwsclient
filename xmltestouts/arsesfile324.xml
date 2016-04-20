@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF18A</CoID>
+		<CoID Type="CompanyName">Leaf Clean Energy Company</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">LEAF</IssueID>
+			<IssueID Type="CUSIP">G54135119</IssueID>
+			<IssueID Type="ISIN">KYG541351196</IssueID>
+			<IssueID Type="RIC">LEAF.L</IssueID>
+			<IssueID Type="SEDOL">BYWWMM7</IssueID>
+			<IssueID Type="DisplayRIC">LEAF.L</IssueID>
+			<IssueID Type="InstrumentPI">34335400</IssueID>
+			<IssueID Type="QuotePI">34817351</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">0</Employees>
+		<SharesOut Date="2015-10-06" TotalFloat="82790476.0">118163745.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-27T01:29:11">Leaf Clean Energy Company (Leaf) is an investment company. The Company, through its subsidiaries, engages in providing hydro energy, landfill gas, biomass and solar energy. The Company invests in clean energy projects in North America. The Company includes activities, such as the production of alternative fuels, renewable power generation and the use of technologies to reduce the environmental impact of traditional energy. The Companys subsidiaries include Energia Escalona Coopertief U.A, Escalona B.V, Energiia Escalona I S.A. de C.V, Energia Escalona s.r.l., Johnstown Regional Energy LLC, Multitrade Rabun Gap LLC, Multitrade Telogia LLC, Telogia Power LLC and SkyFuel Inc.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-02T00:04:12">BRIEF: For the fiscal year ended 30 June 2015, Leaf Clean Energy Company revenues increased from -$62.2M to $18.7M. Net income totaled $4.5M vs. loss of $67.9M. Revenues reflect Net foreign exchange loss increase of 50% to -$6K. Net Income reflects Directors Remuneration decrease of 49% to $1.3M (expense), Legal and Professional Fees decrease of 69% to $394K (expense), Travel &amp; subsistence expenses decrease of 76% to $144K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T02:02:00">
+		<streetAddress line="1">Ugland House, South Church Street,</streetAddress>
+		<streetAddress line="2">PO Box 309GT</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>GEORGE TOWN</city>
+		<state-region></state-region>
+		<postalCode>KY1-1104</postalCode>
+		<country code="CYM">Cayman Islands</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-24T01:53:20"><webSite mainCategory="Home Page">http://www.leafcleanenergy.com</webSite><eMail mainCategory="Company Contact/E-mail">info@leafcleanenergy.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T02:02:00">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202015" mnem="">Venture Capital</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54162" mnem="">Environmental Consulting Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="56291" mnem="">Remediation Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="54169" mnem="">Other Scientific and Technical Consulting Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="221119" mnem="">Other Electric Power Generation</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8999" mnem="">Services, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4959" mnem="">Sanitary Services, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="4911" mnem="">Electric Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/10/2014">
+			<firstName>Mark</firstName>
+			<mI>David</mI>
+			<lastName>Lerdal</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="04" startDay="10" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="05/13/2014">
+			<firstName>James</firstName>
+			<mI>Robert</mI>
+			<lastName>Potochny</lastName>
+			<age>50 </age>
+			<title startYear="2014" startMonth="11" startDay="24" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.37500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.41274</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.21117</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02983</Ratio>
+			<Ratio FieldName="EV" Type="N">35.46073</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">44.31140</Ratio>
+			<Ratio FieldName="AREV" Type="N">13.24209</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">9.19560</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">3.19902</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02707</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.11207</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.71939</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07490</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.02713</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">3.83550</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.34626</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.85255</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.52128</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B3E9F</CoID>
+		<CoID Type="CompanyName">Infrastructure India PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">IIP</IssueID>
+			<IssueID Type="CUSIP">G4803K109</IssueID>
+			<IssueID Type="ISIN">IM00B2QVWM67</IssueID>
+			<IssueID Type="RIC">IIP.L</IssueID>
+			<IssueID Type="SEDOL">B2QVWM6</IssueID>
+			<IssueID Type="DisplayRIC">IIP.L</IssueID>
+			<IssueID Type="InstrumentPI">48214612</IssueID>
+			<IssueID Type="QuotePI">48214354</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-25</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">0</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="123714360.0">680267041.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-07T02:27:20">Infrastructure India PLC (IIP) is a closed-ended investment company. The Companys investment objective is to provide shareholders with both capital growth and income by investing in assets in the Indian infrastructure sector, with particular focus on assets and projects related to energy and transport. IIP has principal investments in India. The Companys portfolio of investments includes Distribution Logistics Infrastructure Limited, Shree Maheshwar Hydel Power Corporation Limited, Western MP Infrastructure and Toll Roads Private Limited, Indian Energy Limited and India Hydropower Development Company. Its subsidiaries include Infrastructure India HoldCo, Power Infrastructure India, Roads Infrastructure India, Power Infrastructure India (Two), and Distribution and Logistics Infrastructure India.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-25T02:46:52">BRIEF: For the six months ended 30 September 2015, Infrastructure India PLC revenues decreased from L26.8M to -L40.4M. Net loss totaled L44.2M vs. income of L23.1M. Revenues reflect Unrealized G/L on Investment Securities decrease from L25.7M to -L40.2M, Foreign exchange (loss)/gain decrease from L1.1M to -L205K. Net loss reflects Other professional costs increase from L26K to L68K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-25T02:46:53">
+		<streetAddress line="1">Ioma House</streetAddress>
+		<streetAddress line="2">Hope Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DOUGLAS</city>
+		<state-region></state-region>
+		<postalCode>IM1 1AP</postalCode>
+		<country code="IMN">Isle of Man</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>681250</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-09-28T09:34:04"><webSite mainCategory="Home Page">http://www.iiplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-25T02:46:53">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/03/2011">
+			<firstName>Thomas</firstName>
+			<mI>Anthony</mI>
+			<lastName>Tribone</lastName>
+			<age>51 </age>
+			<title startYear="2011" startMonth="03" startDay="03" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="03/03/2011">
+			<firstName>Rahul</firstName>
+			<mI></mI>
+			<lastName>Lulla</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="03" startDay="03" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Philip</firstName>
+			<mI></mI>
+			<lastName>Scales</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="03" startDay="03" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.17250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.21987</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.12000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01467</Ratio>
+			<Ratio FieldName="EV" Type="N">111.03110</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">117.34610</Ratio>
+			<Ratio FieldName="AREV" Type="N">108.98400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">102.95000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">101.78200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.18605</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.19921</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.54916</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02677</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">95.56540</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">34.74263</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.07673</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">0.92717</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.31411</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-3.31731</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.05200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-35.10000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

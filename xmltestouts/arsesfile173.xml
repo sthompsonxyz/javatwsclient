@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">DF1D0</CoID>
+		<CoID Type="CompanyName">Direct Line Insurance Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DLG</IssueID>
+			<IssueID Type="CUSIP">G2871V114</IssueID>
+			<IssueID Type="ISIN">GB00BY9D0Y18</IssueID>
+			<IssueID Type="RIC">DLGD.L</IssueID>
+			<IssueID Type="SEDOL">BY9D0Y1</IssueID>
+			<IssueID Type="DisplayRIC">DLGD.L</IssueID>
+			<IssueID Type="InstrumentPI">109898999</IssueID>
+			<IssueID Type="QuotePI">118188001</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-06-30">0.91666</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-12</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">10932</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="1243727713.0">1256290619.75782</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:18:14">Direct Line Insurance Group plc is a United Kingdom-based personal motor and home insurer. The principal activity of the Company is managing its investments in subsidiaries, providing loans to those subsidiaries, raising funds for the Group and the receipt and payment of dividends. The Company's operating segments include Motor, Home, Rescue and other personal lines, Commercial and Run-off. It operates a multi-brand, multi-product and multi-distribution channel business that covers various customer segments for personal lines general insurance and small and medium-sized enterprise commercial insurance. The Company's brands include Direct Line, Direct Line for Business, Churchill, Privilege, Green Flag, NIG and Brand Partners. Each of its brands provides products targeted at one or more insurance segments, including motor, home, rescue, pet, travel and commercial. The Company sells directly over the phone, Internet and through the United Kingdom's main price comparison Websites.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-09T09:09:33">BRIEF: For the six months ended 30 June 2015, Direct Line Insurance Group PLC revenues decreased 3% to L1.62B. Net income before extraordinary items increased 50% to L246.6M. Revenues reflect decrease in net premium earned. Net income reflects Home segment income increase from L34.8M to L104.4M, Commission ratio-Rescue &amp; Personal lines decrease of 30% to 5.5%, Gaap Loss Ratio%- REsue &amp; Other personal increase of 7% to 62.1%.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T21:27:51">
+		<streetAddress line="1">Churchill Court, Westmoreland Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BROMLEY</city>
+		<state-region></state-region>
+		<postalCode>BR1 1DP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Louise Calver</contactName>
+		<contactTitle>Investor Relations Manager</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>113</city-areacode>
+				<number>2920667</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1651</city-areacode>
+				<number>832877</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-23T11:43:10"><webSite mainCategory="Home Page">http://www.directlinegroup.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T21:27:51">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5530102010" mnem="">Property &amp; Casualty Insurance - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="524126" mnem="">Direct Property and Casualty Insurance Carriers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="524128" mnem="">Other Direct Insurance (except Life, Health and Medical) Carriers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="524113" mnem="">Direct Life Insurance Carriers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6331" mnem="">Fire/marine/casualty Insurance</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6311" mnem="">Life Insurance</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Paul</firstName>
+			<mI>Robert</mI>
+			<lastName>Geddes</lastName>
+			<age>45 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Anthony</firstName>
+			<mI>Jonathan</mI>
+			<lastName>Reizenstein</lastName>
+			<age>58 </age>
+			<title startYear="2010" startMonth="12" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2010">
+			<firstName>Angela</firstName>
+			<mI></mI>
+			<lastName>Morrison</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="" startDay="" iD1="CIO" abbr1="CIO" iD2="" abbr2="">Chief Information Officer</title>
+		</officer>
+		<officer rank="4" since="03/2012">
+			<firstName>Jose</firstName>
+			<mI></mI>
+			<lastName>Vazquez</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="03" startDay="" iD1="CRO" abbr1="CRO" iD2="" abbr2="">Chief Risk Officer</title>
+		</officer>
+		<officer rank="5" since="11/2011">
+			<firstName>Humphrey</firstName>
+			<mI></mI>
+			<lastName>Tomlinson</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="" abbr2="">General Counsel</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Greenwood</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director of Commercial</title>
+		</officer>
+		<officer rank="7" since="05/2014">
+			<firstName>Mike</firstName>
+			<mI></mI>
+			<lastName>Holliday-Williams</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Personal Lines</title>
+		</officer>
+		<officer rank="8" since="02/2010">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Maddock</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="02" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Claims and Business Services</title>
+		</officer>
+		<officer rank="9" since="09/2014">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>Linares</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Human Resource Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.77200</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.18900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.05771</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">3.92934</Ratio>
+			<Ratio FieldName="EV" Type="N">4902.20000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">5186.50000</Ratio>
+			<Ratio FieldName="AREV" Type="N">3349.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">580.70000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">359.30000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.25994</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.42295</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.05277</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.64304</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.32433</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.14400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">12.83100</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.54863</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.51104</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.83751</Ratio>
+			<Ratio FieldName="Employees" Type="N">10932</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.86091</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">5.7002</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.52990</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">3136.10600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.30104</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">491.27830</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.34942</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

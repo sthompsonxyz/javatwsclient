@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AE556</CoID>
+		<CoID Type="CompanyName">Bahamas Petroleum Company PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BPC</IssueID>
+			<IssueID Type="CUSIP">G0695Y108</IssueID>
+			<IssueID Type="ISIN">IM00B3NTV894</IssueID>
+			<IssueID Type="RIC">BPCB.L</IssueID>
+			<IssueID Type="SEDOL">B3NTV89</IssueID>
+			<IssueID Type="DisplayRIC">BPCB.L</IssueID>
+			<IssueID Type="InstrumentPI">18794480</IssueID>
+			<IssueID Type="QuotePI">18902510</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-07-23</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2010-12-31">5</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="1227459096.0">1230479096.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-07T01:14:25">Bahamas Petroleum Company plc is an Isle of Man-based oil and gas exploration company. The Company is engaged in the exploration of oil and gas. The Company owns a 100% offshore licenses exclusively focused on the commonwealth of The Bahamas. The Company is focused on evaluating and realizing the potential of a range of carbonate reservoir systems contained in operated leases in Bahamian waters. The Company was formed to invest in an offshore oil exploration programme in license areas covering approximately 16,000 square kilometers (four million acres) in the territorial waters and maritime Exclusive Economic Zone (EEZ) of The Bahamas. The Company holds 100% interests through its wholly owned subsidiaries in five exploration Licenses.</Text>
+		<Text Type="Financial Summary" lastModified="2015-07-23T10:48:52">BRIEF: For the six months ended 30 June 2015, Bahamas Petroleum Company PLC revenues was not reported. Net loss decreased 5% to $2.3M. Lower net loss reflects Other Expenses decrease of 4% to $1.3M (expense), Employee benefit expense decrease of 5% to $1M (expense), Depreciation expense decrease of 27% to $27K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-07-23T10:48:54">
+		<streetAddress line="1">IOMA House, Hope Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DOUGLAS</city>
+		<state-region></state-region>
+		<postalCode>IM1 1AP</postalCode>
+		<country code="IMN">Isle of Man</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>647883</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>665121</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-28T04:42:30"><webSite mainCategory="Home Page">http://www.bpcplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-07-23T10:48:54">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/17/2011">
+			<firstName>Simon</firstName>
+			<mI>Craig</mI>
+			<lastName>Potter</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="10" startDay="17" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="2011">
+			<firstName>Benjamin</firstName>
+			<mI></mI>
+			<lastName>Proffitt</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01970</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.03250</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00920</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.51842</Ratio>
+			<Ratio FieldName="EV" Type="N">17.14963</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">24.24044</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-3.34270</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.31365</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00269</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.03298</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00576</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00265</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-7.85051</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.59729</Ratio>
+			<Ratio FieldName="Employees" Type="N">5</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2014" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.03060</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

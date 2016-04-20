@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3511</CoID>
+		<CoID Type="CompanyName">James Fisher &amp; Sons plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">FSJ</IssueID>
+			<IssueID Type="CUSIP">G35056103</IssueID>
+			<IssueID Type="ISIN">GB0003395000</IssueID>
+			<IssueID Type="RIC">FSJ.L</IssueID>
+			<IssueID Type="SEDOL">0339500</IssueID>
+			<IssueID Type="DisplayRIC">FSJ.L</IssueID>
+			<IssueID Type="InstrumentPI">261172</IssueID>
+			<IssueID Type="QuotePI">1079242</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">3.5% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">126031141</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-29</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">2494</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="35597297.0">50164133.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:22:40">James Fisher and Sons plc is a United Kingdom-based company engaged in the provision of marine and specialist engineering services. The Company operates through four segments: Marine Support segment, which includes the hire and sale of large scale pneumatic fenders and ship to ship transfer services and the design and supply of systems for monitoring strain and stress in structures. Its Offshore Oil segment includes assembly and rental of equipment for the offshore oil and gas industry and the design and manufacture of specialist downhole tools and equipment for extracting oil. Specialist Technical segment offers subsea services, including submarine rescue and saturation diving, including maintenance, asset management and consultancy services and the non-destructive testing, decommissioning and remote operations and monitoring services to the nuclear industry. Its Tankships segment is engaged in the sea transportation of clean petroleum products in North West Europe.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-29T13:26:59">BRIEF: For the six months ended 30 June 2015, James Fisher &amp; Sons plc revenues decreased 1% to L213.1M. Net income decreased 7% to L15.1M. Revenues reflect Off shore oil services segment decrease of 35% to L36.1M, Tankships segment decrease of 2% to L26.1M. Net income also reflects Off shore oil services segment income decrease of 55% to L5.3M, Marine Support segment income decrease of 4% to L7M. Dividend per share increased from L0.07 to L0.08.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-29T13:27:17">
+		<streetAddress line="1">Fisher House, Michaelson Road,</streetAddress>
+		<streetAddress line="2">PO Box 4</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BARROW IN FURNESS</city>
+		<state-region></state-region>
+		<postalCode>LA14 1HR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Stuart Kilpatrick</contactName>
+		<contactTitle>Group Finance Director, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1229</city-areacode>
+				<number>615400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1229</city-areacode>
+				<number>836761</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1229</city-areacode>
+				<number>615400</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-05-08T14:54:22"><webSite mainCategory="Home Page">http://www.james-fisher.com/</webSite><eMail mainCategory="Company Contact/E-mail">postmaster@james-fisher.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-29T13:27:17">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240502010" mnem="">Marine Freight &amp; Logistics - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="483111" mnem="">Deep Sea Freight Transportation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="336611" mnem="">Ship Building and Repairing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="54199" mnem="">All Other Professional, Scientific and Technical Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="53249" mnem="">Other Commercial and Industrial Machinery and Equipment Rental and Leasing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="42183" mnem="">Industrial Machinery and Equipment Wholesalers</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="56132" mnem="">Temporary Help Services</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="48839" mnem="">Other Support Activities for Water Transportation</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4412" mnem="">Deep Sea Foreign Trans Of Freight</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3731" mnem="">Ship Building And Repairing</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8711" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7389" mnem="">Business Services, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7359" mnem="">Equipment Rental &amp; Leasing, Nec</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5084" mnem="">Industrial MacHinery/equipment</Industry>
+			<Industry type="SIC" order="7" reported="0" code="7363" mnem="">Help Supply Services</Industry>
+			<Industry type="SIC" order="8" reported="0" code="4499" mnem="">Water Transportation Services Nec</Industry>
+			<Industry type="SIC" order="9" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/06/2004">
+			<firstName>Nicholas</firstName>
+			<mI>P.</mI>
+			<lastName>Henry</lastName>
+			<age>53 </age>
+			<title startYear="2004" startMonth="12" startDay="06" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="12/01/2010">
+			<firstName>Stuart</firstName>
+			<mI>Charles</mI>
+			<lastName>Kilpatrick</lastName>
+			<age>52 </age>
+			<title startYear="2010" startMonth="12" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2010">
+			<firstName>Michael</firstName>
+			<mI>J.</mI>
+			<lastName>Hoggan</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">9.50000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">14.42000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">8.94500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02497</Ratio>
+			<Ratio FieldName="EV" Type="N">538.79330</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">476.55930</Ratio>
+			<Ratio FieldName="AREV" Type="N">444.79900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">73.44500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">40.07100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.79202</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">8.79161</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.05948</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.35476</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.23636</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.22000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">30.91486</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">20.78059</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.07140</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">11.99465</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.34020</Ratio>
+			<Ratio FieldName="Employees" Type="N">2494</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">12.16667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.41031</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">443.61630</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">241.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.65925</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.35600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">39.77900</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.24200</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EE42A</CoID>
+		<CoID Type="CompanyName">Koovs PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">KOOV</IssueID>
+			<IssueID Type="CUSIP">G5309T106</IssueID>
+			<IssueID Type="ISIN">GB00BHB22S55</IssueID>
+			<IssueID Type="RIC">KOOV.L</IssueID>
+			<IssueID Type="SEDOL">BHB22S5</IssueID>
+			<IssueID Type="DisplayRIC">KOOV.L</IssueID>
+			<IssueID Type="InstrumentPI">153558442</IssueID>
+			<IssueID Type="QuotePI">153645449</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-23</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">142</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="29809162.0">44883691.0</SharesOut>
+		<ReportingCurrency Code="INR">Rupee</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">68.523</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-08T23:02:08">Koovs plc, formerly Koovs Limited, is a United Kingdom-based company, which operates a wholesale business supplying branded fashion products for sale on its Koovs.com Website in India. The Company provides a range of products from international brands and designs fashion-forward products under the label Koovs. The Company has approximately 57.5% stake in Koovs Marketing Consulting Private Limited (Koovs India). The Company through its subsidiary Koovs India, supplies branded fashion garments and accessories for distribution through its Koovs.com Website, including international fashion brands, iconic British high street brands and Koovs own-label products. The Koovs Group (consisting of Koovs plc and its 57.5% subsidiary, Koovs Marketing Consulting Private Ltd), operates a wholesale business supplying branded fashion products for sale on the Koovs.com Website in India.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-19T11:06:51">BRIEF: For the six months ended 30 September 2015, Koovs PLC revenues increased from RS81.7M to RS199.2M. Net loss increased 21% to RS347.2M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Operating expenses increase of 33% to RS563.5M (expense), Finance income decrease of 45% to RS42.4M (income), Finance expense increase from RS700K to RS5.6M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-23T02:03:01">
+		<streetAddress line="1">Aldwych House, 81 Aldwych</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC2B 4HN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-12T06:01:12"><webSite mainCategory="Home Page">http://www.koovs.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@koovs.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-23T02:03:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720103013" mnem="">E-commerce &amp; Auction Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="45411" mnem="">Electronic Shopping and Mail-Order Houses</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="44811" mnem="">Men's Clothing Stores</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="44812" mnem="">Women's Clothing Stores</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5961" mnem="">Catalog And Mail-Order Houses</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5611" mnem="">Men's &amp; Boys' Clothing Stores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5621" mnem="">Women's Clothing Stores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/01/2014">
+			<firstName>Waheed</firstName>
+			<mI></mI>
+			<lastName>Alli</lastName>
+			<age>49 </age>
+			<title startYear="2014" startMonth="02" startDay="01" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="12/18/2013">
+			<firstName>Roy</firstName>
+			<mI>Cameron</mI>
+			<lastName>Naismith</lastName>
+			<age>52 </age>
+			<title startYear="2013" startMonth="12" startDay="18" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Financial Officer, Executive Director, Secretary</title>
+		</officer>
+		<officer rank="3" since="02/01/2014">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Bready</lastName>
+			<age>45 </age>
+			<title startYear="2014" startMonth="02" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive, Creative and Brand Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="INR" ExchangeRate="0.01031" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.15500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.35000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.10660</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02879</Ratio>
+			<Ratio FieldName="EV" Type="N">-6.02127</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">6.95697</Ratio>
+			<Ratio FieldName="AREV" Type="N">2.10528</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-10.85956</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-6.74803</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.27988</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.08732</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.61126</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.58170</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.39042</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-41.94023</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-37.23816</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.30454</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.25357</Ratio>
+			<Ratio FieldName="Employees" Type="N">142</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-0.69820</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">7.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.22200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-14.10000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

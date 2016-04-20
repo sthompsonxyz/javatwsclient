@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3838</CoID>
+		<CoID Type="CompanyName">Taylor Wimpey plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TW.</IssueID>
+			<IssueID Type="CUSIP">G86954107</IssueID>
+			<IssueID Type="ISIN">GB0008782301</IssueID>
+			<IssueID Type="RIC">TW.L</IssueID>
+			<IssueID Type="SEDOL">0878230</IssueID>
+			<IssueID Type="DisplayRIC">TW.L</IssueID>
+			<IssueID Type="InstrumentPI">262871</IssueID>
+			<IssueID Type="QuotePI">1079619</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-05-08">1.3174</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">70392370</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-16</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-28</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">3857</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="3238822787.0">3259264146.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-29T03:56:37">Taylor Wimpey plc is a United Kingdom-based Company engaged in residential house building. The Company operates in two divisions: Housing United Kingdom and Housing Spain. The Company operates at a local level from 24 regional businesses across the United Kingdom. Its North Division covers Scotland, the North East, Yorkshire, the North West and the West Midlands. South Division incorporates the Company's businesses in the East, South West and Wales, and South East, including London. The Company builds homes in various locations of Costa Blanca, Costa del Sol and the island of Mallorca. The Company's Spanish housing business represents approximately 1% of the Company's revenue.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-16T06:46:07">BRIEF: For the six months ended 28 June 2015, Taylor Wimpey plc revenues increased 12% to L1.34B. Net income increased 22% to L189.7M. Revenues reflect Housing Spain segment increase from L4.8M to L14.1M, Spain and Gibraltar segment increase from L4.8M to L14.1M. Net income benefited from Housing UK segment income increase of 31% to L253.6M, Housing Spain segment income totaling L900K vs. loss of L1.9M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-16T06:46:12">
+		<streetAddress line="1">80 New Bond Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1S 1SB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Debbie Sempie</contactName>
+		<contactTitle>Head - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73558100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1494</city-areacode>
+				<number>885663</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-31T01:37:03"><webSite mainCategory="Home Page">http://plc.taylorwimpey.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">Debbie.Sempie@taylorwimpey.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-16T06:46:12">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320301010" mnem="">Homebuilding - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23311" mnem="">Land Subdivision and Land Development</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1531" mnem="">Operative Builders</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6552" mnem="">Subdividers And Developers, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/03/2007">
+			<firstName>Peter</firstName>
+			<mI>T.</mI>
+			<lastName>Redfern</lastName>
+			<age>40 </age>
+			<title startYear="2007" startMonth="07" startDay="03" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/16/2010">
+			<firstName>Ryan</firstName>
+			<mI></mI>
+			<lastName>Mangold</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="11" startDay="16" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="07/2007">
+			<firstName>James</firstName>
+			<mI>J.</mI>
+			<lastName>Jordan</lastName>
+			<age>48 </age>
+			<title startYear="2011" startMonth="07" startDay="21" iD1="EDR" abbr1="Exec. Dir." iD2="SEC" abbr2="Secy.">Group legal director,Executive Director,Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.76500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.07400</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.32612</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">11.85154</Ratio>
+			<Ratio FieldName="EV" Type="N">5639.80100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">5752.60100</Ratio>
+			<Ratio FieldName="AREV" Type="N">2686.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">483.10000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">374.40000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11509</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.82570</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.77892</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06541</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.11598</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01560</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">23.11530</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">15.64923</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.14162</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">15.33582</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.26595</Ratio>
+			<Ratio FieldName="Employees" Type="N">3857</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.2667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.08923</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">16.8667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.95475</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">3104.49440</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">1802.02800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.14764</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.09125</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">605.41920</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.09627</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

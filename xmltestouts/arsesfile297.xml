@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E8F3D</CoID>
+		<CoID Type="CompanyName">Just Eat PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">JE.</IssueID>
+			<IssueID Type="CUSIP">G5215U106</IssueID>
+			<IssueID Type="ISIN">GB00BKX5CN86</IssueID>
+			<IssueID Type="RIC">JE.L</IssueID>
+			<IssueID Type="SEDOL">BKX5CN8</IssueID>
+			<IssueID Type="DisplayRIC">JE.L</IssueID>
+			<IssueID Type="InstrumentPI">138177103</IssueID>
+			<IssueID Type="QuotePI">138180335</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-05-22">1.00367</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-05</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">1289</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="546956935.0">675432028.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-28T02:55:14">JUST EAT plc is a United Kingdom-based operator of online and mobile market place for takeaway food. The Company's segments include: United Kingdom, Denmark and Other. It offers JUST EAT application, which allows customers to search and order food from local restaurants. The Company enables local restaurants and customers to connect through JUST EAT platform for ordering food delivery. It allows to customers to search for local restaurants using their postcode and any cuisine preference. It transmits the details of customers order to the takeaway restaurants through Just Connect Terminals (JCTs), which restaurants use to accept orders and send confirmations to the customer. The restaurant delivers the food to the customer, who can choose to pay online at the point of ordering or cash upon delivery. It has operations in Australia, Belgium, Brazil, Canada, Denmark, France, Ireland, Italy, Mexico, the Netherlands, New Zealand, Norway, Spain, Switzerland and the United Kingdom.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-05T22:06:53">BRIEF: For the six months ended 30 June 2015, Just Eat PLC revenues increased 54% to L107.8M. Net income increased 54% to L9.4M. Revenues reflect United Kingdom segment increase of 49% to L77.7M, Other segment increase from L11.3M to L24.1M. Net income also reflects IPO Costs decrease from L2.3M (expense) to L0K, Long term employee incentive costs decrease of 32% to L1.7M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-04T14:58:24">
+		<streetAddress line="1">Fleet Place House, 2 Fleet Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4M 7RF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-07-28T02:42:42"><webSite mainCategory="Home Page">http://www.just-eat.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@just-eat.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-04T14:58:24">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720103010" mnem="">Internet Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2013">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Buttress</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Group Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="10/2008">
+			<firstName>Mike</firstName>
+			<mI></mI>
+			<lastName>Wroe</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Group Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="03/2011">
+			<firstName>Adrian</firstName>
+			<mI></mI>
+			<lastName>Blair</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="03" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Group Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="07/2009">
+			<firstName>Carlos</firstName>
+			<mI></mI>
+			<lastName>Morgado</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="07" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Group Chief Technology Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.77400</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.22579</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.19600</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">3.64506</Ratio>
+			<Ratio FieldName="EV" Type="N">2384.98100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2549.08100</Ratio>
+			<Ratio FieldName="AREV" Type="N">157.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">28.30000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">52.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.09350</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.28229</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.32094</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.28832</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.10393</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">89.74522</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">44.02172</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">16.23618</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">40.36364</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">11.75908</Ratio>
+			<Ratio FieldName="Employees" Type="N">1289</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.1818</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.42545</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">52.3333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">64.92345</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">244.80050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.05813</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">47.50360</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

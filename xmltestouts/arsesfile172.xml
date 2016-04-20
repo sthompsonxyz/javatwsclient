@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F0586</CoID>
+		<CoID Type="CompanyName">DJI Holdings PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DJI</IssueID>
+			<IssueID Type="CUSIP">G2902V109</IssueID>
+			<IssueID Type="ISIN">GB00BNBNSF91</IssueID>
+			<IssueID Type="RIC">DJI.L</IssueID>
+			<IssueID Type="SEDOL">BNBNSF9</IssueID>
+			<IssueID Type="DisplayRIC">DJI.L</IssueID>
+			<IssueID Type="InstrumentPI">161694034</IssueID>
+			<IssueID Type="QuotePI">162026145</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">298</Employees>
+		<SharesOut Date="2015-10-02" TotalFloat="59663299.0">146860391.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T03:59:58">DJI Holdings plc (DJI), formerly DJI Holdings Limited, is a United Kingdom-based licensed and authorized distributor and promoter of Chinese lottery products. The Company is engaged in content and promotions partnerships with provinces and online retailers. The Company offers back-office lottery ticket fulfilment services to online retailers. It also offers content, packaging and incentives to consumers through its branded Websites and mobile applications. The Company has welfare tele draw licenses and contracts to fulfill sports lottery covering around 11 provinces. In Welfare, DJI operates official provincial Websites for Shanghai, Beijing and Guangxi provincial welfare centers. In addition, the Company operates three branded Websites: Haoyuncai.com, Woying.com and Haowei.com. The Company's subsidiaries are licensed and/or contractually authorized to distribute and promote sports and welfare lottery products online, through mobile and through physical retail outlets across China.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-01T02:49:17">BRIEF: For the six months ended 30 June 2015, DJI Holdings PLC revenues decreased 37% to L2.1M. Net loss increased 53% to L3.4M. Revenues reflect Digital Business decrease of 34% to L2.1M, Land Business decrease of 75% to L55K. Higher net loss reflects Finance costs - Interest expenses increase from L52K to L489K (expense), Share of loss of associates increase from L0K to L379K (expense), Selling &amp; Administrative expenses increase of 5% to L4.6M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-09T04:25:10">
+		<streetAddress line="1">First Floor Mallory House Goostrey Way</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>KNUTSFORD</city>
+		<state-region></state-region>
+		<postalCode>WA16 7GY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1565</city-areacode>
+				<number>872990</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-07-09T10:40:26"><webSite mainCategory="Home Page">http://www.djiholdings.com</webSite><eMail mainCategory="Company Contact/E-mail">info@djiholdings.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-09T04:25:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330103015" mnem="">Lottery Operators</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="71329" mnem="">Other Gambling Industries</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7999" mnem="">Amusement And Recreation, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/21/2014">
+			<firstName>Darren</firstName>
+			<mI>Christian</mI>
+			<lastName>Mercer</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="07" startDay="21" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/11/2015">
+			<firstName>Steven</firstName>
+			<mI></mI>
+			<lastName>Prowse</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="09" startDay="11" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Wei</firstName>
+			<mI></mI>
+			<lastName>Qi</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">China Chief Executive Officer</title>
+		</officer>
+		<officer rank="4" since="07/21/2014">
+			<firstName>Rodney</firstName>
+			<mI>St. Auburn</mI>
+			<lastName>Davis</lastName>
+			<age>48 </age>
+			<title startYear="2015" startMonth="09" startDay="11" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Zhao</firstName>
+			<mI></mI>
+			<lastName>Hu</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">China Chief Operating Officer</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Wang</firstName>
+			<mI></mI>
+			<lastName>Jian</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of B2C</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Wu</firstName>
+			<mI></mI>
+			<lastName>Qiang</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">China Chief Technology Officer</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Hu</firstName>
+			<mI></mI>
+			<lastName>Yuezhai</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Business Development</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.37500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.94770</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.27500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.04967</Ratio>
+			<Ratio FieldName="EV" Type="N">50.20265</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">55.07265</Ratio>
+			<Ratio FieldName="AREV" Type="N">13.41354</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.48943</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-4.21285</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.03398</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.10820</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.11061</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.08300</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.02680</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">51.78476</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-37.71539</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.10575</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.39034</Ratio>
+			<Ratio FieldName="Employees" Type="N">298</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

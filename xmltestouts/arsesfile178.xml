@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">ABD38</CoID>
+		<CoID Type="CompanyName">Drax Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DRX</IssueID>
+			<IssueID Type="CUSIP">G2904K127</IssueID>
+			<IssueID Type="ISIN">GB00B1VNSX38</IssueID>
+			<IssueID Type="RIC">DRX.L</IssueID>
+			<IssueID Type="SEDOL">B1VNSX3</IssueID>
+			<IssueID Type="DisplayRIC">DRX.L</IssueID>
+			<IssueID Type="InstrumentPI">23753836</IssueID>
+			<IssueID Type="QuotePI">23753835</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2007-04-30">0.99627</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-02</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1324</Employees>
+		<SharesOut Date="2016-01-31" TotalFloat="405323890.0">406347243.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">2640</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:41:12">Drax Group Plc is engaged in sourcing of fuel (including sustainable biomass), electricity production and electricity sales to the wholesale market and business customers. The Company operates in two business segments: Generation and Retail. The Generation segment spans all three core activities of the company in that it incorporates sourcing of coal, biomass and other fuels, generation and supply (through its sales to the wholesale electricity market). The Retail business segment contributes to the supply activities of the company, through sales direct to the small and medium enterprise and industrial and commercial markets. The Company's subsidiaries include Drax Finance Limited, Drax Power Limited, Drax Fuel Supply Limited, Haven Power Limited and Drax (International) Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-02T20:45:06">BRIEF: For the six months ended 30 June 2015, Drax Group Plc revenues increased 20% to L1.51B. Net income totaled L38.8M vs. loss of L6.7M. Revenues reflect Generation segment increase of 19% to L882.1M, Retail segment increase of 23% to L629.1M. Net Income reflects FV/Uls Adjust on Derivatives for Hedging decrease of 95% to L3M (expense). Dividend per share remained flat at L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-11T02:14:32">
+		<streetAddress line="1">Drax Power Station</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SELBY</city>
+		<state-region></state-region>
+		<postalCode>YO8 8PH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1757</city-areacode>
+				<number>618381</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1757</city-areacode>
+				<number>612192</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-19T10:17:17"><webSite mainCategory="Home Page">http://www.draxgroup.plc.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-11T02:14:32">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5910101012" mnem="">Fossil Fuel Electric Utilities</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="221112" mnem="">Fossil Fuel Electric Power Generation</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4911" mnem="">Electric Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Dorothy</firstName>
+			<mI>C.</mI>
+			<lastName>Thompson</lastName>
+			<age>53 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/16/2015">
+			<firstName>Will</firstName>
+			<mI></mI>
+			<lastName>Gardiner</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="11" startDay="16" iD1="FID" abbr1="Fin. Dir." iD2="" abbr2="">Finance Director</title>
+		</officer>
+		<officer rank="3" since="05/31/2015">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Scott</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="05" startDay="31" iD1="FID" abbr1="Fin. Dir." iD2="" abbr2="">Interim Finance Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Phillip</firstName>
+			<mI></mI>
+			<lastName>Hudson</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Director - Corporate Affairs, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.38200</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.51300</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.05100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.76910</Ratio>
+			<Ratio FieldName="EV" Type="N">1066.51910</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">967.91910</Ratio>
+			<Ratio FieldName="AREV" Type="N">2805.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">229.40000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">128.70000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.31598</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">6.88682</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.88467</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.54592</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.51412</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.11900</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">16.03565</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.63034</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.34507</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">7.53845</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.61318</Ratio>
+			<Ratio FieldName="Employees" Type="N">1324</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.9333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.51857</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-61.8263</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">63.25013</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2783.99710</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03766</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">14.35790</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02409</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

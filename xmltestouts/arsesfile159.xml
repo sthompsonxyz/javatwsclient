@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A34D3</CoID>
+		<CoID Type="CompanyName">T Clarke PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CTO</IssueID>
+			<IssueID Type="CUSIP">G87012103</IssueID>
+			<IssueID Type="ISIN">GB0002015021</IssueID>
+			<IssueID Type="RIC">CTO.L</IssueID>
+			<IssueID Type="SEDOL">0201502</IssueID>
+			<IssueID Type="DisplayRIC">CTO.L</IssueID>
+			<IssueID Type="InstrumentPI">262874</IssueID>
+			<IssueID Type="QuotePI">1080371</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2005-05-09">3.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1237</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="34575848.0">41829577.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:01:46">TClarke plc is a United Kingdom-based provider of electrical and mechanical contracting and related services to the construction industry and end users. The Company's principal activities are the installation of electrical, mechanical and ICT services nationwide. It also provides associated products and in-house manufacture, design and engineering services. The Company's nine business areas include M&amp;E Contracting, Transport, Mission Critical, Intelligent Buildings, Facilities Management, Residential &amp; Hotels, Design &amp; Build, Manufacturing Services and Green Technologies. The Company regional structure is based around four operating divisions: London &amp; South East, Central &amp; West, North and Scotland. It serves diverse range of clients, ranging from global media, financial services and manufacturing organizations to main contractors in the construction industry, house builders and a range of public and private sector clients.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-07T01:27:29">BRIEF: For the six months ended 30 June 2015, T Clarke PLC revenues increased 2% to L112M. Net income increased from L100K to L700K. Revenues reflect London &amp; South segment increase of 35% to L57.8M. Net income benefited from London &amp; South segment income totaling L1.2M vs. loss of L900K. Dividend per share remained flat at L0.01. Basic Earnings per Share excluding Extraordinary Items totaled to L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-15T02:19:13">
+		<streetAddress line="1">45 Moorfields</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2Y 9AE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79977400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79977405</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-05T08:06:58"><webSite mainCategory="Home Page">http://www.tclarke.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-15T02:19:13">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220102010" mnem="">Construction &amp; Engineering - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23531" mnem="">Electrical Contractors</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23599" mnem="">All Other Special Trade Contractors</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="561439" mnem="">Other Business Service Centers (including Copy Shops)</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1731" mnem="">Electrical Work</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1799" mnem="">Special Trade Contractors, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1531" mnem="">Operative Builders</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7334" mnem="">Photocopying/duplicating Services</Industry>
+			<Industry type="SIC" order="6" reported="0" code="8711" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="7" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Lawrence</lastName>
+			<age>47 </age>
+			<title startYear="2010" startMonth="01" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="2007">
+			<firstName>Martin</firstName>
+			<mI></mI>
+			<lastName>Walton</lastName>
+			<age>50 </age>
+			<title startYear="2010" startMonth="10" startDay="26" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/01/2007">
+			<firstName>Michael</firstName>
+			<mI>C.</mI>
+			<lastName>Crowder</lastName>
+			<age>50 </age>
+			<title startYear="2010" startMonth="01" startDay="01" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Group Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="01/01/2015">
+			<firstName>Danny</firstName>
+			<mI></mI>
+			<lastName>Robson</lastName>
+			<age>45 </age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.82500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.91000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.65500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03360</Ratio>
+			<Ratio FieldName="EV" Type="N">29.30940</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">34.50940</Ratio>
+			<Ratio FieldName="AREV" Type="N">227.50000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.80000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01449</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.49490</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.45650</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.24878</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.00483</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03100</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">10.41758</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-2.75229</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.15169</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.80722</Ratio>
+			<Ratio FieldName="Employees" Type="N">1237</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.75000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">238.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.06000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">3.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03100</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

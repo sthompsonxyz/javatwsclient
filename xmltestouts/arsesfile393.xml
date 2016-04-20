@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A9A10</CoID>
+		<CoID Type="CompanyName">Orosur Mining Inc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">OMI</IssueID>
+			<IssueID Type="CUSIP">687196105</IssueID>
+			<IssueID Type="ISIN">CA6871961059</IssueID>
+			<IssueID Type="RIC">OMI.TO</IssueID>
+			<IssueID Type="SEDOL">2200091</IssueID>
+			<IssueID Type="DisplayRIC">OMI.TO</IssueID>
+			<IssueID Type="InstrumentPI">398110</IssueID>
+			<IssueID Type="QuotePI">6640027</IssueID>
+			<Exchange Code="TSE" Country="CAN">Toronto Stock Exchange</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-18</LastModified>
+		<LatestAvailableAnnual>2015-05-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-11-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-05-31">443</Employees>
+		<SharesOut Date="2015-11-30" TotalFloat="83204731.0">96635081.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-22T04:30:54">Orosur Mining Inc. (Orosur) is a Canada-based gold producer and exploration company. The Company is focused on identifying and developing mineral opportunities. The Company operates in Uruguay, Chile and Colombia. In Uruguay, the Company operates the San Gregorio gold areas in the northern Department of Rivera. The Company is operating the Arenal Deeps underground mine and several open pits in the San Gregorio district. The Company has land holdings with active near mine and regional exploration programs. The gold is produced in the form of dore, which is shipped to refineries for final processing. In Chile, the Company conducts exploration and development activities on the Anillo property. The Company also owns the Pantanillo property, located in the Maricunga Belt and holds interests in the Talca exploration asset located close to La Serena, north of Santiago in Chile.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-18T13:18:59">BRIEF: For the six months ended 30 November 2015, Orosur Mining Inc revenues decreased 27% to $24.7M. Net loss increased 3% to $2.6M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Interest on bank deposits decrease of 33% to $2K (income). Basic Earnings per Share excluding Extraordinary Items remained flat at -$0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-11T12:19:34">
+		<streetAddress line="1">Cerro Colorado 5240</streetAddress>
+		<streetAddress line="2">Torre del Parque I, Of. 602</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LAS CONDES</city>
+		<state-region></state-region>
+		<postalCode>7560995</postalCode>
+		<country code="CHL">Chile</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>56</countryPhoneCode>
+				<city-areacode>2</city-areacode>
+				<number>29246800</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>56</countryPhoneCode>
+				<city-areacode>2</city-areacode>
+				<number>29246800</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-05T12:01:40"><webSite mainCategory="Home Page">http://www.orosur.ca</webSite><eMail mainCategory="Company Contact/E-mail">info@orosur.ca</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-11T12:19:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120106011" mnem="">Gold Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/2008">
+			<firstName>Pedro</firstName>
+			<mI>Ignacio</mI>
+			<lastName>Salazar</lastName>
+			<age>49 </age>
+			<title startYear="2013" startMonth="08" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="CAD" ReportingCurrency="USD" ExchangeRate="1.37920" LatestAvailableDate="2015-05-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.14000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.20000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.09500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02742</Ratio>
+			<Ratio FieldName="EV" Type="N">9.04413</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">13.61479</Ratio>
+			<Ratio FieldName="AREV" Type="N">90.84515</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-24.96214</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-74.99538</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.80160</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.97101</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.48363</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06844</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.55734</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-5.84047</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-93.05701</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.14987</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.29132</Ratio>
+			<Ratio FieldName="Employees" Type="N">443</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="5" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">7.69080</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-13.72549</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">55.08620</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01020</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">0.11530</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

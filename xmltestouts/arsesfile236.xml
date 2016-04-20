@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">CE4D6</CoID>
+		<CoID Type="CompanyName">Glencore PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GLEN</IssueID>
+			<IssueID Type="CUSIP">G39420107</IssueID>
+			<IssueID Type="ISIN">JE00B4T3BW64</IssueID>
+			<IssueID Type="RIC">GLEN.L</IssueID>
+			<IssueID Type="SEDOL">B4T3BW6</IssueID>
+			<IssueID Type="DisplayRIC">GLEN.L</IssueID>
+			<IssueID Type="InstrumentPI">86435511</IssueID>
+			<IssueID Type="QuotePI">86386483</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-20</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">110378</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="12172809093.0">14394740908.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-26T22:20:01">Glencore plc, formerly Glencore Xstrata Plc, is a Switzerland-based natural resource company. The Company operates in three segments: Metals and Minerals, which includes copper, nickel, zinc/lead, alloys, alumina/aluminum and iron ore; Energy Products, which includes controlled and non-controlled coal mining and oil production operations and investments in strategic handling, storage and freight equipment and facilities, and Agricultural Products, which focuses on grains, oils/oilseeds, cotton and sugar. The Companys operates in Americas, Asia Europe, Africa and Oceania. The Companys portfolio of diversified industrial assets consists over 150 mining and metallurgical facilities, offshore oil production facilities, farms and agricultural facilities.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T10:33:35">BRIEF: For the six months ended 30 June 2015, Glencore PLC revenues decreased 25% to $85.71B. Net loss totaled $676M vs. income of $1.72B. Revenues reflect Energy products segment decrease of 40% to $42.96B, Agriculture products segment decrease of 6% to $11.85B. Net loss reflects Gain/ (loss) on sale of investments increase from $0K to $256M (expense), Share of income from associates and join decrease of 52% to $176M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-20T07:24:46">
+		<streetAddress line="1">Baarermattstrasse 3</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BAAR</city>
+		<state-region>ZUG</state-region>
+		<postalCode>6340</postalCode>
+		<country code="CHE">Switzerland</country>
+		<contactName>Paul Smith</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>41</countryPhoneCode>
+				<city-areacode>41</city-areacode>
+				<number>7092000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>41</countryPhoneCode>
+				<city-areacode>41</city-areacode>
+				<number>7093000</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>41</countryPhoneCode>
+				<city-areacode>41</city-areacode>
+				<number>7092487</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-26T05:10:32"><webSite mainCategory="Home Page">http://www.glencore.com</webSite><eMail mainCategory="Company Contact/E-mail">paul.smith@glencore.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-20T07:24:46">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010101010" mnem="">Coal - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212111" mnem="">Bituminous Coal and Lignite Surface Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="331312" mnem="">Primary Aluminum Production</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="331112" mnem="">Electrometallurgical Ferroalloy Product Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="212231" mnem="">Lead Ore and Zinc Ore Mining</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="311211" mnem="">Flour Milling</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="311312" mnem="">Cane Sugar Refining</Industry>
+			<Industry type="NAICS" order="10" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1221" mnem="">Bituminous Coal/lignite-Surface</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3334" mnem="">Primary Aluminum</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3313" mnem="">Electrometallurgical Products</Industry>
+			<Industry type="SIC" order="6" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+			<Industry type="SIC" order="7" reported="0" code="1031" mnem="">Lead And Zinc Ores</Industry>
+			<Industry type="SIC" order="8" reported="0" code="2041" mnem="">Flour/other Grain Mill Products</Industry>
+			<Industry type="SIC" order="9" reported="0" code="2062" mnem="">Cane Sugar Refining</Industry>
+			<Industry type="SIC" order="10" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/08/2014">
+			<firstName>Anthony</firstName>
+			<mI>B.</mI>
+			<lastName>Hayward</lastName>
+			<age>57 </age>
+			<title startYear="2014" startMonth="05" startDay="08" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="01/2002">
+			<firstName>Ivan</firstName>
+			<mI></mI>
+			<lastName>Glasenberg</lastName>
+			<age>58 </age>
+			<title startYear="2011" startMonth="03" startDay="14" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/01/2011">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Burton</lastName>
+			<age>50 </age>
+			<title startYear="2011" startMonth="09" startDay="01" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.29450</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.16844</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.66670</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">88.32461</Ratio>
+			<Ratio FieldName="EV" Type="N">51019.31800</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">18633.99000</Ratio>
+			<Ratio FieldName="AREV" Type="N">156256.60000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">7790.46000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1631.31800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.12405</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">11.88142</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.64235</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.37418</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.42415</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12723</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">3.04379</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.71718</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.11925</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.43572</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.48991</Ratio>
+			<Ratio FieldName="Employees" Type="N">110378</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.2692</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.32675</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-42.1570</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.41558</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">115753.65319</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.05775</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">465.88017</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04976</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

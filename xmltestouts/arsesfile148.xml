@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">C5693</CoID>
+		<CoID Type="CompanyName">CPPGroup Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CPP</IssueID>
+			<IssueID Type="CUSIP">G4839A109</IssueID>
+			<IssueID Type="ISIN">GB00B5W55H93</IssueID>
+			<IssueID Type="RIC">CPPG.L</IssueID>
+			<IssueID Type="SEDOL">B5W55H9</IssueID>
+			<IssueID Type="DisplayRIC">CPPG.L</IssueID>
+			<IssueID Type="InstrumentPI">69568290</IssueID>
+			<IssueID Type="QuotePI">69568288</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-22</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">1167</Employees>
+		<SharesOut Date="2015-11-24" TotalFloat="487037919.0">852833955.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T02:01:07">CPPGroup Plc is an assistance business operating internationally within the financial services, telecommunications and travel sectors. The Company operates in three segments: UK and Ireland; Europe and Latin America, which include Spain, Italy, Germany, Turkey, Mexico, Portugal, France and Brazil, and Asia Pacific, which include India, Hong Kong, China, Malaysia and Singapore. Its products include card protection, travel services, mobile phone protection, identity protection and legal protection. Its products help to provide security for its customers across the world. Its card protection features include card cancellation and re-issue, emergency cash advance, protection for keys, valuable document replacement and handbag. Its travel support services, including passport assistance, translation service, and a lost-and-found luggage service. Its identity safe assistance features include a consultation with an identity fraud specialist to identify any immediate and long term risks.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-22T01:20:48">BRIEF: For the six months ended 30 June 2015, CPPGroup Plc revenues decreased 23% to L45.2M. Net income before extraordinary items totaled L17.1M vs. loss of L1.9M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net Income reflects Other administrative expenses decrease of 19% to L20.3M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-11T07:56:44">
+		<streetAddress line="1">Holgate Park, Holgate Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>YORK</city>
+		<state-region></state-region>
+		<postalCode>YO26 4GA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>David Allchurch</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1904</city-areacode>
+				<number>544500</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1904</city-areacode>
+				<number>544933</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73534200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-08-23T11:19:41"><webSite mainCategory="Home Page">http://www.cppgroupplc.com/</webSite><eMail mainCategory="Company Contact/E-mail">cpp@tulchangroup.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-11T07:56:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="524126" mnem="">Direct Property and Casualty Insurance Carriers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6331" mnem="">Fire/marine/casualty Insurance</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/30/2015">
+			<firstName>Stephen</firstName>
+			<mI>James</mI>
+			<lastName>Callaghan</lastName>
+			<age>54 </age>
+			<title startYear="2015" startMonth="07" startDay="30" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="10/02/2015">
+			<firstName>Michael</firstName>
+			<mI>John</mI>
+			<lastName>Corcoran</lastName>
+			<age>55 </age>
+			<title startYear="2015" startMonth="10" startDay="02" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="10/31/2013">
+			<firstName>Lorraine</firstName>
+			<mI></mI>
+			<lastName>Beavis</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="10" startDay="31" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.12000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.18650</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.03000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01550</Ratio>
+			<Ratio FieldName="EV" Type="N">94.47410</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">102.34010</Ratio>
+			<Ratio FieldName="AREV" Type="N">108.80600</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">4.72300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-5.96400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.03475</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.63399</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.17987</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.23652</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01054</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">44.14462</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.94057</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">1167</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2014" CurInterimEndMonth="3" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

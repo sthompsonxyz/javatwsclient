@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF46D</CoID>
+		<CoID Type="CompanyName">Secure Property Development &amp; Invest PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SPDI</IssueID>
+			<IssueID Type="CUSIP">M8480R108</IssueID>
+			<IssueID Type="ISIN">CY0102102213</IssueID>
+			<IssueID Type="RIC">SPDI.L</IssueID>
+			<IssueID Type="SEDOL">B6WC674</IssueID>
+			<IssueID Type="DisplayRIC">SPDI.L</IssueID>
+			<IssueID Type="InstrumentPI">35578141</IssueID>
+			<IssueID Type="QuotePI">36187049</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2015-02-11">1.10671</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-14</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2006-12-31">10</Employees>
+		<SharesOut Date="2015-08-17" TotalFloat="67031163.0">90014723.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-14T07:01:45">Secure Property Development &amp; Investment Plc is a Cyprus-based company, which is engaged in directly or indirectly investing and managing real estate properties. The Company is also engaged in real estate development projects in Central, East and South East Europe, which includes the acquisition, development, operation and selling of property assets. Its operating segments include commercial-industrial, which includes warehouse segment and office segment; residential and land assets. Through warehouse segment, it acquires, develops operates and disposes warehouses. Through office segment, it acquires, develops operates and disposes offices. Through residential segment, it operates and disposes residential properties land assets. Through land assets, it owns various land assets which are either available for sale or for potential development. Its portfolio includes commercial and residential properties, as well as four development projects at different development-stages in Ukraine.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-14T03:56:44">BRIEF: For the six months ended 30 June 2015, Secure Property Development &amp; Invest PLC revenues decreased 48% to EUR7.7M. Net income decreased 46% to EUR4.7M. Revenues reflect Investment property related gains decrease of 64% to EUR4.7M. Net income also reflects Foreign exchange losses, net increase of 25% to EUR5M (expense), Borrowing interest expenses increase from EUR529K to EUR1.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-14T03:56:47">
+		<streetAddress line="1">Eagle House, 10th floor</streetAddress>
+		<streetAddress line="2">16, Kyriakou Matsi Ave</streetAddress>
+		<streetAddress line="3">Agioi Omologites</streetAddress>
+		<city>NICOSIA</city>
+		<state-region></state-region>
+		<postalCode>1082</postalCode>
+		<country code="CYP">Cyprus</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainfax">
+				<countryPhoneCode>357</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>889001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-01T03:54:17"><webSite mainCategory="Home Page">http://www.secure-property.eu</webSite><eMail mainCategory="Company Contact/E-mail">administrator@secure-property.eu</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-14T03:56:47">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540201010" mnem="">Real Estate Development &amp; Operations - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53111" mnem="">Lessors of Residential Buildings and Dwellings</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="23322" mnem="">Multifamily Housing Construction</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6513" mnem="">Apartment Building Operators</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1531" mnem="">Operative Builders</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/09/2011">
+			<firstName>Lambros</firstName>
+			<mI>Georgios</mI>
+			<lastName>Anagnostopoulos</lastName>
+			<age>52 </age>
+			<title startYear="2011" startMonth="08" startDay="09" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="08/2011">
+			<firstName>Constantinos</firstName>
+			<mI></mI>
+			<lastName>Bitros</lastName>
+			<age>42 </age>
+			<title startYear="2011" startMonth="08" startDay="" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.19500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.41400</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.16000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00375</Ratio>
+			<Ratio FieldName="EV" Type="N">36.06086</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">17.55287</Ratio>
+			<Ratio FieldName="AREV" Type="N">7.62970</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">5.50491</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.54497</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.01440</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.20155</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.55937</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01532</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01531</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.19451</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">2.57427</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.30060</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.54354</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.34860</Ratio>
+			<Ratio FieldName="Employees" Type="N">10</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B3747</CoID>
+		<CoID Type="CompanyName">Frontier Resources International plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">FRI</IssueID>
+			<IssueID Type="CUSIP">G371A9107</IssueID>
+			<IssueID Type="ISIN">GB00B3K9ML24</IssueID>
+			<IssueID Type="RIC">FRIF.L</IssueID>
+			<IssueID Type="SEDOL">B3K9ML2</IssueID>
+			<IssueID Type="DisplayRIC">FRIF.L</IssueID>
+			<IssueID Type="InstrumentPI">55489661</IssueID>
+			<IssueID Type="QuotePI">136206220</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2016-01-07">1.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-13</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-12-31">4</Employees>
+		<SharesOut Date="2016-01-07" TotalFloat="3992432015.0">361999056.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:49:24">Frontier Resources International Plc is a United Kingdom-based oil and gas exploration company. The Company is focused on onshore oil and gas exploration and development in the Middle East and Southern Africa. The Company has three exploration projects in Oman, Zambia and Namibia. The Company's 100%-owned Block 38 is located in the Dhofar Region of southwest Oman, covering an area of approximately 17,425 square kilometers. Its Blocks 1717 and 1718 are located in the Owambo Basin in northern Namibia, covering an area of approximately 18,933 square kilometers. The Company's Block 34 is located in the Kafue Trough in southwestern Zambia, covering an area of approximately 6,427 square kilometers.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-13T04:00:44">BRIEF: For the six months ended 30 June 2015, Frontier Resources International plc revenues was not reported. Net loss increased 86% to $822K. Higher net loss reflects Administrative expenses increase from $373K to $806K (expense). Basic Earnings per Share excluding Extraordinary Items totaled to -$0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T22:20:53">
+		<streetAddress line="1">11 Staple Inn</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC1V 7QH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1281</city-areacode>
+				<number>9200061</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-13T09:48:04"><webSite mainCategory="Home Page">http://www.friplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T22:20:53">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/17/2016">
+			<firstName>Adam</firstName>
+			<mI></mI>
+			<lastName>Reynolds</lastName>
+			<age>53 </age>
+			<title startYear="2016" startMonth="02" startDay="17" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="03/06/2013">
+			<firstName>Barbara</firstName>
+			<mI>Joyce</mI>
+			<lastName>Spurrier</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="03" startDay="06" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00063</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.00632</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00026</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">67.45603</Ratio>
+			<Ratio FieldName="EV" Type="N">3.07838</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">3.19500</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.86372</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.86584</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00654</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.00917</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00070</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00653</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-56.68672</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.06817</Ratio>
+			<Ratio FieldName="Employees" Type="N">4</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

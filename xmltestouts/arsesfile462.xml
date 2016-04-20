@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5ACC</CoID>
+		<CoID Type="CompanyName">Allianz Technology Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">ATT</IssueID>
+			<IssueID Type="CUSIP">G0258S100</IssueID>
+			<IssueID Type="ISIN">GB0003390720</IssueID>
+			<IssueID Type="RIC">ATT.L</IssueID>
+			<IssueID Type="SEDOL">0339072</IssueID>
+			<IssueID Type="DisplayRIC">ATT.L</IssueID>
+			<IssueID Type="InstrumentPI">307356</IssueID>
+			<IssueID Type="QuotePI">1080499</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-20</LastModified>
+		<LatestAvailableAnnual>2014-11-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-05-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-11-30">0</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="25782327.0">26027426.0</SharesOut>
+		<CommonShareholders Date="2014-11-30">1332</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:39:18">Allianz Technology Trust PLC, formerly RCM Technology Trust PLC, is a United Kingdom-based closed-end fund. The Trust invests in the equity securities of quoted technology companies all over the world with the focus of achieving long-term capital growth. The Trust's portfolio is concentrated in approximately 60 stocks. As of November 30, 2014, the Trust's 20 largest investments included in Apple (7.7%), Alibaba (6.3%), Palo Alto Networks (5.8%), Microsoft (5.6%), SanDisk (4.4), Servicenow (4.1%), FireEye (3.5%), Western Digital (3.5%), Micron Technology (3.2%) and Telsa Motors (3.0%). The Trust's Alternative Investment Fund Manager is Allianz Global Investors GmbH (the United Kingdom branch).</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-20T07:48:51">BRIEF: For the six months ended 31 May 2015, Allianz Technology Trust PLC revenues increased from L433K to L11.4M. Net income totaled L10.5M vs. loss of L442K. Revenues reflect Net gain on Gains on Investments at fair increase from -L180K to L10.9M, Income from Investments increase of 79% to L527K. Net Income reflects Administration Expenses decrease of 22% to L218K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-20T07:48:51">
+		<streetAddress line="1">199 Bishopsgate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2M 3TY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Sarah Woodcock</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78599000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78599000</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>800</city-areacode>
+				<number>3894696</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-09T00:00:33"><webSite mainCategory="Home Page">http://www.allianztechnologytrust.com/</webSite><eMail mainCategory="Company Contact/E-mail">investment-trusts@allianzgi.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-20T07:48:51">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/01/2013">
+			<firstName>Robert</firstName>
+			<mI>C. H.</mI>
+			<lastName>Jeens</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="04" startDay="02" iD1="CHM" abbr1="Chmn." iD2="NID" abbr2="Non Ex.Ind.Dir.">Non-Executive Independent Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="2014">
+			<firstName>Tracey</firstName>
+			<mI></mI>
+			<lastName>Lago</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-11-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.58000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.50000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.07000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01908</Ratio>
+			<Ratio FieldName="EV" Type="N">139.55302</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">145.23300</Ratio>
+			<Ratio FieldName="AREV" Type="N">25.55154</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">23.86728</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">23.75584</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.92590</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.99589</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">6.12162</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.22043</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">95.62723</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.42278</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.68393</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.02657</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.91152</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="11" CurInterimEndCalYear="2013" CurInterimEndMonth="11" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

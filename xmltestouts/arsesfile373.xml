@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A9F6B</CoID>
+		<CoID Type="CompanyName">Nanoco Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">NANO</IssueID>
+			<IssueID Type="CUSIP">G6390M109</IssueID>
+			<IssueID Type="ISIN">GB00B01JLR99</IssueID>
+			<IssueID Type="RIC">NANON.L</IssueID>
+			<IssueID Type="SEDOL">B01JLR9</IssueID>
+			<IssueID Type="DisplayRIC">NANON.L</IssueID>
+			<IssueID Type="InstrumentPI">17645372</IssueID>
+			<IssueID Type="QuotePI">17645369</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-16</LastModified>
+		<LatestAvailableAnnual>2015-07-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-07-31">109</Employees>
+		<SharesOut Date="2015-09-25" TotalFloat="205123297.0">237065356.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-19T22:09:15">Nanoco Group PLC is a United Kingdom-based Company engaged in the research, development and large-scale manufacture of heavy metal-free nanomaterials for use in displays, lighting, solar energy and bio-imaging. The Companys quantum dots offer enhanced color, energy efficiency, and seamless integration into existing LCD production processes. The Companys quantum dot technology is particularly attractive not only for its ability to enhance the colors of LCD screens  allowing them to rival OLED products  but also enabling manufacturers to use their existing infrastructure to do so. The quantum dots are cadmium-free, and free of other toxic heavy-metals, so they are ideally suited for use in all consumer electronic devices.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-16T01:05:51">BRIEF: For the fiscal year ended 31 July 2015, Nanoco Group PLC revenues increased 42% to L2M. Net loss increased 15% to L9M. Revenues reflect United States segment increase from L109K to L1.5M. Higher net loss reflects Administrative expenses increase of 31% to L7.1M (expense), Staff cost in R&amp; D increase of 29% to L4.2M (expense). Basic Earnings per Share excluding Extraordinary Items remained flat at -L0.04.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T01:05:54">
+		<streetAddress line="1">46 Grafton Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MANCHESTER</city>
+		<state-region></state-region>
+		<postalCode>M13 9NT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>6037900</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>6037901</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-30T13:54:21"><webSite mainCategory="Home Page">http://www.nanocotechnologies.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@nanocotechnologies.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T01:05:54">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710101010" mnem="">Semiconductors - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334413" mnem="">Semiconductor and Related Device Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3674" mnem="">Semiconductors/related Devices</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Edelman</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="08/03/2015">
+			<firstName>David</firstName>
+			<mI>Jonathan</mI>
+			<lastName>Blain</lastName>
+			<age>52 </age>
+			<title startYear="2015" startMonth="08" startDay="03" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Nigel</firstName>
+			<mI></mI>
+			<lastName>Pickett</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CTO" abbr1="CTO" iD2="EDR" abbr2="Exec. Dir.">Chief Technology Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="10/01/2014">
+			<firstName>Keith</firstName>
+			<mI></mI>
+			<lastName>Wiggins</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="10" startDay="01" iD1="DRC" abbr1="Dir." iD2="COO" abbr2="COO">Chief Operating Officer, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-07-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.39500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.38750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.35500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.64550</Ratio>
+			<Ratio FieldName="EV" Type="N">69.42482</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">93.64082</Ratio>
+			<Ratio FieldName="AREV" Type="N">2.02900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-9.62200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-8.97500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.04054</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00917</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.12275</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10255</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.03433</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">84.42583</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-39.02768</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">46.15122</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.21790</Ratio>
+			<Ratio FieldName="Employees" Type="N">109</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="7" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.34667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-11.85830</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4.99400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.03331</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-9.41550</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

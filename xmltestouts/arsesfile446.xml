@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E5F13</CoID>
+		<CoID Type="CompanyName">Redcentric PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RCN</IssueID>
+			<IssueID Type="CUSIP">G7444T108</IssueID>
+			<IssueID Type="ISIN">GB00B7TW1V39</IssueID>
+			<IssueID Type="RIC">RCN.L</IssueID>
+			<IssueID Type="SEDOL">B7TW1V3</IssueID>
+			<IssueID Type="DisplayRIC">RCN.L</IssueID>
+			<IssueID Type="InstrumentPI">130635186</IssueID>
+			<IssueID Type="QuotePI">131324445</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-09</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">457</Employees>
+		<SharesOut Date="2016-01-18" TotalFloat="135363976.0">145881185.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-25T09:34:25">Redcentric plc is a provider of information technology managed services. The Company's segments include Recurring, Services, Product and Central. Its solutions include network, collaboration, infrastructure, applications, security and mobile services. Its network services offers Internet service provider (ISP) with a core multiprotocol label switching network, metro networks and experience in delivering networks for organizations. Its collaboration services offer messaging and video conferencing through Internet protocol telephony. Its infrastructure services offer cloud services, including infrastructure as a service (IaaS), software as a service (SaaS) and disaster recovery as a service, colocation, data management and virtualization services. Its applications services provide packaged solutions and application management services. Its security services protect customers from distributed denial of service (DDoS) attacks and unintentional security threats from unauthorized devices.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-09T21:26:35">BRIEF: For the six months ended 30 September 2015, Redcentric PLC revenues increased 15% to L54M. Net income decreased 66% to L1.1M. Revenues reflect Recurring segment increase of 18% to L43.9M, Services segment increase of 10% to L6.5M. Net income was offset by Central segment loss increase from L1.3M to L5M, Product segment income decrease of 27% to L137K. Dividend per share increased from L0.01 to L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-09T21:26:50">
+		<streetAddress line="1">Central House Beckwith Knowle</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HARROGATE</city>
+		<state-region></state-region>
+		<postalCode>HG3 1UG</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1423</city-areacode>
+				<number>850000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-04-23T06:04:17"><webSite mainCategory="Home Page">http://www.redcentricplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-09T21:26:50">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541513" mnem="">Computer Facilities Management Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="561499" mnem="">All Other Business Support Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="51331" mnem="">Wired Telecommunications Carriers</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7376" mnem="">Computer Facilities Management</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7389" mnem="">Business Services, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="4813" mnem="">Telephon Communications Not Radio</Industry>
+			<Industry type="SIC" order="6" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Fraser</firstName>
+			<mI></mI>
+			<lastName>Fisher</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="11" startDay="09" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/15/2014">
+			<firstName>Timothy</firstName>
+			<mI>James</mI>
+			<lastName>Coleman</lastName>
+			<age>50 </age>
+			<title startYear="2014" startMonth="11" startDay="17" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.84500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.99000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.35815</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.27877</Ratio>
+			<Ratio FieldName="EV" Type="N">276.39680</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">269.15080</Ratio>
+			<Ratio FieldName="AREV" Type="N">94.32100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">19.83400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">7.97700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.05322</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.62928</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.65458</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02210</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.12398</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">56.95974</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.74949</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.85356</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">34.66742</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.81859</Ratio>
+			<Ratio FieldName="Employees" Type="N">457</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.19750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.91262</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">109.63330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.10300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">19.27500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04367</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

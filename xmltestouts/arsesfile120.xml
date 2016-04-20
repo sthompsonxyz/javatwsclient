@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3236</CoID>
+		<CoID Type="CompanyName">Computacenter plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary shares</IssueID>
+			<IssueID Type="Ticker">CCC</IssueID>
+			<IssueID Type="CUSIP">G23356150</IssueID>
+			<IssueID Type="ISIN">GB00BV9FP302</IssueID>
+			<IssueID Type="RIC">CCC.L</IssueID>
+			<IssueID Type="SEDOL">BV9FP30</IssueID>
+			<IssueID Type="DisplayRIC">CCC.L</IssueID>
+			<IssueID Type="InstrumentPI">404314</IssueID>
+			<IssueID Type="QuotePI">1082431</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-02-20">0.88235</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-16</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">12959</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="66658069.0">122657970.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:47:11">Computacenter plc is a provider of information technology (IT) infrastructure services. The Company primarily operates in United Kingdom, Germany, France, and Belgium. The Company advises organizations on IT strategy, implement appropriate technology, and manages its customers' infrastructures. The Company provides solutions center, enterprise mobility, security, physical infrastructure, software, supply chain, IT transformation, datacenter, cloud, unified communications and collaboration, networking, contemporary workplace, advisory, and print services and solutions. The Company operates infrastructure operations centers and group service desks across Europe, South Africa and Asia. Its subsidiaries include Computacenter (UK) Limited, Computacenter France SAS, Computacenter Holding GmbH, Computacenter GmbH, CC Managed Services GmbH, Computacenter NV/SA, Computacenter USA and Digica Group Holdings Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-16T04:47:01">BRIEF: For the six months ended 30 June 2015, Computacenter plc revenues decreased 1% to L1.44B. Net income increased from L10.1M to L61.7M. Revenues reflect Infrastructure Integration/Professional Services segment decrease of 1% to L124.9M, France segment decrease of 18% to L189.8M, Belgium &amp; Luxembourg/Benelux segment decrease of 5% to L24.1M. Net income reflects France segment loss decrease of 47% to L3M, Germany segment income increase of 9% to L8.5M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T04:47:04">
+		<streetAddress line="1">Hatfield Business Park Hatfield Avenue</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HATFIELD</city>
+		<state-region></state-region>
+		<postalCode>AL10 9TW</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1707</city-areacode>
+				<number>631000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1707</city-areacode>
+				<number>639966</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-06T06:12:10"><webSite mainCategory="Home Page">http://www.computacenter.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T04:47:04">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541519" mnem="">Other Computer Related Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="54169" mnem="">Other Scientific and Technical Consulting Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7379" mnem="">Computer Related Services, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="8999" mnem="">Services, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Mike</firstName>
+			<mI>J.</mI>
+			<lastName>Norris</lastName>
+			<age>53 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/1998">
+			<firstName>F.</firstName>
+			<mI>A.</mI>
+			<lastName>Conophy</lastName>
+			<age>57 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Webb</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Group Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Slaven</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="CIO" abbr1="CIO" iD2="" abbr2="">Group Chief Information Officer</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Barry</firstName>
+			<mI></mI>
+			<lastName>Hoffman</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Director - Human Resources</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Neil</firstName>
+			<mI></mI>
+			<lastName>Hall</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director - Business Enablement &amp; Contractual Services</title>
+		</officer>
+		<officer rank="7" since="01/2013">
+			<firstName>Fraser</firstName>
+			<mI></mI>
+			<lastName>Phillips</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Group Legal and Contracting</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Mike</firstName>
+			<mI></mI>
+			<lastName>Rodwell</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Chief Commercial Officer</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Weiss</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head - Group Strategy &amp; Marketing</title>
+		</officer>
+		<officer rank="10" since="04/05/2013">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>Pereira</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="04" startDay="05" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.07000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">8.85000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">6.65000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07351</Ratio>
+			<Ratio FieldName="EV" Type="N">870.65280</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">989.84980</Ratio>
+			<Ratio FieldName="AREV" Type="N">3107.75900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">117.98500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">55.11700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.45341</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">25.56538</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.14206</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.05876</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.72549</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.22440</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">13.19012</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">14.69677</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.31851</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.79846</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.56838</Ratio>
+			<Ratio FieldName="Employees" Type="N">12959</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">8.63667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">6.5315</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.75803</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">3070.76030</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">1636.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.51212</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.35800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">86.54420</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.21624</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

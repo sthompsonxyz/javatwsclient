@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3FF0</CoID>
+		<CoID Type="CompanyName">600 Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SIXH</IssueID>
+			<IssueID Type="CUSIP">G81705116</IssueID>
+			<IssueID Type="ISIN">GB0008121641</IssueID>
+			<IssueID Type="RIC">SIXH.L</IssueID>
+			<IssueID Type="SEDOL">0812164</IssueID>
+			<IssueID Type="DisplayRIC">SIXH.L</IssueID>
+			<IssueID Type="InstrumentPI">262720</IssueID>
+			<IssueID Type="QuotePI">1079428</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">88072066</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">88072193</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-12</LastModified>
+		<LatestAvailableAnnual>2015-03-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-26</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-28">206</Employees>
+		<SharesOut Date="2015-09-26" TotalFloat="46193838.0">92357957.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:05:24">The 600 Group PLC is a United Kingdom-based engineering company. The Company is engaged in the design and distribution of machine tools, and the design, manufacture and distribution of laser marking systems and precision engineered components. The Company operates through two segments: Machine Tools and Precision Engineered Components, and Laser Marking. The Company's Machine Tools and Precision Engineered Components segment designs and develops metal cutting machine tools, which are sold under the brand names Colchester and Harrison, and also designs and manufactures precision engineering components under the brand names Pratt Burnerd and Gamet. The Company's Laser Marking segment provides a range of industrial marking and product identification systems to manufacturing industries. The Company operates its businesses from locations in Europe, North America and Australia and provides its services to approximately 180 countries.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-09T07:47:39">BRIEF: For the 26 weeks ended 26 September 2015, 600 Group PLC revenues increased 11% to L23.3M. Net income decreased 49% to L1.1M. Revenues reflect Laser Marketing segment increase of 69% to L6.5M. Net income was offset by Unallocated segment loss totaling L916K vs. income of L1.5M. Basic Earnings per Share excluding Extraordinary Items decreased from L0.02 to L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-12T03:03:44">
+		<streetAddress line="1">1 Union Works Union Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HECKMONDWIKE</city>
+		<state-region></state-region>
+		<postalCode>WF16 0HL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1924</city-areacode>
+				<number>415000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1924</city-areacode>
+				<number>415011</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-26T06:19:03"><webSite mainCategory="Home Page">http://www.600group.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-12T03:03:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201022" mnem="">Machine Tools</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333512" mnem="">Machine Tool (Metal Cutting Types) Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="333515" mnem="">Cutting Tool and Machine Tool Accessory Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="333513" mnem="">Machine Tool (Metal Forming Types) Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="332212" mnem="">Hand and Edge Tool Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3541" mnem="">MacHine Tools/metal Cutting Types</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3545" mnem="">MacHine Tool Accessories</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3542" mnem="">MacHine Tools/metal Forming Types</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3423" mnem="">Hand And Edge Tools, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/30/2015">
+			<firstName>Paul</firstName>
+			<mI>R.</mI>
+			<lastName>Dupee</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="30" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="10/03/2011">
+			<firstName>Neil</firstName>
+			<mI>Richard</mI>
+			<lastName>Carrick</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="10" startDay="03" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Director, Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.08625</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.20000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.07650</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.21041</Ratio>
+			<Ratio FieldName="EV" Type="N">18.76387</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">7.96587</Ratio>
+			<Ratio FieldName="AREV" Type="N">43.79400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.91700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">2.33300</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02658</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.49895</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.38601</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01007</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.03221</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">32.92688</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.16662</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.18189</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">3.24492</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.22344</Ratio>
+			<Ratio FieldName="Employees" Type="N">206</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">4.26980</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">49.85000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02020</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">2.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

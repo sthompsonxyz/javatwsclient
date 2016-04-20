@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">CC9F5</CoID>
+		<CoID Type="CompanyName">PEERTV PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PTV</IssueID>
+			<IssueID Type="CUSIP">G6986N123</IssueID>
+			<IssueID Type="ISIN">GB00BYZ9Z481</IssueID>
+			<IssueID Type="RIC">PTV.L</IssueID>
+			<IssueID Type="SEDOL">BYZ9Z48</IssueID>
+			<IssueID Type="DisplayRIC">PTV.L</IssueID>
+			<IssueID Type="InstrumentPI">76781993</IssueID>
+			<IssueID Type="QuotePI">79709893</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2014-12-02">0.05</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-04</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-12-31">77</Employees>
+		<SharesOut Date="2016-02-02" TotalFloat="13444613.0">17293031.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:02:03">PeerTV Plc is a United Kingdom-based holding company, which operates through two subsidiaries: PeerTV Ltd (PTV) and Digitek Holdings Ltd. The Company operates in three segments: sale of products, sale of licenses, and software and maintenance services. PeerTV Ltd is engaged in developing and providing hardware and software to enable the delivery of live broadcasts and video on demand over the Internet to the television, developing, manufacturing and supplying end-to-end technology systems for television (TV) operators that deliver Internet TV services. Digitek Holdings Ltd is engaged in the assembly of electronic products and components and the associated sourcing and logistics for companies engaged in the telecommunications industries. It uses electronic and computerized equipment, which operates robotically and is geared to the assembly of the electronic components on the circuit boards. Digitek has two subsidiaries: SM Digitek (1993) Limited and Digitek SMT Assemblies Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-14T23:20:05">BRIEF: For the six months ended 30 June 2015, PEERTV PLC revenues increased 22% to $970K. Net loss decreased 21% to $1.6M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Lower net loss reflects Other expenditure decrease from $55K (expense) to $17K (income), Sales and marketing decrease of 51% to $34K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-27T01:35:37">
+		<streetAddress line="1">6 Ravnizki Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>PETAH TIKVA</city>
+		<state-region></state-region>
+		<postalCode>49271</postalCode>
+		<country code="ISR">Israel</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>972</countryPhoneCode>
+				<city-areacode>9</city-areacode>
+				<number>7407315</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>972</countryPhoneCode>
+				<city-areacode>9</city-areacode>
+				<number>7407316</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-02T08:28:02"><webSite mainCategory="Home Page">http://peertvplc.com</webSite><eMail mainCategory="Company Contact/E-mail">info@peertv.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-27T01:35:37">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/28/2013">
+			<firstName>Eitan</firstName>
+			<mI>T.</mI>
+			<lastName>Yanuv</lastName>
+			<age>45 </age>
+			<title startYear="2013" startMonth="05" startDay="28" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="09/30/2011">
+			<firstName>Ossie</firstName>
+			<mI></mI>
+			<lastName>Weitzman</lastName>
+			<age>60 </age>
+			<title startYear="2011" startMonth="09" startDay="30" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.02000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.00000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-01-28T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00000</Ratio>
+			<Ratio FieldName="EV" Type="N">5.18397</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">0.34586</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.06870</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.78611</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.66905</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.25517</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.07432</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.04405</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00326</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.27276</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-54.10053</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.32363</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">77</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

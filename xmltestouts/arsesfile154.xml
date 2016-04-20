@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E49DC</CoID>
+		<CoID Type="CompanyName">Crest Nicholson Holdings PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CRST</IssueID>
+			<IssueID Type="CUSIP">G25425102</IssueID>
+			<IssueID Type="ISIN">GB00B8VZXT93</IssueID>
+			<IssueID Type="RIC">CRST.L</IssueID>
+			<IssueID Type="SEDOL">B8VZXT9</IssueID>
+			<IssueID Type="DisplayRIC">CRST.L</IssueID>
+			<IssueID Type="InstrumentPI">126295839</IssueID>
+			<IssueID Type="QuotePI">126526970</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-10-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-10-31">792</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="238486007.0">251662333.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:39:05">Crest Nicholson Holdings plc is a residential developer and builds homes. The Company's portfolio includes design-led housing developments and urban regeneration schemes with a blend of residential and commercial uses. It offers a designed collection of three-bedroom cottages, and four- and five-bedroom family homes. The Company also offers 240 homes, including a mix of one- and two-bedroom apartments, two-bedroom coach houses, and three- and four-bedroom houses. It serves various purchasers, which include first-time buyers and investors. The Company's subsidiaries include Castle Bidco Limited, which is a holding company; Crest Nicholson Operations Limited, which is engaged in residential and commercial property development, and Crest Nicholson plc, which is a holding company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T10:08:24">BRIEF: For the fiscal year ended 31 October 2015, Crest Nicholson Holdings PLC revenues increased 26% to L804.8M. Net income increased 26% to L124.1M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income also reflects Interest on bank loans and overdrafts decrease of 18% to L8.9M (expense), Other Non increase of 18% to L3.9M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-21T23:15:10">
+		<streetAddress line="1">Crest House, Pyrcroft Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CHERTSEY</city>
+		<state-region></state-region>
+		<postalCode>KT16 9GN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1932</city-areacode>
+				<number>580555</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-02-12T13:19:21"><webSite mainCategory="Home Page">http://www.crestnicholson.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-21T23:15:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320301010" mnem="">Homebuilding - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23322" mnem="">Multifamily Housing Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1531" mnem="">Operative Builders</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Stephen</firstName>
+			<mI></mI>
+			<lastName>Stone</lastName>
+			<age>56 </age>
+			<title startYear="2005" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Patrick</firstName>
+			<mI></mI>
+			<lastName>Bergin</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="10" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/2011">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Evans</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Production Director</title>
+		</officer>
+		<officer rank="4" since="12/2011">
+			<firstName>Robin</firstName>
+			<mI></mI>
+			<lastName>Hoyles</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="12" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Land and Planning Director</title>
+		</officer>
+		<officer rank="5" since="2007">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Tinker</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Regeneration Chairman</title>
+		</officer>
+		<officer rank="6" since="01/2009">
+			<firstName>Kevin</firstName>
+			<mI></mI>
+			<lastName>Maguire</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="01" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-10-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.51000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.98500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.03200</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.88680</Ratio>
+			<Ratio FieldName="EV" Type="N">1416.05900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1386.65900</Ratio>
+			<Ratio FieldName="AREV" Type="N">804.80000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">164.50000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">124.10000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.48379</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.13743</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.50615</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.74942</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.48847</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.19700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">27.49751</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">21.26456</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.72299</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">11.38924</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.19859</Ratio>
+			<Ratio FieldName="Employees" Type="N">792</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="10" CurInterimEndCalYear="2016" CurInterimEndMonth="4" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">6.60222</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">17.4000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">9.17569</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">977.31260</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">384.85800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.60050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.21510</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">190.67630</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.27150</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

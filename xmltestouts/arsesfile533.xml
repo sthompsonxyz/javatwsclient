@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3F6A</CoID>
+		<CoID Type="CompanyName">Temple Bar Investment Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">TMPL</IssueID>
+			<IssueID Type="CUSIP">G87534106</IssueID>
+			<IssueID Type="ISIN">GB0008825324</IssueID>
+			<IssueID Type="RIC">TMPL.L</IssueID>
+			<IssueID Type="SEDOL">0882532</IssueID>
+			<IssueID Type="DisplayRIC">TMPL.L</IssueID>
+			<IssueID Type="InstrumentPI">262884</IssueID>
+			<IssueID Type="QuotePI">1080194</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">4.9% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126263847</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">4.2% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126263848</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-16</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="62195477.0">64741873.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:35:19">Temple Bar Investment Trust PLC is a United Kingdom-based investment company. The Company's principal business activity of investment management is sub-contracted to Investec Asset Management Limited (IAM). The Company's investment objective is to provide growth in income and capital to achieve a long-term total return greater than the benchmark Financial Times and the London Stock Exchange (FTSE) All-Share Index, through investment primarily in United Kingdom securities. The Company invests in a spread of securities with the majority of the portfolio selected from the constituents of the FTSE 100 Index. The Company's portfolio of investments includes financials, oil and gas, health care, consumer services, utilities, technology, basic materials, industrials, consumer goods, telecommunications and fixed interest.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-16T04:33:13">BRIEF: For the six months ended 30 June 2015, Temple Bar Investment Trust PLC revenues increased from L8M to L38.8M. Net income increased from L2.2M to L32.8M. Revenues reflect Gains on Investments held at Fair Value increase from -L7.6M to L21.6M, Investment Income increase of 10% to L17.2M, Other operating income increase of 50% to L6K. Dividend per share decreased from L0.16 to L0.08.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-16T04:33:14">
+		<streetAddress line="1">Woolgate Exchange 25 Basinghall Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2V 5HA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75971818</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-04-23T04:45:31"><webSite mainCategory="Home Page">http://www.templebarinvestments.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@investecmail.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-16T04:33:14">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202011" mnem="">Investment Management</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Martin</firstName>
+			<mI>K.</mI>
+			<lastName>Slade</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">9.80000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.35006</Ratio>
+			<Ratio FieldName="NLOW" Type="N">9.21961</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.14135</Ratio>
+			<Ratio FieldName="EV" Type="N">731.88210</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">655.35310</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.40700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-11.03100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-11.03100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.17038</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00629</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">11.95470</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.55665</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.38880</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-2330.22100</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-1.38623</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1610.20400</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.81976</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="12" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

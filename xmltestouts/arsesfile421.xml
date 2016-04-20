@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A322B</CoID>
+		<CoID Type="CompanyName">Penna Consulting plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PNA</IssueID>
+			<IssueID Type="CUSIP">G6990B107</IssueID>
+			<IssueID Type="ISIN">GB0006794662</IssueID>
+			<IssueID Type="RIC">PECO.L</IssueID>
+			<IssueID Type="SEDOL">0679466</IssueID>
+			<IssueID Type="DisplayRIC">PECO.L</IssueID>
+			<IssueID Type="InstrumentPI">275049</IssueID>
+			<IssueID Type="QuotePI">1080859</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-13</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">342</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="11035438.0">25832055.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-21T10:39:41">Penna Consulting plc is a United Kingdom-based people management company. The Company provides talent solutions for over 2000 organizations in over 70 countries. The Company operates through four segments: Career Services, which provides career consulting services, including outplacement, career management and redeployment services; Talent Practice, which provides board and executive coaching, executive assessment, management development, and organizational and change consulting; Recruitment Solutions, which provides recruitment related services, including recruitment advertising and communications, managed recruitment and assessment, executive search and executive interim, and Spain, which provides recruitment and talent services to Spanish and international clients. The Company provides its services for various sectors, such as central Government, construction and manufacturing, energy and utilities, financial services, health, human resources (HR) and professional services.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-13T03:05:55">BRIEF: For the six months ended 30 September 2015, Penna Consulting plc revenues increased 15% to L47.1M. Net income increased 36% to L2.3M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Finance cost -Interest expense decrease from L2K (expense) to L0K. Dividend per share increased from L0.02 to L0.04.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-07T02:09:16">
+		<streetAddress line="1">5 Fleet Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4M 7RD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73327777</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>71609332</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-27T08:40:41"><webSite mainCategory="Home Page">http://www.penna.com</webSite><eMail mainCategory="Company Contact/E-mail">corporate@penna.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-07T02:09:16">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220303010" mnem="">Employment Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541612" mnem="">Human Resources and Executive Search Consulting Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541618" mnem="">Other Management Consulting Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="61143" mnem="">Professional and Management Development Training</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8748" mnem="">Business Consulting, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8299" mnem="">Schools/educational Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2004">
+			<firstName>Gary</firstName>
+			<mI></mI>
+			<lastName>Browning</lastName>
+			<age>54 </age>
+			<title startYear="2005" startMonth="02" startDay="21" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>David</firstName>
+			<mI>S. P.</mI>
+			<lastName>Firth</lastName>
+			<age>54 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="08/28/2015">
+			<firstName>Penny</firstName>
+			<mI></mI>
+			<lastName>de Valk</lastName>
+			<age>58 </age>
+			<title startYear="2015" startMonth="08" startDay="28" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="01/14/2014">
+			<firstName>Julie</firstName>
+			<mI></mI>
+			<lastName>Towers</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="01" startDay="14" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="01/14/2014">
+			<firstName>Beverley</firstName>
+			<mI></mI>
+			<lastName>White</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="01" startDay="14" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.36500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.65000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.29420</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01744</Ratio>
+			<Ratio FieldName="EV" Type="N">84.67387</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">86.92487</Ratio>
+			<Ratio FieldName="AREV" Type="N">84.41100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">5.55000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">3.88000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.15088</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.28256</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.76326</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.08633</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.18728</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.06000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">20.84789</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.02978</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">22.30249</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.40874</Ratio>
+			<Ratio FieldName="Employees" Type="N">342</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.65000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">16.71136</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">100.91500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">52.70000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.20136</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">6.42500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.08000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

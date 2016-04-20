@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">ABAE6</CoID>
+		<CoID Type="CompanyName">JPMorgan Russian Securities Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">JRS</IssueID>
+			<IssueID Type="CUSIP">G5217G105</IssueID>
+			<IssueID Type="ISIN">GB0032164732</IssueID>
+			<IssueID Type="RIC">JRS.L</IssueID>
+			<IssueID Type="SEDOL">3216473</IssueID>
+			<IssueID Type="DisplayRIC">JRS.L</IssueID>
+			<IssueID Type="InstrumentPI">10491710</IssueID>
+			<IssueID Type="QuotePI">10491674</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-10-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-10-31">0</Employees>
+		<SharesOut Date="2015-10-31" TotalFloat="52149205.0">52337112.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-04-30T01:18:49">JPMorgan Russian Securities plc is a closed-ended investment trust. The Trust's objective is to provide capital growth from investment in Russian securities. The Trust invests in a portfolio of quoted Russian securities and Russian pre-IPO stocks (up to 10% of the gross assets of the companies) or other companies, which operates in Russia. The Trust's investment policy is not to invest more than 15% of gross assets in other United Kingdom listed investment companies, including investment trusts. The Trust's portfolio includes consumer staples, energy, financials, materials, health care and telecommunication services. JPMorgan Funds Limited is the Trust's alternative investment fund manager.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T04:33:42">BRIEF: For the fiscal year ended 31 October 2015, JPMorgan Russian Securities Plc revenues increased 64% to -L29.8M. Net loss decreased 61% to L34.4M. Revenues reflect Losses on investments held at fair value increase of 52% to -L43.6M, Overseas Dividends increase of 46% to L13.6M, Net foreign currency gains increase of 57% to L199K. Dividend per share remained flat at L0.13.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T04:33:43">
+		<streetAddress line="1">Finsbury Dials, 20 Finsbury Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2Y 9AQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77424000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-02-12T13:14:22"><webSite mainCategory="Home Page">http://am.jpmorgan.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T04:33:43">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-10-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.89000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.85419</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.55796</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.04624</Ratio>
+			<Ratio FieldName="EV" Type="N">150.34330</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">151.25430</Ratio>
+			<Ratio FieldName="AREV" Type="N">-29.82100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-32.64500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-34.41400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.65702</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.56933</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.71897</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01741</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.13000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-15.96722</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.77710</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="10" CurInterimEndCalYear="2013" CurInterimEndMonth="10" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>
