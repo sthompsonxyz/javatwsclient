@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A7E38</CoID>
+		<CoID Type="CompanyName">Stobart Group Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">STOB</IssueID>
+			<IssueID Type="CUSIP">G7736S156</IssueID>
+			<IssueID Type="ISIN">GB00B03HDJ73</IssueID>
+			<IssueID Type="RIC">STOB.L</IssueID>
+			<IssueID Type="SEDOL">B03HDJ7</IssueID>
+			<IssueID Type="DisplayRIC">STOB.L</IssueID>
+			<IssueID Type="InstrumentPI">19049604</IssueID>
+			<IssueID Type="QuotePI">19048639</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2008-03-11">1.01131</MostRecentSplit>
+		</Issue>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares Class A</IssueID>
+			<IssueID Type="Ticker">WPFC</IssueID>
+			<IssueID Type="CUSIP">G9549Q104</IssueID>
+			<IssueID Type="ISIN">GB0031368052</IssueID>
+			<IssueID Type="RIC">WPFe.L^A05</IssueID>
+			<IssueID Type="DisplayRIC">WPFe.L</IssueID>
+			<IssueID Type="InstrumentPI">7225534</IssueID>
+			<IssueID Type="QuotePI">7225134</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">WPFI</IssueID>
+			<IssueID Type="ISIN">GB0031367971</IssueID>
+			<IssueID Type="RIC">STOBi.L^H10</IssueID>
+			<IssueID Type="SEDOL">3136797</IssueID>
+			<IssueID Type="InstrumentPI">7225533</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-30</LastModified>
+		<LatestAvailableAnnual>2015-02-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2013-02-28">5221</Employees>
+		<SharesOut Date="2015-12-23" TotalFloat="287641539.0">344322131.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-05T07:10:07">Stobart Group Limited is a United Kingdom-based infrastructure and support service businesses operating in the biomass energy, aviation and railway maintenance sectors, as well as having investments in a property and logistics portfolio. The Company's operating segments include Stobart Energy, Stobart Aviation, Stobart Rail, Stobart Rail and Stobart Infrastructure. Stobart Energy segment is engaged in supply of sustainable biomass for the generation of renewable energy. Stobart Aviation segment is engaged in operation of commercial airports and includes a joint venture investment in an airline. The Stobart Rail segment delivers internal and external civil engineering development projects, including rail network operations. Stobart Investments segment hold s non-controlling interests in a transport and distribution and aircraft leasing. Stobart Infrastructure segment offers management, development and realization of the land and buildings assets as w ell as investments in energy plan.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-26T02:01:42">BRIEF: For the six months ended 31 August 2015, Stobart Group Ltd revenues remained flat at L57.6M. Net income before extraordinary items totaled L1.1M vs. loss of L7.6M. Revenues reflect Energy segment increase of 9% to L32.2M, Eliminations segment increase of 82% to L2.5M, also reflect Stobart Rail segment decrease of 13% to L9M, Infrastructure segment decrease of 24% to L2.1M. Net income reflects Total Financial Expense decrease from L8.1M (expense) to L0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-30T18:26:52">
+		<streetAddress line="1">Old Bank Chambers, La Grande Rue</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST MARTIN</city>
+		<state-region></state-region>
+		<postalCode>GY4 6RT</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName>Tony Langham</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0207</city-areacode>
+				<number>4908828</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-27T13:53:09"><webSite mainCategory="Home Page">http://www.stobartgroup.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">stobart@lansons.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-30T18:26:52">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240503010" mnem="">Ground Freight &amp; Logistics - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="482111" mnem="">Line-Haul Railroads</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="484121" mnem="">General Freight Trucking, Long-Distance, Truckload</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="49311" mnem="">General  Warehousing and Storage Facilities</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="48831" mnem="">Port and Harbor Operations</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="23499" mnem="">All Other Heavy Construction</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="488119" mnem="">Other Airport Operations</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="481112" mnem="">Scheduled Freight Air Transportation</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="221119" mnem="">Other Electric Power Generation</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="NAICS" order="10" reported="0" code="531312" mnem="">Nonresidential Property Managers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4011" mnem="">Railroads, Line-Haul Operating</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4213" mnem="">Trucking, Except Local</Industry>
+			<Industry type="SIC" order="3" reported="0" code="4225" mnem="">General Warehousing And Storage</Industry>
+			<Industry type="SIC" order="4" reported="0" code="4491" mnem="">Marine Cargo Handling</Industry>
+			<Industry type="SIC" order="5" reported="0" code="1629" mnem="">Heavy Construction, Nec</Industry>
+			<Industry type="SIC" order="6" reported="0" code="4581" mnem="">Airports/flying Fields/services</Industry>
+			<Industry type="SIC" order="7" reported="0" code="4512" mnem="">Air Transportation, Scheduled</Industry>
+			<Industry type="SIC" order="8" reported="0" code="4911" mnem="">Electric Services</Industry>
+			<Industry type="SIC" order="9" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+			<Industry type="SIC" order="10" reported="0" code="6531" mnem="">Real Estate Agents And Managers</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/01/2008">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Tinkler</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="03" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/01/2008">
+			<firstName>Ben</firstName>
+			<mI></mI>
+			<lastName>Whawell</lastName>
+			<age>39 </age>
+			<title startYear="2008" startMonth="03" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="03/01/2008">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Butcher</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="07" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Chief Executive of Stobart Estates, Executive Director</title>
+		</officer>
+		<officer rank="4" since="07/01/2014">
+			<firstName>Kate</firstName>
+			<mI></mI>
+			<lastName>Willard</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="07" startDay="01" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-02-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.03000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.14887</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.94775</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.19308</Ratio>
+			<Ratio FieldName="EV" Type="N">368.99180</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">354.65180</Ratio>
+			<Ratio FieldName="AREV" Type="N">116.64200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">9.91100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-8.01100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.02428</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.35354</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.23884</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01743</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.00812</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.06000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-1.84719</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.04052</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.83142</Ratio>
+			<Ratio FieldName="Employees" Type="N">5221</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="2" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.55000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">42.91667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">126.63330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">11.76670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.06000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A491F</CoID>
+		<CoID Type="CompanyName">SKY PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary shares</IssueID>
+			<IssueID Type="Ticker">SKY</IssueID>
+			<IssueID Type="CUSIP">G8212B105</IssueID>
+			<IssueID Type="ISIN">GB0001411924</IssueID>
+			<IssueID Type="RIC">SKYB.L</IssueID>
+			<IssueID Type="SEDOL">0141192</IssueID>
+			<IssueID Type="DisplayRIC">SKYB.L</IssueID>
+			<IssueID Type="InstrumentPI">263361</IssueID>
+			<IssueID Type="QuotePI">1049452</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-16</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">26139</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="1029074845.0">1719017230.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-11T06:06:44">Sky plc, formerly British Sky Broadcasting Group plc is an entertainment company. The Company serves approximately 21 million customers across five countries: Italy, Germany, Austria, the United Kingdom and Ireland. The Company owns and operates Britain and Ireland's portfolio of pay television (TV) channels across entertainment, sports, movies and 24-hour news. It operates in three segments: UK &amp; Ireland, which include the activities and operations of the pay TV, home communications and adjacent businesses in the United Kingdom and Ireland; Italy, which include the activities and operations of the pay TV and adjacent businesses in Italy, and Germany &amp; Austria, which include the activities and operations of the pay TV and adjacent businesses in Germany and Austria. The Company's Sky Sports' seven channels broadcast a range of live and exclusive sport, news and analysis, from football and golf to cricket and tennis.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-16T09:16:29">BRIEF: For the six months ended 31 December 2015, SKY PLC revenues totaled L5.72B. Net income totaled to L359M. Results are not comparable due to year end change.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-21T20:26:01">
+		<streetAddress line="1">Grant Way</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ISLEWORTH</city>
+		<state-region></state-region>
+		<postalCode>TW7 5QD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Lang Messer</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>333</city-areacode>
+				<number>1000333</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>333</city-areacode>
+				<number>1000444</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-11-21T14:28:49"><webSite mainCategory="Home Page">http://corporate.sky.com</webSite><eMail mainCategory="Company Contact/E-mail">investor-relations@bskyb.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-21T20:26:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330202010" mnem="">Broadcasting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51312" mnem="">Television Broadcasting</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="SIC" order="0" reported="1" code="4833" mnem="">Television Broadcasting Stations</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4833" mnem="">Television Broadcasting Stations</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/16/2004">
+			<firstName>Jeremy</firstName>
+			<mI></mI>
+			<lastName>Darroch</lastName>
+			<age>53 </age>
+			<title startYear="2007" startMonth="12" startDay="07" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/07/2008">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Griffith</lastName>
+			<age>44 </age>
+			<title startYear="2008" startMonth="04" startDay="07" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/2006">
+			<firstName>Didier</firstName>
+			<mI></mI>
+			<lastName>Lebrat</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="12" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Chief Technology Officer</title>
+		</officer>
+		<officer rank="4" since="01/2004">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Conyers</lastName>
+			<age></age>
+			<title startYear="2005" startMonth="09" startDay="" iD1="GCN" abbr1="Counsel" iD2="" abbr2="">General Counsel</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Gary</firstName>
+			<mI></mI>
+			<lastName>Davey</lastName>
+			<age>61 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Content</title>
+		</officer>
+		<officer rank="6" since="07/01/2009">
+			<firstName>Barney</firstName>
+			<mI></mI>
+			<lastName>Francis</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="07" startDay="01" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Sky Sports</title>
+		</officer>
+		<officer rank="7" since="08/2011">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Stylianou</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="08" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Customer Service Group</title>
+		</officer>
+		<officer rank="8" since="08/2011">
+			<firstName>Stephen</firstName>
+			<mI></mI>
+			<lastName>van Rooyen</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="08" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Sales and Marketing</title>
+		</officer>
+		<officer rank="9" since="04/2002">
+			<firstName>Alun</firstName>
+			<mI></mI>
+			<lastName>Webber</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Product Design &amp; Development</title>
+		</officer>
+		<officer rank="10" since="12/2007">
+			<firstName>Deborah</firstName>
+			<mI></mI>
+			<lastName>Baker</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="12" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director for People</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">10.17000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">11.80000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">9.53500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">3.18379</Ratio>
+			<Ratio FieldName="EV" Type="N">22916.40000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">17482.40000</Ratio>
+			<Ratio FieldName="AREV" Type="N">9989.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1849.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1337.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.78141</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.83811</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.84117</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.44152</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.22385</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.32800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">49.82481</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">63.11069</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.75017</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.01493</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.52367</Ratio>
+			<Ratio FieldName="Employees" Type="N">26139</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.8929</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">11.47143</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">14.2000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">16.28294</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">11731.86200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">2926.74400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.62458</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.16174</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1340.71900</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.34649</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

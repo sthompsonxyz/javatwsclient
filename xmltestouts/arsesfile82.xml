@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">DC715</CoID>
+		<CoID Type="CompanyName">Bgeo Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BGEO</IssueID>
+			<IssueID Type="CUSIP">G08195102</IssueID>
+			<IssueID Type="ISIN">GB00B759CR16</IssueID>
+			<IssueID Type="RIC">BGEO.L</IssueID>
+			<IssueID Type="SEDOL">B759CR1</IssueID>
+			<IssueID Type="DisplayRIC">BGEO.L</IssueID>
+			<IssueID Type="InstrumentPI">103690700</IssueID>
+			<IssueID Type="QuotePI">103690699</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-22</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">14737</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="35238599.0">38257793.0</SharesOut>
+		<ReportingCurrency Code="GEL">Georgian Lari</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">2.465</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:34:28">Bank of Georgia Holdings PLC (BGH) is a United Kingdom-based holding company of JSC Bank of Georgia. The Bank's banking business includes three segments, such as Retail Banking, Corporate Banking and Investment Management. Its other banking business includes P&amp;C Insurance, leasing, payment services and Banking operations in Belarus (BNB). The Bank's investment business includes healthcare business, real estate business, utilities and legacy investments. The Retail Banking segment offers consumer and mortgage loans, overdrafts, credit facilities, funds transfer, settlement services and handling customer multi-currency deposits for individuals and legal entities. The Corporate Banking segment offers loans. The Investment Management segment consists of Bank of Georgia Wealth Management and the brokerage arm of the Bank, Galt &amp; Taggart. Bank of Georgia Wealth Management provides private banking services to high-net-worth individuals and offers investment management products.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T03:13:40">BRIEF: For the fiscal year ended 31 December 2015, Bgeo Group PLC interest income increased 45% to GEL859.8M. Net interest income after loan loss provision increased 21% to GEL346M.  Net income increased 31% to GEL303.7M. Net interest income after loan loss provision reflects Net Interest Margin, Total - % increase of 1% to 7.7%. Net income benefited from Healthcare revenue increase of 46% to GEL184M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T03:14:01">
+		<streetAddress line="1">84 Brook Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1K 5EH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Ekaterina Shavgulidze</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>31784052</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>31784053</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>995</countryPhoneCode>
+				<city-areacode>32</city-areacode>
+				<number>2444117</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-23T04:54:21"><webSite mainCategory="Home Page">http://bogh.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">ir@bog.ge</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T03:14:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510101010" mnem="">Banks - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52211" mnem="">Commercial Banking</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52311" mnem="">Investment Banking and Securities Dealing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6029" mnem="">Commercial Banks, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6211" mnem="">Security Brokers And Dealers</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/24/2011">
+			<firstName>Irakli</firstName>
+			<mI></mI>
+			<lastName>Gilauri</lastName>
+			<age>39 </age>
+			<title startYear="2011" startMonth="10" startDay="24" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/2013">
+			<firstName>Giorgi</firstName>
+			<mI></mI>
+			<lastName>Chiladze</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="09" startDay="" iD1="DCE" abbr1="Dep-CEO" iD2="" abbr2="">Deputy Chief Executive Officer - Risk Management, Chief Risk Officer</title>
+		</officer>
+		<officer rank="3" since="05/2013">
+			<firstName>Archil</firstName>
+			<mI></mI>
+			<lastName>Gachechiladze</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="09" startDay="" iD1="DCE" abbr1="Dep-CEO" iD2="" abbr2="">Deputy Chief Executive Officer - Investment Management</title>
+		</officer>
+		<officer rank="4" since="10/2012">
+			<firstName>Nikoloz</firstName>
+			<mI></mI>
+			<lastName>Gamkrelidze</lastName>
+			<age>35 </age>
+			<title startYear="2014" startMonth="12" startDay="04" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer of Georgia Healthcare Group</title>
+		</officer>
+		<officer rank="5" since="2012">
+			<firstName>Irakli</firstName>
+			<mI></mI>
+			<lastName>Burdiladze</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Deputy Chief Executive Officer - Affordable Housing</title>
+		</officer>
+		<officer rank="6" since="2012">
+			<firstName>Mikheil</firstName>
+			<mI></mI>
+			<lastName>Gomarteli</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Deputy Chief Executive Officer - Retail Banking</title>
+		</officer>
+		<officer rank="7" since="05/2013">
+			<firstName>Sulkhan</firstName>
+			<mI></mI>
+			<lastName>Gvalia</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="05" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Deputy Chief Executive Officer - Corporate Banking</title>
+		</officer>
+		<officer rank="8" since="10/2012">
+			<firstName>Murtaz</firstName>
+			<mI></mI>
+			<lastName>Kikoria</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="04" iD1="OTH" abbr1="Other" iD2="" abbr2="">Deputy Chief Executive Officer - Finance</title>
+		</officer>
+		<officer rank="9" since="2012">
+			<firstName>Avto</firstName>
+			<mI></mI>
+			<lastName>Namicheishvili</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Deputy Chief Executive Officer - Legal</title>
+		</officer>
+		<officer rank="10" since="2012">
+			<firstName>Kate</firstName>
+			<mI>Bennett</mI>
+			<lastName>Rea</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GEL" ExchangeRate="0.28674" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">18.97000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">22.04473</Ratio>
+			<Ratio FieldName="NLOW" Type="N">15.38000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.05534</Ratio>
+			<Ratio FieldName="EV" Type="N">403.31450</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">725.75030</Ratio>
+			<Ratio FieldName="AREV" Type="N">246.53130</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">219.78980</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">87.08071</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">2.27384</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">8.04432</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">13.87754</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">16.22121</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">2.58418</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.68817</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">17.73042</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.35578</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">8.34273</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.36696</Ratio>
+			<Ratio FieldName="Employees" Type="N">14737</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">24.06431</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.05635</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">257.39187</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">2.68836</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">116.34636</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.91565</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFinancialStatements Major="1" Minor="0" Revision="1">
+<CoIDs>
+<CoID Type="RepNo">B15F8</CoID>
+<CoID Type="CompanyName">Agriterra Ltd</CoID>
+</CoIDs>
+<Issues>
+<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+<IssueID Type="Name">Ordinary Shares</IssueID>
+<IssueID Type="Ticker">AGTA</IssueID>
+<IssueID Type="CUSIP">G0129M100</IssueID>
+<IssueID Type="ISIN">GB00B05MGT12</IssueID>
+<IssueID Type="RIC">AGTAR.L</IssueID>
+<IssueID Type="SEDOL">B05MGT1</IssueID>
+<IssueID Type="DisplayRIC">AGTAR.L</IssueID>
+<IssueID Type="InstrumentPI">19445981</IssueID>
+<IssueID Type="QuotePI">19581896</IssueID>
+<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+</Issue>
+</Issues>
+<CoGeneralInfo>
+<CoStatus Code="1">Active</CoStatus>
+<CoType Code="EQU">Equity Issue</CoType>
+<LastModified>2015-11-27</LastModified>
+<LatestAvailableAnnual>2015-05-31</LatestAvailableAnnual>
+<LatestAvailableInterim>2015-05-31</LatestAvailableInterim>
+<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+<MostRecentExchange Date="2015-11-26">1.0</MostRecentExchange>
+</CoGeneralInfo>
+<StatementInfo>
+<COAType Code="IND">Industry</COAType>
+<BalanceSheetDisplay Code="CUR">Differentiates</BalanceSheetDisplay>
+<CashFlowMethod Code="IND">Indirect</CashFlowMethod>
+</StatementInfo>
+<Notes>
+<CFAAvailability Code="1" />
+<IAvailability Code="1" />
+<ISIAvailability Code="1" />
+<BSIAvailability Code="1" />
+<CFIAvailability Code="1" />
+</Notes>
+<FinancialStatements>
+<COAMap>
+<mapItem coaItem="SREV" statementType="INC" lineID="100" precision="1">Revenue</mapItem>
+<mapItem coaItem="SORE" statementType="INC" lineID="300" precision="1">Other Revenue, Total</mapItem>
+<mapItem coaItem="RTLR" statementType="INC" lineID="310" precision="1">Total Revenue</mapItem>
+<mapItem coaItem="SCOR" statementType="INC" lineID="360" precision="1">Cost of Revenue, Total</mapItem>
+<mapItem coaItem="SGRP" statementType="INC" lineID="370" precision="1">Gross Profit</mapItem>
+<mapItem coaItem="SSGA" statementType="INC" lineID="550" precision="1">Selling/General/Admin. Expenses, Total</mapItem>
+<mapItem coaItem="ERAD" statementType="INC" lineID="560" precision="1">Research &amp; Development</mapItem>
+<mapItem coaItem="SDPR" statementType="INC" lineID="600" precision="1">Depreciation/Amortization</mapItem>
+<mapItem coaItem="SINN" statementType="INC" lineID="671" precision="1">Interest Exp.(Inc.),Net-Operating, Total</mapItem>
+<mapItem coaItem="SUIE" statementType="INC" lineID="740" precision="1">Unusual Expense (Income)</mapItem>
+<mapItem coaItem="SOOE" statementType="INC" lineID="820" precision="1">Other Operating Expenses, Total</mapItem>
+<mapItem coaItem="ETOE" statementType="INC" lineID="830" precision="1">Total Operating Expense</mapItem>
+<mapItem coaItem="SOPI" statementType="INC" lineID="840" precision="1">Operating Income</mapItem>
+<mapItem coaItem="SNIN" statementType="INC" lineID="911" precision="1">Interest Inc.(Exp.),Net-Non-Op., Total</mapItem>
+<mapItem coaItem="NGLA" statementType="INC" lineID="920" precision="1">Gain (Loss) on Sale of Assets</mapItem>
+<mapItem coaItem="SONT" statementType="INC" lineID="1270" precision="1">Other, Net</mapItem>
+<mapItem coaItem="EIBT" statementType="INC" lineID="1280" precision="1">Net Income Before Taxes</mapItem>
+<mapItem coaItem="TTAX" statementType="INC" lineID="1290" precision="1">Provision for Income Taxes</mapItem>
+<mapItem coaItem="TIAT" statementType="INC" lineID="1300" precision="1">Net Income After Taxes</mapItem>
+<mapItem coaItem="CMIN" statementType="INC" lineID="1310" precision="1">Minority Interest</mapItem>
+<mapItem coaItem="CEIA" statementType="INC" lineID="1320" precision="1">Equity In Affiliates</mapItem>
+<mapItem coaItem="CGAP" statementType="INC" lineID="1330" precision="1">U.S. GAAP Adjustment</mapItem>
+<mapItem coaItem="NIBX" statementType="INC" lineID="1340" precision="1">Net Income Before Extra. Items</mapItem>
+<mapItem coaItem="STXI" statementType="INC" lineID="1390" precision="1">Total Extraordinary Items</mapItem>
+<mapItem coaItem="NINC" statementType="INC" lineID="1400" precision="1">Net Income</mapItem>
+<mapItem coaItem="SANI" statementType="INC" lineID="1460" precision="1">Total Adjustments to Net Income</mapItem>
+<mapItem coaItem="CIAC" statementType="INC" lineID="1470" precision="1">Income Available to Com Excl ExtraOrd</mapItem>
+<mapItem coaItem="XNIC" statementType="INC" lineID="1480" precision="1">Income Available to Com Incl ExtraOrd</mapItem>
+<mapItem coaItem="SDAJ" statementType="INC" lineID="1520" precision="1">Dilution Adjustment</mapItem>
+<mapItem coaItem="SDNI" statementType="INC" lineID="1530" precision="1">Diluted Net Income</mapItem>
+<mapItem coaItem="SDWS" statementType="INC" lineID="1540" precision="2">Diluted Weighted Average Shares</mapItem>
+<mapItem coaItem="SDBF" statementType="INC" lineID="1550" precision="3">Diluted EPS Excluding ExtraOrd Items</mapItem>
+<mapItem coaItem="DDPS1" statementType="INC" lineID="1570" precision="3">DPS - Common Stock Primary Issue</mapItem>
+<mapItem coaItem="VDES" statementType="INC" lineID="1770" precision="3">Diluted Normalized EPS</mapItem>
+<mapItem coaItem="ACSH" statementType="BAL" lineID="10" precision="1">Cash</mapItem>
+<mapItem coaItem="ACAE" statementType="BAL" lineID="20" precision="1">Cash &amp; Equivalents</mapItem>
+<mapItem coaItem="ASTI" statementType="BAL" lineID="30" precision="1">Short Term Investments</mapItem>
+<mapItem coaItem="SCSI" statementType="BAL" lineID="40" precision="1">Cash and Short Term Investments</mapItem>
+<mapItem coaItem="AACR" statementType="BAL" lineID="70" precision="1">Accounts Receivable - Trade, Net</mapItem>
+<mapItem coaItem="ATRC" statementType="BAL" lineID="100" precision="1">Total Receivables, Net</mapItem>
+<mapItem coaItem="AITL" statementType="BAL" lineID="180" precision="1">Total Inventory</mapItem>
+<mapItem coaItem="APPY" statementType="BAL" lineID="190" precision="1">Prepaid Expenses</mapItem>
+<mapItem coaItem="SOCA" statementType="BAL" lineID="260" precision="1">Other Current Assets, Total</mapItem>
+<mapItem coaItem="ATCA" statementType="BAL" lineID="270" precision="1">Total Current Assets</mapItem>
+<mapItem coaItem="APTC" statementType="BAL" lineID="520" precision="1">Property/Plant/Equipment, Total - Gross</mapItem>
+<mapItem coaItem="ADEP" statementType="BAL" lineID="530" precision="1">Accumulated Depreciation, Total</mapItem>
+<mapItem coaItem="APPN" statementType="BAL" lineID="540" precision="1">Property/Plant/Equipment, Total - Net</mapItem>
+<mapItem coaItem="AGWI" statementType="BAL" lineID="570" precision="1">Goodwill, Net</mapItem>
+<mapItem coaItem="AINT" statementType="BAL" lineID="600" precision="1">Intangibles, Net</mapItem>
+<mapItem coaItem="SINV" statementType="BAL" lineID="690" precision="1">Long Term Investments</mapItem>
+<mapItem coaItem="ALTR" statementType="BAL" lineID="710" precision="1">Note Receivable - Long Term</mapItem>
+<mapItem coaItem="SOLA" statementType="BAL" lineID="780" precision="1">Other Long Term Assets, Total</mapItem>
+<mapItem coaItem="ATOT" statementType="BAL" lineID="880" precision="1">Total Assets</mapItem>
+<mapItem coaItem="LAPB" statementType="BAL" lineID="890" precision="1">Accounts Payable</mapItem>
+<mapItem coaItem="LPBA" statementType="BAL" lineID="900" precision="1">Payable/Accrued</mapItem>
+<mapItem coaItem="LAEX" statementType="BAL" lineID="910" precision="1">Accrued Expenses</mapItem>
+<mapItem coaItem="LSTD" statementType="BAL" lineID="1120" precision="1">Notes Payable/Short Term Debt</mapItem>
+<mapItem coaItem="LCLD" statementType="BAL" lineID="1130" precision="1">Current Port. of  LT Debt/Capital Leases</mapItem>
+<mapItem coaItem="SOCL" statementType="BAL" lineID="1220" precision="1">Other Current liabilities, Total</mapItem>
+<mapItem coaItem="LTCL" statementType="BAL" lineID="1230" precision="1">Total Current Liabilities</mapItem>
+<mapItem coaItem="LLTD" statementType="BAL" lineID="1240" precision="1">Long Term Debt</mapItem>
+<mapItem coaItem="LCLO" statementType="BAL" lineID="1250" precision="1">Capital Lease Obligations</mapItem>
+<mapItem coaItem="LTTD" statementType="BAL" lineID="1260" precision="1">Total Long Term Debt</mapItem>
+<mapItem coaItem="STLD" statementType="BAL" lineID="1270" precision="1">Total Debt</mapItem>
+<mapItem coaItem="SBDT" statementType="BAL" lineID="1300" precision="1">Deferred Income Tax</mapItem>
+<mapItem coaItem="LMIN" statementType="BAL" lineID="1310" precision="1">Minority Interest</mapItem>
+<mapItem coaItem="SLTL" statementType="BAL" lineID="1370" precision="1">Other Liabilities, Total</mapItem>
+<mapItem coaItem="LTLL" statementType="BAL" lineID="1380" precision="1">Total Liabilities</mapItem>
+<mapItem coaItem="SRPR" statementType="BAL" lineID="1410" precision="1">Redeemable Preferred Stock, Total</mapItem>
+<mapItem coaItem="SPRS" statementType="BAL" lineID="1460" precision="1">Preferred Stock - Non Redeemable, Net</mapItem>
+<mapItem coaItem="SCMS" statementType="BAL" lineID="1490" precision="1">Common Stock, Total</mapItem>
+<mapItem coaItem="QPIC" statementType="BAL" lineID="1500" precision="1">Additional Paid-In Capital</mapItem>
+<mapItem coaItem="QRED" statementType="BAL" lineID="1510" precision="1">Retained Earnings (Accumulated Deficit)</mapItem>
+<mapItem coaItem="QTSC" statementType="BAL" lineID="1520" precision="1">Treasury Stock - Common</mapItem>
+<mapItem coaItem="QEDG" statementType="BAL" lineID="1530" precision="1">ESOP Debt Guarantee</mapItem>
+<mapItem coaItem="QUGL" statementType="BAL" lineID="1540" precision="1">Unrealized Gain (Loss)</mapItem>
+<mapItem coaItem="SOTE" statementType="BAL" lineID="1590" precision="1">Other Equity, Total</mapItem>
+<mapItem coaItem="QTLE" statementType="BAL" lineID="1600" precision="1">Total Equity</mapItem>
+<mapItem coaItem="QTEL" statementType="BAL" lineID="1610" precision="1">Total Liabilities &amp; Shareholders' Equity</mapItem>
+<mapItem coaItem="QTCO" statementType="BAL" lineID="1660" precision="2">Total Common Shares Outstanding</mapItem>
+<mapItem coaItem="QTPO" statementType="BAL" lineID="1770" precision="2">Total Preferred Shares Outstanding</mapItem>
+<mapItem coaItem="STBP" statementType="BAL" lineID="1980" precision="3">Tangible Book Value per Share, Common Eq</mapItem>
+<mapItem coaItem="ONET" statementType="CAS" lineID="10" precision="1">Net Income/Starting Line</mapItem>
+<mapItem coaItem="SDED" statementType="CAS" lineID="40" precision="1">Depreciation/Depletion</mapItem>
+<mapItem coaItem="SAMT" statementType="CAS" lineID="80" precision="1">Amortization</mapItem>
+<mapItem coaItem="OBDT" statementType="CAS" lineID="90" precision="1">Deferred Taxes</mapItem>
+<mapItem coaItem="SNCI" statementType="CAS" lineID="170" precision="1">Non-Cash Items</mapItem>
+<mapItem coaItem="SOCF" statementType="CAS" lineID="470" precision="1">Changes in Working Capital</mapItem>
+<mapItem coaItem="OTLO" statementType="CAS" lineID="480" precision="1">Cash from Operating Activities</mapItem>
+<mapItem coaItem="SCEX" statementType="CAS" lineID="520" precision="1">Capital Expenditures</mapItem>
+<mapItem coaItem="SICF" statementType="CAS" lineID="670" precision="1">Other Investing Cash Flow Items, Total</mapItem>
+<mapItem coaItem="ITLI" statementType="CAS" lineID="680" precision="1">Cash from Investing Activities</mapItem>
+<mapItem coaItem="SFCF" statementType="CAS" lineID="730" precision="1">Financing Cash Flow Items</mapItem>
+<mapItem coaItem="FCDP" statementType="CAS" lineID="760" precision="1">Total Cash Dividends Paid</mapItem>
+<mapItem coaItem="FPSS" statementType="CAS" lineID="880" precision="1">Issuance (Retirement) of Stock, Net</mapItem>
+<mapItem coaItem="FPRD" statementType="CAS" lineID="970" precision="1">Issuance (Retirement) of Debt, Net</mapItem>
+<mapItem coaItem="FTLF" statementType="CAS" lineID="980" precision="1">Cash from Financing Activities</mapItem>
+<mapItem coaItem="SFEE" statementType="CAS" lineID="990" precision="1">Foreign Exchange Effects</mapItem>
+<mapItem coaItem="SNCC" statementType="CAS" lineID="1000" precision="1">Net Change in Cash</mapItem>
+<mapItem coaItem="SCIP" statementType="CAS" lineID="1040" precision="1">Cash Interest Paid</mapItem>
+<mapItem coaItem="SCTP" statementType="CAS" lineID="1050" precision="1">Cash Taxes Paid</mapItem>
+</COAMap>
+<AnnualPeriods>
+<FiscalPeriod Type="Annual" EndDate="2015-05-31" FiscalYear="2015">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2015-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">11.787000</lineItem>
+<lineItem coaCode="RTLR">11.787000</lineItem>
+<lineItem coaCode="SCOR">10.662000</lineItem>
+<lineItem coaCode="SGRP">1.125000</lineItem>
+<lineItem coaCode="SUIE">4.805000</lineItem>
+<lineItem coaCode="SOOE">10.610000</lineItem>
+<lineItem coaCode="ETOE">26.077000</lineItem>
+<lineItem coaCode="SOPI">-14.290000</lineItem>
+<lineItem coaCode="SNIN">-1.513000</lineItem>
+<lineItem coaCode="EIBT">-15.803000</lineItem>
+<lineItem coaCode="TTAX">0.081000</lineItem>
+<lineItem coaCode="TIAT">-15.884000</lineItem>
+<lineItem coaCode="NIBX">-15.884000</lineItem>
+<lineItem coaCode="STXI">2.497000</lineItem>
+<lineItem coaCode="NINC">-13.387000</lineItem>
+<lineItem coaCode="CIAC">-15.884000</lineItem>
+<lineItem coaCode="XNIC">-13.387000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-13.387000</lineItem>
+<lineItem coaCode="SDWS">1061.818480</lineItem>
+<lineItem coaCode="SDBF">-0.014960</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.012020</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">6.421000</lineItem>
+<lineItem coaCode="SCSI">6.421000</lineItem>
+<lineItem coaCode="AACR">1.594000</lineItem>
+<lineItem coaCode="ATRC">1.594000</lineItem>
+<lineItem coaCode="AITL">2.892000</lineItem>
+<lineItem coaCode="SOCA">1.019000</lineItem>
+<lineItem coaCode="ATCA">11.926000</lineItem>
+<lineItem coaCode="APPN">21.992000</lineItem>
+<lineItem coaCode="AGWI">0.000000</lineItem>
+<lineItem coaCode="SINV">0.380000</lineItem>
+<lineItem coaCode="ATOT">34.298000</lineItem>
+<lineItem coaCode="LAPB">1.377000</lineItem>
+<lineItem coaCode="LSTD">3.079000</lineItem>
+<lineItem coaCode="LTCL">4.456000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">3.079000</lineItem>
+<lineItem coaCode="LTLL">4.456000</lineItem>
+<lineItem coaCode="SCMS">1.960000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-112.497000</lineItem>
+<lineItem coaCode="SOTE">-8.243000</lineItem>
+<lineItem coaCode="QTLE">29.842000</lineItem>
+<lineItem coaCode="QTEL">34.298000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.028100</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-15.803000</lineItem>
+<lineItem coaCode="SDED">2.211000</lineItem>
+<lineItem coaCode="SNCI">13.775000</lineItem>
+<lineItem coaCode="SCTP">0.009000</lineItem>
+<lineItem coaCode="SOCF">-0.399000</lineItem>
+<lineItem coaCode="OTLO">-0.216000</lineItem>
+<lineItem coaCode="SCEX">-1.555000</lineItem>
+<lineItem coaCode="SICF">0.291000</lineItem>
+<lineItem coaCode="ITLI">-1.264000</lineItem>
+<lineItem coaCode="SFCF">0.000000</lineItem>
+<lineItem coaCode="FPRD">1.176000</lineItem>
+<lineItem coaCode="FTLF">1.176000</lineItem>
+<lineItem coaCode="SFEE">-0.269000</lineItem>
+<lineItem coaCode="SNCC">-0.573000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2014-05-31" FiscalYear="2014">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2015-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">13.797000</lineItem>
+<lineItem coaCode="RTLR">13.797000</lineItem>
+<lineItem coaCode="SCOR">12.475000</lineItem>
+<lineItem coaCode="SGRP">1.322000</lineItem>
+<lineItem coaCode="SUIE">-0.439000</lineItem>
+<lineItem coaCode="SOOE">8.261000</lineItem>
+<lineItem coaCode="ETOE">20.297000</lineItem>
+<lineItem coaCode="SOPI">-6.500000</lineItem>
+<lineItem coaCode="SNIN">0.873000</lineItem>
+<lineItem coaCode="EIBT">-5.627000</lineItem>
+<lineItem coaCode="TTAX">0.025000</lineItem>
+<lineItem coaCode="TIAT">-5.652000</lineItem>
+<lineItem coaCode="NIBX">-5.652000</lineItem>
+<lineItem coaCode="STXI">-2.364000</lineItem>
+<lineItem coaCode="NINC">-8.016000</lineItem>
+<lineItem coaCode="CIAC">-5.652000</lineItem>
+<lineItem coaCode="XNIC">-8.016000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-8.016000</lineItem>
+<lineItem coaCode="SDWS">1061.818480</lineItem>
+<lineItem coaCode="SDBF">-0.005320</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.005590</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">6.887000</lineItem>
+<lineItem coaCode="SCSI">6.887000</lineItem>
+<lineItem coaCode="AACR">0.459000</lineItem>
+<lineItem coaCode="ATRC">0.852000</lineItem>
+<lineItem coaCode="AITL">4.900000</lineItem>
+<lineItem coaCode="APPY">0.296000</lineItem>
+<lineItem coaCode="SOCA">1.308000</lineItem>
+<lineItem coaCode="ATCA">14.243000</lineItem>
+<lineItem coaCode="APTC">44.984000</lineItem>
+<lineItem coaCode="ADEP">-8.716000</lineItem>
+<lineItem coaCode="APPN">39.339000</lineItem>
+<lineItem coaCode="AGWI">0.576000</lineItem>
+<lineItem coaCode="SINV">1.229000</lineItem>
+<lineItem coaCode="ATOT">55.387000</lineItem>
+<lineItem coaCode="LAPB">0.077000</lineItem>
+<lineItem coaCode="LAEX">1.413000</lineItem>
+<lineItem coaCode="LSTD">2.668000</lineItem>
+<lineItem coaCode="SOCL">0.680000</lineItem>
+<lineItem coaCode="LTCL">4.838000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">2.668000</lineItem>
+<lineItem coaCode="LTLL">4.838000</lineItem>
+<lineItem coaCode="SCMS">4.900000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-99.165000</lineItem>
+<lineItem coaCode="SOTE">-3.808000</lineItem>
+<lineItem coaCode="QTLE">50.549000</lineItem>
+<lineItem coaCode="QTEL">55.387000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.047060</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2015-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-5.627000</lineItem>
+<lineItem coaCode="SDED">1.766000</lineItem>
+<lineItem coaCode="SNCI">-2.522000</lineItem>
+<lineItem coaCode="SCTP">0.025000</lineItem>
+<lineItem coaCode="SOCF">1.116000</lineItem>
+<lineItem coaCode="OTLO">-5.267000</lineItem>
+<lineItem coaCode="SCEX">-5.935000</lineItem>
+<lineItem coaCode="SICF">-0.083000</lineItem>
+<lineItem coaCode="ITLI">-6.018000</lineItem>
+<lineItem coaCode="SFCF">0.000000</lineItem>
+<lineItem coaCode="FPRD">-0.371000</lineItem>
+<lineItem coaCode="FTLF">-0.371000</lineItem>
+<lineItem coaCode="SFEE">-0.098000</lineItem>
+<lineItem coaCode="SNCC">-11.754000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2013-05-31" FiscalYear="2013">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="RES">Restated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">18.073000</lineItem>
+<lineItem coaCode="RTLR">18.073000</lineItem>
+<lineItem coaCode="SCOR">15.151000</lineItem>
+<lineItem coaCode="SGRP">2.922000</lineItem>
+<lineItem coaCode="SINN">0.005000</lineItem>
+<lineItem coaCode="SUIE">-0.770000</lineItem>
+<lineItem coaCode="SOOE">9.579000</lineItem>
+<lineItem coaCode="ETOE">23.965000</lineItem>
+<lineItem coaCode="SOPI">-5.892000</lineItem>
+<lineItem coaCode="SNIN">-0.441000</lineItem>
+<lineItem coaCode="SONT">-0.200000</lineItem>
+<lineItem coaCode="EIBT">-6.533000</lineItem>
+<lineItem coaCode="TTAX">0.013000</lineItem>
+<lineItem coaCode="TIAT">-6.546000</lineItem>
+<lineItem coaCode="NIBX">-6.546000</lineItem>
+<lineItem coaCode="STXI">27.485000</lineItem>
+<lineItem coaCode="NINC">20.939000</lineItem>
+<lineItem coaCode="CIAC">-6.546000</lineItem>
+<lineItem coaCode="XNIC">20.939000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">20.939000</lineItem>
+<lineItem coaCode="SDWS">1059.963900</lineItem>
+<lineItem coaCode="SDBF">-0.006180</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.006650</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">18.641000</lineItem>
+<lineItem coaCode="SCSI">18.641000</lineItem>
+<lineItem coaCode="AACR">0.796000</lineItem>
+<lineItem coaCode="ATRC">3.181000</lineItem>
+<lineItem coaCode="AITL">5.456000</lineItem>
+<lineItem coaCode="APPY">0.197000</lineItem>
+<lineItem coaCode="SOCA">2.054000</lineItem>
+<lineItem coaCode="ATCA">29.529000</lineItem>
+<lineItem coaCode="APTC">40.194000</lineItem>
+<lineItem coaCode="ADEP">-6.953000</lineItem>
+<lineItem coaCode="APPN">35.301000</lineItem>
+<lineItem coaCode="AGWI">0.697000</lineItem>
+<lineItem coaCode="SINV">0.008000</lineItem>
+<lineItem coaCode="ATOT">65.535000</lineItem>
+<lineItem coaCode="LAPB">0.159000</lineItem>
+<lineItem coaCode="LAEX">1.164000</lineItem>
+<lineItem coaCode="LSTD">3.091000</lineItem>
+<lineItem coaCode="SOCL">1.093000</lineItem>
+<lineItem coaCode="LTCL">5.507000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">3.091000</lineItem>
+<lineItem coaCode="LTLL">5.507000</lineItem>
+<lineItem coaCode="SCMS">4.900000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-91.298000</lineItem>
+<lineItem coaCode="SOTE">-2.196000</lineItem>
+<lineItem coaCode="QTLE">60.028000</lineItem>
+<lineItem coaCode="QTEL">65.535000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.055880</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-6.533000</lineItem>
+<lineItem coaCode="SDED">1.840000</lineItem>
+<lineItem coaCode="SNCI">-1.100000</lineItem>
+<lineItem coaCode="SCTP">0.125000</lineItem>
+<lineItem coaCode="SCIP">0.684000</lineItem>
+<lineItem coaCode="SOCF">2.160000</lineItem>
+<lineItem coaCode="OTLO">-3.633000</lineItem>
+<lineItem coaCode="SCEX">-10.505000</lineItem>
+<lineItem coaCode="SICF">26.347000</lineItem>
+<lineItem coaCode="ITLI">15.842000</lineItem>
+<lineItem coaCode="FPRD">2.968000</lineItem>
+<lineItem coaCode="FTLF">2.968000</lineItem>
+<lineItem coaCode="SFEE">0.018000</lineItem>
+<lineItem coaCode="SNCC">15.195000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2012-05-31" FiscalYear="2012">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2012-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">13.826000</lineItem>
+<lineItem coaCode="RTLR">13.826000</lineItem>
+<lineItem coaCode="SCOR">11.913000</lineItem>
+<lineItem coaCode="SGRP">1.913000</lineItem>
+<lineItem coaCode="SINN">-0.009000</lineItem>
+<lineItem coaCode="SUIE">-0.400000</lineItem>
+<lineItem coaCode="SOOE">9.122000</lineItem>
+<lineItem coaCode="ETOE">20.626000</lineItem>
+<lineItem coaCode="SOPI">-6.800000</lineItem>
+<lineItem coaCode="SNIN">-0.116000</lineItem>
+<lineItem coaCode="EIBT">-6.916000</lineItem>
+<lineItem coaCode="TTAX">0.026000</lineItem>
+<lineItem coaCode="TIAT">-6.942000</lineItem>
+<lineItem coaCode="NIBX">-6.942000</lineItem>
+<lineItem coaCode="STXI">0.721000</lineItem>
+<lineItem coaCode="NINC">-6.221000</lineItem>
+<lineItem coaCode="CIAC">-6.942000</lineItem>
+<lineItem coaCode="XNIC">-6.221000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-6.221000</lineItem>
+<lineItem coaCode="SDWS">874.483040</lineItem>
+<lineItem coaCode="SDBF">-0.007940</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.008230</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2012-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">3.553000</lineItem>
+<lineItem coaCode="SCSI">3.553000</lineItem>
+<lineItem coaCode="AACR">1.146000</lineItem>
+<lineItem coaCode="ATRC">3.628000</lineItem>
+<lineItem coaCode="AITL">6.701000</lineItem>
+<lineItem coaCode="SOCA">1.018000</lineItem>
+<lineItem coaCode="ATCA">14.900000</lineItem>
+<lineItem coaCode="APTC">33.633000</lineItem>
+<lineItem coaCode="ADEP">-7.390000</lineItem>
+<lineItem coaCode="APPN">27.885000</lineItem>
+<lineItem coaCode="AGWI">0.963000</lineItem>
+<lineItem coaCode="SINV">0.009000</lineItem>
+<lineItem coaCode="ATOT">43.757000</lineItem>
+<lineItem coaCode="LAPB">0.209000</lineItem>
+<lineItem coaCode="LAEX">1.142000</lineItem>
+<lineItem coaCode="LSTD">0.123000</lineItem>
+<lineItem coaCode="SOCL">0.887000</lineItem>
+<lineItem coaCode="LTCL">2.361000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">0.123000</lineItem>
+<lineItem coaCode="LTLL">2.361000</lineItem>
+<lineItem coaCode="SCMS">4.897000</lineItem>
+<lineItem coaCode="QPIC">148.530000</lineItem>
+<lineItem coaCode="QRED">-112.327000</lineItem>
+<lineItem coaCode="SOTE">0.296000</lineItem>
+<lineItem coaCode="QTLE">41.396000</lineItem>
+<lineItem coaCode="QTEL">43.757000</lineItem>
+<lineItem coaCode="QTCO">1059.716240</lineItem>
+<lineItem coaCode="STBP">0.038150</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2012-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-6.916000</lineItem>
+<lineItem coaCode="SDED">1.878000</lineItem>
+<lineItem coaCode="SNCI">0.534000</lineItem>
+<lineItem coaCode="SCTP">0.060000</lineItem>
+<lineItem coaCode="SCIP">0.164000</lineItem>
+<lineItem coaCode="SOCF">-5.752000</lineItem>
+<lineItem coaCode="OTLO">-10.256000</lineItem>
+<lineItem coaCode="SCEX">-7.575000</lineItem>
+<lineItem coaCode="SICF">-1.615000</lineItem>
+<lineItem coaCode="ITLI">-9.190000</lineItem>
+<lineItem coaCode="SFCF">-0.610000</lineItem>
+<lineItem coaCode="FPSS">15.000000</lineItem>
+<lineItem coaCode="FPRD">0.123000</lineItem>
+<lineItem coaCode="FTLF">14.513000</lineItem>
+<lineItem coaCode="SFEE">0.314000</lineItem>
+<lineItem coaCode="SNCC">-4.619000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2011-05-31" FiscalYear="2011">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2012-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">13.588000</lineItem>
+<lineItem coaCode="RTLR">13.588000</lineItem>
+<lineItem coaCode="SCOR">10.372000</lineItem>
+<lineItem coaCode="SGRP">3.216000</lineItem>
+<lineItem coaCode="SINN">0.000000</lineItem>
+<lineItem coaCode="SUIE">-0.214000</lineItem>
+<lineItem coaCode="SOOE">5.760000</lineItem>
+<lineItem coaCode="ETOE">15.918000</lineItem>
+<lineItem coaCode="SOPI">-2.330000</lineItem>
+<lineItem coaCode="SNIN">0.159000</lineItem>
+<lineItem coaCode="EIBT">-2.171000</lineItem>
+<lineItem coaCode="TTAX">0.168000</lineItem>
+<lineItem coaCode="TIAT">-2.339000</lineItem>
+<lineItem coaCode="NIBX">-2.339000</lineItem>
+<lineItem coaCode="STXI">-0.089000</lineItem>
+<lineItem coaCode="NINC">-2.428000</lineItem>
+<lineItem coaCode="CIAC">-2.339000</lineItem>
+<lineItem coaCode="XNIC">-2.428000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-2.428000</lineItem>
+<lineItem coaCode="SDWS">625.894110</lineItem>
+<lineItem coaCode="SDBF">-0.003740</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.003950</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2012-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">8.172000</lineItem>
+<lineItem coaCode="SCSI">8.172000</lineItem>
+<lineItem coaCode="AACR">0.814000</lineItem>
+<lineItem coaCode="ATRC">2.039000</lineItem>
+<lineItem coaCode="AITL">2.976000</lineItem>
+<lineItem coaCode="SOCA">0.157000</lineItem>
+<lineItem coaCode="ATCA">13.344000</lineItem>
+<lineItem coaCode="APPN">13.895000</lineItem>
+<lineItem coaCode="AGWI">0.271000</lineItem>
+<lineItem coaCode="SINV">0.000000</lineItem>
+<lineItem coaCode="ATOT">27.510000</lineItem>
+<lineItem coaCode="LAPB">0.368000</lineItem>
+<lineItem coaCode="LAEX">1.502000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="SOCL">0.808000</lineItem>
+<lineItem coaCode="LTCL">2.678000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">0.000000</lineItem>
+<lineItem coaCode="LTLL">2.678000</lineItem>
+<lineItem coaCode="SCMS">1.387000</lineItem>
+<lineItem coaCode="QPIC">131.593000</lineItem>
+<lineItem coaCode="QRED">-106.366000</lineItem>
+<lineItem coaCode="SOTE">-1.782000</lineItem>
+<lineItem coaCode="QTLE">24.832000</lineItem>
+<lineItem coaCode="QTEL">27.510000</lineItem>
+<lineItem coaCode="QTCO">693.254890</lineItem>
+<lineItem coaCode="STBP">0.035430</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2012-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-2.171000</lineItem>
+<lineItem coaCode="SDED">1.228000</lineItem>
+<lineItem coaCode="SNCI">-0.707000</lineItem>
+<lineItem coaCode="SCTP">0.038000</lineItem>
+<lineItem coaCode="SCIP">0.000000</lineItem>
+<lineItem coaCode="SOCF">1.808000</lineItem>
+<lineItem coaCode="OTLO">0.158000</lineItem>
+<lineItem coaCode="SCEX">-2.818000</lineItem>
+<lineItem coaCode="SICF">-0.089000</lineItem>
+<lineItem coaCode="ITLI">-2.907000</lineItem>
+<lineItem coaCode="SFCF">-0.161000</lineItem>
+<lineItem coaCode="FPSS">6.883000</lineItem>
+<lineItem coaCode="FPRD">0.000000</lineItem>
+<lineItem coaCode="FTLF">6.722000</lineItem>
+<lineItem coaCode="SFEE">0.757000</lineItem>
+<lineItem coaCode="SNCC">4.730000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2010-05-31" FiscalYear="2010">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2010-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2010-12-08">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">8.791000</lineItem>
+<lineItem coaCode="RTLR">8.791000</lineItem>
+<lineItem coaCode="SCOR">7.371000</lineItem>
+<lineItem coaCode="SGRP">1.420000</lineItem>
+<lineItem coaCode="SUIE">-0.022000</lineItem>
+<lineItem coaCode="SOOE">5.300000</lineItem>
+<lineItem coaCode="ETOE">12.649000</lineItem>
+<lineItem coaCode="SOPI">-3.858000</lineItem>
+<lineItem coaCode="SNIN">-0.046000</lineItem>
+<lineItem coaCode="EIBT">-3.904000</lineItem>
+<lineItem coaCode="TTAX">0.000000</lineItem>
+<lineItem coaCode="TIAT">-3.904000</lineItem>
+<lineItem coaCode="NIBX">-3.904000</lineItem>
+<lineItem coaCode="STXI">-0.920000</lineItem>
+<lineItem coaCode="NINC">-4.824000</lineItem>
+<lineItem coaCode="CIAC">-3.904000</lineItem>
+<lineItem coaCode="XNIC">-4.824000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-4.824000</lineItem>
+<lineItem coaCode="SDWS">515.129500</lineItem>
+<lineItem coaCode="SDBF">-0.007580</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.007660</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2011-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2011-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">3.344000</lineItem>
+<lineItem coaCode="SCSI">3.344000</lineItem>
+<lineItem coaCode="AACR">0.226000</lineItem>
+<lineItem coaCode="ATRC">1.019000</lineItem>
+<lineItem coaCode="AITL">4.605000</lineItem>
+<lineItem coaCode="SOCA">0.098000</lineItem>
+<lineItem coaCode="ATCA">9.066000</lineItem>
+<lineItem coaCode="APTC">14.648000</lineItem>
+<lineItem coaCode="ADEP">-4.662000</lineItem>
+<lineItem coaCode="APPN">10.222000</lineItem>
+<lineItem coaCode="AGWI">0.000000</lineItem>
+<lineItem coaCode="SINV">0.114000</lineItem>
+<lineItem coaCode="ATOT">19.402000</lineItem>
+<lineItem coaCode="LAPB">0.167000</lineItem>
+<lineItem coaCode="LAEX">1.265000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="SOCL">0.744000</lineItem>
+<lineItem coaCode="LTCL">2.176000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">0.000000</lineItem>
+<lineItem coaCode="LTLL">2.176000</lineItem>
+<lineItem coaCode="SCMS">1.161000</lineItem>
+<lineItem coaCode="QPIC">125.184000</lineItem>
+<lineItem coaCode="QRED">-103.938000</lineItem>
+<lineItem coaCode="SOTE">-5.181000</lineItem>
+<lineItem coaCode="QTLE">17.226000</lineItem>
+<lineItem coaCode="QTEL">19.402000</lineItem>
+<lineItem coaCode="QTCO">547.771550</lineItem>
+<lineItem coaCode="STBP">0.031450</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2011-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2011-11-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-3.904000</lineItem>
+<lineItem coaCode="SDED">1.359000</lineItem>
+<lineItem coaCode="SNCI">-0.872000</lineItem>
+<lineItem coaCode="SCTP">0.000000</lineItem>
+<lineItem coaCode="SCIP">0.152000</lineItem>
+<lineItem coaCode="SOCF">-4.105000</lineItem>
+<lineItem coaCode="OTLO">-7.522000</lineItem>
+<lineItem coaCode="SCEX">-1.346000</lineItem>
+<lineItem coaCode="SICF">-0.051000</lineItem>
+<lineItem coaCode="ITLI">-1.397000</lineItem>
+<lineItem coaCode="SFCF">-0.272000</lineItem>
+<lineItem coaCode="FPSS">5.082000</lineItem>
+<lineItem coaCode="FPRD">0.000000</lineItem>
+<lineItem coaCode="FTLF">4.810000</lineItem>
+<lineItem coaCode="SFEE">-0.966000</lineItem>
+<lineItem coaCode="SNCC">-5.075000</lineItem>
+</Statement>
+</FiscalPeriod>
+</AnnualPeriods>
+<InterimPeriods>
+<FiscalPeriod Type="Interim" EndDate="2015-05-31" FiscalYear="2015" FiscalPeriodNumber="4">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UCA">Updated Calculated</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2015-05-31</StatementDate>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">7.087000</lineItem>
+<lineItem coaCode="RTLR">7.087000</lineItem>
+<lineItem coaCode="SCOR">6.241000</lineItem>
+<lineItem coaCode="SGRP">0.846000</lineItem>
+<lineItem coaCode="SUIE">5.093000</lineItem>
+<lineItem coaCode="SOOE">6.014000</lineItem>
+<lineItem coaCode="ETOE">17.348000</lineItem>
+<lineItem coaCode="SOPI">-10.261000</lineItem>
+<lineItem coaCode="SNIN">-0.999000</lineItem>
+<lineItem coaCode="EIBT">-11.260000</lineItem>
+<lineItem coaCode="TTAX">0.078000</lineItem>
+<lineItem coaCode="TIAT">-11.338000</lineItem>
+<lineItem coaCode="NIBX">-11.338000</lineItem>
+<lineItem coaCode="STXI">-2.988000</lineItem>
+<lineItem coaCode="NINC">-14.326000</lineItem>
+<lineItem coaCode="CIAC">-11.338000</lineItem>
+<lineItem coaCode="XNIC">-14.326000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-14.326000</lineItem>
+<lineItem coaCode="SDWS">1061.818480</lineItem>
+<lineItem coaCode="SDBF">-0.010680</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.007560</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-05-31</StatementDate>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">6.421000</lineItem>
+<lineItem coaCode="SCSI">6.421000</lineItem>
+<lineItem coaCode="AACR">1.594000</lineItem>
+<lineItem coaCode="ATRC">1.594000</lineItem>
+<lineItem coaCode="AITL">2.892000</lineItem>
+<lineItem coaCode="SOCA">1.019000</lineItem>
+<lineItem coaCode="ATCA">11.926000</lineItem>
+<lineItem coaCode="APPN">21.992000</lineItem>
+<lineItem coaCode="AGWI">0.000000</lineItem>
+<lineItem coaCode="SINV">0.380000</lineItem>
+<lineItem coaCode="ATOT">34.298000</lineItem>
+<lineItem coaCode="LAPB">1.377000</lineItem>
+<lineItem coaCode="LSTD">3.079000</lineItem>
+<lineItem coaCode="LTCL">4.456000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">3.079000</lineItem>
+<lineItem coaCode="LTLL">4.456000</lineItem>
+<lineItem coaCode="SCMS">1.960000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-112.497000</lineItem>
+<lineItem coaCode="SOTE">-8.243000</lineItem>
+<lineItem coaCode="QTLE">29.842000</lineItem>
+<lineItem coaCode="QTEL">34.298000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.028100</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-05-31</StatementDate>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-15.803000</lineItem>
+<lineItem coaCode="SDED">2.211000</lineItem>
+<lineItem coaCode="SNCI">13.775000</lineItem>
+<lineItem coaCode="SCTP">0.009000</lineItem>
+<lineItem coaCode="SOCF">-0.399000</lineItem>
+<lineItem coaCode="OTLO">-0.216000</lineItem>
+<lineItem coaCode="SCEX">-1.555000</lineItem>
+<lineItem coaCode="SICF">0.291000</lineItem>
+<lineItem coaCode="ITLI">-1.264000</lineItem>
+<lineItem coaCode="SFCF">0.000000</lineItem>
+<lineItem coaCode="FPRD">1.176000</lineItem>
+<lineItem coaCode="FTLF">1.176000</lineItem>
+<lineItem coaCode="SFEE">-0.269000</lineItem>
+<lineItem coaCode="SNCC">-0.573000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2014-11-30" FiscalYear="2015" FiscalPeriodNumber="2">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-11-30</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="SREV">4.700000</lineItem>
+<lineItem coaCode="RTLR">4.700000</lineItem>
+<lineItem coaCode="SCOR">4.421000</lineItem>
+<lineItem coaCode="SGRP">0.279000</lineItem>
+<lineItem coaCode="SUIE">-0.288000</lineItem>
+<lineItem coaCode="SOOE">4.596000</lineItem>
+<lineItem coaCode="ETOE">8.729000</lineItem>
+<lineItem coaCode="SOPI">-4.029000</lineItem>
+<lineItem coaCode="SNIN">-0.514000</lineItem>
+<lineItem coaCode="EIBT">-4.543000</lineItem>
+<lineItem coaCode="TTAX">0.003000</lineItem>
+<lineItem coaCode="TIAT">-4.546000</lineItem>
+<lineItem coaCode="NIBX">-4.546000</lineItem>
+<lineItem coaCode="STXI">5.485000</lineItem>
+<lineItem coaCode="NINC">0.939000</lineItem>
+<lineItem coaCode="CIAC">-4.546000</lineItem>
+<lineItem coaCode="XNIC">0.939000</lineItem>
+<lineItem coaCode="SDNI">0.939000</lineItem>
+<lineItem coaCode="SDWS">1061.818480</lineItem>
+<lineItem coaCode="SDBF">-0.004280</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.004460</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-11-30</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">8.852000</lineItem>
+<lineItem coaCode="SCSI">8.852000</lineItem>
+<lineItem coaCode="AACR">1.133000</lineItem>
+<lineItem coaCode="ATRC">1.133000</lineItem>
+<lineItem coaCode="AITL">6.298000</lineItem>
+<lineItem coaCode="SOCA">1.010000</lineItem>
+<lineItem coaCode="ATCA">17.293000</lineItem>
+<lineItem coaCode="APPN">37.757000</lineItem>
+<lineItem coaCode="AGWI">0.572000</lineItem>
+<lineItem coaCode="SINV">1.071000</lineItem>
+<lineItem coaCode="ATOT">56.693000</lineItem>
+<lineItem coaCode="LAPB">1.294000</lineItem>
+<lineItem coaCode="LSTD">5.202000</lineItem>
+<lineItem coaCode="LTCL">6.496000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">5.202000</lineItem>
+<lineItem coaCode="LTLL">6.496000</lineItem>
+<lineItem coaCode="SCMS">4.900000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-98.198000</lineItem>
+<lineItem coaCode="SOTE">-5.127000</lineItem>
+<lineItem coaCode="QTLE">50.197000</lineItem>
+<lineItem coaCode="QTEL">56.693000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.046740</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-11-30</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-4.546000</lineItem>
+<lineItem coaCode="SDED">1.013000</lineItem>
+<lineItem coaCode="SNCI">5.595000</lineItem>
+<lineItem coaCode="SCTP">0.006000</lineItem>
+<lineItem coaCode="SCIP">0.364000</lineItem>
+<lineItem coaCode="SOCF">-2.545000</lineItem>
+<lineItem coaCode="OTLO">-0.483000</lineItem>
+<lineItem coaCode="SCEX">-0.912000</lineItem>
+<lineItem coaCode="SICF">0.684000</lineItem>
+<lineItem coaCode="ITLI">-0.228000</lineItem>
+<lineItem coaCode="SFCF">-0.200000</lineItem>
+<lineItem coaCode="FPRD">2.973000</lineItem>
+<lineItem coaCode="FTLF">2.773000</lineItem>
+<lineItem coaCode="SFEE">-0.204000</lineItem>
+<lineItem coaCode="SNCC">1.858000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2014-05-31" FiscalYear="2014" FiscalPeriodNumber="4">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CCA">Reclassified Calculated</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2015-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">7.060000</lineItem>
+<lineItem coaCode="RTLR">7.060000</lineItem>
+<lineItem coaCode="SCOR">6.649000</lineItem>
+<lineItem coaCode="SGRP">0.411000</lineItem>
+<lineItem coaCode="SUIE">0.162000</lineItem>
+<lineItem coaCode="SOOE">4.438000</lineItem>
+<lineItem coaCode="ETOE">11.249000</lineItem>
+<lineItem coaCode="SOPI">-4.189000</lineItem>
+<lineItem coaCode="SNIN">0.052000</lineItem>
+<lineItem coaCode="EIBT">-4.137000</lineItem>
+<lineItem coaCode="TTAX">-0.027000</lineItem>
+<lineItem coaCode="TIAT">-4.110000</lineItem>
+<lineItem coaCode="NIBX">-4.110000</lineItem>
+<lineItem coaCode="STXI">-1.642000</lineItem>
+<lineItem coaCode="NINC">-5.752000</lineItem>
+<lineItem coaCode="CIAC">-4.110000</lineItem>
+<lineItem coaCode="XNIC">-5.752000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-5.752000</lineItem>
+<lineItem coaCode="SDWS">1061.818480</lineItem>
+<lineItem coaCode="SDBF">-0.003870</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.003770</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">6.994000</lineItem>
+<lineItem coaCode="SCSI">6.994000</lineItem>
+<lineItem coaCode="AACR">1.148000</lineItem>
+<lineItem coaCode="ATRC">1.148000</lineItem>
+<lineItem coaCode="AITL">4.900000</lineItem>
+<lineItem coaCode="SOCA">1.201000</lineItem>
+<lineItem coaCode="ATCA">14.243000</lineItem>
+<lineItem coaCode="APPN">39.339000</lineItem>
+<lineItem coaCode="AGWI">0.576000</lineItem>
+<lineItem coaCode="SINV">1.229000</lineItem>
+<lineItem coaCode="ATOT">55.387000</lineItem>
+<lineItem coaCode="LAPB">2.170000</lineItem>
+<lineItem coaCode="LSTD">2.668000</lineItem>
+<lineItem coaCode="LTCL">4.838000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">2.668000</lineItem>
+<lineItem coaCode="LTLL">4.838000</lineItem>
+<lineItem coaCode="SCMS">4.900000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-99.165000</lineItem>
+<lineItem coaCode="SOTE">-3.808000</lineItem>
+<lineItem coaCode="QTLE">50.549000</lineItem>
+<lineItem coaCode="QTEL">55.387000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.047060</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2015-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-27">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-5.627000</lineItem>
+<lineItem coaCode="SDED">1.766000</lineItem>
+<lineItem coaCode="SNCI">-2.522000</lineItem>
+<lineItem coaCode="SCTP">0.025000</lineItem>
+<lineItem coaCode="SOCF">1.116000</lineItem>
+<lineItem coaCode="OTLO">-5.267000</lineItem>
+<lineItem coaCode="SCEX">-5.935000</lineItem>
+<lineItem coaCode="SICF">-0.083000</lineItem>
+<lineItem coaCode="ITLI">-6.018000</lineItem>
+<lineItem coaCode="SFCF">0.000000</lineItem>
+<lineItem coaCode="FPRD">-0.371000</lineItem>
+<lineItem coaCode="FTLF">-0.371000</lineItem>
+<lineItem coaCode="SFEE">-0.098000</lineItem>
+<lineItem coaCode="SNCC">-11.754000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2013-11-30" FiscalYear="2014" FiscalPeriodNumber="2">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-11-30</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="SREV">6.737000</lineItem>
+<lineItem coaCode="RTLR">6.737000</lineItem>
+<lineItem coaCode="SCOR">5.826000</lineItem>
+<lineItem coaCode="SGRP">0.911000</lineItem>
+<lineItem coaCode="SUIE">-0.601000</lineItem>
+<lineItem coaCode="SOOE">3.823000</lineItem>
+<lineItem coaCode="ETOE">9.048000</lineItem>
+<lineItem coaCode="SOPI">-2.311000</lineItem>
+<lineItem coaCode="SNIN">0.821000</lineItem>
+<lineItem coaCode="EIBT">-1.490000</lineItem>
+<lineItem coaCode="TTAX">0.052000</lineItem>
+<lineItem coaCode="TIAT">-1.542000</lineItem>
+<lineItem coaCode="NIBX">-1.542000</lineItem>
+<lineItem coaCode="STXI">-0.722000</lineItem>
+<lineItem coaCode="NINC">-2.264000</lineItem>
+<lineItem coaCode="CIAC">-1.542000</lineItem>
+<lineItem coaCode="XNIC">-2.264000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-2.264000</lineItem>
+<lineItem coaCode="SDWS">1061.818480</lineItem>
+<lineItem coaCode="SDBF">-0.001450</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.001820</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2013-11-30</StatementDate>
+<Source Date="2014-02-26">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">8.739000</lineItem>
+<lineItem coaCode="SCSI">8.739000</lineItem>
+<lineItem coaCode="AACR">3.504000</lineItem>
+<lineItem coaCode="ATRC">3.504000</lineItem>
+<lineItem coaCode="AITL">6.590000</lineItem>
+<lineItem coaCode="SOCA">0.797000</lineItem>
+<lineItem coaCode="ATCA">19.630000</lineItem>
+<lineItem coaCode="APPN">38.921000</lineItem>
+<lineItem coaCode="AGWI">0.697000</lineItem>
+<lineItem coaCode="SINV">1.095000</lineItem>
+<lineItem coaCode="ATOT">60.343000</lineItem>
+<lineItem coaCode="LAPB">1.711000</lineItem>
+<lineItem coaCode="LSTD">1.138000</lineItem>
+<lineItem coaCode="LTCL">2.849000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">1.138000</lineItem>
+<lineItem coaCode="LTLL">2.849000</lineItem>
+<lineItem coaCode="SCMS">4.900000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-93.507000</lineItem>
+<lineItem coaCode="SOTE">-2.521000</lineItem>
+<lineItem coaCode="QTLE">57.494000</lineItem>
+<lineItem coaCode="QTEL">60.343000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.053490</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2014-11-30</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-1.490000</lineItem>
+<lineItem coaCode="SDED">0.922000</lineItem>
+<lineItem coaCode="SNCI">-2.528000</lineItem>
+<lineItem coaCode="SCTP">0.018000</lineItem>
+<lineItem coaCode="SCIP">0.117000</lineItem>
+<lineItem coaCode="SOCF">-1.557000</lineItem>
+<lineItem coaCode="OTLO">-4.653000</lineItem>
+<lineItem coaCode="SCEX">-3.644000</lineItem>
+<lineItem coaCode="SICF">0.304000</lineItem>
+<lineItem coaCode="ITLI">-3.340000</lineItem>
+<lineItem coaCode="SFCF">0.000000</lineItem>
+<lineItem coaCode="FPRD">-1.942000</lineItem>
+<lineItem coaCode="FTLF">-1.942000</lineItem>
+<lineItem coaCode="SFEE">-0.074000</lineItem>
+<lineItem coaCode="SNCC">-10.009000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2013-05-31" FiscalYear="2013" FiscalPeriodNumber="4">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="RCA">Restated Calculated</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">6.587000</lineItem>
+<lineItem coaCode="RTLR">6.587000</lineItem>
+<lineItem coaCode="SCOR">5.250000</lineItem>
+<lineItem coaCode="SGRP">1.337000</lineItem>
+<lineItem coaCode="SINN">0.005000</lineItem>
+<lineItem coaCode="SUIE">-0.693000</lineItem>
+<lineItem coaCode="SOOE">3.997000</lineItem>
+<lineItem coaCode="ETOE">8.559000</lineItem>
+<lineItem coaCode="SOPI">-1.972000</lineItem>
+<lineItem coaCode="SNIN">-0.210000</lineItem>
+<lineItem coaCode="SONT">-0.200000</lineItem>
+<lineItem coaCode="EIBT">-2.382000</lineItem>
+<lineItem coaCode="TTAX">-0.029000</lineItem>
+<lineItem coaCode="TIAT">-2.353000</lineItem>
+<lineItem coaCode="NIBX">-2.353000</lineItem>
+<lineItem coaCode="STXI">-1.879000</lineItem>
+<lineItem coaCode="NINC">-4.232000</lineItem>
+<lineItem coaCode="CIAC">-2.353000</lineItem>
+<lineItem coaCode="XNIC">-4.232000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-4.232000</lineItem>
+<lineItem coaCode="SDWS">1060.211560</lineItem>
+<lineItem coaCode="SDBF">-0.002220</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.002640</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">18.748000</lineItem>
+<lineItem coaCode="SCSI">18.748000</lineItem>
+<lineItem coaCode="AACR">3.378000</lineItem>
+<lineItem coaCode="ATRC">3.378000</lineItem>
+<lineItem coaCode="AITL">5.456000</lineItem>
+<lineItem coaCode="SOCA">1.947000</lineItem>
+<lineItem coaCode="ATCA">29.529000</lineItem>
+<lineItem coaCode="APPN">35.301000</lineItem>
+<lineItem coaCode="AGWI">0.697000</lineItem>
+<lineItem coaCode="SINV">0.008000</lineItem>
+<lineItem coaCode="ATOT">65.535000</lineItem>
+<lineItem coaCode="LAPB">2.416000</lineItem>
+<lineItem coaCode="LSTD">3.091000</lineItem>
+<lineItem coaCode="LTCL">5.507000</lineItem>
+<lineItem coaCode="LTTD">0.000000</lineItem>
+<lineItem coaCode="STLD">3.091000</lineItem>
+<lineItem coaCode="LTLL">5.507000</lineItem>
+<lineItem coaCode="SCMS">4.900000</lineItem>
+<lineItem coaCode="QPIC">148.622000</lineItem>
+<lineItem coaCode="QRED">-91.298000</lineItem>
+<lineItem coaCode="SOTE">-2.196000</lineItem>
+<lineItem coaCode="QTLE">60.028000</lineItem>
+<lineItem coaCode="QTEL">65.535000</lineItem>
+<lineItem coaCode="QTCO">1061.818480</lineItem>
+<lineItem coaCode="STBP">0.055880</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2014-05-31</StatementDate>
+<AuditorName Code="BAKU">Baker Tilly UK Audit LLP</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-11-25">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-6.533000</lineItem>
+<lineItem coaCode="SDED">1.840000</lineItem>
+<lineItem coaCode="SNCI">-1.100000</lineItem>
+<lineItem coaCode="SCTP">0.125000</lineItem>
+<lineItem coaCode="SCIP">0.684000</lineItem>
+<lineItem coaCode="SOCF">2.160000</lineItem>
+<lineItem coaCode="OTLO">-3.633000</lineItem>
+<lineItem coaCode="SCEX">-10.505000</lineItem>
+<lineItem coaCode="SICF">26.347000</lineItem>
+<lineItem coaCode="ITLI">15.842000</lineItem>
+<lineItem coaCode="FPRD">2.968000</lineItem>
+<lineItem coaCode="FTLF">2.968000</lineItem>
+<lineItem coaCode="SFEE">0.018000</lineItem>
+<lineItem coaCode="SNCC">15.195000</lineItem>
+</Statement>
+</FiscalPeriod>
+</InterimPeriods>
+</FinancialStatements>
+</ReportFinancialStatements>

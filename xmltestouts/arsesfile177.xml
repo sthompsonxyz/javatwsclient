@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5A15</CoID>
+		<CoID Type="CompanyName">DRS Data &amp; Research Services plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DRS</IssueID>
+			<IssueID Type="CUSIP">G2843Y105</IssueID>
+			<IssueID Type="ISIN">GB0002502580</IssueID>
+			<IssueID Type="RIC">DRSD.L</IssueID>
+			<IssueID Type="SEDOL">0250258</IssueID>
+			<IssueID Type="DisplayRIC">DRSD.L</IssueID>
+			<IssueID Type="InstrumentPI">351520</IssueID>
+			<IssueID Type="QuotePI">1081040</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-31</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">238</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="10008296.0">32691600.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:35:35">DRS Data and Research Services plc is a United Kingdom-based holding company. The Company is a provider of automated data capture technology and solutions in the United Kingdom and overseas to three market sectors: education, elections and census. The Company is engaged in the provision of software, data capture services, the manufacture, sale and support of optical and image scanning equipment, design and printing of documentation used for data capture and bureau services. The Company provides an end-to-end solution for electronically counted elections, including form design and printing, hardware, software, project support and training. The Company's census services provide data capture solutions for censuses, including paper-based national or regional population censuses and specialized industrial, commercial and agricultural censuses. The Company's subsidiary includes DRS Data Services Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-31T11:41:06">BRIEF: For the six months ended 30 June 2015, DRS Data &amp; Research Services plc revenues decreased 34% to L3.6M. Net loss decreased 31% to L1.8M. Revenues reflect Examination and assesment segment decrease of 25% to L3.2M, Census &amp; elections segment decrease of 87% to L90K, Africa segment decrease of 45% to L1M, Rest of the World segment decrease of 75% to L185K. Lower net loss reflects Selling and marketing costs decrease of 48% to L346K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-31T11:41:08">
+		<streetAddress line="1">1 Danbury Court</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MILTON KEYNES</city>
+		<state-region></state-region>
+		<postalCode>MK14 6LR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1908</city-areacode>
+				<number>666088</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1908</city-areacode>
+				<number>607668</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-27T10:35:57"><webSite mainCategory="Home Page">http://www.drs.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-31T11:41:08">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304015" mnem="">Educational Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334119" mnem="">Other Computer Peripheral Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="541513" mnem="">Computer Facilities Management Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="323116" mnem="">Manifold Business Form Printing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="323117" mnem="">Book Printing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3577" mnem="">Computer Periph'L Equipment, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7376" mnem="">Computer Facilities Management</Industry>
+			<Industry type="SIC" order="5" reported="0" code="2761" mnem="">Manifold Business Forms</Industry>
+			<Industry type="SIC" order="6" reported="0" code="2732" mnem="">Book Printing</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/26/2012">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Gowers</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="10" startDay="26" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="03/25/2002">
+			<firstName>Arthur</firstName>
+			<mI>Mark</mI>
+			<lastName>Tebbutt</lastName>
+			<age></age>
+			<title startYear="2002" startMonth="03" startDay="25" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Cole</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.10000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.14900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.09000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03539</Ratio>
+			<Ratio FieldName="EV" Type="N">1.16316</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">3.26916</Ratio>
+			<Ratio FieldName="AREV" Type="N">13.68400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.48700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.55600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.04898</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.43075</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.21568</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.11049</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.03063</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">28.31044</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-19.69870</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.23890</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.46364</Ratio>
+			<Ratio FieldName="Employees" Type="N">238</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">100.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">12.70000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00100</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

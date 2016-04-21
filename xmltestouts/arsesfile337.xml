@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A309D</CoID>
+		<CoID Type="CompanyName">Low &amp; Bonar plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">LWB</IssueID>
+			<IssueID Type="CUSIP">G56672101</IssueID>
+			<IssueID Type="ISIN">GB0005363014</IssueID>
+			<IssueID Type="RIC">LWB.L</IssueID>
+			<IssueID Type="SEDOL">0536301</IssueID>
+			<IssueID Type="DisplayRIC">LWB.L</IssueID>
+			<IssueID Type="InstrumentPI">261862</IssueID>
+			<IssueID Type="QuotePI">1080061</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-02-19">1.09078</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">6% Preferred Shares</IssueID>
+			<IssueID Type="Ticker">BD46</IssueID>
+			<IssueID Type="CUSIP">G56672127</IssueID>
+			<IssueID Type="ISIN">GB0005363238</IssueID>
+			<IssueID Type="RIC">BD46_p.L</IssueID>
+			<IssueID Type="SEDOL">0536323</IssueID>
+			<IssueID Type="DisplayRIC">BD46_p.L</IssueID>
+			<IssueID Type="InstrumentPI">1477635</IssueID>
+			<IssueID Type="QuotePI">2790661</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">6% Preferred Shares</IssueID>
+			<IssueID Type="Ticker">BD70</IssueID>
+			<IssueID Type="CUSIP">G56672135</IssueID>
+			<IssueID Type="ISIN">GB0005363451</IssueID>
+			<IssueID Type="RIC">BD70_p.L</IssueID>
+			<IssueID Type="SEDOL">0536345</IssueID>
+			<IssueID Type="DisplayRIC">BD70_p.L</IssueID>
+			<IssueID Type="InstrumentPI">1477637</IssueID>
+			<IssueID Type="QuotePI">2790664</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="P" Desc="Preferred Stock" Order="3">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="Ticker">BD90</IssueID>
+			<IssueID Type="CUSIP">G56672119</IssueID>
+			<IssueID Type="ISIN">GB0005363675</IssueID>
+			<IssueID Type="RIC">BD90_p.L</IssueID>
+			<IssueID Type="SEDOL">0536367</IssueID>
+			<IssueID Type="DisplayRIC">BD90_p.L</IssueID>
+			<IssueID Type="InstrumentPI">1477633</IssueID>
+			<IssueID Type="QuotePI">2790667</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-20</LastModified>
+		<LatestAvailableAnnual>2015-11-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-11-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-11-30">2044</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="323860002.0">328984945.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:14:00">Low &amp; Bonar PLC is an international company manufacturing and supplying a range of products to the performance materials industry. The Company operates in three divisions: Bonar, Technical Coated Fabrics and Yarns. The Company's Bonar division supplies products, such as geosynthetics, carpet tile backing, agro textiles and construction fibers to the civil engineering, flooring, transport, industrial and construction sectors. Its Technical Coated Fabrics division, Mehler Texnologies (MTX), supplies products, such as side curtains for lorry trailers, advertising banners, tensioned architectural structures, awnings, marquees and tarpaulins to the transport, building products, print, leisure and industrial markets. Its Yarns division supplies yarns used in the manufacture of artificial grass in sports and landscaping applications, as well as yarns used as backing material in the manufacture of woven carpet installations. It operates in Europe, North America, the Middle East and China.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T07:01:12">BRIEF: For the fiscal year ended 30 November 2015, Low &amp; Bonar plc revenues decreased 4% to L395.8M. Net income before extraordinary items decreased 50% to L5.7M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net income also reflects Share of results of joint venture increase of 64% to L1.8M (expense). Dividend per share remained flat at L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-20T07:24:46">
+		<streetAddress line="1">10th Floor 1 Eversholt Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>NW1 2DN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Michael Holt</contactName>
+		<contactTitle>Finance Director, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75353180</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75353181</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75353180</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-04-19T05:58:36"><webSite mainCategory="Home Page">http://www.lowandbonar.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-20T07:24:46">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320302010" mnem="">Construction Supplies &amp; Fixtures - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="326192" mnem="">Resilient Floor Covering Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="324122" mnem="">Asphalt Shingle and Coating Materials Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="327123" mnem="">Other Structural Clay Product Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="314999" mnem="">All Other Miscellaneous Textile Product Mills</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3069" mnem="">Fabricated Rubber Products, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2952" mnem="">Asphalt Felts And Coatings</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3259" mnem="">Structural Clay Products, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2399" mnem="">Fabricated Textile Products, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/26/2014">
+			<firstName>Brett</firstName>
+			<mI></mI>
+			<lastName>Simpson</lastName>
+			<age>50 </age>
+			<title startYear="2014" startMonth="08" startDay="26" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/22/2010">
+			<firstName>Michael</firstName>
+			<mI>J.</mI>
+			<lastName>Holt</lastName>
+			<age>54 </age>
+			<title startYear="2010" startMonth="11" startDay="22" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/23/2007">
+			<firstName>Matthew</firstName>
+			<mI></mI>
+			<lastName>Joy</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="09" startDay="23" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-11-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.60000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.76000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.54053</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.45246</Ratio>
+			<Ratio FieldName="EV" Type="N">299.49100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">197.39100</Ratio>
+			<Ratio FieldName="AREV" Type="N">395.80000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">36.20000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">5.70000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.01705</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.18380</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.50608</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10341</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.07118</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02780</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">3.25714</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.49871</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">35.19062</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.18558</Ratio>
+			<Ratio FieldName="Employees" Type="N">2044</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="11" CurInterimEndCalYear="2016" CurInterimEndMonth="5" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.78667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">9.79592</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">408.77500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.06125</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">28.57500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03050</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

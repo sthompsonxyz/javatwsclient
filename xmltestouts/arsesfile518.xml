@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">C58C2</CoID>
+		<CoID Type="CompanyName">Talktalk Telecom Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TALK</IssueID>
+			<IssueID Type="CUSIP">G8668X106</IssueID>
+			<IssueID Type="ISIN">GB00B4YCDF59</IssueID>
+			<IssueID Type="RIC">TALK.L</IssueID>
+			<IssueID Type="SEDOL">B4YCDF5</IssueID>
+			<IssueID Type="DisplayRIC">TALK.L</IssueID>
+			<IssueID Type="InstrumentPI">69789037</IssueID>
+			<IssueID Type="QuotePI">69789036</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-10</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">2107</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="510062427.0">955000000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-14T04:31:50">TalkTalk Telecom Group PLC is a United Kingdom-based provider of fixed line broadband, voice telephony, mobile and television services. The Company serves approximately four million residential and business customers under the TalkTalk and TalkTalk Business brands. The Company, through blinkbox Entertainment Limited (blinkbox), provides multi-device, multi-platform video content. TalkTalk Business is a supplier of voice and data services to the small and medium sized enterprise market. TalkTalk Business offers an Ethernet over fiber service that delivers symmetrical services. The Company's Next Generation Network (NGN) enables it to offer various products, such as HomeSafe to its customers. Its customer propositions include SimplyBroadband, which offers unlimited broadband without inclusive landline calls; Essentials TV, which delivers broadband, television and phone services, and Plus TV, which delivers broadband, phone and television services for customers.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-10T02:37:04">BRIEF: For the six months ended 30 September 2015, Talktalk Telecom Group PLC revenues increased 5% to L912M. Net loss totaled L7M vs. income of L15M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net loss reflects Operating expenses increase of 7% to L397M (expense), Operating Expenses - Exceptional increase of 89% to L17M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-02T02:12:56">
+		<streetAddress line="1">11 Evesham Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SOUTHAMPTON</city>
+		<state-region></state-region>
+		<postalCode>SO30 2LY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>34171000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-20T12:54:38"><webSite mainCategory="Home Page">http://www.talktalkgroup.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-02T02:12:56">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5810101010" mnem="">Integrated Telecommunications Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="513322" mnem="">Cellular and Other Wireless Telecommunications</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51333" mnem="">Telecommunications Resellers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4812" mnem="">Radiotelephone Communications</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4813" mnem="">Telephon Communications Not Radio</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/24/2010">
+			<firstName>Diana</firstName>
+			<mI></mI>
+			<lastName>Harding</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="02" startDay="24" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/05/2015">
+			<firstName>Iain</firstName>
+			<mI></mI>
+			<lastName>Torrens</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="05" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="06/03/2014">
+			<firstName>Charles</firstName>
+			<mI></mI>
+			<lastName>Bligh</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="06" startDay="03" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="06/03/2014">
+			<firstName>Tristia</firstName>
+			<mI></mI>
+			<lastName>Harrison</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="06" startDay="03" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director consumer business, Executive Director</title>
+		</officer>
+		<officer rank="5" since="01/20/2010">
+			<firstName>Tim</firstName>
+			<mI>S.</mI>
+			<lastName>Morris</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.15000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.15100</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.84000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.01851</Ratio>
+			<Ratio FieldName="EV" Type="N">2658.25000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2053.25000</Ratio>
+			<Ratio FieldName="AREV" Type="N">1795.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">248.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">72.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.07684</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.91569</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.31099</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01047</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.21131</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.13800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">54.59610</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">22.36025</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.14387</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">27.98022</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">6.91330</Ratio>
+			<Ratio FieldName="Employees" Type="N">2107</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.25</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.31000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">25.6000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.94802</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1853.39630</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">432.31200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.09369</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.00031</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">96.77460</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.15876</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

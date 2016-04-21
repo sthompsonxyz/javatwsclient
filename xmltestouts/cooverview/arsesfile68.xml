@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A6087</CoID>
+		<CoID Type="CompanyName">Anglesey Mining Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AYM</IssueID>
+			<IssueID Type="CUSIP">G0367Q102</IssueID>
+			<IssueID Type="ISIN">GB0000320472</IssueID>
+			<IssueID Type="RIC">AYM.L</IssueID>
+			<IssueID Type="SEDOL">0032047</IssueID>
+			<IssueID Type="DisplayRIC">AYM.L</IssueID>
+			<IssueID Type="InstrumentPI">260130</IssueID>
+			<IssueID Type="QuotePI">1080595</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-01</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">3</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="90411924.0">160608051.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-18T20:03:30">Anglesey Mining plc (Anglesey) is a United Kingdom-based company, which is engaged in the business of mine exploration, evaluation and development. The Company projects include Grangesberg iron ore property, The Parys Mountain property and Labrador iron project. It manages the Grangesberg iron ore property, which is situated in the Bergslagen district of central Sweden. It is engaged in exploring and evaluating the wholly owned Parys Mountain project in North Wales. The Parys Mountain property is zinc, copper, lead deposit with small amounts of silver and gold in the United Kingdom. It owns Parys Mountain in Wales and holds around 6% interest in Grangesberg Iron in Sweden. The Company also has an investment in the Labrador iron project in eastern Canada. Anglesey holds approximately 15.3% of Labrador Iron Mines Holdings Limited, which has around 20 direct shipping iron ore deposits in western Labrador and north-eastern Quebec.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-01T11:58:45">BRIEF: For the six months ended 30 September 2015, Anglesey Mining Plc revenues was not reported. Net loss decreased 85% to L136K. Lower net loss reflects FV Adjustments of Financial Investments decrease from L693K (expense) to L0K, Expenses decrease of 55% to L68K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-01T11:58:45">
+		<streetAddress line="1">Tower Bridge House, St. Katharines Way</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>E1W 1DD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-03-19T16:23:41"><webSite mainCategory="Home Page">http://www.angleseymining.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-01T11:58:45">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120108010" mnem="">Integrated  Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="21221" mnem="">Iron Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="212222" mnem="">Silver Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1011" mnem="">Iron Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1044" mnem="">Silver Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/10/1994">
+			<firstName>John</firstName>
+			<mI>Francis</mI>
+			<lastName>Kearney</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="11" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="01/10/2006">
+			<firstName>Bill</firstName>
+			<mI></mI>
+			<lastName>Hooley</lastName>
+			<age>67 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2010">
+			<firstName>Danesh</firstName>
+			<mI>K.</mI>
+			<lastName>Varma</lastName>
+			<age>65 </age>
+			<title startYear="2013" startMonth="07" startDay="31" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01125</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.02990</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00780</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07946</Ratio>
+			<Ratio FieldName="EV" Type="N">4.59247</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.80684</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.35507</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.73661</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01081</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.07699</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00060</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-13.10746</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.14612</Ratio>
+			<Ratio FieldName="Employees" Type="N">3</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

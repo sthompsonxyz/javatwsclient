@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">ECA11</CoID>
+		<CoID Type="CompanyName">Benchmark Holdings PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BMK</IssueID>
+			<IssueID Type="CUSIP">G09830103</IssueID>
+			<IssueID Type="ISIN">GB00BGHPT808</IssueID>
+			<IssueID Type="RIC">BMKB.L</IssueID>
+			<IssueID Type="SEDOL">BGHPT80</IssueID>
+			<IssueID Type="DisplayRIC">BMKB.L</IssueID>
+			<IssueID Type="InstrumentPI">147615682</IssueID>
+			<IssueID Type="QuotePI">147868829</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-20</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">391</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="369692777.0">473907337.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-28T01:36:05">Benchmark Holdings plc is a United Kingdom-based company engaged in the provision of technical services, products and specialist knowledge that support the development of food and farming industries. The Company operates in four segments: Animal Health Division, Sustainability Science Division, Technical Publishing Division, and Animal Breeding and Genetics Division. Animal Health Division provides veterinary services, environmental services, diagnostics and animal health products to aquaculture and agriculture, and manufactures licensed veterinary vaccines and vaccine components. Sustainability Science Division provides food production consultancy, technical consultancy and assurance services. Technical Publishing Division promotes food production and ethics through online news and technical publications for the international agriculture and food processing sectors. Animal Breeding and Genetics Division supplies salmon eggs. It is engaged in tilapia genetics and breeding business.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T09:12:08">BRIEF: For the fiscal year ended 30 September 2015, Benchmark Holdings PLC revenues increased 25% to L44.2M. Net loss increased from L1.3M to L12M. Revenues reflect Technical Publishing Division segment increase from L2.9M to L7M, Corporate segment increase from L833K to L2.3M, Sustainability Science Division segment increase of 2% to L3.1M, Rest of European Union segment increase from L5.9M to L21.4M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-20T04:22:44">
+		<streetAddress line="1">Benchmark House, 8 Smithy Wood Drive</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SHEFFIELD</city>
+		<state-region></state-region>
+		<postalCode>S35 1QN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>114</city-areacode>
+				<number>2409939</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-27T09:53:32"><webSite mainCategory="Home Page">http://www.benchmarkplc.com</webSite><eMail mainCategory="Company Contact/E-mail">info@benchmarkplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-20T04:22:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410201018" mnem="">Commercial Fishing</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="114111" mnem="">Finfish Fishing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="54194" mnem="">Veterinary Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="311119" mnem="">Other Animal Food Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="54169" mnem="">Other Scientific and Technical Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="0912" mnem="">Finfish</Industry>
+			<Industry type="SIC" order="2" reported="0" code="0742" mnem="">Veterinary Services, Specialties</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2048" mnem="">Prepared Feeds, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="5" reported="0" code="8999" mnem="">Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Malcolm</firstName>
+			<mI></mI>
+			<lastName>Pye</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Plampin</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Roland</firstName>
+			<mI></mI>
+			<lastName>Bonney</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Banfield</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - 5M Publishing</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Cook</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Managing Director of RL Consulting</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Ruth</firstName>
+			<mI></mI>
+			<lastName>Layton</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Veterinary Development Director of Group Sustainability Science</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Bob</firstName>
+			<mI></mI>
+			<lastName>Long</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Managing Director of Benchmark Vaccines ltd</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Marshall</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Technical Director of FVG &amp; BVL</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Hernan</firstName>
+			<mI></mI>
+			<lastName>Pizarro</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Technical Services Director and Head of FVG USA</title>
+		</officer>
+		<officer rank="10" since="NA">
+			<firstName>Pete</firstName>
+			<mI></mI>
+			<lastName>Southgate</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Technical Operations Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.61500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.12500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.57000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07026</Ratio>
+			<Ratio FieldName="EV" Type="N">278.04500</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">291.45300</Ratio>
+			<Ratio FieldName="AREV" Type="N">44.19900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-7.05000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-11.98800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.05956</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.21959</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.41555</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06184</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.03670</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">36.41938</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-18.67392</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.59411</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.47996</Ratio>
+			<Ratio FieldName="Employees" Type="N">391</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">68.33333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">120.90000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00900</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">8.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3390</CoID>
+		<CoID Type="CompanyName">Vp plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VP.</IssueID>
+			<IssueID Type="CUSIP">G93450107</IssueID>
+			<IssueID Type="ISIN">GB0009286963</IssueID>
+			<IssueID Type="RIC">VP.L</IssueID>
+			<IssueID Type="SEDOL">0928696</IssueID>
+			<IssueID Type="DisplayRIC">VP.L</IssueID>
+			<IssueID Type="InstrumentPI">263058</IssueID>
+			<IssueID Type="QuotePI">1197128</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-29</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">1726</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="16703007.0">40154253.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:08:46">Vp plc is a United Kingdom-based company engaged in equipment rental and offering associated services. The Company operates through six segments: Hire Station, Torrent Trackside, UK Forks, Groundforce, Airpac Bukom and TPA. The Hire Station segment is a provider of small tools, climate, lifting, safety, survey and press fitting equipment. The Torrent Trackside segment is a supplier of rail infrastructure portable plant and related trackside services. The UK Forks segment is a hirer of telescopic handlers and associated equipment. The Groundforce segment is a rental provider of excavation support, piling, pipe stoppers, air pressure testing, pumps, trenchless technology and temporary bridges. The Airpac Bukom segment provides specialist compressed air and steam generation services. The TPA segment supplies temporary access solutions, including equipment rental and installation of portable roadways and walkways, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-26T09:46:29">BRIEF: For the six months ended 30 September 2015, Vp plc revenues increased 4% to L105.1M. Net income increased 6% to L13M. Revenues reflect Hire Station segment increase of 9% to L39.2M, Torrent Trackside segment increase of 21% to L15.7M, Groundforce segment increase of 9% to L24.5M. Net income benefited from Hire Station segment income increase of 27% to L6.1M, Groundforce segment income increase of 12% to L5.6M, UK Forks segment income increase of 25% to L2.9M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-29T05:19:41">
+		<streetAddress line="1">Central House,Beckwith Knowle,Otley Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HARROGATE</city>
+		<state-region></state-region>
+		<postalCode>HG3 1UD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1423</city-areacode>
+				<number>533400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1423</city-areacode>
+				<number>565657</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-13T10:48:46"><webSite mainCategory="Home Page">http://www.vpplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-29T05:19:41">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304018" mnem="">Commercial Equipment Rental</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="532412" mnem="">Construction, Mining and Forestry Machinery and Equipment Rental and Leasing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="48831" mnem="">Port and Harbor Operations</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23599" mnem="">All Other Special Trade Contractors</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="213112" mnem="">Support Activities for Oil and Gas Operations</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="532411" mnem="">Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7359" mnem="">Equipment Rental &amp; Leasing, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4491" mnem="">Marine Cargo Handling</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1796" mnem="">Installing Bldg Equipment, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1389" mnem="">Oil And Gas Field Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1981">
+			<firstName>Jeremy</firstName>
+			<mI>F. G.</mI>
+			<lastName>Pilkington</lastName>
+			<age></age>
+			<title startYear="2004" startMonth="07" startDay="05" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="03/01/2011">
+			<firstName>Allison</firstName>
+			<mI>M.</mI>
+			<lastName>Bainbridge</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="03" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="1997">
+			<firstName>Neil</firstName>
+			<mI>A.</mI>
+			<lastName>Stothard</lastName>
+			<age></age>
+			<title startYear="2004" startMonth="07" startDay="05" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Group Managing Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">6.70000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">8.16000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">6.03940</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.05108</Ratio>
+			<Ratio FieldName="EV" Type="N">335.79750</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">269.03350</Ratio>
+			<Ratio FieldName="AREV" Type="N">205.60200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">50.52600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">19.87100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.47006</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.86367</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.78277</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.13040</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.10184</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">27.64030</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">18.08946</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.30852</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.25350</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.40767</Ratio>
+			<Ratio FieldName="Employees" Type="N">1726</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">8.25000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.04494</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">214.34430</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.55625</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">28.45000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.17700</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

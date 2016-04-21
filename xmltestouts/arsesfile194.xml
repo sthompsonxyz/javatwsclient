@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A40FD</CoID>
+		<CoID Type="CompanyName">Earthport plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">EPO</IssueID>
+			<IssueID Type="CUSIP">G29014126</IssueID>
+			<IssueID Type="ISIN">GB00B0DFPF10</IssueID>
+			<IssueID Type="RIC">EPO.L</IssueID>
+			<IssueID Type="SEDOL">B0DFPF1</IssueID>
+			<IssueID Type="DisplayRIC">EPO.L</IssueID>
+			<IssueID Type="InstrumentPI">384372</IssueID>
+			<IssueID Type="QuotePI">820226</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2005-08-01">0.01315</MostRecentSplit>
+		</Issue>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">13347799</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-18</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">161</Employees>
+		<SharesOut Date="2015-11-03" TotalFloat="400213026.0">784246694.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-04T11:05:59">Earthport plc is a United Kingdom-based financial services company. The Company provides cross-border payments services to banks, e-commerce providers, money transfer companies and payment administrators. The Company's segments include Transactional and Professional services. The Company is engaged in the provision of payment services through the combination of a network of segregated bank accounts in various geographies (the banking network), software, which mirrors the international movements of funds from bank to bank, the knowledge base embedded in the platform and the organization related to each of the countries that the Company delivers payments to. This service is available to financial institutions, aggregators, money service businesses and FX houses. The Company provides around the clock processing. The Company's subsidiaries include Earthport North America Inc. and Baydonhill Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-18T04:49:53">BRIEF: For the fiscal year ended 30 June 2015, Earthport plc revenues increased 78% to L19.3M. Net loss increased 30% to L8.7M. Revenues reflect Transactional segment increase of 69% to L16.3M, Professional services segment increase from L1.2M to L3M, United Kingdom segment increase of 70% to L12.3M, North America segment increase from L2.3M to L4.6M. Higher net loss reflects Staff Costs increase of 37% to L10.9M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T23:40:49">
+		<streetAddress line="1">21 New Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2M 4TP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72209700</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72209701</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-01T12:02:17"><webSite mainCategory="Home Page">http://www.earthport.com</webSite><eMail mainCategory="Company Contact/E-mail">investor@earthport.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T23:40:49">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304027" mnem="">Transaction &amp; Payment Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52232" mnem="">Financial Transactions Processing, Reserve, and Clearing House Activities</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="56144" mnem="">Collection Agencies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6099" mnem="">Funcions Related To Deposit Banks</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7322" mnem="">Adjustment &amp; Collection Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/18/2010">
+			<firstName>Hank</firstName>
+			<mI></mI>
+			<lastName>Uberoi</lastName>
+			<age>48 </age>
+			<title startYear="2015" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="06/11/2015">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>Adamiyatt</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="17" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="2011">
+			<firstName>Christopher</firstName>
+			<mI>John</mI>
+			<lastName>Cowlard</lastName>
+			<age>42 </age>
+			<title startYear="2012" startMonth="10" startDay="05" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Asif</firstName>
+			<mI></mI>
+			<lastName>Ali</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+		<officer rank="5" since="10/15/2014">
+			<firstName>Sajeev</firstName>
+			<mI></mI>
+			<lastName>Viswanathan</lastName>
+			<age>46 </age>
+			<title startYear="2014" startMonth="10" startDay="15" iD1="DRC" abbr1="Dir." iD2="CEX" abbr2="Corp. Exec.">President - Global Head of Strategy and Product, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.25375</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.48000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.24000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.35024</Ratio>
+			<Ratio FieldName="EV" Type="N">90.79220</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">120.98720</Ratio>
+			<Ratio FieldName="AREV" Type="N">19.26700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-6.05700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-8.69100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01883</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04175</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.04771</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03852</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01397</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">77.47444</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-33.09470</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.27950</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.31870</Ratio>
+			<Ratio FieldName="Employees" Type="N">161</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.55000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">23.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

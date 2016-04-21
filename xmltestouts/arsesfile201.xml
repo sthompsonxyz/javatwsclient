@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC3AA</CoID>
+		<CoID Type="CompanyName">European Wealth Group Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">EWG</IssueID>
+			<IssueID Type="CUSIP">G330AE102</IssueID>
+			<IssueID Type="ISIN">GG00BKY4K072</IssueID>
+			<IssueID Type="RIC">EWGE.L</IssueID>
+			<IssueID Type="SEDOL">BKY4K07</IssueID>
+			<IssueID Type="DisplayRIC">EWGE.L</IssueID>
+			<IssueID Type="InstrumentPI">19600725</IssueID>
+			<IssueID Type="QuotePI">19745819</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2014-05-07">0.01666</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-29</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">58</Employees>
+		<SharesOut Date="2015-12-11" TotalFloat="9419754.0">23446845.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-14T07:00:52">European Wealth Group Limited, formerly EW Group Limited, is a holding company. The Company's core services include financial planning, corporate pension advisory and investment management in both equity and fixed interest instruments. The Company has two operating divisions: European Investment Management Limited (EIM) and European Financial Planning Limited (EFP). EIM is the investment management arm of European Wealth Management Group Limited (EWMG) providing investment management for private clients, trusts, pension funds and charities. EIM also manages money on behalf of third party independent financial advisers. EFP provides advice to clients covering three core services: financial planning, corporate pension advisory and tax planning. Its subsidiaries include European Wealth Management Group Limited, European Investment Management Limited, European Financial Planning Limited, P&amp;C Global Wealth Managers SA and European Wealth Trading Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-29T00:53:17">BRIEF: For the six months ended 30 June 2015, European Wealth Group Ltd revenues increased from L1.9M to L3.9M. Net loss totaled L399K vs. income of L330K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net loss reflects Administrative expenses increase from L1.6M to L3.2M (expense), Finance costs increase of 71% to L235K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-29T22:28:25">
+		<streetAddress line="1">Roseneath,The Grange</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 4SJ</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-05-25T22:54:26"><webSite mainCategory="Home Page">http://www.europeanwealth.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-29T22:28:25">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202016" mnem="">Private Equity</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6282" mnem="">Investment Advice</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/30/2009">
+			<firstName>Ian</firstName>
+			<mI>Roger</mI>
+			<lastName>Parry</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="07" startDay="30" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.65250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.95000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.61000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00352</Ratio>
+			<Ratio FieldName="EV" Type="N">23.81582</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">19.52782</Ratio>
+			<Ratio FieldName="AREV" Type="N">5.57800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">0.47800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.34800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.02609</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.41817</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.84071</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01197</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00930</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">83.75762</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-2.82307</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.50086</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.77613</Ratio>
+			<Ratio FieldName="Employees" Type="N">58</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">81.56250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">8.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2F4C</CoID>
+		<CoID Type="CompanyName">3i Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">III</IssueID>
+			<IssueID Type="CUSIP">G88473148</IssueID>
+			<IssueID Type="ISIN">GB00B1YW4409</IssueID>
+			<IssueID Type="RIC">III.L</IssueID>
+			<IssueID Type="SEDOL">B1YW440</IssueID>
+			<IssueID Type="DisplayRIC">III.L</IssueID>
+			<IssueID Type="InstrumentPI">359853</IssueID>
+			<IssueID Type="QuotePI">1049347</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-05-28">1.60587</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="Ticker">IIIP</IssueID>
+			<IssueID Type="CUSIP">G88473122</IssueID>
+			<IssueID Type="ISIN">GB00B16PRC61</IssueID>
+			<IssueID Type="RIC">III_p.L^G14</IssueID>
+			<IssueID Type="SEDOL">B16PRC6</IssueID>
+			<IssueID Type="DisplayRIC">III_p.L</IssueID>
+			<IssueID Type="InstrumentPI">26982513</IssueID>
+			<IssueID Type="QuotePI">26982512</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-27</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">271</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="954285914.0">972637354.0</SharesOut>
+		<CommonShareholders Date="2015-03-31">19664</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T04:34:18">3i Group plc is a United Kingdom-based investment manager focused on mid-market private equity, infrastructure and debt management. The Company invests in northern Europe and North America markets. The Company provides investment to private equities in various sectors, such as consumer, industrial and business services. The Company provides investment to utilities, transportation and social infrastructure in the United Kingdom and Europe. The Company's debt management is a fund management business, which generates returns through managing third-party capital through collateralized loan obligations (CLOs) and other senior debt focused funds. The Company's debt management includes management of funds, which invest in senior and mezzanine corporate debt in various companies in the United Kingdom, Europe and North America.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-27T14:40:42">BRIEF: For the six months ended 30 September 2015, 3i Group plc revenues decreased 19% to L269M. Net income decreased 39% to L155M. Revenues reflect Quoted Private Equity segment decrease of 13% to L246M. Net income also reflects FV Adjustments of Financial Investments increase from L10M (income) to L31M (expense), Carried interest and performance fees re increase from L19M (income) to L10M (expense). Dividend per share remained flat at L0.06.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-27T14:40:45">
+		<streetAddress line="1">16 Palace Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1E 5JD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Silvia Santoro</contactName>
+		<contactTitle>Investor Relations Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79753131</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79753232</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-18T09:40:50"><webSite mainCategory="Home Page">http://www.3i.com</webSite><eMail mainCategory="Company Contact/E-mail">IRTeam@3i.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-27T14:40:45">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202010" mnem="">Investment Management &amp; Fund Operators - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/17/2011">
+			<firstName>Simon</firstName>
+			<mI>A.</mI>
+			<lastName>Borrows</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="05" startDay="17" iD1="CEO" abbr1="CEO" iD2="CIN" abbr2="Chief Inv.Off.">Chief Executive Officer, Chief Investment Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/01/2008">
+			<firstName>Julia</firstName>
+			<mI>S.</mI>
+			<lastName>Wilson</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="12" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/2011">
+			<firstName>Jeremy</firstName>
+			<mI></mI>
+			<lastName>Ghose</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="02" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Managing Partner and Chief Executive Officer of 3i Debt Management Investments Limited</title>
+		</officer>
+		<officer rank="4" since="11/2007">
+			<firstName>Kevin</firstName>
+			<mI>J.</mI>
+			<lastName>Dunn</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="11" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary, Head - Human Resources</title>
+		</officer>
+		<officer rank="5" since="09/17/2010">
+			<firstName>Menno</firstName>
+			<mI>A.</mI>
+			<lastName>Antal</lastName>
+			<age>50 </age>
+			<title startYear="2010" startMonth="09" startDay="17" iD1="OTH" abbr1="Other" iD2="" abbr2="">Managing Partner - Private Equity</title>
+		</officer>
+		<officer rank="6" since="09/17/2010">
+			<firstName>Alan</firstName>
+			<mI>C.B.</mI>
+			<lastName>Giddins</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="09" startDay="17" iD1="OTH" abbr1="Other" iD2="" abbr2="">Managing Partner - Private Equity</title>
+		</officer>
+		<officer rank="7" since="07/2012">
+			<firstName>Ben</firstName>
+			<mI></mI>
+			<lastName>Loomes</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="03" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Co-Managing Partners - Infrastructure</title>
+		</officer>
+		<officer rank="8" since="03/2014">
+			<firstName>Phil</firstName>
+			<mI></mI>
+			<lastName>White</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="03" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Co-Managing Partners - Infrastructure</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.22200</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.71500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.89100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.06523</Ratio>
+			<Ratio FieldName="EV" Type="N">4060.47500</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4106.47500</Ratio>
+			<Ratio FieldName="AREV" Type="N">851.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">826.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">700.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.72946</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.88682</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.91381</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.88539</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.73780</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.20000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.67951</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.82547</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">5.78784</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.07874</Ratio>
+			<Ratio FieldName="Employees" Type="N">271</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.125</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.44143</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-6.3500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">9.51072</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">566.41500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.44392</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">416.63500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.15760</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

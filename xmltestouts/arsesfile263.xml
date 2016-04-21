@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A491A</CoID>
+		<CoID Type="CompanyName">HSBC Holdings plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HSBA</IssueID>
+			<IssueID Type="CUSIP">G4634U169</IssueID>
+			<IssueID Type="ISIN">GB0005405286</IssueID>
+			<IssueID Type="RIC">HSBA.L</IssueID>
+			<IssueID Type="SEDOL">0540528</IssueID>
+			<IssueID Type="DisplayRIC">HSBA.L</IssueID>
+			<IssueID Type="InstrumentPI">312270</IssueID>
+			<IssueID Type="QuotePI">1049324</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-03-20">1.11475</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-22</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-12-31">255203</Employees>
+		<SharesOut Date="2016-01-28" TotalFloat="19626333734.0">19686131569.0</SharesOut>
+		<CommonShareholders Date="2015-12-31">213054</CommonShareholders>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-16T05:36:40">HSBC Holdings plc (HSBC) is the banking and financial services company. The Company's principal activities include making payments, holding savings, enabling trade, providing finance and managing risks. The Company operates in four businesses: Retail Banking and Wealth Management (RBWM), Commercial Banking (CMB), Global Banking and Markets (GB&amp;M), and Global Private Banking (GPB). RBWM offers personal banking products and wealth management services. CMB offers a range of commercial financial services and solutions to customers ranging from small and medium-sized enterprises to publicly quoted companies. GB&amp;M provides financial solutions to Government, corporate and institutional clients across the world. GPB offers products and services, which include private banking, investment management and private wealth solutions. It operates in Europe, Asia, Middle East and North Africa, North America and Latin America.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T12:36:36">BRIEF: For the fiscal year ended 31 December 2015, HSBC Holdings plc interest income decreased 7% to $47.19B. Net interest income after loan loss provision decreased 7% to $28.81B.  Net income applicable to common stockholders decreased 4% to $12.57B. Net interest income after loan loss provision reflects Retail Banking &amp; Wealth Management segment decrease of 7% to $13.99B, Commercial Banking segment decrease of 8% to $8.09B.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T12:37:32">
+		<streetAddress line="1">8 Canada Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>E14 5HQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Guy Lewis</contactName>
+		<contactTitle>Investor Relations Manager</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79923688</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>2</city-areacode>
+				<number>079921938</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-21T03:12:48"><webSite mainCategory="Home Page">http://www.hsbc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T12:37:32">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510101011" mnem="">Commercial Banks</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52211" mnem="">Commercial Banking</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="SIC" order="0" reported="1" code="6035" mnem="">Federal Savings Institutions</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6029" mnem="">Commercial Banks, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6282" mnem="">Investment Advice</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/1995">
+			<firstName>Douglas</firstName>
+			<mI>J.</mI>
+			<lastName>Flint</lastName>
+			<age>59 </age>
+			<title startYear="2010" startMonth="12" startDay="03" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Group Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="2000">
+			<firstName>Stuart</firstName>
+			<mI>T.</mI>
+			<lastName>Gulliver</lastName>
+			<age>55 </age>
+			<title startYear="2011" startMonth="01" startDay="01" iD1="CEO" abbr1="CEO" iD2="MDR" abbr2="Mgng.Dir.">Group Chief Executive, Group Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/24/2010">
+			<firstName>Iain</firstName>
+			<mI>J.</mI>
+			<lastName>Mackay</lastName>
+			<age>53 </age>
+			<title startYear="2010" startMonth="12" startDay="03" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="01/01/2001">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Keir</lastName>
+			<age>56 </age>
+			<title startYear="2013" startMonth="10" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive of HSBC Bank plc</title>
+		</officer>
+		<officer rank="5" since="02/25/2008">
+			<firstName>Brian</firstName>
+			<mI></mI>
+			<lastName>Robertson</lastName>
+			<age>73 </age>
+			<title startYear="2014" startMonth="01" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chairman of HSBC Latin America and a Director of HSBC North America Holdings</title>
+		</officer>
+		<officer rank="6" since="08/01/2011">
+			<firstName>Sean</firstName>
+			<mI>P.</mI>
+			<lastName>O'Sullivan</lastName>
+			<age>59 </age>
+			<title startYear="2011" startMonth="08" startDay="01" iD1="COO" abbr1="COO" iD2="MDR" abbr2="Mgng.Dir.">Group Chief Operating Officer, Group Managing Director</title>
+		</officer>
+		<officer rank="7" since="11/26/2010">
+			<firstName>Marc</firstName>
+			<mI>M.</mI>
+			<lastName>Moses</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="CRO" abbr1="CRO" iD2="MDR" abbr2="Mgng.Dir.">Group Chief Risk Officer, Group Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="8" since="02/25/2008">
+			<firstName>Ann</firstName>
+			<mI></mI>
+			<lastName>Almeida</lastName>
+			<age>58 </age>
+			<title startYear="2012" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Group Managing Director, Group Head - Human Resources and Corporate Sustainability</title>
+		</officer>
+		<officer rank="9" since="01/01/2011">
+			<firstName>Samir</firstName>
+			<mI></mI>
+			<lastName>Assaf</lastName>
+			<age>54 </age>
+			<title startYear="2011" startMonth="01" startDay="01" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Group Managing Director, Chief Executive - Global Banking &amp; Markets</title>
+		</officer>
+		<officer rank="10" since="10/01/2013">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Boyles</lastName>
+			<age>59 </age>
+			<title startYear="2013" startMonth="10" startDay="01" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Group Managing Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.41300</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.74570</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.20150</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">34.64445</Ratio>
+			<Ratio FieldName="EV" Type="N">232811.38000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">86874.90000</Ratio>
+			<Ratio FieldName="AREV" Type="N">33353.66000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">15055.76000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">8886.01600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.45530</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.37814</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">6.76682</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">3.75941</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.62333</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.35341</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">6.63593</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.87174</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.69254</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.65215</Ratio>
+			<Ratio FieldName="Employees" Type="N">255203</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5556</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.73661</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">0.9500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.44529</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">39790.92676</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.52254</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.08482</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">13843.99386</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.36118</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

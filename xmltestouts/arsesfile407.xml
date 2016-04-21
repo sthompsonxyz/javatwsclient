@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D6CD8</CoID>
+		<CoID Type="CompanyName">Port Erin Biopharma Investments Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PEBI</IssueID>
+			<IssueID Type="CUSIP">G71857109</IssueID>
+			<IssueID Type="ISIN">IM00B6QH1J21</IssueID>
+			<IssueID Type="RIC">PEBI.L</IssueID>
+			<IssueID Type="SEDOL">B6QH1J2</IssueID>
+			<IssueID Type="DisplayRIC">PEBI.L</IssueID>
+			<IssueID Type="InstrumentPI">93518914</IssueID>
+			<IssueID Type="QuotePI">93623213</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-04</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-06-30">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="14408804.0">23195558.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-19T03:33:45">Port Erin Biopharma Investments Limited is an Isle of Man-based company that invests in the biotechnology and biopharmaceutical sector. The Company intends to create value for shareholders through investing in companies that have the potential to generate revenues through the development of biopharmaceutical drugs. The Company invests in equity and equity related products in both quoted companies, which offer the benefits of liquidity, and in unquoted companies, which offer the additional capital gains upon completion of an Initial Public Offering (IPO). The Company also invests in shares of collective investment schemes with exposure to the Biopharma Sector and in long-term equity anticipation securities the underlying securities. The Company invests 15% of its net asset value in Biopharma Sector debt.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-01T09:34:07">BRIEF: For the fiscal year ended 30 June 2015, Port Erin Biopharma Investments Ltd revenues decreased from L2.1M to -L191K. Net loss totaled L602K vs. income of L1.4M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net loss reflects Othercosts increase of 93% to L444K (expense). Basic Earnings per Share excluding Extraordinary Items decreased from L0.04 to -L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-04T05:11:17">
+		<streetAddress line="1">18 Athol Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DOUGLAS</city>
+		<state-region></state-region>
+		<postalCode>IM1 1JA</postalCode>
+		<country code="IMN">Isle of Man</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>620711</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-11-28T04:00:25"><webSite mainCategory="Home Page">http://www.porterinbiopharma.com</webSite><eMail mainCategory="Company Contact/E-mail">ssd@capitaregistrars.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-04T05:11:17">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5620201010" mnem="">Biotechnology &amp; Medical Research - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.05500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.11500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.05000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00622</Ratio>
+			<Ratio FieldName="EV" Type="N">-1.43476</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.27576</Ratio>
+			<Ratio FieldName="AREV" Type="N">-0.19078</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.64299</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.60165</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.02031</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.00644</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.11582</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.11686</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-15.69249</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.47486</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

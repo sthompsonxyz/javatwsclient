@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A320D</CoID>
+		<CoID Type="CompanyName">U and I Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">UAI</IssueID>
+			<IssueID Type="CUSIP">G9159A100</IssueID>
+			<IssueID Type="ISIN">GB0002668464</IssueID>
+			<IssueID Type="RIC">UAI.L</IssueID>
+			<IssueID Type="SEDOL">0266846</IssueID>
+			<IssueID Type="DisplayRIC">UAI.L</IssueID>
+			<IssueID Type="InstrumentPI">260731</IssueID>
+			<IssueID Type="QuotePI">1079565</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-06-24">1.03587</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-11</LastModified>
+		<LatestAvailableAnnual>2015-02-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-02-28">112</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="116106455.0">124955488.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-19T21:19:36">U and I Group PLC, formerly Development Securities PLC, is a United Kingdom-based property regeneration company. The Company's segments include Investment, which is engaged in the management of its investment property portfolio, generating rental income and valuation surpluses from property management; Development and trading, including management of its development and trading properties, and Operating, which consists of servicing of office operations. The Company has a portfolio of mixed-use regeneration projects in London, the south-east, Manchester and Dublin. It has public private partnership schemes in the London boroughs of Bromley, Lewisham, Lambeth and Greenwich and in towns like Lichfield and Sittingbourne. The Company's property portfolio are located at Brunel Place, Slough; Friarsgate Shopping Centre, Percy Place, Dublin; Telegraph Works, Greenwich; Valentine's House, Ilford; The Old Vinyl Factory, Hayes; The Square, Hale Barns, Manchester, and Wick Lane Wharf Hackney. </Text>
+		<Text Type="Financial Summary" lastModified="2015-11-08T14:11:02">BRIEF: For the six months ended 31 August 2015, U and I Group PLC revenues decreased 18% to L75.6M. Net income decreased 83% to L1.4M. Revenues reflect Land, Development and Trading Properties segment decrease of 21% to L66.3M, Operating Property Income segment decrease of 5% to L2.1M. Net income also reflects Land, Development and Trading Properties segment income decrease of 94% to L700K, Investment segment income decrease of 38% to L4.5M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T02:05:53">
+		<streetAddress line="1">Stag Place Portland House</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1E 5DS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Lucy Grimble</contactName>
+		<contactTitle>Investor Relations Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78284777</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78284999</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>78284777</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-08T11:00:04"><webSite mainCategory="Home Page">http://www.developmentsecurities.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">lucy.grimble@devsecs.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T02:05:53">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540201010" mnem="">Real Estate Development &amp; Operations - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="531312" mnem="">Nonresidential Property Managers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="531311" mnem="">Residential Property Managers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23311" mnem="">Land Subdivision and Land Development</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="523999" mnem="">Miscellaneous Financial Investment Activities</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6531" mnem="">Real Estate Agents And Managers</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6552" mnem="">Subdividers And Developers, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6289" mnem="">Security/commodity Services Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/17/2004">
+			<firstName>Matthew</firstName>
+			<mI>S.</mI>
+			<lastName>Weiner</lastName>
+			<age>43 </age>
+			<title startYear="2015" startMonth="07" startDay="14" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/2014">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Upton</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="07" startDay="14" iD1="DCE" abbr1="Dep-CEO" iD2="EDR" abbr2="Exec. Dir.">Deputy Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/18/2013">
+			<firstName>Marcus</firstName>
+			<mI>O.</mI>
+			<lastName>Shepherd</lastName>
+			<age>49 </age>
+			<title startYear="2014" startMonth="11" startDay="10" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="11/10/2014">
+			<firstName>Christopher</firstName>
+			<mI>P.</mI>
+			<lastName>Barton</lastName>
+			<age>55 </age>
+			<title startYear="2014" startMonth="11" startDay="10" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-02-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.05250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.93000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.95000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.59005</Ratio>
+			<Ratio FieldName="EV" Type="N">399.85410</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">256.47110</Ratio>
+			<Ratio FieldName="AREV" Type="N">203.74000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">36.21600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">33.27600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.26766</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.63881</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.76663</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.49344</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.28262</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05900</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">25.99931</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">9.99425</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.25882</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">7.66831</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.74188</Ratio>
+			<Ratio FieldName="Employees" Type="N">112</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="2" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.95000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.27063</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">221.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.28230</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">38.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.09367</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

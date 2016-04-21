@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A30BB</CoID>
+		<CoID Type="CompanyName">John Menzies plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MNZS</IssueID>
+			<IssueID Type="CUSIP">G59892110</IssueID>
+			<IssueID Type="ISIN">GB0005790059</IssueID>
+			<IssueID Type="RIC">MNZS.L</IssueID>
+			<IssueID Type="SEDOL">0579005</IssueID>
+			<IssueID Type="DisplayRIC">MNZS.L</IssueID>
+			<IssueID Type="InstrumentPI">261978</IssueID>
+			<IssueID Type="QuotePI">1079375</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">8.58% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">124986515</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">9% Preferred Shares</IssueID>
+			<IssueID Type="Ticker">68HN</IssueID>
+			<IssueID Type="CUSIP">G59892102</IssueID>
+			<IssueID Type="ISIN">GB0005790273</IssueID>
+			<IssueID Type="RIC">68HN_p.L</IssueID>
+			<IssueID Type="SEDOL">0579027</IssueID>
+			<IssueID Type="DisplayRIC">68HN_p.L</IssueID>
+			<IssueID Type="InstrumentPI">1477702</IssueID>
+			<IssueID Type="QuotePI">2790749</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">24443</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="47525129.0">61357957.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">4113</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:12:20">John Menzies plc is a United kingdom-based company, which provides support services in fast-moving, time-critical markets. The Company operates through two segments: Distribution and Aviation. The Distribution segment provides newspaper and magazine distribution services in the United Kingdom and Ireland along with marketing services. The Aviation segment provides cargo and passenger ground handling services across the world. The Company is engaged in activities, including ground handling, distribution, cargo handling and cargo forwarding. The Company's distribution activities are focused in two sectors: the United Kingdom print media supply chain and the United Kingdom retail logistics and parcel delivery market. The Company's subsidiaries include Menzies Distribution Limited, Menzies Aviation plc and Menzies Aviation Holdings Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-19T10:28:58">BRIEF: For the 26 weeks ended 30 June 2015, John Menzies plc revenues increased 1% to L954.1M. Net income decreased 71% to L2.9M. Revenues reflect Aviation Services segment increase of 5% to L370.8M, Americas segment increase of 28% to L68.6M, Continental Europe segment increase of 5% to L85.9M, Rest of the World segment increase of 3% to L111.8M. Net income was offset by Aviation Services segment income decrease of 86% to L1.4M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-14T00:32:17">
+		<streetAddress line="1">2 Lochside Avenue, Edinburgh Park</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH12 9DJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>John Geddes</contactName>
+		<contactTitle>Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>2263752</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0131</city-areacode>
+				<number>4598180</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-14T08:43:02"><webSite mainCategory="Home Page">http://www.johnmenziesplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-14T00:32:17">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330204010" mnem="">Consumer Publishing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="42292" mnem="">Book, Periodical and Newspaper Wholesalers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="488119" mnem="">Other Airport Operations</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5192" mnem="">Books, Periodicals, &amp; Newspapers</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4581" mnem="">Airports/flying Fields/services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/10/2013">
+			<firstName>Paula</firstName>
+			<mI></mI>
+			<lastName>Bell</lastName>
+			<age>46 </age>
+			<title startYear="2013" startMonth="06" startDay="10" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="06/01/2014">
+			<firstName>Forsyth</firstName>
+			<mI></mI>
+			<lastName>Black</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="01" startDay="13" iD1="MDR" abbr1="Mgng.Dir." iD2="DRC" abbr2="Dir.">Managing Director of Menzies Aviation, Director</title>
+		</officer>
+		<officer rank="3" since="01/13/2016">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Cassie</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="01" startDay="13" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Interim Managing Director of Menzies Distribution</title>
+		</officer>
+		<officer rank="4" since="2006">
+			<firstName>John</firstName>
+			<mI>F.A.</mI>
+			<lastName>Geddes</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="IRC" abbr2="IR-Contact">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.44000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.25000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.56500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.25600</Ratio>
+			<Ratio FieldName="EV" Type="N">383.22930</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">272.42930</Ratio>
+			<Ratio FieldName="AREV" Type="N">1902.90000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">62.40000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">13.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.22638</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">30.99186</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.10937</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.53511</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.73453</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16200</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.97192</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.14317</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">19.61304</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.00228</Ratio>
+			<Ratio FieldName="Employees" Type="N">24443</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">4.49250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.62837</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1946.07500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.41775</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">38.35000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.16450</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

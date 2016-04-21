@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B0B5C</CoID>
+		<CoID Type="CompanyName">Edge Resources Inc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">EDE</IssueID>
+			<IssueID Type="CUSIP">27986R101</IssueID>
+			<IssueID Type="ISIN">CA27986R1010</IssueID>
+			<IssueID Type="RIC">EDE.V</IssueID>
+			<IssueID Type="SEDOL">B1HMFC2</IssueID>
+			<IssueID Type="DisplayRIC">EDE.V</IssueID>
+			<IssueID Type="InstrumentPI">283216</IssueID>
+			<IssueID Type="QuotePI">756789</IssueID>
+			<Exchange Code="CVE" Country="CAN">TSX Venture Exchange</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Unit</IssueID>
+			<IssueID Type="InstrumentPI">85173071</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-16</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<SharesOut Date="2015-09-30" TotalFloat="168123914.0">170102246.0</SharesOut>
+		<ReportingCurrency Code="CAD">Canadian Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.3705</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:11:52">Edge Resources Inc. (Edge) is a Canada-based junior oil and gas company. The Company focuses on the exploration, development and production of shallow oil and natural gas horizons. Its operating projects include Eye Hill, Grand Forks and Edmonton Sands. The Eye Hill project produces over 100 barrels of oil per day (BOPD) with decreasing water cuts. The Grand Forks project has a net oil production of approximately 90 barrels of oil equivalent (BOE)/day and proved developed producing (PDP) reserves of approximately 443,800 BOE. The Company owns interests in 28 sections of land in the Willesden Green and Gilby areas, located in west central Alberta approximately 75 kilometers northwest of Red Deer, Alberta.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-16T12:39:07">BRIEF: For the six months ended 30 September 2015, Edge Resources Inc revenues decreased 50% to C$2.4M. Net loss totaled C$2M vs. income of C$170K. Revenues reflect Oil and natural gas sales decrease of 52% to C$2.8M. Net loss reflects derivatives Gain on settlement of decomm decrease from C$463K (income) to C$584K (expense), Interest exp on bank debt &amp; loan payble increase from C$251K to C$533K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T12:39:11">
+		<streetAddress line="1">Elveden House</streetAddress>
+		<streetAddress line="2">Suite 1400, 717-7th Avenue SW</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CALGARY</city>
+		<state-region>AB</state-region>
+		<postalCode>T2P 0Z3</postalCode>
+		<country code="CAN">Canada</country>
+		<contactName>Ward Kondas</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>403</city-areacode>
+				<number>7679905</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>403</city-areacode>
+				<number>7679007</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>778</city-areacode>
+				<number>9188384</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-25T11:13:55"><webSite mainCategory="Home Page">http://www.edgeres.com</webSite><eMail mainCategory="Company Contact/E-mail">wkondas@edgeres.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T12:39:11">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/01/2009">
+			<firstName>Brad</firstName>
+			<mI></mI>
+			<lastName>Nichol</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="06" startDay="01" iD1="CEO" abbr1="CEO" iD2="PRE" abbr2="Pres.">President, Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="07/31/2011">
+			<firstName>Nathan</firstName>
+			<mI></mI>
+			<lastName>Steinke</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="07" startDay="31" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="05/01/2012">
+			<firstName>Montgomery</firstName>
+			<mI></mI>
+			<lastName>McNeil</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="05" startDay="01" iD1="VOP" abbr1="VP-Op." iD2="" abbr2="">Vice President - Operations</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Scott</firstName>
+			<mI>M.</mI>
+			<lastName>Reeves</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="DRC" abbr2="Dir.">Corporate Secretary, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="CAD" ReportingCurrency="CAD" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.13000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.43825</Ratio>
+			<Ratio FieldName="EV" Type="N">18.79101</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.70102</Ratio>
+			<Ratio FieldName="AREV" Type="N">8.29156</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.06456</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-11.45791</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.06993</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.05061</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.01989</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.00978</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">53.32760</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-129.59760</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.20515</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.50276</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

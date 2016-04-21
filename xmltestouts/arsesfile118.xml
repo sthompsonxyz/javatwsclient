@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A328A</CoID>
+		<CoID Type="CompanyName">Carclo plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CAR</IssueID>
+			<IssueID Type="CUSIP">G18956105</IssueID>
+			<IssueID Type="ISIN">GB0001751915</IssueID>
+			<IssueID Type="RIC">C1Y.L</IssueID>
+			<IssueID Type="SEDOL">0175191</IssueID>
+			<IssueID Type="DisplayRIC">C1Y.L</IssueID>
+			<IssueID Type="InstrumentPI">260651</IssueID>
+			<IssueID Type="QuotePI">1082805</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="CUSIP">G18956113</IssueID>
+			<IssueID Type="ISIN">GB0001752103</IssueID>
+			<IssueID Type="RIC">GB0175210.L^I99</IssueID>
+			<IssueID Type="InstrumentPI">1525140</IssueID>
+			<IssueID Type="QuotePI">2788962</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-19</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">1172</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="60890040.0">66213142.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:05:05">Carclo plc (Carclo) is a supplier of technical plastics products. The Company manufactures parts for the medical, industrial, aerospace, and luxury and supercar lighting markets. The Company operates through four segments: Technical Plastics, LED Technologies, Precision Engineering and CIT Technology. The Technical Plastics segment supplies tolerance, injection molded plastic components, which are used in medical, optical and electronics products. The LED Technologies segment develops solutions in light-emitting diode (LED) lighting and develops LED lighting for luxury cars and supercars. The Precision Engineering segment supplies systems to the manufacturing and aerospace industries. The CIT Technology segment undertakes applied research into the digital printing of conductive metals onto plastic substrates.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-19T01:04:03">BRIEF: For the six months ended 30 September 2015, Carclo plc revenues increased 17% to L57.2M. Net income totaled L3M vs. loss of L21M. Revenues reflect LED Technologies segment increase of 48% to L21.2M, Technical Plastic Division segment increase of 5% to L31.5M, Precision Engineering Division segment increase of 13% to L3.1M. Net Income reflects Conductive Inkjet Technology segment income totaling L177K vs. loss of L22.3M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-19T01:04:07">
+		<streetAddress line="1">Springstone House, Dewsbury Road</streetAddress>
+		<streetAddress line="2">PO Box 8827</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>OSSETT</city>
+		<state-region></state-region>
+		<postalCode>WF5 9WS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1924</city-areacode>
+				<number>268040</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1924</city-areacode>
+				<number>283226</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-02T08:35:26"><webSite mainCategory="Home Page">http://www.carclo-plc.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@carclo-plc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-19T01:04:07">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201021" mnem="">Industrial Moulds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325211" mnem="">Plastics Material and Resin Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="326199" mnem="">All Other Plastics Product Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="326299" mnem="">All Other Rubber Product Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="336321" mnem="">Vehicular Lighting Equipment Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2821" mnem="">Plastics Materials And Resins</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3089" mnem="">Plastics Products, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3069" mnem="">Fabricated Rubber Products, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3647" mnem="">Vehicular Lighting Equipment</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/01/2012">
+			<firstName>Christopher</firstName>
+			<mI>J.</mI>
+			<lastName>Malley</lastName>
+			<age>48 </age>
+			<title startYear="2013" startMonth="03" startDay="27" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/01/2004">
+			<firstName>Robert</firstName>
+			<mI>James</mI>
+			<lastName>Brooksbank</lastName>
+			<age>49 </age>
+			<title startYear="2004" startMonth="04" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.39250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.69750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.05000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02599</Ratio>
+			<Ratio FieldName="EV" Type="N">116.71980</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">92.20180</Ratio>
+			<Ratio FieldName="AREV" Type="N">107.50300</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">11.98700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-21.94200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.33168</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.62505</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.62477</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.16400</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.27755</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02750</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">52.05064</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-38.13414</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.85767</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.22882</Ratio>
+			<Ratio FieldName="Employees" Type="N">1172</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.63667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.73545</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">115.03000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.09450</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">8.58580</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02888</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

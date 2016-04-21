@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2F5B</CoID>
+		<CoID Type="CompanyName">BHP Billiton plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BLT</IssueID>
+			<IssueID Type="CUSIP">G1104A103</IssueID>
+			<IssueID Type="ISIN">GB0000566504</IssueID>
+			<IssueID Type="RIC">BLT.L</IssueID>
+			<IssueID Type="SEDOL">0056650</IssueID>
+			<IssueID Type="DisplayRIC">BLT.L</IssueID>
+			<IssueID Type="InstrumentPI">378770</IssueID>
+			<IssueID Type="QuotePI">1049543</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2002-07-22">1.06426</MostRecentSplit>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ord. Shrs, BHP Billiton Ltd</IssueID>
+			<IssueID Type="InstrumentPI">103587852</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">73393794</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">29670</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="2107360172.0">5321185791.0</SharesOut>
+		<CommonShareholders Date="2015-06-30">622919</CommonShareholders>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-30T10:02:50">BHP Billiton Plc is engaged in exploration, development, production, processing and marketing of minerals, in respect of iron ore, metallurgical and energy coal, copper, aluminum, manganese, uranium, nickel, silver and potash, and exploration, development, production and marketing of conventional and unconventional oil and gas. The Company operates through segments, including Petroleum and Potash, Copper, Iron Ore and Coal. The Company's Petroleum and Potash segment is engaged in exploration, development and production of oil and gas and potash pre-development. The Copper segment is engaged in mining of copper, silver, lead, zinc, molybdenum, uranium and gold. The Iron Ore segment is engaged in mining of iron ore. The Coal segment is engaged in mining of metallurgical coal and thermal (energy) coal.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T12:38:35">BRIEF: For the six months ended 31 December 2015, BHP Billiton plc revenues decreased 37% to $15.71B. Net loss before extraordinary items totaled $5.67B vs. income of $3.86B. Revenues reflect Group production decrease of 37% to $15.16B, Third Party Products decrease of 12% to $555M. Net loss reflects Expenses excluding net finance costs increase of 25% to $22B (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T12:39:01">
+		<streetAddress line="1">8Th Floor - Neathouse Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1V 1BH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>James Agar</contactName>
+		<contactTitle>Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78024000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78024111</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>467</city-areacode>
+				<number>807064</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-10-10T08:17:32"><webSite mainCategory="Home Page">http://www.bhpbilliton.com/home/Pages/default.aspx</webSite><eMail mainCategory="Company Contact/E-mail">James.Agar@bhpbilliton.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T12:39:01">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120108010" mnem="">Integrated  Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="21221" mnem="">Iron Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="212222" mnem="">Silver Ore Mining</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="212231" mnem="">Lead Ore and Zinc Ore Mining</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="212291" mnem="">Uranium-Radium-Vanadium Ore Mining</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="212111" mnem="">Bituminous Coal and Lignite Surface Mining</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="42152" mnem="">Coal and Other Mineral and Ore Wholesalers</Industry>
+			<Industry type="NAICS" order="10" reported="0" code="212399" mnem="">All Other Non-Metallic Mineral Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1011" mnem="">Iron Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1044" mnem="">Silver Ores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1031" mnem="">Lead And Zinc Ores</Industry>
+			<Industry type="SIC" order="5" reported="0" code="1094" mnem="">Uranium-Radium-Vanadium Ores</Industry>
+			<Industry type="SIC" order="6" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="7" reported="0" code="1221" mnem="">Bituminous Coal/lignite-Surface</Industry>
+			<Industry type="SIC" order="8" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+			<Industry type="SIC" order="9" reported="0" code="5052" mnem="">Coal And Other Minerals And Ores</Industry>
+			<Industry type="SIC" order="10" reported="0" code="1499" mnem="">Misc Nonmetallic Minerals</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/2008">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Mackenzie</lastName>
+			<age>58 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/05/2005">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Beaven</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="10" startDay="01" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="07/02/2013">
+			<firstName>Tim</firstName>
+			<mI></mI>
+			<lastName>Cutt</lastName>
+			<age>55 </age>
+			<title startYear="2013" startMonth="07" startDay="02" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Petroleum</title>
+		</officer>
+		<officer rank="4" since="11/28/2011">
+			<firstName>Mike</firstName>
+			<mI></mI>
+			<lastName>Henry</lastName>
+			<age>49 </age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Coal</title>
+		</officer>
+		<officer rank="5" since="05/10/2013">
+			<firstName>Daniel</firstName>
+			<mI></mI>
+			<lastName>Malchuk</lastName>
+			<age>49 </age>
+			<title startYear="2015" startMonth="03" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Copper</title>
+		</officer>
+		<officer rank="6" since="05/10/2013">
+			<firstName>Jimmy</firstName>
+			<mI></mI>
+			<lastName>Wilson</lastName>
+			<age>53 </age>
+			<title startYear="2013" startMonth="05" startDay="10" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Iron Ore</title>
+		</officer>
+		<officer rank="7" since="12/22/2015">
+			<firstName>Flavio</firstName>
+			<mI></mI>
+			<lastName>Bulcao</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="22" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Director, Brazil</title>
+		</officer>
+		<officer rank="8" since="03/03/2014">
+			<firstName>Tony</firstName>
+			<mI></mI>
+			<lastName>Cudmore</lastName>
+			<age>46 </age>
+			<title startYear="2015" startMonth="07" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Public Affairs Officer</title>
+		</officer>
+		<officer rank="9" since="06/03/2013">
+			<firstName>Geoff</firstName>
+			<mI></mI>
+			<lastName>Healy</lastName>
+			<age>49 </age>
+			<title startYear="2013" startMonth="06" startDay="03" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Legal Counsel</title>
+		</officer>
+		<officer rank="10" since="05/10/2013">
+			<firstName>Dean</firstName>
+			<mI>Dalla</mI>
+			<lastName>Valle</lastName>
+			<age>56 </age>
+			<title startYear="2015" startMonth="07" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Commercial Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">7.46900</Ratio>
+			<Ratio FieldName="NHIG" Type="N">15.57172</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.71600</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">14.63287</Ratio>
+			<Ratio FieldName="EV" Type="N">61923.44200</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">44665.26000</Ratio>
+			<Ratio FieldName="AREV" Type="N">31549.17000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">15850.92000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">2418.70400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.45354</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.91584</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">8.60310</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.89700</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.90095</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.87644</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">86.62291</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.75572</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.41573</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">16.46827</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.86818</Ratio>
+			<Ratio FieldName="Employees" Type="N">29670</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.7778</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">7.87118</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-6.6295</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">63.16279</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">22157.59232</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.11825</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">390.73531</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.54297</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

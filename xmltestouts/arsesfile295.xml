@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A85C8</CoID>
+		<CoID Type="CompanyName">ITV plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ITV</IssueID>
+			<IssueID Type="CUSIP">G4984A110</IssueID>
+			<IssueID Type="ISIN">GB0033986497</IssueID>
+			<IssueID Type="RIC">ITV.L</IssueID>
+			<IssueID Type="SEDOL">3398649</IssueID>
+			<IssueID Type="DisplayRIC">ITV.L</IssueID>
+			<IssueID Type="InstrumentPI">261339</IssueID>
+			<IssueID Type="QuotePI">1293843</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">4559</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="3553094260.0">4025409194.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">57931</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-29T04:00:57">ITV plc (ITV) is a United Kingdom-based integrated producer broadcaster. The Company creates, owns and distributes content on multiple platforms. The Company operates through segments: Broadcast &amp; Online and ITV Studios. The Company operates the commercial family of channels in the United Kingdom and delivers content through traditional television broadcasting. In addition to linear broadcast, the Company delivers its content either through ITV Player, which is available on the platforms, including ITV's Website and pay platforms, or through direct content deals. ITV Studios is the Company's international content business, creating and producing programs and formats that return and travel, including drama, entertainment and factual entertainment. The Company produces programming across a range of genres for ITV's own channels. ITV Studios also operates in the United States, Germany, France, Australia and the Nordics, producing content for local broadcasters in these regions.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T12:42:55">BRIEF: For the six months ended 30 June 2015, ITV plc revenues increased 11% to L1.36B. Net income increased 32% to L257M. Revenues reflect Global Content/IITV Studios segment increase of 32% to L321M, Broadcasting &amp; Oline segment increase of 6% to L1.04B. Net income benefited from Financing costs decrease of 88% to L14M (expense), Amortisation of intangible assets decrease of 10% to L27M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T12:43:00">
+		<streetAddress line="1">The London Television Centre</streetAddress>
+		<streetAddress line="2">Upper Ground</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SE1 9LT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Clara Melia</contactName>
+		<contactTitle>Head of Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72613061</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>207</city-areacode>
+				<number>4513026</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-04T05:10:02"><webSite mainCategory="Home Page">http://www.itvplc.com</webSite><eMail mainCategory="Company Contact/E-mail">clara.melia@itv.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T12:43:00">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330202010" mnem="">Broadcasting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51312" mnem="">Television Broadcasting</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51211" mnem="">Motion Picture and Video Production</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4833" mnem="">Television Broadcasting Stations</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7812" mnem="">Motion Picture &amp; Video Production</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/26/2010">
+			<firstName>Adam</firstName>
+			<mI></mI>
+			<lastName>Crozier</lastName>
+			<age>51 </age>
+			<title startYear="2010" startMonth="04" startDay="26" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/09/2008">
+			<firstName>Ian</firstName>
+			<mI></mI>
+			<lastName>Griffiths</lastName>
+			<age>48 </age>
+			<title startYear="2008" startMonth="09" startDay="09" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="08/2010">
+			<firstName>Kevin</firstName>
+			<mI></mI>
+			<lastName>Lygo</lastName>
+			<age>57 </age>
+			<title startYear="2010" startMonth="08" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - ITV Studios</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>Pitts</lastName>
+			<age>39 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Online, Pay TV, Interactive &amp; Technology</title>
+		</officer>
+		<officer rank="5" since="12/2014">
+			<firstName>Kelly</firstName>
+			<mI></mI>
+			<lastName>Williams</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Commercial</title>
+		</officer>
+		<officer rank="6" since="10/2014">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Osborn</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="10" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Human Resources Director</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Mary</firstName>
+			<mI></mI>
+			<lastName>Fagan</lastName>
+			<age>57 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Communications and Corporate Affairs Director</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Fincham</lastName>
+			<age>58 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director - Television, Channels and Online</title>
+		</officer>
+		<officer rank="9" since="05/14/2009">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Garard</lastName>
+			<age>48 </age>
+			<title startYear="2012" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Legal Director and Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.49100</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.81900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.16149</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">9.58152</Ratio>
+			<Ratio FieldName="EV" Type="N">9986.29000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">10027.29000</Ratio>
+			<Ratio FieldName="AREV" Type="N">2590.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">757.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">466.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11535</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.64109</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.25190</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07378</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.14035</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">49.78632</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.87154</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.59515</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">9.88885</Ratio>
+			<Ratio FieldName="Employees" Type="N">4559</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.36</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.94818</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">11.6587</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.50672</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2945.62210</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">678.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.16064</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">804.00280</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.07101</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

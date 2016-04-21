@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">ADA10</CoID>
+		<CoID Type="CompanyName">International Public Partnerships Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">INPP</IssueID>
+			<IssueID Type="CUSIP">G4891V108</IssueID>
+			<IssueID Type="ISIN">GB00B188SR50</IssueID>
+			<IssueID Type="RIC">INPP.L</IssueID>
+			<IssueID Type="SEDOL">B188SR5</IssueID>
+			<IssueID Type="DisplayRIC">INPP.L</IssueID>
+			<IssueID Type="InstrumentPI">28965036</IssueID>
+			<IssueID Type="QuotePI">28965030</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-03</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-12-31">1</Employees>
+		<SharesOut Date="2015-12-01" TotalFloat="980918042.0">990634037.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:29:06">International Public Partnerships Limited (INPP) is a closed-ended investment company. The Company invests in equity, subordinated and mezzanine debt, and senior loans made to entities owning or operating infrastructure concessions, assets or related businesses. INPP's investment objective is to provide shareholders with a combination of dividends and capital growth. The Company has investments in around 100 assets in the United Kingdom, Europe, Canada and Australia across a range of infrastructure projects in sectors, such as courts, custodial accommodation, education, energy, transmission, health, police authority, transport, and leisure and other. The Company's Investment Adviser is Amber Fund Management Limited, a member of the Amber Infrastructure Group Holdings Limited group of companies.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-03T21:22:09">BRIEF: For the six months ended 30 June 2015, International Public Partnerships Ltd revenues increased 10% to L47.9M. Net income increased 7% to L39.4M. Revenues reflect United Kingdom segment increase from L25.7M to L63.8M. Net income was partially offset by Transaction costs increase from L314K to L644K (expense), Administrative Expenses increase of 6% to L552K (expense). Dividend per share remained flat at L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-02T09:49:06">
+		<streetAddress line="1">c/o Hrtg Intrntnl Fnd Mngrs Ltd</streetAddress>
+		<streetAddress line="2">Heritage Hall, Le Marchant Street</streetAddress>
+		<streetAddress line="3">P O Box 255</streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 4HY</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>716000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-31T06:12:48"><webSite mainCategory="Home Page">http://www.internationalpublicpartnerships.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-02T09:49:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.40700</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.41800</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.29983</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.83562</Ratio>
+			<Ratio FieldName="EV" Type="N">1380.75800</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1393.82200</Ratio>
+			<Ratio FieldName="AREV" Type="N">89.49700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">71.16900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">73.21100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.09488</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.11599</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.27017</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03515</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.06300</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">84.04863</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.33041</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">15.57395</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.82926</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.10772</Ratio>
+			<Ratio FieldName="Employees" Type="N">1</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.50981</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">21.64948</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">72.46400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.06499</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">54.50200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.06400</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

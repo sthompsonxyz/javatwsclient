@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF892</CoID>
+		<CoID Type="CompanyName">Craneware plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CRW</IssueID>
+			<IssueID Type="CUSIP">G2554M100</IssueID>
+			<IssueID Type="ISIN">GB00B2425G68</IssueID>
+			<IssueID Type="RIC">CRW.L</IssueID>
+			<IssueID Type="SEDOL">B2425G6</IssueID>
+			<IssueID Type="DisplayRIC">CRW.L</IssueID>
+			<IssueID Type="InstrumentPI">37311950</IssueID>
+			<IssueID Type="QuotePI">37976049</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-22</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">202</Employees>
+		<SharesOut Date="2016-02-10" TotalFloat="19298259.0">26836032.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-20T05:10:43">Craneware plc is a United Kingdom-based company, which is engaged in the development, licensing and ongoing support of computer software for the United States healthcare industry. The Company operates in Edinburgh, Atlanta, Boston, Nashville and Phoenix. Its Revenue Integrity Solutions include five product families: Patient Access, Charge Capture &amp; Pricing, Coding Integrity, Revenue Collection &amp; Retention, and Data &amp; Decision Enablement. Its products and solutions include InSight Medical Necessity, Patient Charge Estimator, Chargemaster Toolkit, Chargemaster Corporate Toolkit, Physician Revenue Toolkit, Physician Revenue Toolkit- Corporate, Pricing Analyzer, Reference Plus, Pharmacy ChargeLink, Supplies ChargeLink, Supplies Assistant, Bill Analyzer, InSight Audit, InSight Denials, InSight Payment, Variance and Analyzer. It offers outsourcing services, such as outsourcing clean development mechanism management, appeal services and chart-to-bill audits. It offers professional services.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-22T11:51:54">BRIEF: For the fiscal year ended 30 June 2015, Craneware plc revenues increased 5% to $44.8M. Net income increased 9% to $9.4M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Sales &amp; Marketing Expenes decrease of 7% to $7.9M (expense), Depreciation of plant and equipment decrease of 19% to $467K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-20T05:10:44">
+		<streetAddress line="1">1 Tanfield</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH3 5DA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>5503100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>5503101</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-08T09:17:28"><webSite mainCategory="Home Page">http://www.craneware.com</webSite><eMail mainCategory="Company Contact/E-mail">support@craneware.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-20T05:10:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5610101015" mnem="">Medical Software &amp; Technology Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="61142" mnem="">Computer Training</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8243" mnem="">Data Processing Schools</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/1999">
+			<firstName>Keith</firstName>
+			<mI></mI>
+			<lastName>Neilson</lastName>
+			<age>44 </age>
+			<title startYear="1999" startMonth="04" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/15/2008">
+			<firstName>Craig</firstName>
+			<mI>Thomas</mI>
+			<lastName>Preston</lastName>
+			<age>42 </age>
+			<title startYear="2008" startMonth="09" startDay="15" iD1="CFO" abbr1="CFO" iD2="SEC" abbr2="Secy.">Chief Financial Officer, Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">7.55000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">8.40000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.98000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00617</Ratio>
+			<Ratio FieldName="EV" Type="N">173.04472</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">202.61200</Ratio>
+			<Ratio FieldName="AREV" Type="N">31.67710</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">9.92856</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">6.63553</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.24574</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.17310</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.25464</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.10192</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.28442</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.15479</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.59803</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">20.28829</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.39617</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">30.72395</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">6.01764</Ratio>
+			<Ratio FieldName="Employees" Type="N">202</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">8.61545</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">26.46615</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">35.58258</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.28527</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">10.40778</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.15769</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

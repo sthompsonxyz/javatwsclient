@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3F7A</CoID>
+		<CoID Type="CompanyName">Witan Pacific Investment Trust Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">WPC</IssueID>
+			<IssueID Type="CUSIP">G33432108</IssueID>
+			<IssueID Type="ISIN">GB0003656021</IssueID>
+			<IssueID Type="RIC">WIPA.L</IssueID>
+			<IssueID Type="SEDOL">0365602</IssueID>
+			<IssueID Type="DisplayRIC">WIPA.L</IssueID>
+			<IssueID Type="InstrumentPI">261122</IssueID>
+			<IssueID Type="QuotePI">1079973</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">0</Employees>
+		<SharesOut Date="2016-02-19" TotalFloat="62792419.0">65683307.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T01:00:28">Witan Pacific Investment Trust PLC is a self-managed investment trust. The Company's investment objective is to provide shareholders with capital and income growth from a portfolio of investments in the Asia Pacific region designed to outperform the MSCI AC Asia Pacific Free Index (MSCI Index) in Sterling terms. Witan Pacific invests primarily in equities, in normal circumstances the Board expects the minimum equity level will be 90% of net assets. The Company invests in various sectors, including consumer staples, energy, financials, healthcare, industrials, information technology, materials, telecom services and utilities. The Company's investments are managed through Aberdeen Asset Managers Limited, Matthews International Capital Management LLC and GaveKal Capital Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T03:26:41">BRIEF: For the six months ended 31 July 2015, Witan Pacific Investment Trust Plc revenues decreased 95% to L759K. Net loss totaled L310K vs. income of L15.1M. Revenues reflect Gains/(losses) on investments held at fa decrease from L13.8M to -L2.1M, Exchange losses decrease of 20% to -L79K. Net loss reflects Other expenses increase of 10% to L463K (expense). Dividend per share remained flat at L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T03:26:42">
+		<streetAddress line="1">Ibex House, 2nd Floor, 42-47 Minories</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC3N 1DX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-02T10:43:28"><webSite mainCategory="Home Page">http://www.witanpacific.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T03:26:42">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.23750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.74750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.03030</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07367</Ratio>
+			<Ratio FieldName="EV" Type="N">141.07340</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">146.96640</Ratio>
+			<Ratio FieldName="AREV" Type="N">29.71000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">27.99500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">27.72800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.42033</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.45037</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.79449</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.08936</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04550</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">96.80242</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.11971</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.94670</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">5.32320</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.80068</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="1" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

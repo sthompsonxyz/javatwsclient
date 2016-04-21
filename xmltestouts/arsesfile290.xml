@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A8491</CoID>
+		<CoID Type="CompanyName">IP Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">IPO</IssueID>
+			<IssueID Type="CUSIP">G49348116</IssueID>
+			<IssueID Type="ISIN">GB00B128J450</IssueID>
+			<IssueID Type="RIC">IPO.L</IssueID>
+			<IssueID Type="SEDOL">B128J45</IssueID>
+			<IssueID Type="DisplayRIC">IPO.L</IssueID>
+			<IssueID Type="InstrumentPI">14242971</IssueID>
+			<IssueID Type="QuotePI">14242974</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-01-23">1.00312</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-04</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-11-02" TotalFloat="558013830.0">564648168.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:48:41">IP Group plc (IP Group) is a United Kingdom-based company that develops intellectual property-based businesses. The Company operates through three business segments: University partnership business, Venture capital fund management and In-licensing activity. The Company's University partnership business segment is engaged in the commercialization of intellectual property through the formation of long-term partner relationships with universities. The Company's Venture capital fund management segment is engaged in the management of venture funds focusing on early-stage United Kingdom technology companies. The Company's In-licensing activity segment is engaged in the in-licensing of drugable intellectual property from research institutions.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-04T12:01:32">BRIEF: For the six months ended 30 June 2015, IP Group Plc revenues increased from L20.5M to L78.9M. Net income increased from L12.6M to L66.7M. Revenues reflect University Partnership Business segment increase from L19.7M to L75.1M, In-Licensing Activity segment increase from L0K to L3M. Net income benefited from University Partnership Business segment income increase from L12.5M to L64.2M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-09T05:10:38">
+		<streetAddress line="1">24 Cornhill</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC3V 3ND</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Greg Smith</contactName>
+		<contactTitle>Chief Financial Officer, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74440050</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>84</city-areacode>
+				<number>50742928</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74440050</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-08T15:15:27"><webSite mainCategory="Home Page">http://www.ipgroupplc.com</webSite><eMail mainCategory="Company Contact/E-mail">greg.smith@ipgroupplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-09T05:10:38">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202010" mnem="">Investment Management &amp; Fund Operators - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6282" mnem="">Investment Advice</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/01/2006">
+			<firstName>Alan</firstName>
+			<mI>John</mI>
+			<lastName>Aubrey</lastName>
+			<age>53 </age>
+			<title startYear="2006" startMonth="01" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="06/03/2011">
+			<firstName>Greg</firstName>
+			<mI></mI>
+			<lastName>Smith</lastName>
+			<age>36 </age>
+			<title startYear="2011" startMonth="06" startDay="03" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="04/23/2014">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Baynes</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="04" startDay="23" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="03/05/2007">
+			<firstName>Michael</firstName>
+			<mI>Charles Nettleton</mI>
+			<lastName>Townend</lastName>
+			<age>52 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="CIN" abbr1="Chief Inv.Off." iD2="EDR" abbr2="Exec. Dir.">Chief Investment Officer, Executive Director</title>
+		</officer>
+		<officer rank="5" since="2008">
+			<firstName>Angela</firstName>
+			<mI></mI>
+			<lastName>Leach</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.84000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.64792</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.50900</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.34422</Ratio>
+			<Ratio FieldName="EV" Type="N">946.45300</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1038.95300</Ratio>
+			<Ratio FieldName="AREV" Type="N">28.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">16.80000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">9.10000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.01955</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.06103</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.09647</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.20275</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.03116</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">2.10843</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">36.58284</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">94.11765</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.67811</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.62000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.35849</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">83.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.10600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">57.70000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

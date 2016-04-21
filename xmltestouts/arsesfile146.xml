@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A392E</CoID>
+		<CoID Type="CompanyName">Compass Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CPG</IssueID>
+			<IssueID Type="CUSIP">G23296190</IssueID>
+			<IssueID Type="ISIN">GB00BLNN3L44</IssueID>
+			<IssueID Type="RIC">CPG.L</IssueID>
+			<IssueID Type="SEDOL">BLNN3L4</IssueID>
+			<IssueID Type="DisplayRIC">CPG.L</IssueID>
+			<IssueID Type="InstrumentPI">296801</IssueID>
+			<IssueID Type="QuotePI">1289568</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-07-08">0.94117</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">515864</Employees>
+		<SharesOut Date="2016-02-23" TotalFloat="1638215551.0">1644213605.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-16T10:40:22">Compass Group PLC provides food and support services. The Company's segments include North America, Europe &amp; Japan, and Fast Growing &amp; Emerging. It provides breakfasts, lunches and dinners, and also offers hospitality services. The Company offers a range of soft support services, including cleaning, reception and some building maintenance. The Company delivers services in five sectors: business and industry; healthcare and seniors; education; defense, and offshore and remote, and sports and leisure. It provides food and support services to companies in the oil and gas, mining and construction industries. The Company specializes in helping hospitals in the public and private sectors. The Company also provides services to residential homes and home meal delivery services. The Company offers the Compass Service Framework and International Clients Management Program. The Company operates at various sporting and leisure venues, exhibition centers, visitor attractions and various events.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T13:56:12">BRIEF: For the fiscal year ended 30 September 2015, Compass Group plc revenues increased 4% to L17.59B. Net income before extraordinary items increased 1% to L869M. Revenues reflect Healthcare segment increase of 9% to L3.85B, Education segment increase of 12% to L3.14B, North America segment increase of 14% to L9.36B. Net income was partially offset by Fast Growing &amp; Emerging segment income decrease of 12% to L190M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T13:56:19">
+		<streetAddress line="1">Compass House, Guildford Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CHERTSEY</city>
+		<state-region></state-region>
+		<postalCode>KT16 9BQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1932</city-areacode>
+				<number>573000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1932</city-areacode>
+				<number>569956</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-01-05T09:40:14"><webSite mainCategory="Home Page">http://www.compass-group.com/</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@compass-group.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T13:56:19">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330102010" mnem="">Restaurants &amp; Bars - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="722211" mnem="">Limited-Service Restaurants</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5812" mnem="">Eating Places</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/01/2006">
+			<firstName>Richard</firstName>
+			<mI>J.</mI>
+			<lastName>Cousins</lastName>
+			<age>56 </age>
+			<title startYear="2006" startMonth="06" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="12/01/2015">
+			<firstName>Johnny</firstName>
+			<mI></mI>
+			<lastName>Thomson</lastName>
+			<age>43 </age>
+			<title startYear="2015" startMonth="12" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Mark</firstName>
+			<mI>J.</mI>
+			<lastName>White</lastName>
+			<age>55 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="4" since="02/27/2012">
+			<firstName>Dominic</firstName>
+			<mI></mI>
+			<lastName>Blakemore</lastName>
+			<age>46 </age>
+			<title startYear="2015" startMonth="12" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Chief Operating Officer, Europe and Turkey, Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Gary</firstName>
+			<mI></mI>
+			<lastName>Green</lastName>
+			<age>58 </age>
+			<title startYear="2012" startMonth="04" startDay="02" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Group Chief Operating Officer, North America and Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">12.29000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.57000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">9.63000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">4.16875</Ratio>
+			<Ratio FieldName="EV" Type="N">22855.51000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">20207.51000</Ratio>
+			<Ratio FieldName="AREV" Type="N">17590.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1621.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">869.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.52161</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">10.55822</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.17538</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.17173</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.74610</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.29400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">70.32973</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">46.02754</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.14881</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">23.56166</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">10.45621</Ratio>
+			<Ratio FieldName="Employees" Type="N">515864</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.68</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">12.12684</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">9.3245</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">21.42683</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">18880.66740</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">6567.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.57358</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1262.90780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.31513</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

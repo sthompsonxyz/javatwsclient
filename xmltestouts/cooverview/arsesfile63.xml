@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A43C6</CoID>
+		<CoID Type="CompanyName">Alliance Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">ATST</IssueID>
+			<IssueID Type="CUSIP">G01820169</IssueID>
+			<IssueID Type="ISIN">GB00B11V7W98</IssueID>
+			<IssueID Type="RIC">ATST.L</IssueID>
+			<IssueID Type="SEDOL">B11V7W9</IssueID>
+			<IssueID Type="DisplayRIC">ATST.L</IssueID>
+			<IssueID Type="InstrumentPI">260087</IssueID>
+			<IssueID Type="QuotePI">1079086</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2006-06-21">10.0</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">4.25% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="ISIN">GB0000183482</IssueID>
+			<IssueID Type="SEDOL">0018348</IssueID>
+			<IssueID Type="InstrumentPI">126143729</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">4% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="ISIN">GB0000183268</IssueID>
+			<IssueID Type="SEDOL">0018326</IssueID>
+			<IssueID Type="InstrumentPI">126143732</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="P" Desc="Preferred Stock" Order="3">
+			<IssueID Type="Name">5% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="ISIN">GB0000183607</IssueID>
+			<IssueID Type="SEDOL">0018360</IssueID>
+			<IssueID Type="InstrumentPI">126143742</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="5" Type="P" Desc="Preferred Stock" Order="4">
+			<IssueID Type="Name">4% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="CUSIP">G01820128</IssueID>
+			<IssueID Type="ISIN">GB0000250364</IssueID>
+			<IssueID Type="SEDOL">0025036</IssueID>
+			<IssueID Type="InstrumentPI">108503268</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">254</Employees>
+		<SharesOut Date="2016-02-22" TotalFloat="348789072.0">521977664.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:37:46">Alliance Trust PLC is a United Kingdom-based self-managed investment trust. The Company is focused on maximizing the return on its shareholders' investment, while seeking to protect its value in more challenging economic conditions. The Company invests in a range of assets, including asset management and savings platform subsidiaries to generate capital growth and dividend income. The Company has interests in seven externally managed limited partnerships, including mid-market European buyout funds. It offers equity and fixed income investment funds and institutional investment solutions. It offers its retail investors with investment dealing accounts, individual savings accounts (ISAs) and self-invested personal pension (SIPPs).</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-01T00:45:53">BRIEF: For the six months ended 30 June 2015, Alliance Trust PLC revenues increased 65% to L63.8M. Net income increased from L6.8M to L33.2M. Revenues reflect Loss /profit on fair value designated in increase from -L19.4M to L375K, Dividends Income increase of 6% to L50.1M, Savings and pension plan increase of 21% to L11.1M. Net income benefited from Foreign exchange losses decrease of 94% to L460K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T21:59:10">
+		<streetAddress line="1">8 West Marketgait</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DUNDEE</city>
+		<state-region></state-region>
+		<postalCode>DD1 1QN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Evan Bruce-Gardyne</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1382</city-areacode>
+				<number>306062</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1382</city-areacode>
+				<number>321185</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1382</city-areacode>
+				<number>321000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-13T10:16:38"><webSite mainCategory="Home Page">http://www.alliancetrust.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">evan.bruce-gardyne@alliancetrust.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T21:59:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/01/2007">
+			<firstName>Katherine</firstName>
+			<mI>L.</mI>
+			<lastName>Garrett-Cox</lastName>
+			<age>48 </age>
+			<title startYear="2016" startMonth="02" startDay="03" iD1="CEO" abbr1="CEO" iD2="CIN" abbr2="Chief Inv.Off.">Chief Executive, Chief Investment Officer</title>
+		</officer>
+		<officer rank="2" since="02/01/2010">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Trotter</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="05/31/2016">
+			<firstName>Lisa</firstName>
+			<mI/>
+			<lastName>Brown</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="05" startDay="31" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+		<officer rank="4" since="07/10/2006">
+			<firstName>Donald</firstName>
+			<mI></mI>
+			<lastName>McPherson</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="07" startDay="10" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.88500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.27369</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.35764</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.55458</Ratio>
+			<Ratio FieldName="EV" Type="N">2885.75900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2549.86100</Ratio>
+			<Ratio FieldName="AREV" Type="N">273.98500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">231.55300</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">224.85900</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.40402</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.49229</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.45607</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07970</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.40495</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.09836</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">97.17576</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.61547</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">9.30657</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">12.09099</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.89533</Ratio>
+			<Ratio FieldName="Employees" Type="N">254</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

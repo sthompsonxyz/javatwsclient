@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A30B4</CoID>
+		<CoID Type="CompanyName">Games Workshop Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GAW</IssueID>
+			<IssueID Type="CUSIP">G3715N102</IssueID>
+			<IssueID Type="ISIN">GB0003718474</IssueID>
+			<IssueID Type="RIC">GAW.L</IssueID>
+			<IssueID Type="SEDOL">0371847</IssueID>
+			<IssueID Type="DisplayRIC">GAW.L</IssueID>
+			<IssueID Type="InstrumentPI">329771</IssueID>
+			<IssueID Type="QuotePI">1081182</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-21</LastModified>
+		<LatestAvailableAnnual>2015-05-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-11-29</LatestAvailableInterim>
+		<Employees LastUpdated="2015-05-31">1485</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="29507805.0">32118382.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-28T08:42:52">Games Workshop Group PLC and its subsidiaries design and manufacture miniature figures and games, and distribute these through its own network of retail stores, independent retailers and direct through the Internet and mail order. The Company's segments include sales channels, product and supply, central costs, service center costs and royalties. The Company's sales channels segment's operations include Trade, which includes the sale to independent retailers, and its magazine newsstand business and the distributor sales from its publishing business (Black Library); Retail, which includes sales through its retail stores, the visitor center in Nottingham and global exhibitions, and Mail order, including the sales through its global Web stores and digital sales through external affiliates. It runs the Games Workshop Academy. It also earns royalty income from third party licensees. It has manufacturing activities in the United Kingdom.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-18T11:54:03">BRIEF: For the 26 weeks ended 29 November 2015, Games Workshop Group PLC revenues decreased 2% to L55.3M. Net income increased 3% to L4.8M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net income reflects Royalties/Licenses-Government increase from L711K to L1.5M (income). Dividend per share increased from L0.16 to L0.20.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-21T07:06:42">
+		<streetAddress line="1">Willow Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>NOTTINGHAM</city>
+		<state-region></state-region>
+		<postalCode>NG7 2WS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>115</city-areacode>
+				<number>9140000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-25T00:27:02"><webSite mainCategory="Home Page">https://www.games-workshop.com</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@gwplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-21T07:06:42">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320501010" mnem="">Toys &amp; Juvenile Products - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="339931" mnem="">Doll and Stuffed Toy Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="45112" mnem="">Hobby, Toy and Game Stores</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="45411" mnem="">Electronic Shopping and Mail-Order Houses</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="451211" mnem="">Book Stores</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3942" mnem="">Dolls And Stuffed Toys</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5945" mnem="">Hobby, Toy, And Game Shops</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5961" mnem="">Catalog And Mail-Order Houses</Industry>
+			<Industry type="SIC" order="4" reported="0" code="5942" mnem="">Book Stores</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="6" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/22/2008">
+			<firstName>Kevin Derek</firstName>
+			<mI></mI>
+			<lastName>Rountree</lastName>
+			<age>45 </age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="CEO" abbr1="CEO" iD2="COO" abbr2="COO">Chief Executive Officer, Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/23/2008">
+			<firstName>Rachel</firstName>
+			<mI>F.</mI>
+			<lastName>Tongue</lastName>
+			<age>44 </age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-05-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.23000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.25000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.90000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00396</Ratio>
+			<Ratio FieldName="EV" Type="N">155.41810</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">167.97910</Ratio>
+			<Ratio FieldName="AREV" Type="N">119.13200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">29.15100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">12.25700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.38273</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.71997</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.60694</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.39175</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.72874</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.52000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">68.95209</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">22.92764</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.41003</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.66499</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.25463</Ratio>
+			<Ratio FieldName="Employees" Type="N">1485</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="5" CurInterimEndCalYear="2016" CurInterimEndMonth="5" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.87268</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">121.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.37700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">16.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.35000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

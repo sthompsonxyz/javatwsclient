@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E5210</CoID>
+		<CoID Type="CompanyName">Versarien PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VRS</IssueID>
+			<IssueID Type="CUSIP">G9338V108</IssueID>
+			<IssueID Type="ISIN">GB00B8YZTJ80</IssueID>
+			<IssueID Type="RIC">VRS.L</IssueID>
+			<IssueID Type="SEDOL">B8YZTJ8</IssueID>
+			<IssueID Type="DisplayRIC">VRS.L</IssueID>
+			<IssueID Type="InstrumentPI">127856564</IssueID>
+			<IssueID Type="QuotePI">131344516</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-11</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">67</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="73184909.0">105631514.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-22T05:04:30">Versarien PLC is a United Kingdom-based advanced engineering materials company, which is engaged in developing advanced materials and processes. The Company's segments include Thermal Products, which develops and manufactures porous copper and aluminum heat sinks; Hard Wear Products, which manufactures tungsten carbide hard wear parts, and Graphene Products, which develops graphene nano-platelets through an exfoliation process. Its Thermal Products segment manufactures thermal management solutions for industry sectors including, telecom and broadcast, consumer electronics and automotive transportation, among others. Its subsidiaries include Versarien Technologies Limited, which is engaged in engineering of various materials; Total Carbide Limited, which manufactures tungsten carbide parts; Dtech Limited, which is engaged in the development and supply of early-stage graphene products, and Versarien Properties Limited, which is engaged in holding licenses for rental properties.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-11T08:29:18">BRIEF: For the six months ended 30 September 2015, Versarien PLC revenues decreased 5% to L2.4M. Net loss increased from L281K to L788K. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Operating expenses (including exceptiona increase of 18% to L1.6M (expense). Basic Earnings per Share excluding Extraordinary Items totaled to -L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T23:51:12">
+		<streetAddress line="1">Building 4</streetAddress>
+		<streetAddress line="2">Vantage Point Business Village</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BRISTOL</city>
+		<state-region></state-region>
+		<postalCode>BS11 0YD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1594</city-areacode>
+				<number>888622</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-13T15:21:50"><webSite mainCategory="Home Page">http://www.versarien.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T23:51:12">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201010" mnem="">Industrial Machinery &amp; Equipment - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333298" mnem="">All Other Industrial Machinery Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="333414" mnem="">Heating Equipment (except Electric and Warm Air Furnaces) Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3559" mnem="">Special Industry MacHinery, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3433" mnem="">Heating Equipment, Not Electric</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Neill</firstName>
+			<mI>Gareth</mI>
+			<lastName>Ricketts</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="07/03/2013">
+			<firstName>Christopher</firstName>
+			<mI>Michael</mI>
+			<lastName>Leigh</lastName>
+			<age>54 </age>
+			<title startYear="2013" startMonth="07" startDay="03" iD1="CFO" abbr1="CFO" iD2="SEC" abbr2="Secy.">Chief Financial Officer, Secretary, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Will</firstName>
+			<mI></mI>
+			<lastName>Battrick</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CTO" abbr1="CTO" iD2="DRC" abbr2="Dir.">Chief Technical Officer, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.12500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.26490</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.12000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00654</Ratio>
+			<Ratio FieldName="EV" Type="N">9.70894</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">13.20394</Ratio>
+			<Ratio FieldName="AREV" Type="N">4.98200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.33600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.83000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00801</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04810</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.06964</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03346</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00623</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">37.99679</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-16.68677</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.65033</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.79482</Ratio>
+			<Ratio FieldName="Employees" Type="N">67</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

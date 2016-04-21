@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A9F43</CoID>
+		<CoID Type="CompanyName">NCC Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">NCC</IssueID>
+			<IssueID Type="CUSIP">G64319109</IssueID>
+			<IssueID Type="ISIN">GB00B01QGK86</IssueID>
+			<IssueID Type="RIC">NCCG.L</IssueID>
+			<IssueID Type="SEDOL">B01QGK8</IssueID>
+			<IssueID Type="DisplayRIC">NCCG.L</IssueID>
+			<IssueID Type="InstrumentPI">17425215</IssueID>
+			<IssueID Type="QuotePI">17425259</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-11-25">1.00241</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="InstrumentPI">126499461</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126499835</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="InstrumentPI">126499664</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-27</LastModified>
+		<LatestAvailableAnnual>2015-05-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-11-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-05-31">978</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="265544741.0">275698681.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-22T05:31:40">NCC Group plc is a United Kingdom-based holding company. It operates as an information assurance company, which is engaged in providing organizations across the world with escrow and verification, security consulting, Web performance and domain services. It operates in three divisions: Escrow, Assurance and Domain Services. Its complementary service areas provide end-to-end information assurance for over 15,000 organizations across the world. It has around 24 locations across the United Kingdom, Europe, North America and Australia. Its escrow and verification services assure the availability of these applications, protecting both end users and software suppliers. The Company works with all parties involved in the development, supply and use of business critical software applications. It has a range of complementary services, including security assurance and penetration testing, forensics, incident response, compliance advice, vulnerability research, and logical and physical audits.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-27T13:44:29">BRIEF: For the six months ended 30 November 2015, NCC Group PLC revenues increased 50% to L93.5M. Net income decreased 28% to L6M. Revenues reflect Assurance Testing segment increase of 65% to L59.6M, Web Performance Testing segment increase of 31% to L14.1M, Escrow Solutions (UK) segment increase of 7% to L12.1M, UK segment increase of 79% to L59.5M, Rest of the World segment increase of 11% to L25.3M,  Rest of Europe segment increase of 38% to L8.8M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T14:25:34">
+		<streetAddress line="1">Manchester Technology Centre</streetAddress>
+		<streetAddress line="2">Oxford Road</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MANCHESTER</city>
+		<state-region></state-region>
+		<postalCode>M1 7EF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>2095200</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>161</city-areacode>
+				<number>2095400</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-12-07T04:06:38"><webSite mainCategory="Home Page">http://www.nccgroup.com</webSite><eMail mainCategory="Company Contact/E-mail">response@nccgroup.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T14:25:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541519" mnem="">Other Computer Related Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7379" mnem="">Computer Related Services, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/2003">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>Cotton</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="02/18/2011">
+			<firstName>Atul</firstName>
+			<mI></mI>
+			<lastName>Patel</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="04" startDay="19" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2013">
+			<firstName>Daniel</firstName>
+			<mI></mI>
+			<lastName>Liptrott</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="GCN" abbr2="Counsel">Managing Director - Escrow and Group General Counsel</title>
+		</officer>
+		<officer rank="4" since="2001">
+			<firstName>Roger Gary</firstName>
+			<mI></mI>
+			<lastName>Rawlinson</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Group Managing Director - Assurance</title>
+		</officer>
+		<officer rank="5" since="2010">
+			<firstName>Pete Nigel</firstName>
+			<mI></mI>
+			<lastName>Stock</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="31" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Domain Services</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Joel</firstName>
+			<mI></mI>
+			<lastName>Wallenstrom</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Group Managing Director, Domain Services</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>Horton</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">European Managing Director - Assurance</title>
+		</officer>
+		<officer rank="8" since="2015">
+			<firstName>Helen</firstName>
+			<mI></mI>
+			<lastName>Nisbet</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-05-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.93300</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.26000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.92210</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.56473</Ratio>
+			<Ratio FieldName="EV" Type="N">859.35120</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">808.62420</Ratio>
+			<Ratio FieldName="AREV" Type="N">133.69600</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">28.50000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">16.78800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.07825</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.62318</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.57364</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07121</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.10317</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03970</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">29.82662</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">15.88855</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.04823</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">37.48243</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.11293</Ratio>
+			<Ratio FieldName="Employees" Type="N">978</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="5" CurInterimEndCalYear="2016" CurInterimEndMonth="5" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.11250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">26.85160</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">199.01840</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.10923</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">36.48640</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04394</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

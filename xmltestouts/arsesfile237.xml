@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA4B5</CoID>
+		<CoID Type="CompanyName">Gulf Keystone Petroleum Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GKP</IssueID>
+			<IssueID Type="CUSIP">G4209G108</IssueID>
+			<IssueID Type="ISIN">BMG4209G1087</IssueID>
+			<IssueID Type="RIC">GKP.L</IssueID>
+			<IssueID Type="SEDOL">B019X62</IssueID>
+			<IssueID Type="DisplayRIC">GKP.L</IssueID>
+			<IssueID Type="InstrumentPI">18011613</IssueID>
+			<IssueID Type="QuotePI">18011612</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">254</Employees>
+		<SharesOut Date="2015-12-08" TotalFloat="940359967.0">978138061.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-04T23:18:51">Gulf Keystone Petroleum Limited (Gulf Keystone) is an independent oil and gas exploration and production company. The Company has five discoveries across a portfolio of development and production assets in the Kurdistan Region of Iraq, including the Shaikan field. Gulf Keystone operates through three segments: Algeria, Kurdistan and the United Kingdom. The Algerian segment consists of the Algiers office and the Company's operations in Algeria. The Kurdistan segment consists of the Shaikan, Akri Bijeel, Sheikh Adi and Ber Bahr blocks, and the Erbil office which provides support to the operations in Kurdistan. The United Kingdom segment provides geological, geophysical and engineering services to the Company. Gulf Keystone holds production sharing contracts for four adjacent blocks in the Kurdistan Region of Iraq, Shaikan and Sheikh Adi, both of which are Company operated, and Ber Bahr and Akri Bijeel, all with discoveries.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-01T03:07:45">BRIEF: For the six months ended 30 June 2015, Gulf Keystone Petroleum Limited revenues increased 61% to $30.1M. Net loss increased from $29.8M to $77.7M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Interest payable in respect of the borw increase from $8.3M to $21M (expense), Capitalized finance costs decrease of 41% to $9.3M (income), IE on Capital Financing.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-09T05:34:44">
+		<streetAddress line="1">Cumberland House</streetAddress>
+		<streetAddress line="2">9th Floor, 1 Victoria Street,</streetAddress>
+		<streetAddress line="3">PO Box 1561</streetAddress>
+		<city>HAMILTON</city>
+		<state-region></state-region>
+		<postalCode>HM FX</postalCode>
+		<country code="BMU">Bermuda</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>441</city-areacode>
+				<number>2954630</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>441</city-areacode>
+				<number>2927880</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-11-11T07:06:17"><webSite mainCategory="Home Page">http://www.gulfkeystone.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@gulfkeystone.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-09T05:34:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/05/2015">
+			<firstName>Jon</firstName>
+			<mI></mI>
+			<lastName>Ferrier</lastName>
+			<age>57 </age>
+			<title startYear="2015" startMonth="12" startDay="08" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="01/22/2015">
+			<firstName>Sami</firstName>
+			<mI></mI>
+			<lastName>Zouari</lastName>
+			<age>42 </age>
+			<title startYear="2015" startMonth="01" startDay="22" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="09/02/2012">
+			<firstName>Umur</firstName>
+			<mI></mI>
+			<lastName>Eminkahyagil</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="09" startDay="02" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager, Kurdistan Region Iraq</title>
+		</officer>
+		<officer rank="4" since="06/17/2014">
+			<firstName>Mary</firstName>
+			<mI></mI>
+			<lastName>Hood</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="22" iD1="OTH" abbr1="Other" iD2="" abbr2="">Deputy Chief Financial Officer</title>
+		</officer>
+		<officer rank="5" since="02/2007">
+			<firstName>Mohamed</firstName>
+			<mI></mI>
+			<lastName>Messaoudi</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="02" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager, Algeria</title>
+		</officer>
+		<officer rank="6" since="2009">
+			<firstName>A.</firstName>
+			<mI>R.</mI>
+			<lastName>Peart</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Legal and Commercial Director</title>
+		</officer>
+		<officer rank="7" since="08/23/2015">
+			<firstName>Nadhim</firstName>
+			<mI></mI>
+			<lastName>Zahawi</lastName>
+			<age>48 </age>
+			<title startYear="2015" startMonth="08" startDay="23" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chief Strategy Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.15000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.61560</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.10248</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.46634</Ratio>
+			<Ratio FieldName="EV" Type="N">457.37364</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">146.72070</Ratio>
+			<Ratio FieldName="AREV" Type="N">27.25459</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-29.01526</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-175.43240</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.20151</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.03131</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.26903</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06958</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.16974</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-112.25360</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-55.03563</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.38334</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.55756</Ratio>
+			<Ratio FieldName="Employees" Type="N">254</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.0909</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.63259</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-1.72255</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">77.64124</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.08708</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-64.19793</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

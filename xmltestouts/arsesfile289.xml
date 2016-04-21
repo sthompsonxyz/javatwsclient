@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF44C</CoID>
+		<CoID Type="CompanyName">International Personal Finance Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">IPF</IssueID>
+			<IssueID Type="CUSIP">G4906Q102</IssueID>
+			<IssueID Type="ISIN">GB00B1YKG049</IssueID>
+			<IssueID Type="RIC">IPF.L</IssueID>
+			<IssueID Type="SEDOL">B1YKG04</IssueID>
+			<IssueID Type="DisplayRIC">IPF.L</IssueID>
+			<IssueID Type="InstrumentPI">34139175</IssueID>
+			<IssueID Type="QuotePI">35445274</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-20</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">7109</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="209781592.0">220971494.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:35:18">International Personal Finance plc (IPF) is a United Kingdom-based holding company. IPF and its subsidiaries (the Group) are engaged in the provision of small sum, primarily home collected, short-term unsecured loans in emerging markets. The Company offers a digital product and an online digital credit service through hapi loans, in Poland. The Company operates using the Provident brand in eight countries, including Poland, the Czech Republic, Slovakia, Romania, Hungary, Mexico, Lithuania and Bulgaria. Its digital loan business operates in Finland, Estonia, Latvia, Australia and Lithuania with Credit24 and Sving brands. The Company's subsidiaries include IPF Holdings Limited, International Personal Finance Investments Limited, IPF International Limited, IPF Financing Limited, Provident Polska S.A., IPF Investments Polska Sp. z o.o., Provident Mexico S.A. de C.V., Provident Financial Romania IFN S.A., Provident Financial s.r.o. and Provident Financial Zrt., among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-20T14:30:59">BRIEF: For the six months ended 30 June 2015, International Personal Finance Plc revenues decreased 5% to L372.9M. Net income increased 70% to L26.9M. Revenues reflect Poland-Lithuania segment decrease of 13% to L137.3M, Czech/Slovakia segment decrease of 21% to L56.2M. Net income reflects Exceptional items decrease of 79% to L4.7M (expense), Impairment decrease of 14% to L112.6M (expense). Dividend per share increased from L0.04 to L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T01:58:20">
+		<streetAddress line="1">Building Three</streetAddress>
+		<streetAddress line="2">Leeds City Office Park/Meadow Lane</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LEEDS</city>
+		<state-region></state-region>
+		<postalCode>LS11 5BD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Adrian Gardner</contactName>
+		<contactTitle>Chief Financial Officer, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>113</city-areacode>
+				<number>2856700</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>113</city-areacode>
+				<number>2451675</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>43</countryPhoneCode>
+				<city-areacode>113</city-areacode>
+				<number>2856700</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-04T03:23:48"><webSite mainCategory="Home Page">http://www.ipfin.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">investors@ipfin.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T01:58:20">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510103010" mnem="">Consumer Lending - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="522291" mnem="">Consumer Lending</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6141" mnem="">Personal Credit Institutions</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/17/2012">
+			<firstName>Gerard</firstName>
+			<mI>J.</mI>
+			<lastName>Ryan</lastName>
+			<age>51 </age>
+			<title startYear="2012" startMonth="04" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/02/2014">
+			<firstName>Adrian</firstName>
+			<mI></mI>
+			<lastName>Gardner</lastName>
+			<age>53 </age>
+			<title startYear="2014" startMonth="01" startDay="02" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="03/30/2007">
+			<firstName>David</firstName>
+			<mI>E.S.</mI>
+			<lastName>Broadbent</lastName>
+			<age>46 </age>
+			<title startYear="2014" startMonth="12" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director, Chief Commercial Officer</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Viktor</firstName>
+			<mI></mI>
+			<lastName>Boczan</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager</title>
+		</officer>
+		<officer rank="5" since="07/2012">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Husband</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="10" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager, Mexico</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Parkinson</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="02" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager, Poland</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Petr</firstName>
+			<mI></mI>
+			<lastName>Sastinsky</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Botond</firstName>
+			<mI></mI>
+			<lastName>Szirmak</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="02" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Country Manager, Hungary</title>
+		</officer>
+		<officer rank="9" since="03/2011">
+			<firstName>Ben</firstName>
+			<mI></mI>
+			<lastName>Murphy</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.65200</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.12000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.15600</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.76121</Ratio>
+			<Ratio FieldName="EV" Type="N">995.51640</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">586.01640</Ratio>
+			<Ratio FieldName="AREV" Type="N">783.20000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">354.90000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">71.80000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.29378</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.20458</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.56181</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.29716</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.34002</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.21604</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.00728</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.74823</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.02716</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.69803</Ratio>
+			<Ratio FieldName="Employees" Type="N">7109</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">4.12000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.33144</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">776.60580</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.36173</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">115.91650</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.12885</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

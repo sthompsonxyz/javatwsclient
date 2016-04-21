@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A32DE</CoID>
+		<CoID Type="CompanyName">Xaar plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">XAR</IssueID>
+			<IssueID Type="CUSIP">G9824Q100</IssueID>
+			<IssueID Type="ISIN">GB0001570810</IssueID>
+			<IssueID Type="RIC">XAR.L</IssueID>
+			<IssueID Type="SEDOL">0157081</IssueID>
+			<IssueID Type="DisplayRIC">XAR.L</IssueID>
+			<IssueID Type="InstrumentPI">374018</IssueID>
+			<IssueID Type="QuotePI">1079717</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2010-10-21">1.00551</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-27</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">785</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="74709994.0">77552627.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-21T09:30:17">Xaar PLC is a developer of digital inkjet technology and a manufacturer of piezoelectric drop-on-demand industrial inkjet print heads. The Company has two segments: product sales, commissions and fees, and royalties. Its technology is used in a range of manufacturing applications, including graphics, labels, direct-to-shape packaging decoration, ceramic tiles, laminates, and outer case coding as well as printing with functional fluids for manufacturing techniques. It designs and manufactures its print heads in Huntingdon, the United Kingdom and Jarfalla, Sweden. The United Kingdom plant produces the Xaar 1002 product range whilst the Swedish plant produces the Xaar Proton, Xaar 500 and the Xaar 128 print heads for the format graphics and coding and marking markets. It also develops and sells ink systems, electronics and fluid optimization services to accelerate inkjet system development and adoption. It primarily operates in Europe, Middle East and Africa (EMEA), Asia and the Americas.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-27T23:48:58">BRIEF: For the six months ended 30 June 2015, Xaar plc revenues decreased 21% to L47.8M. Net income decreased 70% to L3.7M. Revenues reflect Product sales, Commissions and fees segment decrease of 21% to L45M, Royalties segment decrease of 13% to L2.9M. Net income also reflects Product sales, Commissions and fees segment income decrease of 88% to L1.6M, Royalties segment income decrease of 13% to L2.9M. Dividend per share remained flat at L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T14:39:58">
+		<streetAddress line="1">316 Cambridge Science Park,Milton Rd</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CAMBRIDGE</city>
+		<state-region></state-region>
+		<postalCode>CB4 0XR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1223</city-areacode>
+				<number>423663</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1223</city-areacode>
+				<number>423590</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-05T02:18:38"><webSite mainCategory="Home Page">http://www.xaar.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T14:39:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710601010" mnem="">Computer Hardware - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="32591" mnem="">Printing Ink Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="323110" mnem="">Commercial Lithographic Printing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="322233" mnem="">Stationery, Tablet, and Related Product Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="42184" mnem="">Industrial Supplies Wholesalers</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="334119" mnem="">Other Computer Peripheral Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="53311" mnem="">Owners and Lessors of Other Non-Financial Assets</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2893" mnem="">Printing Ink</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2752" mnem="">Commercial Printing, Lithographic</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2678" mnem="">Stationery Products</Industry>
+			<Industry type="SIC" order="4" reported="0" code="5085" mnem="">Industrial Supplies</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3577" mnem="">Computer Periph'L Equipment, Nec</Industry>
+			<Industry type="SIC" order="6" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+			<Industry type="SIC" order="7" reported="0" code="6794" mnem="">Patent Owners And Lessors</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/05/2015">
+			<firstName>Douglas</firstName>
+			<mI>J.</mI>
+			<lastName>Edwards</lastName>
+			<age>54 </age>
+			<title startYear="2015" startMonth="01" startDay="05" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="03/31/2011">
+			<firstName>Alex</firstName>
+			<mI></mI>
+			<lastName>Bevis</lastName>
+			<age>39 </age>
+			<title startYear="2011" startMonth="03" startDay="31" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="03/02/2015">
+			<firstName>Jim</firstName>
+			<mI></mI>
+			<lastName>Brault</lastName>
+			<age>52 </age>
+			<title startYear="2015" startMonth="03" startDay="02" iD1="CHO" abbr1="Chief HR" iD2="EDR" abbr2="Exec. Dir.">Chief Human Resource Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="01/10/2011">
+			<firstName>Ted</firstName>
+			<mI></mI>
+			<lastName>Wiggans</lastName>
+			<age>59 </age>
+			<title startYear="2011" startMonth="01" startDay="10" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Operations and Quality Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.46000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.66500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.51210</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01731</Ratio>
+			<Ratio FieldName="EV" Type="N">299.28670</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">345.88470</Ratio>
+			<Ratio FieldName="AREV" Type="N">109.15000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">34.42800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">18.69200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.24436</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.42693</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.59390</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.61276</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.38452</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.09000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">44.52771</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.09978</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.16889</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">18.25176</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.79817</Ratio>
+			<Ratio FieldName="Employees" Type="N">785</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.8</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.48000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.01599</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">92.98200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">45.10000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.20258</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">17.82950</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.09542</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

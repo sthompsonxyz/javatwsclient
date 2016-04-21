@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D0E64</CoID>
+		<CoID Type="CompanyName">Central Asia Metals Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CAML</IssueID>
+			<IssueID Type="CUSIP">G2069H109</IssueID>
+			<IssueID Type="ISIN">GB00B67KBV28</IssueID>
+			<IssueID Type="RIC">CAML.L</IssueID>
+			<IssueID Type="SEDOL">B67KBV2</IssueID>
+			<IssueID Type="DisplayRIC">CAML.L</IssueID>
+			<IssueID Type="InstrumentPI">76004067</IssueID>
+			<IssueID Type="QuotePI">76003738</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">300</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="63082165.0">111558091.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:31:46">Central Asia Metals plc is a United Kingdom-based mining and exploration company. The Company's principal business activity is the production of copper cathode at its Kounrad operations in Kazakhstan. It has operations primarily in Kazakhstan. It also owns various exploration projects in Mongolia, which are held for sale and has an investment in a copper tailings project in Chile. The Company is a holding company for a group of companies, which are engaged in the processing and production of copper cathodes, from secondary mining techniques and the identification, acquisition and development of base and precious metals deposits primarily in the Central Asia region. It operates in the business segment of an SX-EW copper plant at Kounrad. The Company has produced a total of around 28,232 tons of copper at its Kounrad project. The Kounrad dumps contain around 650 million tons of material containing copper. The Eastern and Western dumps cover an area of around 22 square kilometers.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-07T21:25:31">BRIEF: For the six months ended 30 June 2015, Central Asia Metals Ltd revenues decreased 10% to $29M. Net income before extraordinary items decreased 88% to $5.6M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net income also reflects Gain on remeasuring to fair value the ex decrease from $33M (income) to $0K, Administrative expenses increase of 36% to $6.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-07T21:25:31">
+		<streetAddress line="1">11 Albemarle Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1S 4HH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78989001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2011-05-19T09:40:07"><webSite mainCategory="Home Page">http://www.centralasiametals.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-07T21:25:31">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120108010" mnem="">Integrated  Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Nicholas</firstName>
+			<mI>Royston</mI>
+			<lastName>Clarke</lastName>
+			<age>60 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Nigel</firstName>
+			<mI></mI>
+			<lastName>Robinson</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/07/2011">
+			<firstName>Howard</firstName>
+			<mI></mI>
+			<lastName>Nicholson</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="12" startDay="07" iD1="OTH" abbr1="Other" iD2="DRC" abbr2="Dir.">Technical Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Anthony</firstName>
+			<mI>George</mI>
+			<lastName>Hunter</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.40250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.98000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.18205</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01968</Ratio>
+			<Ratio FieldName="EV" Type="N">123.84516</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">156.46020</Ratio>
+			<Ratio FieldName="AREV" Type="N">51.69679</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">33.23915</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">42.21635</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.38977</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.47730</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.19255</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.29283</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.46425</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.08835</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">65.67862</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">36.90878</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.02650</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">3.59827</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.17606</Ratio>
+			<Ratio FieldName="Employees" Type="N">300</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.7143</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.08057</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.27548</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">49.65135</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.13649</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">22.09064</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.09620</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

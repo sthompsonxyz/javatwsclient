@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A30DA</CoID>
+		<CoID Type="CompanyName">Acal plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ACL</IssueID>
+			<IssueID Type="CUSIP">G00616105</IssueID>
+			<IssueID Type="ISIN">GB0000055888</IssueID>
+			<IssueID Type="RIC">ACL.L</IssueID>
+			<IssueID Type="SEDOL">0005588</IssueID>
+			<IssueID Type="DisplayRIC">ACL.L</IssueID>
+			<IssueID Type="InstrumentPI">260024</IssueID>
+			<IssueID Type="QuotePI">1079762</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-06-24">1.37588</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-10</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">3329</Employees>
+		<SharesOut Date="2016-01-20" TotalFloat="56572317.0">64212568.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:05:02">Acal plc (Acal) designs, manufactures and distributes electronic products and solutions. The Company operates through two segments: Custom Distribution and Design &amp; Manufacturing. The Custom Distribution segment provides customized electronic, photonic and medical products to the industrial market, from a range of international suppliers and from Acal's Design &amp; Manufacturing segment. The Design &amp; Manufacturing segment supplies electronic products, which are either designed for a customer or modified from an existing product. Its products are manufactured at one of the in-house manufacturing facilities. It works across a range of technology areas, including power and magnetics, communications and sensors, electro-mechanical, and imaging and photonics, among others. It distributes to industrial companies around the world supplying customers in the transportation, medical, marine communications, energy, general industrial, automotive, and aerospace and defense sectors.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-10T14:37:14">BRIEF: For the six months ended 30 September 2015, Acal plc revenues increased 18% to L142.2M. Net income totaled L3.6M vs. loss of L600K. Revenues reflect Design &amp; Manufacturing segment increase of 71% to L65.9M. Net Income reflects Design &amp; Manufacturing segment income increase from L1.8M to L6.3M, Custom Distribution segment income increase of 60% to L2.4M. Dividend per share remained flat at L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-01T13:06:55">
+		<streetAddress line="1">2 Chancellor Court, Occam Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>GUILDFORD</city>
+		<state-region></state-region>
+		<postalCode>GU2 7AH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1483</city-areacode>
+				<number>544500</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1483</city-areacode>
+				<number>544550</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-02T09:57:08"><webSite mainCategory="Home Page">http://www.acal.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@acalplc.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-01T13:06:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340305010" mnem="">Computer &amp; Electronics Retailers - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="42169" mnem="">Other Electronic Parts and Equipment Wholesalers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="56199" mnem="">All Other Support Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="42145" mnem="">Medical, Dental and Hospital Equipment and Supplies Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5065" mnem="">Electronic Parts And Equipment</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7389" mnem="">Business Services, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5047" mnem="">Medical And Hospital Equipment</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/05/2009">
+			<firstName>Nicholas</firstName>
+			<mI>J.</mI>
+			<lastName>Jefferies</lastName>
+			<age>46 </age>
+			<title startYear="2009" startMonth="01" startDay="05" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="07/20/2010">
+			<firstName>Simon</firstName>
+			<mI>M.</mI>
+			<lastName>Gibbins</lastName>
+			<age>45 </age>
+			<title startYear="2010" startMonth="07" startDay="20" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="03/2009">
+			<firstName>Paul</firstName>
+			<mI>H.</mI>
+			<lastName>Neville</lastName>
+			<age>45 </age>
+			<title startYear="2009" startMonth="03" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Commercial Director</title>
+		</officer>
+		<officer rank="4" since="07/2010">
+			<firstName>Martin</firstName>
+			<mI></mI>
+			<lastName>Pangels</lastName>
+			<age>44 </age>
+			<title startYear="2010" startMonth="07" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Strategy and Development Director</title>
+		</officer>
+		<officer rank="5" since="06/2010">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Webster</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Product Management and Operations Director</title>
+		</officer>
+		<officer rank="6" since="08/2008">
+			<firstName>Gary</firstName>
+			<mI>P.</mI>
+			<lastName>Shillinglaw</lastName>
+			<age>62 </age>
+			<title startYear="2008" startMonth="08" startDay="" iD1="SEC" abbr1="Secy." iD2="EDR" abbr2="Exec. Dir.">Group Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.54000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.34750</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.35250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02056</Ratio>
+			<Ratio FieldName="EV" Type="N">181.49990</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">163.09990</Ratio>
+			<Ratio FieldName="AREV" Type="N">271.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">15.80000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">2.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.04758</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.44793</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.47028</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.43300</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.12469</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.07600</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">31.13242</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.10765</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.60162</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">53.38377</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.72756</Ratio>
+			<Ratio FieldName="Employees" Type="N">3329</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.27000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.11005</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">301.12000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.16810</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">14.62000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.07912</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

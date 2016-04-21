@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EE1E5</CoID>
+		<CoID Type="CompanyName">Atlantis Resources Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ARL</IssueID>
+			<IssueID Type="CUSIP">Y0448M104</IssueID>
+			<IssueID Type="ISIN">SG9999011118</IssueID>
+			<IssueID Type="RIC">ARL.L</IssueID>
+			<IssueID Type="SEDOL">BJ0XKM3</IssueID>
+			<IssueID Type="DisplayRIC">ARL.L</IssueID>
+			<IssueID Type="InstrumentPI">152771365</IssueID>
+			<IssueID Type="QuotePI">153056856</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-24</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">17</Employees>
+		<SharesOut Date="2015-08-28" TotalFloat="37266839.0">105068157.0</SharesOut>
+		<ReportingCurrency Code="SGD">Singapore Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.399</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T04:37:27">Atlantis Resources Limited is a United Kingdom-based company involved in the tidal power sector. The Company is focused on two areas, the development of projects, and the supply of turbines and associated equipment. Its turbines business is engaged in the development and delivery of turbines and technology solutions for projects across the world. Its projects business is engaged in the origination and development of tidal energy projects across the world, including resource assessment, securing seabed rights, consents, grid connections and finance for construction. Its turbine products include the AR1500, a 1.5 megawatt submerged system; SeaGen, 0.6 to 1 megawatt drivetrains, and ancillary technology, such as installation tools and connection systems. Its projects include the 398 megawatt MeyGen project in the Pentland Firth, turbine berths at Fundy Ocean Research Centre for Energy in Canada, and development and turbine sales opportunities in India and China.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-21T06:00:38">BRIEF: For the six months ended 30 June 2015, Atlantis Resources Ltd revenues increased from SP$170K to SP$951K. Net loss decreased 13% to SP$7.6M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Lower net loss reflects Other Income increase from SP$87K to SP$409K (income), Other operating expenses decrease of 14% to SP$1.8M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-19T23:13:16">
+		<streetAddress line="1">65 Niven Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SINGAPORE</city>
+		<state-region></state-region>
+		<postalCode>228414</postalCode>
+		<country code="SGP">Singapore</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>65</countryPhoneCode>
+				<city-areacode>6</city-areacode>
+				<number>2386002</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>65</countryPhoneCode>
+				<city-areacode>6</city-areacode>
+				<number>2386004</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-28T09:35:45"><webSite mainCategory="Home Page">http://atlantisresourcesltd.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-19T23:13:16">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5020101018" mnem="">Wave Power Energy Equipment</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333611" mnem="">Turbine and Turbine Generator Set Unit Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="221119" mnem="">Other Electric Power Generation</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3511" mnem="">Turbines/turbine Generator Sets</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4911" mnem="">Electric Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/11/2013">
+			<firstName>Timothy</firstName>
+			<mI>James</mI>
+			<lastName>Cornelius</lastName>
+			<age>38 </age>
+			<title startYear="2013" startMonth="12" startDay="11" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/15/2015">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>Counsell</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="11" startDay="15" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="SGD" ExchangeRate="0.50523" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.34500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.47000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.25500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00972</Ratio>
+			<Ratio FieldName="EV" Type="N">32.27138</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">36.24851</Ratio>
+			<Ratio FieldName="AREV" Type="N">3.23748</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-5.14622</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-8.18212</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.10989</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04348</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.50635</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.16565</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.08828</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-29.17361</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.19651</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.68134</Ratio>
+			<Ratio FieldName="Employees" Type="N">17</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-6.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

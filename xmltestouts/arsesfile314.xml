@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AB2E7</CoID>
+		<CoID Type="CompanyName">KAZ Minerals PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">KAZ</IssueID>
+			<IssueID Type="CUSIP">G5221U108</IssueID>
+			<IssueID Type="ISIN">GB00B0HZPV38</IssueID>
+			<IssueID Type="RIC">KAZ.L</IssueID>
+			<IssueID Type="SEDOL">B0HZPV3</IssueID>
+			<IssueID Type="DisplayRIC">KAZ.L</IssueID>
+			<IssueID Type="InstrumentPI">22530438</IssueID>
+			<IssueID Type="QuotePI">22627118</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-21</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">9172</Employees>
+		<SharesOut Date="2015-11-30" TotalFloat="229524060.0">446677203.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">1865</CommonShareholders>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:22:46">KAZ Minerals PLC, formerly Kazakhmys PLC, is a United Kingdom-based copper company. The Company is focused on open-pit mining in Kazakhstan. The Company operates through three segments: East Region operations, Mining Projects and Bozymchak. The East Region operations segment consists of the Company's primary operating entity, Vostoktsvetmet LLC, engaged in the mining and processing of copper and other metals which are produced as by-products, and its United Kingdom trading function, KAZ Minerals Sales Limited, involved in the purchase of exported products from Vostoktsvetmet LLC. The Mining Projects segment consists of the operations of the Company's project companies, engaged in the development of its projects, such as Aktogay, Bozshakol and Koksay. The Bozymchak segment consists of the Bozymchak gold-copper deposit, which is located in Kyrgyzstan. The Company primarily produces copper concentrate which is processed into copper cathode and sold to its customers in China or Europe.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-21T09:46:54">BRIEF: For the six months ended 30 June 2015, KAZ Minerals PLC revenues decreased 20% to $341M. Net loss before extraordinary items decreased 91% to $13M. Revenues reflect China segment decrease of 41% to $143M, Unallocated segment decrease of 53% to $38M, Copper, Avg. Price per Met. Tonne, Total decrease of 15% to $5936 per metric ton, Copper Production (MT) decrease of 9% to 78K metric tons.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-21T09:47:02">
+		<streetAddress line="1">6th Floor</streetAddress>
+		<streetAddress line="2">Cardinal Place, 100 Victoria Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1E 5JL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>John Smelt</contactName>
+		<contactTitle>Head of Corporate Communications</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79017800</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79017859</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79017882</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-04-22T12:39:53"><webSite mainCategory="Home Page">http://www.kazakhmys.com/</webSite><eMail mainCategory="Company Contact/E-mail">john.smelt@kazakhmys.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-21T09:47:02">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120108010" mnem="">Integrated  Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="212222" mnem="">Silver Ore Mining</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="212231" mnem="">Lead Ore and Zinc Ore Mining</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="221112" mnem="">Fossil Fuel Electric Power Generation</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1044" mnem="">Silver Ores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1031" mnem="">Lead And Zinc Ores</Industry>
+			<Industry type="SIC" order="5" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="6" reported="0" code="4911" mnem="">Electric Services</Industry>
+			<Industry type="SIC" order="7" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/23/2005">
+			<firstName>Oleg</firstName>
+			<mI></mI>
+			<lastName>Novachuk</lastName>
+			<age>44 </age>
+			<title startYear="2007" startMonth="03" startDay="15" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/2013">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Southam</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="05/2014">
+			<firstName>Stephen</firstName>
+			<mI></mI>
+			<lastName>Hodges</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.49000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.75660</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.65100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.20958</Ratio>
+			<Ratio FieldName="EV" Type="N">1345.50100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">665.54900</Ratio>
+			<Ratio FieldName="AREV" Type="N">597.96120</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">398.64080</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-165.39350</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.37014</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.33821</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.32457</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">3.37045</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.12971</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">46.09929</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-7.40741</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.11303</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.44818</Ratio>
+			<Ratio FieldName="Employees" Type="N">9172</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.1667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.37750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">4.7500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-48.23567</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">505.54225</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">477.80356</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.03089</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-28.96698</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

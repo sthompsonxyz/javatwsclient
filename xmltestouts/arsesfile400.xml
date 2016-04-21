@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EF97D</CoID>
+		<CoID Type="CompanyName">P2P Global Investments PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">P2P</IssueID>
+			<IssueID Type="CUSIP">G72978102</IssueID>
+			<IssueID Type="ISIN">GB00BLP57Y95</IssueID>
+			<IssueID Type="RIC">P2PG.L</IssueID>
+			<IssueID Type="SEDOL">BLP57Y9</IssueID>
+			<IssueID Type="DisplayRIC">P2PG.L</IssueID>
+			<IssueID Type="InstrumentPI">159092887</IssueID>
+			<IssueID Type="QuotePI">159130124</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares class C</IssueID>
+			<IssueID Type="Ticker">P2PC</IssueID>
+			<IssueID Type="CUSIP">G72978110</IssueID>
+			<IssueID Type="ISIN">GB00BV7L9053</IssueID>
+			<IssueID Type="RIC">P2PC.L^G15</IssueID>
+			<IssueID Type="InstrumentPI">179941028</IssueID>
+			<IssueID Type="QuotePI">179941008</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-07-31" TotalFloat="46739919.0">46754919.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-02T02:02:51">P2P Global Investments plc is a United Kingdom-based company that invests in credit assets originated by online and alternative lenders. The Company's investment objectives are to provide shareholders with an attractive level of dividend income and capital growth through exposure to investments in alternative finance and related instruments; achieve investment diversification across platforms, geographies, asset classes and credit grades, and allow the shareholders to share the equity upside by investing up to five % of gross assets in equity or equity linked securities issued by platforms. The Company's exposures consisted of small and medium-sized enterprises (SME) and consumer loans, as well as equity investments in peer-to-peer (P2P) platforms.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-03T08:48:46">BRIEF: For the six months ended 30 June 2015, P2P Global Investments PLC revenues increased from L408K to L14.6M. Net income increased from L153K to L10.8M. Revenues reflect Income increase from L83K to L12.8M, Net Investment&amp;Loan G/L-Business Revenue increase from L327K to L1.7M. Dividend per share totaled to L0.36. Basic Earnings per Share excluding Extraordinary Items increased from L0.01 to L0.23.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-09T04:04:34">
+		<streetAddress line="1">The Adelphi</streetAddress>
+		<streetAddress line="2">13th Floor 1/11 John Adam Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC2N 6HT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79254865</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-28T14:24:21"><webSite mainCategory="Home Page">http://www.p2pgi.com/</webSite><eMail mainCategory="Company Contact/E-mail">ir@p2pgi.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-09T04:04:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2013">
+			<firstName>Stuart</firstName>
+			<mI></mI>
+			<lastName>Cruickshank</lastName>
+			<age>60 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.32000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">11.80000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">8.31000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.10281</Ratio>
+			<Ratio FieldName="EV" Type="N">704.83440</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">721.00090</Ratio>
+			<Ratio FieldName="AREV" Type="N">5.93362</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">4.84367</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">4.46120</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.22306</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.29668</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">10.01756</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.80833</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.18500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.10377</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">121.51110</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">37.29938</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.83054</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="12" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">13.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

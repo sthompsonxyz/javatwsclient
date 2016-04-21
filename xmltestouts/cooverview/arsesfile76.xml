@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EEFAE</CoID>
+		<CoID Type="CompanyName">Bagir Group Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BAGR</IssueID>
+			<IssueID Type="CUSIP">M1563L106</IssueID>
+			<IssueID Type="ISIN">IL0011317216</IssueID>
+			<IssueID Type="RIC">BAGR.L</IssueID>
+			<IssueID Type="SEDOL">BKZGH89</IssueID>
+			<IssueID Type="DisplayRIC">BAGR.L</IssueID>
+			<IssueID Type="InstrumentPI">156457252</IssueID>
+			<IssueID Type="QuotePI">156459333</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-28</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">1050</Employees>
+		<SharesOut Date="2016-01-15" TotalFloat="41260115.0">50428660.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:34:08">Bagir Group Ltd. is an Israel-based manufacturer and marketer of men's and women's tailored fashion. The Company and its subsidiaries (together the Group) designs, creates and provides formalwear tailoring for department stores and private label brands across the world. The Group markets its suits, jackets and trousers under retail private labels, as well as brands, such as GIR Collection, AR-RED, Jay Godfrey and Simon Carter. The Group's products are primarily marketed to two geographical areas: Europe and the United States and, accordingly, the Company has two geographical segments. The company's activities in Europe are concentrated primarily in the United Kingdom.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-28T13:37:48">BRIEF: For the six months ended 30 June 2015, Bagir Group Ltd revenues decreased 5% to $45.5M. Net loss increased 34% to $3.1M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Selling and Marketing Expenses increase of 19% to $5M (expense), General and Administrative Expenses increase of 11% to $2.2M (expense), Other Income/Expense.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-07T23:34:55">
+		<streetAddress line="1">Israel Pollack Rd.44</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>KIRYAT GAT</city>
+		<state-region></state-region>
+		<postalCode>82101</postalCode>
+		<country code="ISR">Israel</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>972</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>6873917</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-07T23:34:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320202010" mnem="">Apparel &amp; Accessories - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="315222" mnem="">Men's and Boys' Cut and Sew Suit, Coat and Overcoat Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="315232" mnem="">Women's and Girls' Cut and Sew Blouse and Shirt Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2311" mnem="">Men's And Boys' Suits And Coats</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2331" mnem="">Women's/misses' Blouses/shirts</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/01/2015">
+			<firstName>Eran</firstName>
+			<mI></mI>
+			<lastName>Itzhak</lastName>
+			<age>37 </age>
+			<title startYear="2015" startMonth="11" startDay="30" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="04/2014">
+			<firstName>Yehuda</firstName>
+			<mI></mI>
+			<lastName>Cohen</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="10" startDay="28" iD1="DCE" abbr1="Dep-CEO" iD2="CFO" abbr2="CFO">Deputy Chief Executive Officer, Chief Financial Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.04750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.07875</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02200</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00151</Ratio>
+			<Ratio FieldName="EV" Type="N">10.93928</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2.39536</Ratio>
+			<Ratio FieldName="AREV" Type="N">68.54785</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.57632</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-2.24624</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.04473</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.36486</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.14124</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.16631</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00491</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">17.43313</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.03494</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.33631</Ratio>
+			<Ratio FieldName="Employees" Type="N">1050</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2F4F</CoID>
+		<CoID Type="CompanyName">Capita PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CPI</IssueID>
+			<IssueID Type="CUSIP">G1846J115</IssueID>
+			<IssueID Type="ISIN">GB00B23K0M20</IssueID>
+			<IssueID Type="RIC">CPI.L</IssueID>
+			<IssueID Type="SEDOL">B23K0M2</IssueID>
+			<IssueID Type="DisplayRIC">CPI.L</IssueID>
+			<IssueID Type="InstrumentPI">260641</IssueID>
+			<IssueID Type="QuotePI">1049459</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2007-09-17">1.00306</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">62910</Employees>
+		<SharesOut Date="2015-11-30" TotalFloat="656264556.0">664571219.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:00:03">Capita PLC provides customer and business process management services. The Company operates through nine segments: Health and Wellbeing, consisting of its health businesses; IT Services, consisting of its data and information technology managed services; Justice and Secure Services, consisting of businesses servicing the police and emergency services market, digital and gamification businesses, and parking services; Professional Services, consisting of local Government and schools software, document and information solutions, and Entrust; Property and Infrastructure, consisting of property consultancy and local Government regional partnerships; Workplace Services, consisting of human resource, and resourcing and learning businesses; Customer Management and International, consisting of customer management business; Insurance and Benefits Services, its employee benefits and insurance business, and Asset Services, consisting of shareholder solutions, and mortgage and banking solutions.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T13:19:05">BRIEF: For the six months ended 30 June 2015, Capita PLC revenues increased 11% to L2.29B. Net income decreased 4% to L117M. Revenues reflect Capita Europe segment increase from L6.8M to L82.1M, Digital &amp; Software Solutions segment increase of 17% to L247.5M. Net income was offset by Administrative expenses increase of 10% to L352M (expense), Amortisation of acquired intangibles increase of 13% to L80.5M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T13:19:10">
+		<streetAddress line="1">71 Victoria Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1H 0XA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Shona Nichols</contactName>
+		<contactTitle>Corporate Communications Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77991525</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77991526</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>207</city-areacode>
+				<number>6542219</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-01-22T01:11:47"><webSite mainCategory="Home Page">http://www.capita.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">corporate@capita.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T13:19:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51421" mnem="">Data Processing Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="524292" mnem="">Third Party Administration for Insurance and Pension Funds</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="56141" mnem="">Document Preparation Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="54169" mnem="">Other Scientific and Technical Consulting Services</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="541611" mnem="">Administrative Management and General Management Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7374" mnem="">Data Processing And Preparation</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6371" mnem="">Pension/health/welfare Funds</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7338" mnem="">Secretarial &amp; Court Reporting</Industry>
+			<Industry type="SIC" order="5" reported="0" code="8711" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="6" reported="0" code="8999" mnem="">Services, Nec</Industry>
+			<Industry type="SIC" order="7" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/10/2011">
+			<firstName>Andy</firstName>
+			<mI></mI>
+			<lastName>Parker</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="03" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/01/2015">
+			<firstName>Nick</firstName>
+			<mI></mI>
+			<lastName>Greatorex</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="03" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/10/2011">
+			<firstName>Vic</firstName>
+			<mI></mI>
+			<lastName>Gysin</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="01" startDay="10" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Joint Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="01/01/2014">
+			<firstName>Dawn</firstName>
+			<mI></mI>
+			<lastName>Marriott-Sims</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Joint Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Maggi</firstName>
+			<mI></mI>
+			<lastName>Bell</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="08" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Business Development Director, Executive Director</title>
+		</officer>
+		<officer rank="6" since="11/12/2014">
+			<firstName>Francesca</firstName>
+			<mI></mI>
+			<lastName>Todd</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="12" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">10.92000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">13.36000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">10.40000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.42000</Ratio>
+			<Ratio FieldName="EV" Type="N">8846.71800</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">7257.11800</Ratio>
+			<Ratio FieldName="AREV" Type="N">4372.30000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">664.10000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">235.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.35484</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">6.57687</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.28481</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.69403</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.71285</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.29200</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">27.56901</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">28.00665</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.65979</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">30.77443</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">8.49933</Ratio>
+			<Ratio FieldName="Employees" Type="N">62910</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.7273</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">12.44684</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">8.0725</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.40523</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4838.03800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.70885</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">542.64130</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.31933</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

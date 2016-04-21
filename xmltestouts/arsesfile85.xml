@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A6036</CoID>
+		<CoID Type="CompanyName">Baillie Gifford Shin Nippon PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">BGS</IssueID>
+			<IssueID Type="CUSIP">G81067103</IssueID>
+			<IssueID Type="ISIN">GB0000706274</IssueID>
+			<IssueID Type="RIC">BGS.L</IssueID>
+			<IssueID Type="SEDOL">0070627</IssueID>
+			<IssueID Type="DisplayRIC">BGS.L</IssueID>
+			<IssueID Type="InstrumentPI">262668</IssueID>
+			<IssueID Type="QuotePI">1080522</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">0</Employees>
+		<SharesOut Date="2016-02-10" TotalFloat="35260884.0">37975497.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:49:46">Baillie Gifford Shin Nippon PLC is a United Kingdom-based investment trust. The Company's objective is to pursue long term capital growth through investment principally in small Japanese companies. The Company invests principally in small Japanese company securities with either market capitalization or turnover less than 150 billion Yens. The Company may invest in United Kingdom and Overseas domiciled pooled funds, including United Kingdom listed investment trusts that invest principally in Japanese securities. On acquisition, no more than 15% of the Company's gross assets are invested in such companies or funds. The Company invests in a range of sectors, such as consumer discretionary, consumer staples, energy, financials, healthcare, industrials, information technology, materials and telecommunications. Baillie Gifford &amp; Co Limited is the manager of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T00:37:07">BRIEF: For the six months ended 31 July 2015, Baillie Gifford Shin Nippon PLC revenues increased from L2.1M to L22.6M. Net income increased from L1.2M to L21.6M. Revenues reflect Net gain on investments increase from L932K to L20.5M, Currency gains increase from L427K to L1.3M, Income from investments increase of less than 1% to L777K. Basic Earnings per Share excluding Extraordinary Items increased from L0.03 to L0.58.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T00:37:07">
+		<streetAddress line="1">Calton Square, 1 Greenside Row</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH1 3AN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>80</city-areacode>
+				<number>09172112</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-19T10:22:32"><webSite mainCategory="Home Page">http://www.bailliegifford.com</webSite><eMail mainCategory="Company Contact/E-mail">trustenquiries@bailliegifford.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T00:37:07">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.27125</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.69000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.18500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.08207</Ratio>
+			<Ratio FieldName="EV" Type="N">172.91580</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">162.20280</Ratio>
+			<Ratio FieldName="AREV" Type="N">15.01800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">13.24500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">13.09000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.35342</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.40547</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.46021</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.22006</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">90.73112</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.79160</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">10.80056</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">12.08548</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.23439</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">4</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

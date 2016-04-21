@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B17C0</CoID>
+		<CoID Type="CompanyName">GLI Finance Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GLIF</IssueID>
+			<IssueID Type="CUSIP">G4163S106</IssueID>
+			<IssueID Type="ISIN">GB00B0CL3P62</IssueID>
+			<IssueID Type="RIC">GLIF.L</IssueID>
+			<IssueID Type="SEDOL">B0CL3P6</IssueID>
+			<IssueID Type="DisplayRIC">GLIF.L</IssueID>
+			<IssueID Type="InstrumentPI">21669306</IssueID>
+			<IssueID Type="QuotePI">21669304</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-10</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<SharesOut Date="2016-01-27" TotalFloat="190391268.0">229968384.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:36:50">GLI Finance Limited (GLIF) is a Guernsey-based investing company. The Company's objective is to produce a stable and predictable dividend yield, with long term preservation of net asset value. The Company seeks to achieve its objective through the provision of secured lending to small and medium sized companies. The Company invests primarily in senior debt, senior subordinated debt and junior subordinated debt. The maximum investment size, at the time of the investment, will be limited to 15% of the Company's gross assets. It invests in a range of sectors, such as healthcare, private clients, financial services, property, leisure, retail, media, software, publishing and other. GMB Partners LLP (GMB) in United Kingdom, European and US CLO paper and senior secured loans, serves as the Company's investment advisors.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-13T02:53:12">BRIEF: For the six months ended 30 June 2015, GLI Finance Ltd revenues increased 39% to L8.9M. Net income totaled L393K vs. loss of L10.8M. Revenues reflect Realised losses increase of 98% to -L81K, Other income increase of 75% to L2.2M, Gain/ (loss) on foreign currency transac increase from -L232K to L333K. Net Income reflects Loss on disposal of subsidiary decrease from L10.1M (expense) to L0K, Foreign exchange decrease from L1.9M (expense) to L0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T02:08:07">
+		<streetAddress line="1">Sarnia House, Le Truchot</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 4NA</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1481</city-areacode>
+				<number>708280</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-17T00:01:02"><webSite mainCategory="Home Page">http://www.glifinance.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@glifinance.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T02:08:07">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/16/2014">
+			<firstName>Andrew</firstName>
+			<mI>N.</mI>
+			<lastName>Whelan</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="21" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Interim Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/2014">
+			<firstName>Marc</firstName>
+			<mI></mI>
+			<lastName>Krombach</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="10" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director</title>
+		</officer>
+		<officer rank="3" since="10/23/2013">
+			<firstName>Emma</firstName>
+			<mI></mI>
+			<lastName>Stubbs</lastName>
+			<age>34 </age>
+			<title startYear="2014" startMonth="09" startDay="16" iD1="EDR" abbr1="Exec. Dir." iD2="CFO" abbr2="CFO">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="03/31/2011">
+			<firstName>Geoffrey</firstName>
+			<mI>Richard</mI>
+			<lastName>Miller</lastName>
+			<age>47 </age>
+			<title startYear="2015" startMonth="12" startDay="21" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="11/2014">
+			<firstName>Louise</firstName>
+			<mI></mI>
+			<lastName>Beaumont</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Public Affairs and Marketing</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.32375</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.63250</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.27500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.24915</Ratio>
+			<Ratio FieldName="EV" Type="N">107.27391</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">95.39962</Ratio>
+			<Ratio FieldName="AREV" Type="N">10.64081</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.45728</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-13.62644</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.09591</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.07490</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.42453</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.19831</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.10090</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">75.18544</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-18.47703</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">8.96545</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.76260</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.39000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.19444</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">12.86700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.04500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1.92600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04400</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

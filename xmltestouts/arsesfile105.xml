@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A45D5</CoID>
+		<CoID Type="CompanyName">BT Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BT.A</IssueID>
+			<IssueID Type="CUSIP">G16612106</IssueID>
+			<IssueID Type="ISIN">GB0030913577</IssueID>
+			<IssueID Type="RIC">BT.L</IssueID>
+			<IssueID Type="SEDOL">3091357</IssueID>
+			<IssueID Type="DisplayRIC">BT.L</IssueID>
+			<IssueID Type="InstrumentPI">260546</IssueID>
+			<IssueID Type="QuotePI">1049370</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2001-11-19">1.29032</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-20</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">88500</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="8315870583.0">9962010468.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T04:40:45">BT Group plc is a communications services company. The Company's activities are the provision of fixed-line services, broadband, mobile and television products and services, as well as managed networked information technology (IT) services in both the United Kingdom and across the globe. The Company operates in five segments: BT Global Services, BT Business, BT Consumer, BT Wholesale and Openreach. BT Global Services is engaged in managed networked IT services. BT Business provides communications and IT services in the United Kingdom and the Republic of Ireland (RoI). BT Consumer segment is a provider of fixed-voice and broadband services in the United Kingdom. BT Wholesale provides services in Great Britain to more than 1,400 communications providers (CPs). Openreach provide services, such as copper and fiber connections between its exchanges and homes, and businesses.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T06:36:43">BRIEF: For the nine months ended 31 December 2015, BT Group plc revenues increased less than 1% to L13.25B. Net income increased 27% to L1.83B. Revenues reflect market conditions. Net income benefited from Specific items-Unusual increase from L58M to L203M (income), Finance expense decrease of 14% to L373M (expense), Operating costs decrease of 1% to L10.59B (expense). Dividend per share remained flat at L0.04.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-20T01:41:04">
+		<streetAddress line="1">BT Centre 81 Newgate Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC1A 7AJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73565000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73565520</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-20T07:46:57"><webSite mainCategory="Home Page">http://www.btplc.com</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@bt.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-20T01:41:04">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5810101010" mnem="">Integrated Telecommunications Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="513322" mnem="">Cellular and Other Wireless Telecommunications</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="33422" mnem="">Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="42169" mnem="">Other Electronic Parts and Equipment Wholesalers</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="33421" mnem="">Telephone Apparatus Manufacturing</Industry>
+			<Industry type="SIC" order="0" reported="1" code="4813" mnem="">Telephon Communications Not Radio</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4812" mnem="">Radiotelephone Communications</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3663" mnem="">Radio/tv Communications Equip</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="5" reported="0" code="5065" mnem="">Electronic Parts And Equipment</Industry>
+			<Industry type="SIC" order="6" reported="0" code="3661" mnem="">Telephone And Telegraph Apparatus</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/26/2007">
+			<firstName>Michael</firstName>
+			<mI>Derek Vaughan</mI>
+			<lastName>Rake</lastName>
+			<age>67 </age>
+			<title startYear="2007" startMonth="09" startDay="26" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="05/01/2008">
+			<firstName>Gavin</firstName>
+			<mI></mI>
+			<lastName>Patterson</lastName>
+			<age>46 </age>
+			<title startYear="2013" startMonth="09" startDay="10" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive, Director</title>
+		</officer>
+		<officer rank="3" since="12/01/2008">
+			<firstName>Tony</firstName>
+			<mI></mI>
+			<lastName>Chanmugam</lastName>
+			<age>60 </age>
+			<title startYear="2008" startMonth="12" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="10/01/2012">
+			<firstName>Luis</firstName>
+			<mI></mI>
+			<lastName>Alvarez</lastName>
+			<age>52 </age>
+			<title startYear="2012" startMonth="10" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - BT Global Services</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Petter</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief executive Officer - BT Consumer</title>
+		</officer>
+		<officer rank="6" since="04/01/2010">
+			<firstName>Clive</firstName>
+			<mI></mI>
+			<lastName>Selley</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="01" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - BT Technology, Service &amp; Operations &amp; Group CIO</title>
+		</officer>
+		<officer rank="7" since="09/01/2011">
+			<firstName>Nigel</firstName>
+			<mI></mI>
+			<lastName>Stagg</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="09" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - BT Wholesale</title>
+		</officer>
+		<officer rank="8" since="09/2013">
+			<firstName>Graham</firstName>
+			<mI></mI>
+			<lastName>Sutherland</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="09" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - BT Business</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Dan</firstName>
+			<mI></mI>
+			<lastName>Fitz</lastName>
+			<age>54 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="10" since="07/2015">
+			<firstName>Alison</firstName>
+			<mI></mI>
+			<lastName>Wilcox</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="07" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Director of Human Resources</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.59850</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.02600</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.04000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">14.88154</Ratio>
+			<Ratio FieldName="EV" Type="N">51621.30000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">45810.30000</Ratio>
+			<Ratio FieldName="AREV" Type="N">17851.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">6271.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">2135.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.26065</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.17934</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.09651</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.47263</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.57050</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">77.32900</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">1976.85200</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.56626</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.64243</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">47.64807</Ratio>
+			<Ratio FieldName="Employees" Type="N">88500</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.625</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.02048</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">5.1050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.81237</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">18272.97830</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">4577.99700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.31045</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.10240</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">3218.95100</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.13996</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A9A9D</CoID>
+		<CoID Type="CompanyName">Baring Emerging Europe plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">BEE</IssueID>
+			<IssueID Type="CUSIP">G0814L102</IssueID>
+			<IssueID Type="ISIN">GB0032273343</IssueID>
+			<IssueID Type="RIC">BEE.L</IssueID>
+			<IssueID Type="SEDOL">3227334</IssueID>
+			<IssueID Type="DisplayRIC">BEE.L</IssueID>
+			<IssueID Type="InstrumentPI">10458479</IssueID>
+			<IssueID Type="QuotePI">10457452</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-29</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">0</Employees>
+		<SharesOut Date="2016-02-23" TotalFloat="15505833.0">16917017.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-16T05:46:30">Baring Emerging Europe PLC is a United Kingdom-based investment company. The investment objective is to achieve long-term capital growth, principally through investment in securities listed on or traded on an Emerging European securities market or in securities of companies listed or traded elsewhere, whose revenues and/or profits are, or are expected to be, derived from activities in Emerging Europe. The investment manager of the company is Baring Asset Management Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-29T22:19:44">BRIEF: For the fiscal year ended 30 September 2015, Baring Emerging Europe plc revenues decreased 7% to -L25M. Net loss increased 3% to L27M. Revenues reflect Realised Gain on Sales decrease from -L6.6M to -L13.3M. Higher net loss reflects Auditor's Expenses increase of 32% to L54K (expense). Dividend per share increased from L0.19 to L0.23. Basic Earnings per Share excluding Extraordinary Items decreased from -L1.35 to -L1.47.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-13T21:08:57">
+		<streetAddress line="1">155 Bishopsgate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>E14 5NT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79821260</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-20T13:01:50"><webSite mainCategory="Home Page">http://www.barings.com</webSite><eMail mainCategory="Company Contact/E-mail">shareholder.services@capitaregistrars.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-13T21:08:57">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>M.</firstName>
+			<mI>J.</mI>
+			<lastName>Nokes</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.60000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.07703</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.87000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01328</Ratio>
+			<Ratio FieldName="EV" Type="N">87.06993</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">77.92693</Ratio>
+			<Ratio FieldName="AREV" Type="N">-25.02100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-26.78900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-27.00700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-1.46813</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-1.36017</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.34866</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.11717</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.23000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-23.84682</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.86003</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2013" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A62A6</CoID>
+		<CoID Type="CompanyName">Telford Homes plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TEF</IssueID>
+			<IssueID Type="CUSIP">G8743G102</IssueID>
+			<IssueID Type="ISIN">GB0031022154</IssueID>
+			<IssueID Type="RIC">TELF.L</IssueID>
+			<IssueID Type="SEDOL">3102215</IssueID>
+			<IssueID Type="DisplayRIC">TELF.L</IssueID>
+			<IssueID Type="InstrumentPI">6166489</IssueID>
+			<IssueID Type="QuotePI">6165664</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">212</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="60068674.0">74661661.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-13T07:00:50">Telford Homes Plc (Telford Homes) is a United Kingdom-based company, engaged in property development. The Company is engaged in housebuilding in the United Kingdom. The Company's projects include Avant-garde E1, Bermondsey Works SE16, Hackney Square E9, The Boatyard E14, The Junction E1, Manhattan Plaza E14, Cityscape E1, Horizons E14, Lime Quay E14, Parkside Quarter E14, Parliament House SE1, Stratford Central E15, Stratford Plaza E15, Stratosphere E15, The Town Apartments NW5 and Vibe E8.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T22:35:13">BRIEF: For the six months ended 30 September 2015, Telford Homes plc revenues increased from L42.3M to L138.8M. Net income increased from L7.4M to L16.8M. Revenues reflect Revenue increase from L65.1M to L139.6M, share of revenue from joint ventures increase of 96% to -L834K. Net income was partially offset by Share of results of joint ventures decrease of 96% to L444K (income), Selling expenses increase of 54% to L5.8M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T22:35:15">
+		<streetAddress line="1">Telford House</streetAddress>
+		<streetAddress line="2">Britannia Road, Queens Gate</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>WALTHAM CROSS</city>
+		<state-region></state-region>
+		<postalCode>EN8 7TF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Joanne Shears</contactName>
+		<contactTitle>Finance &amp; Investor PR Enquiries</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1992</city-areacode>
+				<number>809800</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1992</city-areacode>
+				<number>809801</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73987709</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-09-07T02:52:50"><webSite mainCategory="Home Page">http://www.telfordhomes.plc.uk</webSite><eMail mainCategory="Company Contact/E-mail">joanne.shears@abchurch-group.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T22:35:15">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320301010" mnem="">Homebuilding - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="531311" mnem="">Residential Property Managers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="531312" mnem="">Nonresidential Property Managers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="53139" mnem="">Other Activities Related to Real Estate</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6531" mnem="">Real Estate Agents And Managers</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Wiseman</lastName>
+			<age>58 </age>
+			<title startYear="2012" startMonth="01" startDay="01" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="10/2002">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Di-Stefano</lastName>
+			<age>40 </age>
+			<title startYear="2011" startMonth="07" startDay="01" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive, Director</title>
+		</officer>
+		<officer rank="3" since="07/14/2011">
+			<firstName>Katie</firstName>
+			<mI></mI>
+			<lastName>Rogers</lastName>
+			<age>34 </age>
+			<title startYear="2011" startMonth="07" startDay="14" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Group Financial Director, Director</title>
+		</officer>
+		<officer rank="4" since="08/01/2007">
+			<firstName>John</firstName>
+			<mI>Anthony</mI>
+			<lastName>Fitzgerald</lastName>
+			<age>44 </age>
+			<title startYear="2007" startMonth="08" startDay="01" iD1="MDR" abbr1="Mgng.Dir." iD2="DRC" abbr2="Dir.">Joint Group Managing Director, Director</title>
+		</officer>
+		<officer rank="5" since="04/02/2012">
+			<firstName>David</firstName>
+			<mI>Myles</mI>
+			<lastName>Campbell</lastName>
+			<age>49 </age>
+			<title startYear="2012" startMonth="04" startDay="02" iD1="DSL" abbr1="Dir.-Sales" iD2="DMK" abbr2="Dir.-Mktg.">Group Sales and Marketing Director , Director</title>
+		</officer>
+		<officer rank="6" since="2001">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Durant</lastName>
+			<age>53 </age>
+			<title startYear="2007" startMonth="08" startDay="01" iD1="OTH" abbr1="Other" iD2="DRC" abbr2="Dir.">Group Planning &amp; Design Director, Director</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Furlong</lastName>
+			<age>79 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="DRC" abbr2="Dir.">Land Director, Director</title>
+		</officer>
+		<officer rank="8" since="2013">
+			<firstName>Richard</firstName>
+			<mI>Colin</mI>
+			<lastName>Ellis</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.40750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.95000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.06850</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.36875</Ratio>
+			<Ratio FieldName="EV" Type="N">307.69860</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">254.40960</Ratio>
+			<Ratio FieldName="AREV" Type="N">140.44500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">13.60400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">19.66400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.32603</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.32856</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.99814</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.65824</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.33602</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.11100</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">27.22062</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">17.41873</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.81145</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.45149</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.70534</Ratio>
+			<Ratio FieldName="Employees" Type="N">212</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">4.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.89687</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">244.42500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.38300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">30.77500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.13600</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

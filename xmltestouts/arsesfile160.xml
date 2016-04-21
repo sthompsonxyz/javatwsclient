@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A34CA</CoID>
+		<CoID Type="CompanyName">Charles Taylor PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CTR</IssueID>
+			<IssueID Type="CUSIP">G2052V107</IssueID>
+			<IssueID Type="ISIN">GB0001883718</IssueID>
+			<IssueID Type="RIC">CHAT.L</IssueID>
+			<IssueID Type="SEDOL">0188371</IssueID>
+			<IssueID Type="DisplayRIC">CHAT.L</IssueID>
+			<IssueID Type="InstrumentPI">276996</IssueID>
+			<IssueID Type="QuotePI">1079895</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-03-23">1.14093</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-31</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1072</Employees>
+		<SharesOut Date="2016-01-21" TotalFloat="54327009.0">66565164.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">823</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-08T22:03:42">Charles Taylor plc is a United Kingdom-based company engaged in providing insurance services. The Company operates in four segments: management services business, adjusting services business, insurance support services business and insurers in run-off business. The management services business segment provides mutual management service. The adjusting services business energy, aviation, non-marine and marine (including average) adjusting. The insurance support Services business segment includes non-life and life insurance support services, including captive management, investment management and risk management. Insurers in Run-off business segment includes non-life and life insurance companies closed to new business.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-31T00:50:48">BRIEF: For the six months ended 30 June 2015, Charles Taylor PLC revenues increased 22% to L69.1M. Net income increased 23% to L4.5M. Revenues reflect Insurance Support Services segment increase of 57% to L15.3M, Management services segment increase of 16% to L23.6M, Adjusting Services segment increase of 11% to L29.4M, United Kingdom segment increase of 43% to L21M, Bermuda segment increase of 14% to L25.7M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-08T23:01:37">
+		<streetAddress line="1">Standard House, 12 - 13 Essex Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC2R 3AA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33208888</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33208800</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-09T00:01:37"><webSite mainCategory="Home Page">http://www.ctplc.com/</webSite><eMail mainCategory="Company Contact/E-mail">headoffice@ctplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-08T23:01:37">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5530101010" mnem="">Multiline Insurance &amp; Brokers - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="524298" mnem="">All Other Insurance Related Activities</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="524291" mnem="">Claims Adjusters</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="524292" mnem="">Third Party Administration for Insurance and Pension Funds</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6411" mnem="">Insurance Agents/brokers/service</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6371" mnem="">Pension/health/welfare Funds</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/01/2011">
+			<firstName>David Gideon</firstName>
+			<mI>Gideon</mI>
+			<lastName>Marock</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="07" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="06/16/2014">
+			<firstName>Mark</firstName>
+			<mI>W.</mI>
+			<lastName>Keogh</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="08" startDay="29" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="1995">
+			<firstName>Thomas</firstName>
+			<mI>Damian</mI>
+			<lastName>Ely</lastName>
+			<age>51 </age>
+			<title startYear="2016" startMonth="01" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">Chief Executive Officer of Charles Taylor Adjusting, Executive Director</title>
+		</officer>
+		<officer rank="4" since="2010">
+			<firstName>Stephen</firstName>
+			<mI></mI>
+			<lastName>Card</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer of Charles Taylor Insurance Services</title>
+		</officer>
+		<officer rank="5" since="02/2014">
+			<firstName>Jeremy</firstName>
+			<mI></mI>
+			<lastName>Grose</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="02" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive, Management Services  UK &amp; International</title>
+		</officer>
+		<officer rank="6" since="2014">
+			<firstName>Christian</firstName>
+			<mI></mI>
+			<lastName>Schirmer</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive, Non-Life Insurance Support Services</title>
+		</officer>
+		<officer rank="7" since="03/01/2005">
+			<firstName>Ivan</firstName>
+			<mI>John</mI>
+			<lastName>Keane</lastName>
+			<age>52 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">Group Company Secretary and General Counsel</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Joseph</firstName>
+			<mI>Garland</mI>
+			<lastName>Roach</lastName>
+			<age>69 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director, Chief Executive, Management Services - Americas</title>
+		</officer>
+		<officer rank="9" since="2014">
+			<firstName>Suzanne</firstName>
+			<mI></mI>
+			<lastName>Deery</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Director of Human Resources</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.45000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.90000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.00000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03660</Ratio>
+			<Ratio FieldName="EV" Type="N">-635.85730</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">163.08470</Ratio>
+			<Ratio FieldName="AREV" Type="N">122.75900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">15.35500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">8.21100</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.16926</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.53048</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.65985</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">16.98993</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.26744</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.09422</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">22.95563</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.32849</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.47477</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.71296</Ratio>
+			<Ratio FieldName="Employees" Type="N">1072</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">147.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.37749</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">141.14150</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.19794</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">13.12150</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.10450</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">C6A41</CoID>
+		<CoID Type="CompanyName">Emis Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">EMIS</IssueID>
+			<IssueID Type="CUSIP">G2898S102</IssueID>
+			<IssueID Type="ISIN">GB00B61D1Y04</IssueID>
+			<IssueID Type="RIC">EMISG.L</IssueID>
+			<IssueID Type="SEDOL">B61D1Y0</IssueID>
+			<IssueID Type="DisplayRIC">EMISG.L</IssueID>
+			<IssueID Type="InstrumentPI">68393982</IssueID>
+			<IssueID Type="QuotePI">69932225</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1611</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="57134722.0">63311000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:29:02">EMIS Group plc is a United Kingdom-based provider of connected healthcare software and services. The Company's solutions are used across the United Kingdom healthcare setting from primary and community care to high street pharmacies, secondary care and specialist services. The Company links up different healthcare sectors through integrated and interoperable technology that makes patient information available. The Company has three operating segments, all involved with the supply and support of software and related services. The Company's Primary &amp; Community Care segment provides primary care clinical systems. The Community Pharmacy segment is an integrated community pharmacy and retail system. The Secondary &amp; Specialist Care segment is a software provider and a provider of diabetic eye screening and other ophthalmology-related services and solutions.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-07T13:55:28">BRIEF: For the six months ended 30 June 2015, Emis Group Plc revenues increased 17% to L77.8M. Net income increased 9% to L10.4M. Revenues reflect Secondary &amp; Specialist Care segment increase of 47% to L21.1M, Primary &amp; Community Care segment increase of 9% to L46.9M, Community Pharmacy segment increase of 7% to L9.8M. Net income was partially offset by Secondary &amp; Specialist Care segment income decrease of 58% to L402K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T23:55:27">
+		<streetAddress line="1">Rawdon House, Green Lane</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LEEDS</city>
+		<state-region></state-region>
+		<postalCode>LS19 7BY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-06T08:45:52"><webSite mainCategory="Home Page">http://www.emis-online.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T23:55:27">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5610101015" mnem="">Medical Software &amp; Technology Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42143" mnem="">Computer and Computer Peripheral Equipment and Software Wholesalers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="541513" mnem="">Computer Facilities Management Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="541519" mnem="">Other Computer Related Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5045" mnem="">Computers, Peripherals &amp; Software</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7376" mnem="">Computer Facilities Management</Industry>
+			<Industry type="SIC" order="6" reported="0" code="7379" mnem="">Computer Related Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Chris</firstName>
+			<mI>M. K.</mI>
+			<lastName>Spencer</lastName>
+			<age>57 </age>
+			<title startYear="2013" startMonth="07" startDay="03" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/01/2012">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Southby</lastName>
+			<age>40 </age>
+			<title startYear="2012" startMonth="10" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Caroline</firstName>
+			<mI></mI>
+			<lastName>Farbridge</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">10.62000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.25000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">8.35000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.15704</Ratio>
+			<Ratio FieldName="EV" Type="N">684.18400</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">672.36700</Ratio>
+			<Ratio FieldName="AREV" Type="N">137.63900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">49.12100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">22.14400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.35182</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.18679</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.74029</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10960</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.66647</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.18400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">90.71339</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">21.06425</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.88500</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">30.18589</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">6.10244</Ratio>
+			<Ratio FieldName="Employees" Type="N">1611</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">11.49000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">23.54767</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">157.97200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.45100</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">36.25680</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.21200</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

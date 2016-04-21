@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D0DEC</CoID>
+		<CoID Type="CompanyName">Sylvania Platinum Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SLP</IssueID>
+			<IssueID Type="CUSIP">G86408104</IssueID>
+			<IssueID Type="ISIN">BMG864081044</IssueID>
+			<IssueID Type="RIC">SLPL.L</IssueID>
+			<IssueID Type="SEDOL">B3V5PR6</IssueID>
+			<IssueID Type="DisplayRIC">SLPL.L</IssueID>
+			<IssueID Type="InstrumentPI">83157188</IssueID>
+			<IssueID Type="QuotePI">84141278</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<SharesOut Date="2015-12-31" TotalFloat="225651761.0">288866312.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-31T23:28:43">Sylvania Platinum Limited is engaged in investment in mineral exploration and mineral treatment projects. The Company is a producer of the platinum group metals (PGMs) including platinum, palladium and rhodium, with two distinct lines of business: the re-treatment of PGM-rich chrome tailings material from mines in the region and the development of shallow mining operations and processing methods for low-cost PGM extraction. All of the Companys assets are situated in various locations across South Africa's Bushveld Igneous Complex (BIC). The Company operates in seven segments: Millsell, Steelpoort, Lannex, Mooinooi (two plants reported as a single unit), Doornbosch, Tweefontein and an open cast mining exploration project and a Northern Limb exploration project.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T13:14:49">BRIEF: For the six months ended 31 December 2015, Sylvania Platinum Ltd revenues decreased 33% to $18.5M. Net income decreased 91% to $281K. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net income also reflects Finance revenue decrease of 23% to $140K (income), Other income decrease of 68% to $9K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T13:14:54">
+		<streetAddress line="1">Clarendon House, 2 Church Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HAMILTON</city>
+		<state-region></state-region>
+		<postalCode>HM 11</postalCode>
+		<country code="BMU">Bermuda</country>
+		<contactName>Grant Button</contactName>
+		<contactTitle>Executive Director, Assistant Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>441</city-areacode>
+				<number>2955950</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>92264777</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-01-11T09:13:37"><webSite mainCategory="Home Page">http://www.sylvaniaplatinum.com</webSite><eMail mainCategory="Company Contact/E-mail">grant@sylvaniaresources.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T13:14:54">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120101010" mnem="">Precious Metals &amp; Minerals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Terence</firstName>
+			<mI>M.</mI>
+			<lastName>McConnachie</lastName>
+			<age>59 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Grant</firstName>
+			<mI>Michael</mI>
+			<lastName>Button</lastName>
+			<age>51 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="ASC" abbr2="Asst.Secy.">Executive Director, Assistant Secretary</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Louis</firstName>
+			<mI>Michael</mI>
+			<lastName>Carroll</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="01" startDay="17" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.06875</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.12000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.06500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03562</Ratio>
+			<Ratio FieldName="EV" Type="N">13.72038</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">19.85956</Ratio>
+			<Ratio FieldName="AREV" Type="N">33.77883</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">7.02416</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.19938</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00385</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.10856</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.23405</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02186</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01899</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">13.62165</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">1.58730</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.58793</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.84734</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.29375</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2014" CurInterimEndMonth="8" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.15536</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">4.63275</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">38.37978</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.01484</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">5.47071</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC24B</CoID>
+		<CoID Type="CompanyName">Amur Minerals Corporation</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AMC</IssueID>
+			<IssueID Type="CUSIP">G04240100</IssueID>
+			<IssueID Type="ISIN">VGG042401007</IssueID>
+			<IssueID Type="RIC">A7L.L</IssueID>
+			<IssueID Type="SEDOL">B0YHGY2</IssueID>
+			<IssueID Type="DisplayRIC">A7L.L</IssueID>
+			<IssueID Type="InstrumentPI">24810686</IssueID>
+			<IssueID Type="QuotePI">25181860</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-29</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">21</Employees>
+		<SharesOut Date="2015-12-17" TotalFloat="452765703.0">460250162.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:14:11">Amur Minerals Corporation (AMC) is a natural resources exploration and development company. The Company and its subsidiaries locate, evaluate, acquire, explore and develop mineral properties and projects in the Russian Far East. The Company's principal asset is the Kun-Manie sulfide nickel, copper project located in Amur Oblast, with JORC resources in excess of 830,000 nickel equivalent tons. The Company's Kun-Manie project is involved in the exploration for minerals within the Kun-Manie license areas in Russia. The Company's project license area covers approximately 36 square kilometers. The Company's wholly owned subsidiary is ZAO Kun-Maine.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-29T14:36:34">BRIEF: For the six months ended 30 June 2015, Amur Minerals Corporation revenues was not reported. Net income totaled $3M vs. loss of $5.3M. Net income reflects Fair value gain/ (loss) on derivative fi increase from $3.7M (expense) to $1.2M (income), Finance expense decrease from $355K (expense) to $0K. Basic Earnings per Share excluding Extraordinary Items increased from -$0.01 to $0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-14T02:32:09">
+		<streetAddress line="1">Office 9, 14 Gaidar Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>KHABAROVSK</city>
+		<state-region></state-region>
+		<postalCode>680063</postalCode>
+		<country code="RUS">Russian Federation</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>7</countryPhoneCode>
+				<city-areacode>421</city-areacode>
+				<number>2755615</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-14T13:45:04"><webSite mainCategory="Home Page">http://www.amurminerals.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-14T02:32:09">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120105010" mnem="">Specialty Mining &amp; Metals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2004">
+			<firstName>Robin</firstName>
+			<mI>J.</mI>
+			<lastName>Young</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.07600</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.44580</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.04750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">6.53701</Ratio>
+			<Ratio FieldName="EV" Type="N">33.99725</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">34.97901</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.53943</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.96197</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00223</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.03396</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00228</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00204</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-5.37690</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.23765</Ratio>
+			<Ratio FieldName="Employees" Type="N">21</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">113.43284</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00067</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">0.64570</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B06EA</CoID>
+		<CoID Type="CompanyName">iShares FTSE/Macquarie G I 100 Fd (ETF)</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Exchange-Traded Fund</IssueID>
+			<IssueID Type="Ticker">INFR</IssueID>
+			<IssueID Type="ISIN">IE00B1FZS467</IssueID>
+			<IssueID Type="RIC">INFR.L</IssueID>
+			<IssueID Type="SEDOL">B1G5384</IssueID>
+			<IssueID Type="DisplayRIC">INFR.L</IssueID>
+			<IssueID Type="InstrumentPI">28499471</IssueID>
+			<IssueID Type="QuotePI">28499206</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-10</LastModified>
+		<LatestAvailableAnnual>2007-10-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2008-04-30</LatestAvailableInterim>
+		<SharesOut Date="2016-01-21" TotalFloat="19320000.0">19320000.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2009-12-10T04:22:11">iShares FTSE/Macquarie Global Infrastructure 100 (the Fund) is an exchange-traded fund. The Funds investment objective is to provide total return (both capital and income returns), which reflects the return of its benchmark index, Macquarie Global Infrastructure 100. The Macquarie Global Infrastructure 100 is designed to reflect the stock performance of companies within the infrastructure industry, principally those engaged in management, ownership and operation of infrastructure and utility assets. The Fund invests in sectors, such as electricity, multiutilities, gas distribution, transportation services, pipelines, water and telecommunications equipment. The Funds investment manager is BlackRock Advisors (UK) Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-10T03:46:53">BRIEF: For the six months ended 30 April 2008, iShares FTSE/Macquarie G I 100 Fd (ETF) revenues increased 49% to $4.4M. Net loss totaled $15.8M vs. income of $34M. Revenues reflect Dividends increase of 52% to $4.3M, Securities Lending Income increase from $18K to $47K. Net loss reflects Net Gains on Financial Assets decrease from $33.2M (income) to $16.4M (expense), Distribution to Participation Share increase of 77% to $2.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-10T03:46:53">
+		<streetAddress line="1">Guild House,IFSC, Guild Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DUBLIN</city>
+		<state-region></state-region>
+		<postalCode>1</postalCode>
+		<country code="IRL">Ireland</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2009-08-07T00:51:45"><webSite mainCategory="Home Page">http://uk.ishares.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@ishares.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-10T03:46:53">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550104010" mnem="">Exchange Traded Funds - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52591" mnem="">Open-End Investment Funds</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6722" mnem="">Management Investment, Open-End</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Blessing</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2007-10-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">15.79250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">17.13510</Ratio>
+			<Ratio FieldName="NLOW" Type="N">13.98000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02871</Ratio>
+			<Ratio FieldName="EV" Type="N">608.94583</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">608.95290</Ratio>
+			<Ratio FieldName="AREV" Type="N">5.94993</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">0.63401</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">45.08034</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">3.36420</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.44402</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">22.66123</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00053</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">78.17499</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">102.34630</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">4.69428</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.69690</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F194A</CoID>
+		<CoID Type="CompanyName">Crossrider PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CROS</IssueID>
+			<IssueID Type="CUSIP">G253HA107</IssueID>
+			<IssueID Type="ISIN">IM00BQ8NYV14</IssueID>
+			<IssueID Type="RIC">CROSC.L</IssueID>
+			<IssueID Type="SEDOL">BQ8NYV1</IssueID>
+			<IssueID Type="DisplayRIC">CROSC.L</IssueID>
+			<IssueID Type="InstrumentPI">166237491</IssueID>
+			<IssueID Type="QuotePI">166237793</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-09-30">107</Employees>
+		<SharesOut Date="2016-01-08" TotalFloat="37222393.0">141044650.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:34:55">Crossrider plc (Crossrider) is engaged in monetizing desktop and mobile media through the use of big data. The Company operates in two segments: Web and Desktop, and Mobile. The Web and Desktop segment include its Web extensions development and desktop apps distribution platforms. These platforms use Crossrider's data analysis technology and Business Intelligence (BI) dashboards to allow publishers and advertisers to view and understand their traffic sources. Data analysis of KPIs, such as installation success rate; number of active users and type of browser can be used to model revenue over a specific campaign period. Its Mobile segment operates its own mobile media management platform Platform (Ajillion) and Mobile Ad Network (DefinitiMedia). It collects NPI data, which its algorithms use to target relevant ads to users via its platforms. Its BI dashboard enables clients to estimate user lifetimes, values and average revenue per unit to predict future campaign success and ROI.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-09T00:30:17">BRIEF: For the six months ended 30 June 2015, Crossrider PLC revenues increased 53% to $40.8M. Net loss increased 12% to $3M. Revenues reflect Web and Desktop segment increase of 35% to $34M, Mobile segment increase from $1.5M to $6.8M. Higher net loss reflects Selling and marketing costs increase from $11.1M to $25.6M (expense), Selling/General/Admin. Expense increase of 45% to $6.5M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-09-09T00:30:17">
+		<streetAddress line="1">Sovereign House</streetAddress>
+		<streetAddress line="2">14-16 Nelson Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DOUGLAS</city>
+		<state-region></state-region>
+		<postalCode>M1 2AL</postalCode>
+		<country code="IMN">Isle of Man</country>
+		<contactName>Mark Carlisle</contactName>
+		<contactTitle>Chief Financial Officer, Executive Director, IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>7861 3232</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-09-29T06:55:42"><webSite mainCategory="Home Page">https://crossrider.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@crossrider.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-09-09T00:30:17">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330201010" mnem="">Advertising &amp; Marketing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="54189" mnem="">Other Services Related to Advertising</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7319" mnem="">Advertising, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/30/2014">
+			<firstName>Don</firstName>
+			<mI>H.</mI>
+			<lastName>Elgie</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="30" iD1="CHM" abbr1="Chmn." iD2="NID" abbr2="Non Ex.Ind.Dir.">Non-Executive Independent Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="09/04/2014">
+			<firstName>Yakov</firstName>
+			<mI></mI>
+			<lastName>Menachemi</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="04" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/10/2014">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Carlisle</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="10" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director, IR Contact Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.36500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.04500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.35000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02137</Ratio>
+			<Ratio FieldName="EV" Type="N">-2.26524</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">51.48130</Ratio>
+			<Ratio FieldName="AREV" Type="N">50.25843</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">4.84236</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-8.31774</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.05603</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.33852</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.52756</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.36202</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01357</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">81.46711</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-21.63454</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.02433</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.69187</Ratio>
+			<Ratio FieldName="Employees" Type="N">107</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.69872</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">59.67000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03120</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">6.52160</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

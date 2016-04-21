@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EA51C</CoID>
+		<CoID Type="CompanyName">Greka Engineering &amp; Technology Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GEL</IssueID>
+			<IssueID Type="CUSIP">G41121107</IssueID>
+			<IssueID Type="ISIN">KYG411211074</IssueID>
+			<IssueID Type="RIC">GELG.L</IssueID>
+			<IssueID Type="SEDOL">B974S47</IssueID>
+			<IssueID Type="DisplayRIC">GELG.L</IssueID>
+			<IssueID Type="InstrumentPI">142622485</IssueID>
+			<IssueID Type="QuotePI">142622478</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-09-23">105</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="87845278.0">409622133.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2014-01-14T09:57:28">Greka Engineering &amp; Technology Ltd. is a provider of engineering, procurement, construction and management (EPCM) services for infrastructure projects in the unconventional gas sector in China. The Companys EPCM business includes design, construction and management of gas gathering systems, pipeline construction, installation and maintenance of compressed natural gas (CNG) compressing integrated production facilities, installation and commissioning of gas-fired power facilities and construction of CNG retail stations. The Company has also completed a gas pipeline connecting a Green Dragon gas producing block in Shanxi Province to the China West-East pipeline and a pipeline which connects a number of Green Dragons producing wells to the Company's integrated production facility.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-22T14:01:01">BRIEF: For the six months ended 30 June 2015, Greka Engineering &amp; Technology Ltd revenues increased 2% to $2.7M. Net loss before extraordinary items decreased 24% to $566K. Revenues reflect InfraStructure Services segment increase of 60% to $2.2M. Lower net loss reflects Selling and distribution decrease of 12% to $111K (expense), Other operating loss increase from $1K to $6K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T03:24:23">
+		<streetAddress line="1">c/o International Corporation Servic Ltd</streetAddress>
+		<streetAddress line="2">Harbour Place,2nd Fl,103South Church st.</streetAddress>
+		<streetAddress line="3">P.O. Box 472</streetAddress>
+		<city>GEORGE TOWN</city>
+		<state-region></state-region>
+		<postalCode>KY1-1106</postalCode>
+		<country code="CYM">Cayman Islands</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-08T14:09:26"><webSite mainCategory="Home Page">http://www.grekaengineering.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T03:24:23">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220102010" mnem="">Construction &amp; Engineering - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23491" mnem="">Water, Sewer, and Pipeline Construction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8711" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1623" mnem="">Water, Sewer, And Utility Lines</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00350</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.01950</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00300</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.96927</Ratio>
+			<Ratio FieldName="EV" Type="N">2.90180</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.43163</Ratio>
+			<Ratio FieldName="AREV" Type="N">3.69874</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.31736</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.37404</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00336</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00903</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.05125</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00453</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00074</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">21.97592</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-6.35232</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.38706</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.06819</Ratio>
+			<Ratio FieldName="Employees" Type="N">105</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-2.69231</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4.32120</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00130</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-0.58050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

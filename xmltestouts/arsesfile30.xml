@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F28B1</CoID>
+		<CoID Type="CompanyName">Strat Aero PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AERO</IssueID>
+			<IssueID Type="CUSIP">G8525B107</IssueID>
+			<IssueID Type="ISIN">GB00BQQPLG38</IssueID>
+			<IssueID Type="RIC">AERO.L</IssueID>
+			<IssueID Type="SEDOL">BQQPLG3</IssueID>
+			<IssueID Type="DisplayRIC">AERO.L</IssueID>
+			<IssueID Type="InstrumentPI">170593565</IssueID>
+			<IssueID Type="QuotePI">170935715</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-18</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-06-30">8</Employees>
+		<SharesOut Date="2015-12-30" TotalFloat="77914302.0">142063771.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:15:34">Strat Aero Plc is an aerospace services company. The principal activity of the Company and its subsidiaries is the development, marketing and selling of training programs and software in the aviation industry. It is organized into three divisions, such as unmanned aerial services (UAS) pilot training and services; aviation software, products and services, and aviation management and consultancy services. UAS pilot training and services include the use of unmanned aerial vehicle (UAV) for wind turbine, power transmission and infrastructure inspections; development and delivery of UAV curriculum and flight training, and investigation, surveillance and reconnaissance. Aviation Software, Products and Services consist of database software designed for the use of aviation service providers and management support consulting services for aviation service providers. Aviation Management and Consultancy Services include airline and airport management, research and development of UAS operations.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-18T04:52:33">BRIEF: For the six months ended 30 June 2015, Strat Aero PLC revenues totaled $57K. Net loss totaled to $1.3M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T02:18:44">
+		<streetAddress line="1">The Beehive, City Place, Gatwick Airport</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>GATWICK</city>
+		<state-region></state-region>
+		<postalCode>RH6 0PA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1293</city-areacode>
+				<number>804741</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-11-17T16:13:21"><webSite mainCategory="Home Page">http://www.strat-aero.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T02:18:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240701010" mnem="">Airport Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="488119" mnem="">Other Airport Operations</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="48819" mnem="">Other Support Activities for Air Transportation</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="611512" mnem="">Flight Training</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4581" mnem="">Airports/flying Fields/services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8249" mnem="">Vocational Schools, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2014">
+			<firstName>Graham</firstName>
+			<mI>Douglas Grindell</mI>
+			<lastName>Peck</lastName>
+			<age>69 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="09/24/2015">
+			<firstName>Tony</firstName>
+			<mI></mI>
+			<lastName>Dunleavy</lastName>
+			<age>53 </age>
+			<title startYear="2015" startMonth="09" startDay="24" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="3" since="09/14/2015">
+			<firstName>Gerard</firstName>
+			<mI>John</mI>
+			<lastName>Dempsey</lastName>
+			<age>53 </age>
+			<title startYear="2015" startMonth="09" startDay="14" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="4" since="2014">
+			<firstName>Jonathan</firstName>
+			<mI>Eric</mI>
+			<lastName>Adams</lastName>
+			<age>68 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="EVP" abbr1="Exec. VP" iD2="" abbr2="">Executive Vice President, US</title>
+		</officer>
+		<officer rank="5" since="10/06/2015">
+			<firstName>Bill</firstName>
+			<mI></mI>
+			<lastName>Bauer</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="10" startDay="06" iD1="DSL" abbr1="Dir.-Sales" iD2="DMK" abbr2="Dir.-Mktg.">Sales &amp; Marketing Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.04000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.12000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.03500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.96924</Ratio>
+			<Ratio FieldName="EV" Type="N">5.65281</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">5.68255</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.44578</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.80298</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.84877</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.02666</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.01400</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.00752</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00098</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.02459</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">49.15252</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">12.74749</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.32249</Ratio>
+			<Ratio FieldName="Employees" Type="N">8</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.60000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

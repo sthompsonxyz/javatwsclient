@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2F3A</CoID>
+		<CoID Type="CompanyName">Persimmon plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PSN</IssueID>
+			<IssueID Type="CUSIP">G70202109</IssueID>
+			<IssueID Type="ISIN">GB0006825383</IssueID>
+			<IssueID Type="RIC">PSN.L</IssueID>
+			<IssueID Type="SEDOL">0682538</IssueID>
+			<IssueID Type="DisplayRIC">PSN.L</IssueID>
+			<IssueID Type="InstrumentPI">262249</IssueID>
+			<IssueID Type="QuotePI">1080140</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">3453</Employees>
+		<SharesOut Date="2016-01-31" TotalFloat="294432710.0">307574538.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:42:00">Persimmon Plc is the holding company of the Persimmon Group of companies engaged in housebuilding within the United Kingdom. The Company is a housebuilder in approximately 400 locations. It owns around 17,000 acres, 87,720 plots and 380 construction sites. The Company trades under the brand names of Persimmon Homes, Charles Church, Space4 and Westbury Partnerships. The Company offers a number of new homes, including studio apartments and executive family homes in around 400 locations through the United Kingdom. The Company builds premium range of homes under the Charles Church brand name. The Company provides affordable, social housing under the name Westbury Partnerships to housing associations across the United Kingdom. Its Space4 business operates an automated timber frame manufacturing plant in the United Kingdom.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T13:08:02">BRIEF: For the fiscal year ended 31 December 2015, Persimmon plc revenues increased 13% to L2.9B. Net income increased 40% to L521.9M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Other operating income increase of 35% to L11.6M (income). Basic Earnings per Share excluding Extraordinary Items increased from L1.22 to L1.70.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T13:08:08">
+		<streetAddress line="1">Persimmon House Fulford</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>YORK</city>
+		<state-region></state-region>
+		<postalCode>YO19 4FE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1904</city-areacode>
+				<number>642199</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1904</city-areacode>
+				<number>610014</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-13T11:58:22"><webSite mainCategory="Home Page">http://corporate.persimmonhomes.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T13:08:08">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320301010" mnem="">Homebuilding - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23322" mnem="">Multifamily Housing Construction</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23311" mnem="">Land Subdivision and Land Development</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1531" mnem="">Operative Builders</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6552" mnem="">Subdividers And Developers, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/01/2009">
+			<firstName>Jeffrey</firstName>
+			<mI></mI>
+			<lastName>Fairburn</lastName>
+			<age>48 </age>
+			<title startYear="2013" startMonth="04" startDay="18" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/1999">
+			<firstName>Mike</firstName>
+			<mI>H.</mI>
+			<lastName>Killoran</lastName>
+			<age>53 </age>
+			<title startYear="1999" startMonth="04" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/08/2013">
+			<firstName>Nigel</firstName>
+			<mI></mI>
+			<lastName>Greenaway</lastName>
+			<age>54 </age>
+			<title startYear="2013" startMonth="01" startDay="08" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">South Division Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="4" since="12/13/2013">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Jenkinson</lastName>
+			<age>47 </age>
+			<title startYear="2016" startMonth="01" startDay="07" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Group Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>G. Neil</firstName>
+			<mI></mI>
+			<lastName>Francis</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">20.29000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">21.56000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">15.17350</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.47836</Ratio>
+			<Ratio FieldName="EV" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">6240.68800</Ratio>
+			<Ratio FieldName="AREV" Type="N">2901.70000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">641.60000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">521.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.66422</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">9.25287</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">8.00720</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.85981</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.68686</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">25.40924</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">22.45504</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.15070</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">12.19190</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.53397</Ratio>
+			<Ratio FieldName="Employees" Type="N">3453</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.1875</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">20.67154</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">9.4000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.35518</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">3139.53280</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.78685</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">690.59940</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">1.08000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

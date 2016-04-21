@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4949</CoID>
+		<CoID Type="CompanyName">Rexam PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">REX</IssueID>
+			<IssueID Type="CUSIP">G12740224</IssueID>
+			<IssueID Type="ISIN">GB00BMHTPY25</IssueID>
+			<IssueID Type="RIC">REX.L</IssueID>
+			<IssueID Type="SEDOL">BMHTPY2</IssueID>
+			<IssueID Type="DisplayRIC">REX.L</IssueID>
+			<IssueID Type="InstrumentPI">260450</IssueID>
+			<IssueID Type="QuotePI">1049477</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-06-02">0.88888</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="Ticker">REXA</IssueID>
+			<IssueID Type="ISIN">GB0004285382</IssueID>
+			<IssueID Type="RIC">BWTR_p.L^A03</IssueID>
+			<IssueID Type="InstrumentPI">1431970</IssueID>
+			<IssueID Type="QuotePI">2547180</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-18</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">8000</Employees>
+		<SharesOut Date="2016-02-11" TotalFloat="700900236.0">705420918.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-19T03:30:41">Rexam PLC is a global beverage can maker. The Company engages in the manufacture of cans, in different shapes and sizes with various finishes, decorations and ends. It offers a range of beverage can sizes in the industry: around 27 different shapes and sizes, ranging from standard 33 centiliters (12 ounces) cans, through 150 milliliters and slim and sleek versions to one liter cans and aluminum bottles. Its cans are suitable for beverages, including juices, iced ready to drink (RTD) tea and coffee, and flavored and sparkling water. It operates in two segments: Europe &amp; Rest of World and Americas. It offers cans for multiple channels, such as vending machines, convenience stores, hypermarkets and in multiple sizes and formats to suit a range of consumer occasions. It offers thermochromic inks on cans to signal when the product is at its optimum drinking temperature. It prints quick response (QR) codes and augmented reality (AR) features on a can for enabling social media interaction.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-18T13:26:12">BRIEF: For the fiscal year ended 31 December 2015, Rexam PLC revenues increased 2% to L3.93B. Net income before extraordinary items decreased 32% to L182M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income was offset by Operating Expense - Balancing value increase from L426M to L3.52B (expense), Restucturing increase from L15M to L44M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T23:48:05">
+		<streetAddress line="1">4 Millbank</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1P 3XR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72274100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72274109</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-10-27T21:58:51"><webSite mainCategory="Home Page">http://www.rexam.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@rexam.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T23:48:05">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5130201013" mnem="">Metal Containers &amp; Packaging</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="332431" mnem="">Metal Can Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="326199" mnem="">All Other Plastics Product Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="32614" mnem="">Polystyrene Foam Product Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="334510" mnem="">Electromedical and Electrotherapeutic Apparatus Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="339112" mnem="">Surgical and Medical Instrument Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3411" mnem="">Metal Cans</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3089" mnem="">Plastics Products, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3086" mnem="">Plastics Foam Products</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3845" mnem="">Electromedical Equipment</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3841" mnem="">Surgical And Medical Instruments</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/10/2003">
+			<firstName>Graham</firstName>
+			<mI></mI>
+			<lastName>Chipchase</lastName>
+			<age>52 </age>
+			<title startYear="2010" startMonth="01" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/03/2005">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Robbie</lastName>
+			<age>51 </age>
+			<title startYear="2005" startMonth="10" startDay="03" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2012">
+			<firstName>Oliver</firstName>
+			<mI></mI>
+			<lastName>Graham</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Leadership Team, Marketing and Innovation</title>
+		</officer>
+		<officer rank="4" since="2012">
+			<firstName>Rich</firstName>
+			<mI></mI>
+			<lastName>Grimley</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Operations</title>
+		</officer>
+		<officer rank="5" since="2012">
+			<firstName>Craig</firstName>
+			<mI></mI>
+			<lastName>Jones</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Leadership Team, Beverage Can Africa, Middle East and Asia</title>
+		</officer>
+		<officer rank="6" since="01/01/2015">
+			<firstName>Claude</firstName>
+			<mI></mI>
+			<lastName>Marbach</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Leadership Team, Beverage Can North America</title>
+		</officer>
+		<officer rank="7" since="2012">
+			<firstName>Carlos</firstName>
+			<mI>Henrique</mI>
+			<lastName>Medeiros</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Leadership Team, Beverage Can South America</title>
+		</officer>
+		<officer rank="8" since="2010">
+			<firstName>Iain Philip</firstName>
+			<mI></mI>
+			<lastName>Percival</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Leadership Team, Beverage Can Europe</title>
+		</officer>
+		<officer rank="9" since="2012">
+			<firstName>Nikki</firstName>
+			<mI></mI>
+			<lastName>Rolfe</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Leadership Team, Human Resources</title>
+		</officer>
+		<officer rank="10" since="1989">
+			<firstName>David</firstName>
+			<mI>William</mI>
+			<lastName>Gibson</lastName>
+			<age>52 </age>
+			<title startYear="2010" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary, Executive Leadership Team, Legal</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">6.04000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.15000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.02500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">3.31774</Ratio>
+			<Ratio FieldName="EV" Type="N">5507.74200</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4260.74200</Ratio>
+			<Ratio FieldName="AREV" Type="N">3925.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">534.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">182.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.25652</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.53206</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.99177</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.33598</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.47921</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.17700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">12.91238</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.08554</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">23.54592</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.03248</Ratio>
+			<Ratio FieldName="Employees" Type="N">8000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.875</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">6.02400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.84540</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4016.97450</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">1967.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.40686</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.19000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">364.62630</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.17995</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

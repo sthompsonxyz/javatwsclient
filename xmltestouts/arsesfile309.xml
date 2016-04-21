@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2E7C</CoID>
+		<CoID Type="CompanyName">Johnson Service Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">JSG</IssueID>
+			<IssueID Type="CUSIP">G51576125</IssueID>
+			<IssueID Type="ISIN">GB0004762810</IssueID>
+			<IssueID Type="RIC">JSG.L</IssueID>
+			<IssueID Type="SEDOL">0476281</IssueID>
+			<IssueID Type="DisplayRIC">JSG.L</IssueID>
+			<IssueID Type="InstrumentPI">261646</IssueID>
+			<IssueID Type="QuotePI">1081576</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2008-08-06">1.0421</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="CUSIP">G51576AA7</IssueID>
+			<IssueID Type="ISIN">GB0004762471</IssueID>
+			<IssueID Type="RIC">GB0476247.L^D04</IssueID>
+			<IssueID Type="InstrumentPI">1477479</IssueID>
+			<IssueID Type="QuotePI">2790511</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">6.3% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">124981666</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">4723</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="321876802.0">330597566.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:31:44">Johnson Service Group PLC is a United Kingdom-based company that provides textile related services to both businesses and consumers. The Company has two operating segments: Textile Rental and Drycleaning. The Textile Rental segment is engaged in the provision and laundering of workwear, roller towels, corporate apparel, dust mats, linen for the hotel, catering and hospitality markets, linen for the high volume hotel market and the direct sale of associated products. The Textile Rental business trades through three brands servicing three market sectors within Textile Rental in the United Kingdom: Apparelmaster, Stalbridge and Bourne. The Drycleaning segment is involved in the provision of retail and commercial drycleaning and other associated support services. The Drycleaning business operates under two brands: Johnson Cleaners and Jeeves. The Company's subsidiaries include Johnsons Apparelmaster Limited, Johnson Cleaners UK Limited and Jeeves of Belgravia Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-07T01:40:48">BRIEF: For the 26 weeks ended 30 June 2015, Johnson Service Group plc revenues increased 7% to L109.2M. Net income decreased 85% to L700K. Revenues reflect Textile and Hospitality Services segment increase of 15% to L85.7M. Net income was offset by Drycleaning segment loss totaling L5.7M vs. income of L400K. Dividend per share remained flat at L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-01T02:34:13">
+		<streetAddress line="1">Johnson House, Abbots Park, Monks Way</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>PRESTON BROOK</city>
+		<state-region></state-region>
+		<postalCode>WA7 3GH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Christopher Sander</contactName>
+		<contactTitle>Chief Executive Officer, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1928</city-areacode>
+				<number>704600</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1928</city-areacode>
+				<number>704620</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1928</city-areacode>
+				<number>704600</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-17T09:11:38"><webSite mainCategory="Home Page">http://www.jsg.com</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@johnsonplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-01T02:34:13">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="812332" mnem="">Industrial Launderers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="81232" mnem="">Drycleaning and Laundry Services (except Coin-Operated)</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="53222" mnem="">Formal Wear and Costume Rental</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7218" mnem="">Industrial Launderers</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7219" mnem="">Laundry And Garment Services, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7299" mnem="">Misc Personal Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/23/2007">
+			<firstName>Christopher</firstName>
+			<mI></mI>
+			<lastName>Sander</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="05" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="1985">
+			<firstName>Yvonne</firstName>
+			<mI>May</mI>
+			<lastName>Monaghan</lastName>
+			<age>57 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Timothy</firstName>
+			<mI>James</mI>
+			<lastName>Morris</lastName>
+			<age>38 </age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.87250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.95411</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.71500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.21236</Ratio>
+			<Ratio FieldName="EV" Type="N">316.94640</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">288.44640</Ratio>
+			<Ratio FieldName="AREV" Type="N">210.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">50.10000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">8.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02897</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.70882</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.26668</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00067</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.12970</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">35.97909</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.42857</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.37094</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">30.11736</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.27172</Ratio>
+			<Ratio FieldName="Employees" Type="N">4723</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">27.26563</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">227.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">15.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

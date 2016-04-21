@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">ACA00</CoID>
+		<CoID Type="CompanyName">Regency Mines Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RGM</IssueID>
+			<IssueID Type="CUSIP">G7469Q112</IssueID>
+			<IssueID Type="ISIN">GB00BYVT4J08</IssueID>
+			<IssueID Type="RIC">RGM.L</IssueID>
+			<IssueID Type="SEDOL">BYVT4J0</IssueID>
+			<IssueID Type="DisplayRIC">RGM.L</IssueID>
+			<IssueID Type="InstrumentPI">19568354</IssueID>
+			<IssueID Type="QuotePI">19722058</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2015-12-24">0.05</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">210706775</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-01</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">17</Employees>
+		<SharesOut Date="2016-01-18" TotalFloat="102320639.0">1916076387.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-29T23:30:46">Regency Mines plc is a United Kingdom-based small cap mineral exploration and development company. The Company is focused on the exploration and development of minerals in Papua New Guinea and Australia. It has interest in oil and gas exploration through investment in a conventional oil well in Surrey, England and a shallow oil project in West Virginia, United States of America. Its flagship project is the Mambare nickel resource in Papua New Guinea. Its exploration continues in Australia and Papua New Guinea for base metals, gold, graphite and other minerals, and agrominerals in Sudan. The Companys principal asset is the joint venture with Direct Nickel Ltd (DNi) in the Mambare nickel-cobalt project in Papua New Guinea. It is also a shareholder in DNi which owns a laterite nickel treatment technology at pilot plant stage. It retains a 9.83% stake in Red Rock Resources plc.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-01T03:54:45">BRIEF: For the fiscal year ended 30 June 2015, Regency Mines Plc revenues decreased 62% to L30K. Net loss increased from L1.5M to L5.9M. Revenues reflect Australia segment decrease of 94% to L66K. Higher net loss reflects Impairment of Investment increase from L0K to L3.4M (expense), Gain on sale of tenements decrease of 94% to L66K (income). Basic Earnings per Share excluding Extraordinary Items decreased from -L0.02 to -L0.07.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-13T09:21:14">
+		<streetAddress line="1">Ivybridge House</streetAddress>
+		<streetAddress line="2">1 Adam Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC2N 6LE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77479960</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-18T12:00:05"><webSite mainCategory="Home Page">http://www.regency-mines.com</webSite><eMail mainCategory="Company Contact/E-mail">exploration@regency-mines.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-13T09:21:14">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120108010" mnem="">Integrated  Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1041" mnem="">Gold Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Andrew</firstName>
+			<mI>Ronald McMillan</mI>
+			<lastName>Bell</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="CEO" abbr2="CEO">Executive Chairman of the Board, Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="11/21/2011">
+			<firstName>Scott</firstName>
+			<mI>Christopher</mI>
+			<lastName>Kaintz</lastName>
+			<age>37 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2013">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Fennell</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01100</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.02200</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00240</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">7.56141</Ratio>
+			<Ratio FieldName="EV" Type="N">1.69015</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.39873</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.02964</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.48123</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-5.88874</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.06767</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00034</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.04520</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00003</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.06752</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-86.33503</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">47.19069</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.24338</Ratio>
+			<Ratio FieldName="Employees" Type="N">17</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2EC0</CoID>
+		<CoID Type="CompanyName">SSE PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SSE</IssueID>
+			<IssueID Type="CUSIP">G8842P102</IssueID>
+			<IssueID Type="ISIN">GB0007908733</IssueID>
+			<IssueID Type="RIC">SSE.L</IssueID>
+			<IssueID Type="SEDOL">0790873</IssueID>
+			<IssueID Type="DisplayRIC">SSE.L</IssueID>
+			<IssueID Type="InstrumentPI">286554</IssueID>
+			<IssueID Type="QuotePI">1049524</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-15</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">19965</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="1001417361.0">1006176327.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:06:14">SSE plc is a United Kingdom-based company engaged in the generation, transmission, distribution and supply of electricity; in the production, storage, distribution and supply of gas, and in other energy-related services. The Company's segments include Networks, which consists of electricity distribution, electricity transmission and gas distribution; Retail, which consists of energy supply, enterprise and energy-related services, and Wholesale, which consists of energy portfolio management and electricity generation, gas storage and gas production. The Company supplies electricity and gas to household and business accounts under its brands SSE, Scottish Hydro, Southern Electric, SWALEC and Atlantic in the Great Britain market, and SSE Airtricity in the markets in Northern Ireland and the Republic of Ireland.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-15T07:04:29">BRIEF: For the six months ended 30 September 2015, SSE PLC revenues increased 11% to L13.83B. Net income decreased 23% to L192.7M. Revenues reflect Wholesale segment increase from L3.42B to L9.9B, Networks segment increase of 11% to L496.4M. Net income was offset by Wholesale segment loss totaling L129.1M vs. income of L6.5M, Corporate unallocated segment loss totaling L10.8M vs. income of L7.4M. Dividend per share remained flat at L0.27.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T23:31:20">
+		<streetAddress line="1">Inveralmond House 200 Dunkeld Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>PERTH</city>
+		<state-region></state-region>
+		<postalCode>PH1 3AQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1738</city-areacode>
+				<number>456000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1738</city-areacode>
+				<number>457005</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-07-03T11:43:54"><webSite mainCategory="Home Page">http://www.sse.com</webSite><eMail mainCategory="Company Contact/E-mail">info@sse.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T23:31:20">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5910101010" mnem="">Electric Utilities - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="221111" mnem="">Hydroelectric Power Generation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="221112" mnem="">Fossil Fuel Electric Power Generation</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="221119" mnem="">Other Electric Power Generation</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="221121" mnem="">Electric Bulk Power Transmission and Control</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="221122" mnem="">Electric Power Distribution</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="22121" mnem="">Natural Gas Distribution</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="48621" mnem="">Pipeline Transportation of Natural Gas</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4911" mnem="">Electric Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4924" mnem="">Natural Gas Distribution</Industry>
+			<Industry type="SIC" order="3" reported="0" code="4922" mnem="">Natural Gas Transmission</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2002">
+			<firstName>Alistair</firstName>
+			<mI></mI>
+			<lastName>Phillips-Davies</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="07" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/01/2002">
+			<firstName>Gregor</firstName>
+			<mI></mI>
+			<lastName>Alexander</lastName>
+			<age>52 </age>
+			<title startYear="2002" startMonth="10" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/09/2010">
+			<firstName>Jim</firstName>
+			<mI></mI>
+			<lastName>McPhillimy</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="03" startDay="31" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Enterprise</title>
+		</officer>
+		<officer rank="4" since="09/24/2012">
+			<firstName>Will</firstName>
+			<mI></mI>
+			<lastName>Morris</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="09" startDay="24" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Retail</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Colin</firstName>
+			<mI></mI>
+			<lastName>Nicol</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Distribution</title>
+		</officer>
+		<officer rank="6" since="03/2013">
+			<firstName>Martin</firstName>
+			<mI></mI>
+			<lastName>Pibworth</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="03" startDay="31" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Wholesale</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Sally</firstName>
+			<mI></mI>
+			<lastName>Fairbairn</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="DIR" abbr1="Dir.-IR" iD2="SEC" abbr2="Secy.">Director of Investor Relations, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">13.83000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">16.96000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">13.17000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.59579</Ratio>
+			<Ratio FieldName="EV" Type="N">18503.82000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">13915.42000</Ratio>
+			<Ratio FieldName="AREV" Type="N">31654.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1758.80000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">543.10000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.55199</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">32.17238</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">6.12336</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.52296</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.34617</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.88400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">7.80871</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">9.69821</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.43960</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">25.05480</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.25856</Ratio>
+			<Ratio FieldName="Employees" Type="N">19965</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.9</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">14.86471</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-0.9820</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.36035</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">30861.08000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.11890</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1460.99970</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.89967</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

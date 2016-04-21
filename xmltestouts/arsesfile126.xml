@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F0114</CoID>
+		<CoID Type="CompanyName">Cdialogues PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CDOG</IssueID>
+			<IssueID Type="CUSIP">G19883100</IssueID>
+			<IssueID Type="ISIN">GB00BN40HL64</IssueID>
+			<IssueID Type="RIC">CDOG.L</IssueID>
+			<IssueID Type="SEDOL">BN40HL6</IssueID>
+			<IssueID Type="DisplayRIC">CDOG.L</IssueID>
+			<IssueID Type="InstrumentPI">160827224</IssueID>
+			<IssueID Type="QuotePI">160909841</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-06-27">18</Employees>
+		<SharesOut Date="2015-07-17" TotalFloat="599300.0">6226777.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T04:31:46">CDialogues plc is a United Kingdom-based provider of mobile marketing services to mobile network operators (MNOs). The Company provides mobile analytics solutions that enable brands, MNOs and media companies to implement targeted, interactive and measurable loyalty programs by engaging with and entertaining mobile network subscribers through their mobile devices. Its technology platform (C/Profiler Software Platform) is used for the provision of mobile marketing solutions and is offered as either a fully managed or as software-as-a-service product. The core services supported by the Company's platform include the use of any channel that is based on linguistic and text communication, such as short messaging service (SMS), multimedia messaging service (MMS), interactive voice response (IVR) and mobile Internet services; recurring user subscription, and mobile billing services. Its wholly owned subsidiaries are Telilea Ltd, CDialogues S.A., CDialogues MEA JLT and CDialogues LLC.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-22T04:33:39">BRIEF: For the six months ended 30 June 2015, Cdialogues PLC revenues increased 31% to EUR5.3M. Net income increased 8% to EUR1.4M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income was partially offset by Administrative expenses increase from EUR117K to EUR319K (expense), Selling and distribution costs increase of 23% to EUR288K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-09T04:04:34">
+		<streetAddress line="1">5th Floor, One America Square Crosswall</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC3N 2SG</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72644366</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-06-26T16:37:35"><webSite mainCategory="Home Page">http://www.cdialogues.com</webSite><eMail mainCategory="Company Contact/E-mail">info@cdialogues.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-09T04:04:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330201010" mnem="">Advertising &amp; Marketing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541613" mnem="">Marketing Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Palaiologos</firstName>
+			<mI></mI>
+			<lastName>Spanos</lastName>
+			<age>37 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Georgios</firstName>
+			<mI></mI>
+			<lastName>Karakovounis</lastName>
+			<age>43 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VCH" abbr1="Vice Chmn." iD2="CFO" abbr2="CFO">Vice Chairman of the Board, Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Nikos</firstName>
+			<mI></mI>
+			<lastName>Lazarou</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Operations and Support Department</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Georgia</firstName>
+			<mI></mI>
+			<lastName>Mitropetrou</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Mobile Marketing Services</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Stuart</firstName>
+			<mI></mI>
+			<lastName>Robertson</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Software and Product Development</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Ben</firstName>
+			<mI></mI>
+			<lastName>Harber</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.73500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.39980</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.45000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00066</Ratio>
+			<Ratio FieldName="EV" Type="N">2.69076</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.57668</Ratio>
+			<Ratio FieldName="AREV" Type="N">7.73439</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.28983</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.98955</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.33615</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.30676</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.60112</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.30220</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.37698</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01559</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">35.49466</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">77.56622</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.59173</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">2.18654</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.22272</Ratio>
+			<Ratio FieldName="Employees" Type="N">18</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">4.13549</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">6.80020</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.17773</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1.15220</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03500</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

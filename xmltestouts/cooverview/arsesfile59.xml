@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A40B4</CoID>
+		<CoID Type="CompanyName">Aurora Investment Trust plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">ARR</IssueID>
+			<IssueID Type="CUSIP">G0629M105</IssueID>
+			<IssueID Type="ISIN">GB0000633262</IssueID>
+			<IssueID Type="RIC">AURT.L</IssueID>
+			<IssueID Type="SEDOL">0063326</IssueID>
+			<IssueID Type="DisplayRIC">AURT.L</IssueID>
+			<IssueID Type="InstrumentPI">306099</IssueID>
+			<IssueID Type="QuotePI">1081104</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-03</LastModified>
+		<LatestAvailableAnnual>2015-02-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-02-28">0</Employees>
+		<SharesOut Date="2015-08-31" TotalFloat="8110055.0">10397059.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-16T22:40:57">Aurora Investment Trust plc is a United Kingdom-based investment company. The Companys objective is to achieve capital appreciation through investments. The Companys is focused to invest primarily in equities, and some exposure to Fixed Interest. The Companys investment portfolio comprises a mix of large, mid and smaller capitalised stocks. In general, the portfolio is weighted towards the larger and mid-cap stocks. The Company invests in a range of sectors, which include information technology services, insurance, mining, oil exploration and production, basic industries, construction and engineering, and retail. The Companys top 10 holdings included BTG, Royal Dutch Petroleum, Gresham Computing, Ashtead Group, Aberdeen Asset Management, Persimmon, Emblaze Systems, Asian Citrus, Rio Tinto and IGas Energy. The Companys investment manager is Mars Asset Management Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-03T22:19:23">BRIEF: For the six months ended 31 August 2015, Aurora Investment Trust plc revenues decreased from L216K to -L301K. Net loss increased from L104K to L611K. Revenues reflect Net Loss - Fin. Instruments Fair Value decrease from -L320K to -L784K, Investment income decrease of 10% to L483K. Higher net loss reflects Other expenses increase of 19% to L150K (expense). Basic Earnings per Share excluding Extraordinary Items decreased from -L0.01 to -L0.06.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-03T10:31:14">
+		<streetAddress line="1">c/o Cavendish Administration Limited</streetAddress>
+		<streetAddress line="2">Crusader House, 145-157 St. John Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC1V 4RU</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-09T00:01:33"><webSite mainCategory="Home Page">http://www.aurorainvestmenttrust.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-03T10:31:14">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-02-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.56500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.62230</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.45000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00764</Ratio>
+			<Ratio FieldName="EV" Type="N">19.73640</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">16.27140</Ratio>
+			<Ratio FieldName="AREV" Type="N">-1.11700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.72600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.72700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.16610</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.10743</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.71366</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05146</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03850</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-9.14821</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.91325</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

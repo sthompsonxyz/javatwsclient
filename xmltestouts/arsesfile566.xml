@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A46E6</CoID>
+		<CoID Type="CompanyName">Vodafone Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VOD</IssueID>
+			<IssueID Type="CUSIP">G9387S105</IssueID>
+			<IssueID Type="ISIN">GB00BH4HKS39</IssueID>
+			<IssueID Type="RIC">VOD.L</IssueID>
+			<IssueID Type="SEDOL">BH4HKS3</IssueID>
+			<IssueID Type="DisplayRIC">VOD.L</IssueID>
+			<IssueID Type="InstrumentPI">262356</IssueID>
+			<IssueID Type="QuotePI">1049261</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-02-24">0.54545</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">504311</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-19</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">101443</Employees>
+		<SharesOut Date="2016-01-31" TotalFloat="26495086544.0">26556139122.0</SharesOut>
+		<CommonShareholders Date="2015-03-31">504299</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-13T00:13:59">Vodafone Group Plc (Vodafone) is a mobile communications company which provides services to mobile voice, messaging, data and fixed line. The Companys money transfer service, M-Pesa, enables people in emerging markets, to send and receive money through a mobile phone. The Company also has products such as international money transfer, savings and loans, salary disbursements and access to insurance products in different markets. Vodafone Red offers consumers and businesses a package with mobile data allowances, unlimited calls and texts, plus cloud and back-up services to secure personal data. Vodafone Cloud allows customers to store their personal digital content, such as contacts, photos and videos in the Vodafone network and to access it on the move from any connected device. Vodafone OneNet integrates landlines and mobiles providing a communication solution. Vodafone Secure Device Manager gives customer a way to manage many of their smart devices.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-19T06:43:43">BRIEF: For the six months ended 30 September 2015, Vodafone Group plc revenues decreased 2% to L20.27B. Net loss totaled L1.7B vs. income of L5.42B. Revenues reflect Germany segment decrease of 12% to L3.81B, Italy segment decrease of 11% to L2.1B. Net loss reflects Investment Income decrease of 52% to L145M (income), Administrative expenses increase of 6% to L2.64B (expense). Dividend per share remained flat at L0.04.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T02:05:17">
+		<streetAddress line="1">Vodafone House, The Connection</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>NEWBURY</city>
+		<state-region></state-region>
+		<postalCode>RG14 2FN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Anthony Hamilton</contactName>
+		<contactTitle>Senior Manager - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1635</city-areacode>
+				<number>33251</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1635</city-areacode>
+				<number>238080</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>7881</city-areacode>
+				<number>830810</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-10-27T22:35:00"><webSite mainCategory="Home Page">http://www.vodafone.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@vodafone.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T02:05:17">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5810102010" mnem="">Wireless Telecommunications Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="513322" mnem="">Cellular and Other Wireless Telecommunications</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51322" mnem="">Cable and Other Program Distribution</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="SIC" order="0" reported="1" code="4812" mnem="">Radiotelephone Communications</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4812" mnem="">Radiotelephone Communications</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4841" mnem="">Cable And Other Pay Tv Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/09/2006">
+			<firstName>Vittorio</firstName>
+			<mI></mI>
+			<lastName>Colao</lastName>
+			<age>53 </age>
+			<title startYear="2008" startMonth="07" startDay="29" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/2008">
+			<firstName>Nicholas</firstName>
+			<mI>Jonathan</mI>
+			<lastName>Read</lastName>
+			<age>49 </age>
+			<title startYear="2014" startMonth="04" startDay="01" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="08/01/2012">
+			<firstName>Paolo</firstName>
+			<mI></mI>
+			<lastName>Bertoluzzo</lastName>
+			<age>48 </age>
+			<title startYear="2012" startMonth="08" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer, Southern Europe</title>
+		</officer>
+		<officer rank="4" since="10/01/2012">
+			<firstName>Philipp</firstName>
+			<mI></mI>
+			<lastName>Humm</lastName>
+			<age>55 </age>
+			<title startYear="2012" startMonth="10" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer, Northern &amp; Central Europe</title>
+		</officer>
+		<officer rank="5" since="01/01/2014">
+			<firstName>Serpil</firstName>
+			<mI></mI>
+			<lastName>Timuray</lastName>
+			<age>45 </age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive, Africa, Middle East and Asia-Pacific</title>
+		</officer>
+		<officer rank="6" since="05/2015">
+			<firstName>Johan</firstName>
+			<mI></mI>
+			<lastName>Wibergh</lastName>
+			<age>52 </age>
+			<title startYear="2015" startMonth="05" startDay="" iD1="CTO" abbr1="CTO" iD2="" abbr2="">Group Technology Officer</title>
+		</officer>
+		<officer rank="7" since="03/2010">
+			<firstName>Rosemary</firstName>
+			<mI>E. S.</mI>
+			<lastName>Martin</lastName>
+			<age>55 </age>
+			<title startYear="2010" startMonth="03" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">Group General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="8" since="01/2009">
+			<firstName>Ronald</firstName>
+			<mI>Adrianus Wilhelmus</mI>
+			<lastName>Schellekens</lastName>
+			<age>51 </age>
+			<title startYear="2009" startMonth="01" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Human Resources Director</title>
+		</officer>
+		<officer rank="9" since="04/2006">
+			<firstName>Warren</firstName>
+			<mI></mI>
+			<lastName>Finegold</lastName>
+			<age>58 </age>
+			<title startYear="2009" startMonth="08" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Strategy and Business Development Director</title>
+		</officer>
+		<officer rank="10" since="01/2013">
+			<firstName>Nicholas</firstName>
+			<mI>Simon</mI>
+			<lastName>Jeffery</lastName>
+			<age>42 </age>
+			<title startYear="2013" startMonth="01" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Enterprise Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.13900</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.58000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.97700</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">58.74914</Ratio>
+			<Ratio FieldName="EV" Type="N">77128.58000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">56803.58000</Ratio>
+			<Ratio FieldName="AREV" Type="N">42227.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">11818.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">5704.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.21420</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.58575</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.49490</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.40499</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.57926</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.11220</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">26.86670</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.33023</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.34520</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.98599</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.85735</Ratio>
+			<Ratio FieldName="Employees" Type="N">101443</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3214</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.43000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">14.2450</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">44.68352</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">40862.20240</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">10361.51300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.04787</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1821.32650</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.11517</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

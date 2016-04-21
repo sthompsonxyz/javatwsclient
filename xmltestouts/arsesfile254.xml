@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A31DC</CoID>
+		<CoID Type="CompanyName">Headlam Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HEAD</IssueID>
+			<IssueID Type="CUSIP">G43680100</IssueID>
+			<IssueID Type="ISIN">GB0004170089</IssueID>
+			<IssueID Type="RIC">HEAD.L</IssueID>
+			<IssueID Type="SEDOL">0417008</IssueID>
+			<IssueID Type="DisplayRIC">HEAD.L</IssueID>
+			<IssueID Type="InstrumentPI">261468</IssueID>
+			<IssueID Type="QuotePI">1079284</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="CUSIP">G43694101</IssueID>
+			<IssueID Type="ISIN">GB0004170428</IssueID>
+			<IssueID Type="RIC">GB0417042.L^F03</IssueID>
+			<IssueID Type="InstrumentPI">1477200</IssueID>
+			<IssueID Type="QuotePI">2790243</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-04</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">2160</Employees>
+		<SharesOut Date="2015-12-22" TotalFloat="79916268.0">84458092.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:00:31">Headlam Group Plc is a United Kingdom-based company, which is engaged in the marketing, supply and distribution of a range of floorcovering products. The Company's operations are focused on providing customers, principally independent floorcovering retailers and contractors, with a range of floorcovering products supported by a next day delivery service. The Company has around 55 operating segments in the United Kingdom and five operating segments in Continental Europe. Each segment represents an individual trading operation, and each operation is wholly aligned to the sales, marketing, supply and distribution of floorcovering products. The Company's activities and facilities are located throughout the United Kingdom, France, Switzerland and the Netherlands. The Company has an autonomous operating structure that includes 55 businesses across the United Kingdom and a further five in continental Europe.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-04T21:29:51">BRIEF: For the six months ended 30 June 2015, Headlam Group plc revenues increased 4% to L313.5M. Net income increased 17% to L9.8M. Revenues reflect UK segment increase of 7% to L274.6M. Net income benefited from UK segment income increase of 21% to L13.8M. Dividend per share increased from L0.05 to L0.06. Basic Earnings per Share excluding Extraordinary Items increased from L0.10 to L0.12.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-04T21:29:54">
+		<streetAddress line="1">Gorsey Lane Coleshill</streetAddress>
+		<streetAddress line="2">PO Box 1</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BIRMINGHAM</city>
+		<state-region></state-region>
+		<postalCode>B46 1LW</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1675</city-areacode>
+				<number>433000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1675</city-areacode>
+				<number>433030</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-12T08:32:10"><webSite mainCategory="Home Page">http://www.headlam.com</webSite><eMail mainCategory="Company Contact/E-mail">headlamgroup@headlam.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-04T21:29:54">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320404010" mnem="">Home Furnishings - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="42122" mnem="">Home Furnishing Wholesalers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="44221" mnem="">Floor Covering Stores</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5023" mnem="">Homefurnishings</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5713" mnem="">Floor Covering Stores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/1991">
+			<firstName>A.</firstName>
+			<mI>J.</mI>
+			<lastName>Brewer</lastName>
+			<age>51 </age>
+			<title startYear="2000" startMonth="11" startDay="06" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="12/1991">
+			<firstName>Stephen</firstName>
+			<mI>G.</mI>
+			<lastName>Wilson</lastName>
+			<age>57 </age>
+			<title startYear="1991" startMonth="12" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Keith</firstName>
+			<mI>R.</mI>
+			<lastName>Yates</lastName>
+			<age>56 </age>
+			<title startYear="1996" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Mercado</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>A.</firstName>
+			<mI>R.</mI>
+			<lastName>Judge</lastName>
+			<age>47 </age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Commercial Director, Coleshill and Tamworth businesses</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>M.</firstName>
+			<mI>W.</mI>
+			<lastName>McMaster</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Commercial Director - Selected UK Operations</title>
+		</officer>
+		<officer rank="6" since="04/1998">
+			<firstName>Geoff</firstName>
+			<mI>M.</mI>
+			<lastName>Duggan</lastName>
+			<age>51 </age>
+			<title startYear="1998" startMonth="04" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.86250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.50000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.20000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03651</Ratio>
+			<Ratio FieldName="EV" Type="N">386.11050</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">410.67750</Ratio>
+			<Ratio FieldName="AREV" Type="N">635.24200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">36.33200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">23.78500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.28460</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">7.60087</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.17166</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.56760</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.34323</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.17500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">29.99487</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">13.22932</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.64649</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">17.08538</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.23907</Ratio>
+			<Ratio FieldName="Employees" Type="N">2160</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.45270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">658.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.31467</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">33.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.19067</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

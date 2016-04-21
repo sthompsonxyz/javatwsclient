@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4100</CoID>
+		<CoID Type="CompanyName">Standard Life UK Small.Co's Tst Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">SLS</IssueID>
+			<IssueID Type="CUSIP">G84245128</IssueID>
+			<IssueID Type="ISIN">GB0002959582</IssueID>
+			<IssueID Type="RIC">SLS.L</IssueID>
+			<IssueID Type="SEDOL">0295958</IssueID>
+			<IssueID Type="DisplayRIC">SLS.L</IssueID>
+			<IssueID Type="InstrumentPI">328052</IssueID>
+			<IssueID Type="QuotePI">1080569</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-06-30">0</Employees>
+		<SharesOut Date="2015-10-08" TotalFloat="64160018.0">66617183.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-30T10:03:19">Standard Life UK Smaller Companies Trust plc is a United Kingdom-based investment trust. The Trust invests in an actively managed portfolio of smaller and mid-sized companies in the United Kingdom equity market. The investment objective of the Trust is to achieve long-term capital growth by investing in the United Kingdom quoted smaller companies. The Trust's portfolio normally comprises around 60 individual holdings representing the Investment Manager's highest conviction investment ideas. No holding within the Trust's portfolio should exceed around 5% of total assets at the time of acquisition. The Trust may use derivatives for portfolio hedging purposes. The Trust's investment portfolio includes investments in various sectors, such as oil and gas, basic materials, industrials, healthcare, consumer goods, consumer services, telecommunications, utilities, financials and technology. Standard Life Investments (Corporate Funds) Limited is the investment manager of the Trust.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-24T08:04:08">BRIEF: For the fiscal year ended 30 June 2015, Standard Life UK Small.Co's Tst Plc revenues increased 87% to L36M. Net income increased from L15.5M to L32.4M. Revenues reflect Net gains on investments held at fair va increase from L14.4M to L29.9M, Dividend Income - Investment increase of 26% to L6M, Currency losses increase from -L13K to L0K. Net income benefited from Other Expenses decrease of 4% to L163K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-30T09:03:19">
+		<streetAddress line="1">1 George Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH2 2LL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-21T14:26:31"><webSite mainCategory="Home Page">http://www.standardlifeinvestments.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-30T09:03:19">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2015">
+			<firstName>Carol</firstName>
+			<mI>C.</mI>
+			<lastName>Ferguson</lastName>
+			<age>67 </age>
+			<title startYear="2015" startMonth="" startDay="" iD1="SDR" abbr1="Sr. Dir." iD2="" abbr2="">Senior Independent Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.37750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.86000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.78498</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.09569</Ratio>
+			<Ratio FieldName="EV" Type="N">234.89850</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">224.99950</Ratio>
+			<Ratio FieldName="AREV" Type="N">36.00500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">32.40600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">32.40600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.40904</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.45447</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.49728</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.13347</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">91.63172</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">14.02268</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.24912</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">8.25714</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.96575</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2011" CurFiscalYearEndMonth="6" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

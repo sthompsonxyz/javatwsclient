@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2E89</CoID>
+		<CoID Type="CompanyName">SDL plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SDL</IssueID>
+			<IssueID Type="CUSIP">G79433127</IssueID>
+			<IssueID Type="ISIN">GB0009376368</IssueID>
+			<IssueID Type="RIC">SDL.L</IssueID>
+			<IssueID Type="SEDOL">0937636</IssueID>
+			<IssueID Type="DisplayRIC">SDL.L</IssueID>
+			<IssueID Type="InstrumentPI">319925</IssueID>
+			<IssueID Type="QuotePI">1080427</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2007-04-24">1.00338</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">124982192</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">3245</Employees>
+		<SharesOut Date="2015-11-19" TotalFloat="79153213.0">81268574.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:24:18">SDL PLC is a provider of an integrated cloud solution. The Company's digital experience includes a set of digital experience accelerators that allow the creation of Web and optimized e-commerce experiences. Its Knowledge center includes the creation of product knowledge views that offer an experience for documentation and self-service support. Customer analytics includes a single view of customer data, including profile, situational data, transactional data and third-party data. Language includes helping global brands in communicating across regions and languages. Its segments include the Language Services segment, which provides translation service for customer's multilingual content in multiple languages, and the Technology segment, which includes the sale of enterprise, desktop and statistical machine translation technologies, content management campaign management, social media monitoring and marketing analytic technologies together with associated consultancy and other services.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-09T22:11:33">BRIEF: For the six months ended 30 June 2015, SDL plc revenues increased 4% to L133.9M. Net income increased from L1.9M to L3.9M. Revenues reflect Language Services segment increase of 4% to L76.1M, Technology segment increase of 3% to L57.8M, Rest of the World segment increase of 34% to L20M, United States segment increase of 11% to L47.2M. Net income benefited from Net Foreign Exchange Losses increase from L100K to L3M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-07T07:25:02">
+		<streetAddress line="1">Globe House Clivemont Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>MAIDENHEAD</city>
+		<state-region></state-region>
+		<postalCode>SL6 7DY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1628</city-areacode>
+				<number>410100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1628</city-areacode>
+				<number>410150</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-06T11:13:54"><webSite mainCategory="Home Page">http://www.sdl.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-07T07:25:02">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720101010" mnem="">IT Services &amp; Consulting - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/02/2015">
+			<firstName>David</firstName>
+			<mI>H.</mI>
+			<lastName>Clayton</lastName>
+			<age>57 </age>
+			<title startYear="2015" startMonth="10" startDay="02" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="11/25/2013">
+			<firstName>Dominic</firstName>
+			<mI></mI>
+			<lastName>Lavelle</lastName>
+			<age>45 </age>
+			<title startYear="2013" startMonth="11" startDay="25" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="2011">
+			<firstName>Pamela</firstName>
+			<mI></mI>
+			<lastName>Pickering</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">4.28000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.72000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.15000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02251</Ratio>
+			<Ratio FieldName="EV" Type="N">335.22950</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">347.82950</Ratio>
+			<Ratio FieldName="AREV" Type="N">260.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">19.30000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">6.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.08111</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.20006</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.49639</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.27298</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.22612</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">56.64363</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">3.31159</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.33575</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">52.76785</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.71448</Ratio>
+			<Ratio FieldName="Employees" Type="N">3245</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">4.95625</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">22.55481</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">272.46250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.18976</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.10700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">21.18750</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02889</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

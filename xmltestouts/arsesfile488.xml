@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2D64</CoID>
+		<CoID Type="CompanyName">Signet Jewelers Ltd.</CoID>
+		<CoID Type="CIKNo">0000832988</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SIG</IssueID>
+			<IssueID Type="CUSIP">G81276100</IssueID>
+			<IssueID Type="ISIN">BMG812761002</IssueID>
+			<IssueID Type="RIC">SIG</IssueID>
+			<IssueID Type="SEDOL">B3CTNK6</IssueID>
+			<IssueID Type="DisplayRIC">SIG.N</IssueID>
+			<IssueID Type="InstrumentPI">262378</IssueID>
+			<IssueID Type="QuotePI">51497114</IssueID>
+			<Exchange Code="NYSE" Country="USA">New York Stock Exchange</Exchange>
+			<MostRecentSplit Date="2008-09-11">0.05</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-10</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">28949</Employees>
+		<SharesOut Date="2015-11-30" TotalFloat="79218241.0">79531968.0</SharesOut>
+		<CommonShareholders Date="2015-01-31">10612</CommonShareholders>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-03T03:40:39">Signet Jewelers Limited is a retailer of jewelry, watches and associated services in the United States, Canada and the United Kingdom. The Company manages its business through four segments: the Sterling Jewelers division, the UK Jewelry division, the Zale division, which consists of Zale Jewelry and Piercing Pagoda, and the Other segment. The Other segment includes subsidiaries involved in purchasing and conversion of rough diamonds to polished stones and unallocated corporate administrative functions. The Company operates retail jewelry stores in real estate formats, including mall-based, free-standing, strip center and outlet store locations. The Company operated approximately 3,579 stores and kiosks across 4.8 million square feet of retail space.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-10T02:33:15">BRIEF: For the 39 weeks ended 31 October 2015, Signet Jewelers Ltd. revenues increased 20% to $4.16B. Net income increased 28% to $196M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Unallocated segment loss decrease of 76% to $18M, United Kingdom segment income totaling $500K vs. loss of $1.6M. Dividend per share increased from $0.54 to $0.66.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-10T02:33:48">
+		<streetAddress line="1">Clarendon House, 2 Church Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HAMILTON</city>
+		<state-region></state-region>
+		<postalCode>HM11</postalCode>
+		<country code="BMU">Bermuda</country>
+		<contactName>James Grant</contactName>
+		<contactTitle>Vice President - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>441</city-areacode>
+				<number>2965872</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-04-24T10:41:52"><webSite mainCategory="Home Page">http://www.signetjewelers.com</webSite><eMail mainCategory="Company Contact/E-mail">jamesgrant@jewels.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-10T02:33:48">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340304012" mnem="">Jewelry &amp; Watch Retailers</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="44831" mnem="">Jewelry Stores</Industry>
+			<Industry type="SIC" order="0" reported="1" code="5944" mnem="">Jewelry Stores</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5944" mnem="">Jewelry Stores</Industry>
+		</IndustryInfo>
+		<Indexconstituet>S&amp;P 500</Indexconstituet>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/15/2012">
+			<firstName>H. Todd</firstName>
+			<mI></mI>
+			<lastName>Stitzer</lastName>
+			<age>63 </age>
+			<title startYear="2012" startMonth="06" startDay="15" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Independent Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="2002">
+			<firstName>Mark</firstName>
+			<mI>Steven</mI>
+			<lastName>Light</lastName>
+			<age>53 </age>
+			<title startYear="2014" startMonth="10" startDay="01" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="3" since="07/01/2014">
+			<firstName>Michele</firstName>
+			<mI></mI>
+			<lastName>Santana</lastName>
+			<age>44 </age>
+			<title startYear="2014" startMonth="07" startDay="31" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="4" since="06/30/2012">
+			<firstName>Edward</firstName>
+			<mI></mI>
+			<lastName>Hrabak</lastName>
+			<age>59 </age>
+			<title startYear="2015" startMonth="07" startDay="22" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="5" since="05/2014">
+			<firstName>Steven</firstName>
+			<mI></mI>
+			<lastName>Becker</lastName>
+			<age>58 </age>
+			<title startYear="2014" startMonth="05" startDay="" iD1="CHO" abbr1="Chief HR" iD2="" abbr2="">Chief Human Resource Officer</title>
+		</officer>
+		<officer rank="6" since="2010">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Trabucco</lastName>
+			<age>60 </age>
+			<title startYear="2010" startMonth="" startDay="" iD1="EVP" abbr1="Exec. VP" iD2="" abbr2="">Executive Vice President and Chief Financial Officer - US Division</title>
+		</officer>
+		<officer rank="7" since="10/2014">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Garlish</lastName>
+			<age>46 </age>
+			<title startYear="2014" startMonth="10" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President, Finance Zale Division</title>
+		</officer>
+		<officer rank="8" since="01/05/2015">
+			<firstName>Daniel</firstName>
+			<mI></mI>
+			<lastName>Shull</lastName>
+			<age>43 </age>
+			<title startYear="2015" startMonth="01" startDay="05" iD1="CIO" abbr1="CIO" iD2="" abbr2="">Chief Information Officer</title>
+		</officer>
+		<officer rank="9" since="07/2014">
+			<firstName>George</firstName>
+			<mI></mI>
+			<lastName>Murray</lastName>
+			<age>59 </age>
+			<title startYear="2015" startMonth="07" startDay="22" iD1="CMO" abbr1="CMO" iD2="" abbr2="">Chief Marketing and Merchandising Officer</title>
+		</officer>
+		<officer rank="10" since="03/2011">
+			<firstName>Sebastian</firstName>
+			<mI></mI>
+			<lastName>Hobbs</lastName>
+			<age>45 </age>
+			<title startYear="2013" startMonth="07" startDay="09" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - UK division</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="USD" ReportingCurrency="USD" ExchangeRate="1.00000" LatestAvailableDate="2015-10-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">100.17000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">152.27000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">93.45000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.66598</Ratio>
+			<Ratio FieldName="EV" Type="N">9478.01700</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">7966.71700</Ratio>
+			<Ratio FieldName="TTMREV" Type="N">6434.00000</Ratio>
+			<Ratio FieldName="TTMEBITD" Type="N">820.90000</Ratio>
+			<Ratio FieldName="TTMNIAC" Type="N">424.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="TTMEPSXCLX" Type="N">5.29134</Ratio>
+			<Ratio FieldName="TTMREVPS" Type="N">80.47530</Ratio>
+			<Ratio FieldName="QBVPS" Type="N">35.78616</Ratio>
+			<Ratio FieldName="QCSHPS" Type="N">0.97107</Ratio>
+			<Ratio FieldName="TTMCFSHR" Type="N">7.52846</Ratio>
+			<Ratio FieldName="TTMDIVSHR" Type="N">0.84000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="TTMGROSMGN" Type="N">36.31489</Ratio>
+			<Ratio FieldName="TTMROEPCT" Type="N">15.45387</Ratio>
+			<Ratio FieldName="TTMPR2REV" Type="N">1.23822</Ratio>
+			<Ratio FieldName="PEEXCLXOR" Type="N">18.93093</Ratio>
+			<Ratio FieldName="PRICE2BK" Type="N">2.79913</Ratio>
+			<Ratio FieldName="Employees" Type="N">28949</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.7778</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">157.76920</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">18.8000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.72980</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">6583.05930</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">2407.66730</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">6.80050</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">3.58180</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">527.03410</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.84330</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

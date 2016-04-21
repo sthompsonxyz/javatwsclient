@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AFAF8</CoID>
+		<CoID Type="CompanyName">Andes Energia PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AEN</IssueID>
+			<IssueID Type="CUSIP">G0417J108</IssueID>
+			<IssueID Type="ISIN">GB00B7LHJ340</IssueID>
+			<IssueID Type="RIC">AEN.L</IssueID>
+			<IssueID Type="SEDOL">B7LHJ34</IssueID>
+			<IssueID Type="DisplayRIC">AEN.L</IssueID>
+			<IssueID Type="InstrumentPI">17494562</IssueID>
+			<IssueID Type="QuotePI">17494565</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2012-07-12">0.647</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">55</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="123249677.0">551983551.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-06T07:39:02">Andes Energia plc (Andes) is a United Kingdom-based oil and gas company focused on onshore blocks in South America. The Company has interests in Argentina, Colombia, Brazil and Paraguay. Andes holds interests in exploration, development and producing assets. The Company has around 20 million barrels (bbls) of conventional 2P reserves in Argentina and certified resources of 640 million barrel of oil equivalent (boe). The Company's licenses cover around 7.5 million acres across South America with two million net acres in unconventional plays, including 250,000 net acres in the Vaca Muerta formation, a shale oil deposit. The Company produces around 1,952 barrels per day (bpd) in Argentina from six conventional fields.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-01T08:30:49">BRIEF: For the six months ended 30 June 2015, Andes Energia PLC revenues increased 60% to $32.5M. Net loss increased 19% to $3.2M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Administrativeexpenses increase from $2.9M to $9.2M (expense), Financecosts increase from $3.6M to $7.8M (expense), Distributioncosts increase of 28% to $2.2M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-06T06:39:02">
+		<streetAddress line="1">Second Floor</streetAddress>
+		<streetAddress line="2">Berkeley Square House, Berkeley Square</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1J 6BD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79691828</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-16T08:39:16"><webSite mainCategory="Home Page">http://andesenergiaplc.com.ar</webSite><eMail mainCategory="Company Contact/E-mail">info@andesenergiaplc.com.ar</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-06T06:39:02">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/16/2013">
+			<firstName>Ricardo</firstName>
+			<mI>Nicolas</mI>
+			<lastName>Mallo Huergo</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="04" startDay="16" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board, Chief Executive Officer - JV Operations, Argentina</title>
+		</officer>
+		<officer rank="2" since="04/16/2013">
+			<firstName>Alejandro</firstName>
+			<mI>Oscar</mI>
+			<lastName>Jotayan</lastName>
+			<age>41 </age>
+			<title startYear="2013" startMonth="04" startDay="16" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="3" since="07/17/2012">
+			<firstName>German</firstName>
+			<mI>Federico Ranftl</mI>
+			<lastName>Mareno</lastName>
+			<age>47 </age>
+			<title startYear="2012" startMonth="07" startDay="17" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="4" since="03/24/2009">
+			<firstName>Juan</firstName>
+			<mI>Carlos</mI>
+			<lastName>Esteban</lastName>
+			<age>54 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="VPR" abbr1="VP" iD2="DRC" abbr2="Dir.">Vice President - E&amp;P, Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Nigel</firstName>
+			<mI>J.</mI>
+			<lastName>Duxbury</lastName>
+			<age>49 </age>
+			<title startYear="2012" startMonth="07" startDay="16" iD1="SEC" abbr1="Secy." iD2="NED" abbr2="Non Ex. Dir.">Company Secretary, Non-Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.16250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.35000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.14940</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01309</Ratio>
+			<Ratio FieldName="EV" Type="N">133.86579</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">98.39453</Ratio>
+			<Ratio FieldName="AREV" Type="N">34.08874</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">6.18812</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-7.71766</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01493</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.06596</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.16474</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00941</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01049</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">36.49049</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-7.31655</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.88642</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.98642</Ratio>
+			<Ratio FieldName="Employees" Type="N">55</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.65684</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-46.03399</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">50.05840</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00353</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-0.77714</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

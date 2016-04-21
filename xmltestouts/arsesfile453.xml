@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4947</CoID>
+		<CoID Type="CompanyName">Rio Tinto plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RIO</IssueID>
+			<IssueID Type="CUSIP">G75754104</IssueID>
+			<IssueID Type="ISIN">GB0007188757</IssueID>
+			<IssueID Type="RIC">RIO.L</IssueID>
+			<IssueID Type="SEDOL">0718875</IssueID>
+			<IssueID Type="DisplayRIC">RIO.L</IssueID>
+			<IssueID Type="InstrumentPI">262482</IssueID>
+			<IssueID Type="QuotePI">1049519</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-06-17">1.2105</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="CUSIP">G77036146</IssueID>
+			<IssueID Type="ISIN">GB0007188971</IssueID>
+			<IssueID Type="RIC">RIOw.L^F01</IssueID>
+			<IssueID Type="InstrumentPI">274943</IssueID>
+			<IssueID Type="QuotePI">2765394</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-18</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">59775</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="1189240437.0">1798256329.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-11T02:07:56">Rio Tinto plc (Rio Tinto) is a global mining company. Rio Tinto focuses on finding, mining, and processing the Earth's mineral resources. The Company operates through five product groups, including aluminum, copper, diamonds and minerals, energy product and iron ore. Its aluminum product group includes business includes bauxite mines, large-scale alumina refineries aluminum smelters. The Company's copper core properties include Rio Tinto Kennecott, Oyu Tolgoi, Escondida and Grasberg. Rio Tinto Kennecott supplies approximately 20% of United States refined copper requirements, and is a mining, concentrating, smelting and refining operations property. Rio Tinto Diamonds is a diamond producer, engaged in mining, manufacturing, selling and marketing diamonds. Rio Tinto's Energy product group produces coal and uranium. Rio Tinto operates iron ore portfolio. Exploration joint ventures were established in Canada, the United States, Chile, Mexico and Australia.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-18T13:36:09">BRIEF: For the fiscal year ended 31 December 2015, Rio Tinto plc revenues decreased 27% to $34.83B. Net loss totaled $866M vs. income of $6.53B. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Net loss reflects Impairment charges net of reversals increase from $1.06B to $2.79B (expense), Net exchange losses/gains on external increase of 77% to $3.54B (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T13:36:20">
+		<streetAddress line="1">6 St. James's Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 4JU</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>David Ovington</contactName>
+		<contactTitle>Investor Relations executive</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77811623</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77811800</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>77812051</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-05-20T09:24:23"><webSite mainCategory="Home Page">http://www.riotinto.com/aboutus/about-rio-tinto-5004.aspx</webSite><eMail mainCategory="Company Contact/E-mail">david.ovington@riotinto.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T13:36:20">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120108010" mnem="">Integrated  Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="21221" mnem="">Iron Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="212234" mnem="">Copper Ore and Nickel Ore Mining</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="212222" mnem="">Silver Ore Mining</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="212112" mnem="">Bituminous Coal Underground Mining</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="212291" mnem="">Uranium-Radium-Vanadium Ore Mining</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="212399" mnem="">All Other Non-Metallic Mineral Mining</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="339913" mnem="">Jewelers' Material and Lapidary Work Manufacturing</Industry>
+			<Industry type="NAICS" order="10" reported="0" code="212391" mnem="">Potash, Soda, and Borate Mineral Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1011" mnem="">Iron Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1021" mnem="">Copper Ores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="5" reported="0" code="1044" mnem="">Silver Ores</Industry>
+			<Industry type="SIC" order="6" reported="0" code="1222" mnem="">Bituminous Coal - Underground</Industry>
+			<Industry type="SIC" order="7" reported="0" code="1094" mnem="">Uranium-Radium-Vanadium Ores</Industry>
+			<Industry type="SIC" order="8" reported="0" code="1499" mnem="">Misc Nonmetallic Minerals</Industry>
+			<Industry type="SIC" order="9" reported="0" code="3915" mnem="">Jewelers' Materials/lapidary Work</Industry>
+			<Industry type="SIC" order="10" reported="0" code="1474" mnem="">Potash, Soda, And Borate Minerals</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="2004">
+			<firstName>Samuel</firstName>
+			<mI>Maurice Cossart</mI>
+			<lastName>Walsh</lastName>
+			<age>65 </age>
+			<title startYear="2013" startMonth="01" startDay="17" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/01/2013">
+			<firstName>Christopher</firstName>
+			<mI>James</mI>
+			<lastName>Lynch</lastName>
+			<age>61 </age>
+			<title startYear="2013" startMonth="04" startDay="18" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="06/01/2014">
+			<firstName>Alfredo Antonio</firstName>
+			<mI></mI>
+			<lastName>Barrios Prieto</lastName>
+			<age>49 </age>
+			<title startYear="2014" startMonth="06" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive of Rio Tinto Aluminium</title>
+		</officer>
+		<officer rank="4" since="09/2012">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Davies</lastName>
+			<age>44 </age>
+			<title startYear="2012" startMonth="09" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive - Diamonds &amp; Minerals</title>
+		</officer>
+		<officer rank="5" since="11/2009">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Harding</lastName>
+			<age>48 </age>
+			<title startYear="2013" startMonth="02" startDay="14" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive - Iron Ore</title>
+		</officer>
+		<officer rank="6" since="02/14/2013">
+			<firstName>Jean-Sebastien</firstName>
+			<mI></mI>
+			<lastName>Jacques</lastName>
+			<age>43 </age>
+			<title startYear="2013" startMonth="02" startDay="14" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive - Copper</title>
+		</officer>
+		<officer rank="7" since="10/2009">
+			<firstName>Harry</firstName>
+			<mI></mI>
+			<lastName>Kenyon-Slaney</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="09" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive - Energy</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Hugo</firstName>
+			<mI></mI>
+			<lastName>Bague</lastName>
+			<age>54 </age>
+			<title startYear="2009" startMonth="10" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Executive - Organisational Resources</title>
+		</officer>
+		<officer rank="9" since="01/01/2014">
+			<firstName>Gregory</firstName>
+			<mI></mI>
+			<lastName>Lilleyman</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="01" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Executive - Technology &amp; Innovation (T&amp;I)</title>
+		</officer>
+		<officer rank="10" since="01/15/2008">
+			<firstName>Debra</firstName>
+			<mI>A.</mI>
+			<lastName>Valentine</lastName>
+			<age>61 </age>
+			<title startYear="2009" startMonth="10" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Executive - Legal, External &amp; Regulatory Affairs</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">19.88000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">32.50000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">15.57000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">6.46210</Ratio>
+			<Ratio FieldName="EV" Type="N">46897.98900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">36977.91000</Ratio>
+			<Ratio FieldName="AREV" Type="N">24617.49000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">8307.84500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-612.09750</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.33545</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">13.49125</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">14.59548</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">3.74725</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.13341</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">1.51964</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-2.07093</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.50210</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.36207</Ratio>
+			<Ratio FieldName="Employees" Type="N">59775</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3793</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">22.04314</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-11.1450</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">21.92228</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">22035.68986</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.90684</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">2220.13340</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">1.09054</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F0571</CoID>
+		<CoID Type="CompanyName">Jiasen International Holdings Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">JSI</IssueID>
+			<IssueID Type="CUSIP">G5139D107</IssueID>
+			<IssueID Type="ISIN">VGG5139D1078</IssueID>
+			<IssueID Type="RIC">JSI.L</IssueID>
+			<IssueID Type="SEDOL">BP46PV4</IssueID>
+			<IssueID Type="DisplayRIC">JSI.L</IssueID>
+			<IssueID Type="InstrumentPI">161693577</IssueID>
+			<IssueID Type="QuotePI">162090710</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-18</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-06-30">1495</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="20434337.0">121656361.0</SharesOut>
+		<ReportingCurrency Code="CNY">Renminbi</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">6.5197</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:08:30">Jiasen International Holdings Limited is an investment holding company. The Company is engaged in the business of design, manufacturing and wholesalers of wooden doors and home furnishings. Its segments include Project segment, which is involved in the design, manufacture and installation of wooden doors, door frames, home furnishing wall panels, furniture and fittings for property developers in their respective projects throughout China; Distribution segment, which is involved in the design, manufacture and wholesale of wooden doors, door frames, home furnishing wall panels, furniture and fittings to distribution wholesalers who run retail stores/outlets across China, and Export segment, which is involved in the design, manufacture and sale of wooden doors, door frames, home furnishing wall panels, furniture and fittings to overseas customers outside China.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-18T19:10:19">BRIEF: For the six months ended 30 June 2015, Jiasen International Holdings Ltd revenues increased 3% to RMB426.7M. Net income decreased 26% to RMB67.9M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income was offset by Administrative expenses increase of 43% to RMB9M (expense), Other operating income decrease of 37% to RMB1.4M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-10T07:21:11">
+		<streetAddress line="1">Nanlian Industrial Park</streetAddress>
+		<streetAddress line="2">Guanqiao Town, Nan'an City</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>QUANZHOU</city>
+		<state-region>FUJ</state-region>
+		<postalCode></postalCode>
+		<country code="CHN">China</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>86</countryPhoneCode>
+				<city-areacode>595</city-areacode>
+				<number>86822993</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>86</countryPhoneCode>
+				<city-areacode>595</city-areacode>
+				<number>86853889</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-10T07:21:11">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320404010" mnem="">Home Furnishings - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="321911" mnem="">Wood Window and Door Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="337125" mnem="">Household Furniture (except Wood and Metal) Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2431" mnem="">Millwork</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2519" mnem="">Household Furniture, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/28/2014">
+			<firstName>Weigang</firstName>
+			<mI></mI>
+			<lastName>Chen</lastName>
+			<age>43 </age>
+			<title startYear="2014" startMonth="04" startDay="28" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Jinji</firstName>
+			<mI></mI>
+			<lastName>Chen</lastName>
+			<age>39 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/25/2015">
+			<firstName>Yip Ming</firstName>
+			<mI></mI>
+			<lastName>Wong</lastName>
+			<age>36 </age>
+			<title startYear="2015" startMonth="09" startDay="25" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Finance Director, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="CNY" ExchangeRate="0.10841" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.03375</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.35000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01229</Ratio>
+			<Ratio FieldName="EV" Type="N">-24.76417</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.10590</Ratio>
+			<Ratio FieldName="AREV" Type="N">94.41573</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">23.86157</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">17.17877</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.20796</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.14296</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.46222</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.29755</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.21175</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04033</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">30.71999</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">35.55459</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.04349</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">0.16229</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.07302</Ratio>
+			<Ratio FieldName="Employees" Type="N">1495</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

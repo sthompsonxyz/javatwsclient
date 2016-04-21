@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AB016</CoID>
+		<CoID Type="CompanyName">Crawshaw Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CRAW</IssueID>
+			<IssueID Type="CUSIP">G3410X116</IssueID>
+			<IssueID Type="ISIN">GB00B2PQMW21</IssueID>
+			<IssueID Type="RIC">CRAW.L</IssueID>
+			<IssueID Type="SEDOL">B2PQMW2</IssueID>
+			<IssueID Type="DisplayRIC">CRAW.L</IssueID>
+			<IssueID Type="InstrumentPI">15805839</IssueID>
+			<IssueID Type="QuotePI">15811854</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2008-04-11">0.02</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-01</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">296</Employees>
+		<SharesOut Date="2015-12-01" TotalFloat="63988395.0">78936442.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-01T00:58:51">Crawshaw Group Plc is a United Kingdom-based meat and food-to-go retailer. The Company is engaged in the operation of a chain of meat focused retail food stores. The Company has distribution center in Rotherham, plus 22 retail locations across Yorkshire, Lincolnshire, Nottinghamshire and Derbyshire. Its products include baguettes, beef, chicken, lamb, pork, cooked meat, sausages and hot meals at its outlets. The Company, through Gabbotts Farm Limited, operates approximately 11 retail butchers units, which includes a factory meat mart attached to a small distribution center, in the North West of England. Its other subsidiaries include Crawshaw Holdings Limited, Crawshaw Butchers Limited and East Yorkshire Beef Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-01T07:17:09">BRIEF: For the six months ended 31 July 2015, Crawshaw Group Plc revenues increased 41% to L16.7M. Net loss totaled L120K vs. income of L508K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net loss reflects Administrative Expenses increase of 68% to L7.6M (expense), Equity Earnings -Before Taxes decrease from L5K (income) to L0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-08T02:11:10">
+		<streetAddress line="1">Unit 4 Sandbeck Way</streetAddress>
+		<streetAddress line="2">Hellaby Industrial Estate</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ROTHERHAM</city>
+		<state-region></state-region>
+		<postalCode>S66 8QL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1709</city-areacode>
+				<number>369600</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-21T09:11:29"><webSite mainCategory="Home Page">http://www.carrkamasa.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@crawshawgroupplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-08T02:11:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5430102012" mnem="">Supermarkets &amp; Convenience Stores</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="44521" mnem="">Meat Markets</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5421" mnem="">Meat And Fish Markets</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/01/2015">
+			<firstName>Noel</firstName>
+			<mI></mI>
+			<lastName>Collett</lastName>
+			<age>40 </age>
+			<title startYear="2015" startMonth="03" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/07/2015">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Richardson</lastName>
+			<age>38 </age>
+			<title startYear="2015" startMonth="10" startDay="01" iD1="CFO" abbr1="CFO" iD2="FID" abbr2="Fin. Dir.">Chief Financial Officer, Finance Director, Company Secretary, Director</title>
+		</officer>
+		<officer rank="3" since="04/11/2008">
+			<firstName>Kevin</firstName>
+			<mI>P.</mI>
+			<lastName>Boyd</lastName>
+			<age>46 </age>
+			<title startYear="2015" startMonth="09" startDay="07" iD1="MDR" abbr1="Mgng.Dir." iD2="DRC" abbr2="Dir.">Managing Director, Director, Chief Commercial Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.76000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.95743</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.39500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02701</Ratio>
+			<Ratio FieldName="EV" Type="N">50.90141</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">59.99170</Ratio>
+			<Ratio FieldName="AREV" Type="N">24.61959</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.57318</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.89459</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.01305</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.35912</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.25338</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.11533</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01935</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00570</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">44.35943</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">5.81932</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.43675</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">58.23755</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.99946</Ratio>
+			<Ratio FieldName="Employees" Type="N">296</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">380.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">36.70000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">0.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00600</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

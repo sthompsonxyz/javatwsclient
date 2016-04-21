@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A335B</CoID>
+		<CoID Type="CompanyName">Harvey Nash Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HVN</IssueID>
+			<IssueID Type="CUSIP">G4329U102</IssueID>
+			<IssueID Type="ISIN">GB0006573546</IssueID>
+			<IssueID Type="RIC">HARV.L</IssueID>
+			<IssueID Type="SEDOL">0657354</IssueID>
+			<IssueID Type="DisplayRIC">HARV.L</IssueID>
+			<IssueID Type="InstrumentPI">354859</IssueID>
+			<IssueID Type="QuotePI">1081276</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2002-02-22">1.02941</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-01</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">865</Employees>
+		<SharesOut Date="2015-07-31" TotalFloat="60254582.0">73450393.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-06T07:40:55">Harvey Nash Group plc is a United Kingdom-based recruitment business. The principal activity of the Company is the provision of professional recruitment and offshore solutions. The Company's operating segments include United Kingdom &amp; Ireland, Mainland Europe and Rest of World. Its portfolio of services includes executive search and leadership services, professional recruitment and offshore solutions. The Company conducts managed information technology (IT) services and projects, software development services and business process outsourcing (BPO) operations in Vietnam. The Company provides interim management services in various industry sectors, such as business services, manufacturing and industry, technology, financial services, retail and consumer, and transport and infrastructure. The Company conducts its business through various brands, such as alumni, Bjerke Luther, Mortimer Spinks, Nash Tech, Nash Technologies, impact executives and Harvey Nash.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-01T12:03:37">BRIEF: For the six months ended 31 July 2015, Harvey Nash Group plc revenues decreased 5% to L337M. Net income decreased 8% to L2.8M. Revenues reflect operating segment-Benelux &amp; france decrease of 13% to L144.7M, operating segment-Central Europe decrease of 15% to L36.6M, operating segment-Nordics decrease of 4% to L7.6M. Net income also reflects operating segment-Benelux &amp; france income decrease of 20% to L1.8M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-06T06:40:55">
+		<streetAddress line="1">110 Bishopsgate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC2N 4AY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Richard Ashcroft</contactName>
+		<contactTitle>Group Finance Director, Executive Director, Company Secretary</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73330033</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73330032</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73331507</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-22T14:00:14"><webSite mainCategory="Home Page">http://www.harveynash.com</webSite><eMail mainCategory="Company Contact/E-mail">richard.ashcroft@harveynash.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-06T06:40:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220303012" mnem="">Outsourcing &amp; Staffing Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="56131" mnem="">Employment Placement Agencies</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="56132" mnem="">Temporary Help Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541612" mnem="">Human Resources and Executive Search Consulting Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="51421" mnem="">Data Processing Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7361" mnem="">Employment Agencies</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7363" mnem="">Help Supply Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7374" mnem="">Data Processing And Preparation</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/1998">
+			<firstName>Albert</firstName>
+			<mI></mI>
+			<lastName>Ellis</lastName>
+			<age>51 </age>
+			<title startYear="2005" startMonth="06" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="10/2005">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Ashcroft</lastName>
+			<age>57 </age>
+			<title startYear="2005" startMonth="10" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director, Company Secretary</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Robert</firstName>
+			<mI>J.</mI>
+			<lastName>Miano</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Harvey Nash Operations, USA</title>
+		</officer>
+		<officer rank="4" since="10/17/2005">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>Wassall</lastName>
+			<age>52 </age>
+			<title startYear="2005" startMonth="10" startDay="17" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">European Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Jan</firstName>
+			<mI></mI>
+			<lastName>Leen 'tJong</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Harvey Nash Operations, Netherlands</title>
+		</officer>
+		<officer rank="6" since="2013">
+			<firstName>Ronny</firstName>
+			<mI></mI>
+			<lastName>Lommelen</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Responsible for Harvey Nash operations, Belgium</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Nick</firstName>
+			<mI></mI>
+			<lastName>Marsh</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Executive Search Business</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Udo</firstName>
+			<mI></mI>
+			<lastName>Nadolski</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Harvey Nash, Germany and Nash Technologies</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Magnus</firstName>
+			<mI></mI>
+			<lastName>Tegborg</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Harvey Nash Nordics and Alumni Operations, Sweden</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.73750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.07000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.70750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01284</Ratio>
+			<Ratio FieldName="EV" Type="N">52.05866</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">54.16966</Ratio>
+			<Ratio FieldName="AREV" Type="N">696.62700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">11.49200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">5.26400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.07201</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">9.52916</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.87948</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.25862</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.09486</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03531</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">12.84145</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.09435</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.07776</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.24163</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.83857</Ratio>
+			<Ratio FieldName="Employees" Type="N">865</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.44500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.01630</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">691.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.09200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">9.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03875</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

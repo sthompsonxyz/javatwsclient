@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC3DA</CoID>
+		<CoID Type="CompanyName">Galileo Resources PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GLR</IssueID>
+			<IssueID Type="CUSIP">G3709U104</IssueID>
+			<IssueID Type="ISIN">GB00B115T142</IssueID>
+			<IssueID Type="RIC">GLR.L</IssueID>
+			<IssueID Type="SEDOL">B115T14</IssueID>
+			<IssueID Type="DisplayRIC">GLR.L</IssueID>
+			<IssueID Type="InstrumentPI">25367849</IssueID>
+			<IssueID Type="QuotePI">94573045</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-16</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<SharesOut Date="2015-12-22" TotalFloat="55718022.0">156252721.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-22T04:09:53">Galileo Resources Plc is an Australia-based exploration and development mining company. The Company is engaged in the business of exploration and development of gold, copper, rare-earth aggregates, iron ore and manganese. The Company has its operations in the United States and South Africa. Its projects include Gabbs copper/gold project (Gabbs property), which is located near the town of Gabbs, Nevada; Ferber gold-copper property (Ferber), which is located approximately 25 miles south of Wendover, Nevada; Silverton Gold property, which is an epithermal gold silver prospect located northeast of Tonopah (Nye County) in the central Pancake Range; Crow Springs gold property (Crow Springs), which is located along the eastern margin of the Tertiary Walker Lane structural province in the southern Royston Hills, northern Esmeralda Co., Nevada, and Glenover Rare-Earth Phosphate project, which is located approximately 88 kilometers north of Thabazimbi, Limpopo.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-16T09:31:07">BRIEF: For the six months ended 30 September 2015, Galileo Resources PLC revenues decreased from L8K to L0K. Net loss decreased 38% to L171K. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Lower net loss reflects Operating expenses decrease of 40% to L177K (expense), Investment revenue increase of 1% to L25K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-16T09:31:08">
+		<streetAddress line="1">4th Floor</streetAddress>
+		<streetAddress line="2">2 Cromwell Place, South Kensington</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW7 2JE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Sylvia Vrska</contactName>
+		<contactTitle>Media, Corporate and Investor Relations Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75814477</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75897806</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>27</countryPhoneCode>
+				<city-areacode>11</city-areacode>
+				<number>4651913</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-24T10:13:15"><webSite mainCategory="Home Page">http://www.galileoresources.com</webSite><eMail mainCategory="Company Contact/E-mail">sylvia@galileoresources.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-16T09:31:08">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120101016" mnem="">Rare Earth Minerals</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212392" mnem="">Phosphate Rock Mining</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="21221" mnem="">Iron Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1475" mnem="">Phosphate Rock</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1011" mnem="">Iron Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/21/2012">
+			<firstName>Colin</firstName>
+			<mI></mI>
+			<lastName>Bird</lastName>
+			<age>68 </age>
+			<title startYear="2014" startMonth="05" startDay="13" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="05/13/2014">
+			<firstName>Brian</firstName>
+			<mI></mI>
+			<lastName>Gavin</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="05" startDay="13" iD1="CEO" abbr1="CEO" iD2="" abbr2="">Chief Executive Officer</title>
+		</officer>
+		<officer rank="3" since="03/12/2012">
+			<firstName>Andrew</firstName>
+			<mI>Francis</mI>
+			<lastName>Sarosi</lastName>
+			<age>71 </age>
+			<title startYear="2013" startMonth="01" startDay="23" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Interim Technical Director, Finance Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01300</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.02700</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.08720</Ratio>
+			<Ratio FieldName="EV" Type="N">1.85310</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2.03129</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-20.93849</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-10.72679</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.09396</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.04109</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00145</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-141.57630</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.31635</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2013" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

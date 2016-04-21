@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA49D</CoID>
+		<CoID Type="CompanyName">Redefine International PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Real Estate Trust</IssueID>
+			<IssueID Type="Ticker">RDI</IssueID>
+			<IssueID Type="CUSIP">G7419H113</IssueID>
+			<IssueID Type="ISIN">IM00B8BV8G91</IssueID>
+			<IssueID Type="RIC">RDI.L</IssueID>
+			<IssueID Type="SEDOL">B8BV8G9</IssueID>
+			<IssueID Type="DisplayRIC">RDI.L</IssueID>
+			<IssueID Type="InstrumentPI">17755098</IssueID>
+			<IssueID Type="QuotePI">17755101</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2012-10-11">0.9</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-04</LastModified>
+		<LatestAvailableAnnual>2014-08-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-02-28</LatestAvailableInterim>
+		<Employees LastUpdated="2008-09-30">0</Employees>
+		<SharesOut Date="2016-02-23" TotalFloat="1029189237.0">1766155123.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-02T08:02:58">Redefine International P.L.C is focused on real estate investment. The Companys segments include UK Stable Income, UK Retail, Europe, Hotels and Cromwell. UK Stable Income consists of the United Kingdom offices, but includes petrol filling stations, Kwik-Fit centres, retail and residential units. UK Retail consists of the Companys UK shopping centers and retail parks. Europe consists of the Companys properties in Continental Europe, located in Germany, Switzerland and the Netherlands. Hotels consist of the Companys hotel properties situated in the United Kingdom. Cromwell relates to the Groups investment in the Cromwell Property Group, Australia. In August 2014, Redefine International PLC announced that through its 71% held subsidiary Redefine Hotel Holdings Ltd (RHH), acquired the remaining 40% interest in 150 bedroom Holiday Inn Express Hotel in Earls Court (Hotel) and 48 bedroom extension at Southwark Holiday Inn Express (Extension). </Text>
+		<Text Type="Financial Summary" lastModified="2016-02-04T10:32:12">BRIEF: For the six months ended 28 February 2015, Redefine International PLC revenues increased 13% to L40.4M. Net income totaled L35.2M vs. loss of L897K. Revenues reflect United Kingdom segment increase of 24% to L21.3M, Hotels segment increase of 27% to L6.8M. Net Income reflects Write down and amortisation of intangibl decrease of 99% to L116K (expense), Net gains from financial assets and liab decrease from L6M (expense) to L7M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-04T10:32:15">
+		<streetAddress line="1">2nd Floor,30 Charles II Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 4AE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Lisa Hibberd</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78110100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78110101</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-01-02T08:03:16"><webSite mainCategory="Home Page">http://www.redefineinternational.com</webSite><eMail mainCategory="Company Contact/E-mail">lhibberd@redefineinternational.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-04T10:32:15">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540302010" mnem="">Commercial REITs - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-08-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.42480</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.59900</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.42010</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.08552</Ratio>
+			<Ratio FieldName="EV" Type="N">1311.28870</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">750.26270</Ratio>
+			<Ratio FieldName="AREV" Type="N">77.34000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">61.26400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">95.20000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.07985</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.06487</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.37115</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06464</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.08628</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03200</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.51125</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">24.38397</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">9.70084</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">5.31997</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.14456</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="8" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.53132</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">4.6000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.88053</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">85.53580</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03298</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">49.36280</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03265</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

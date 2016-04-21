@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2EA0</CoID>
+		<CoID Type="CompanyName">Reckitt Benckiser Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RB.</IssueID>
+			<IssueID Type="CUSIP">G74079107</IssueID>
+			<IssueID Type="ISIN">GB00B24CGK77</IssueID>
+			<IssueID Type="RIC">RB.L</IssueID>
+			<IssueID Type="SEDOL">B24CGK7</IssueID>
+			<IssueID Type="DisplayRIC">RB.L</IssueID>
+			<IssueID Type="InstrumentPI">262391</IssueID>
+			<IssueID Type="QuotePI">1049576</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">124982282</IssueID>
+			<Exchange Code="TSE" Country="CAN">Toronto Stock Exchange</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">37200</Employees>
+		<SharesOut Date="2016-02-10" TotalFloat="637133411.0">706490894.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-03T03:40:27">Reckitt Benckiser Group plc is a United Kingdom-based manufacturer and marketer of branded health, hygiene and home products. The Company has two operating segments: ENA and Developing Markets (DVM). ENA comprises the geographies of Europe, Russia / CIS, Israel, North America, Australia and New Zealand. DVM comprises Latin America, North Asia and South East Asia, North Africa, Turkey and sub-Saharan Africa. The geographical segments manufacture and sell branded products in the health, hygiene, home and Portfolio Brands categories. There is also a separate segment for the Food business, which is run as a stand-alone business. The main component of the Portfolio Brands category is the laundry and fabric softener business.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-15T14:22:37">BRIEF: For the fiscal year ended 31 December 2015, Reckitt Benckiser Group Plc revenues increased less than 1% to L8.87B. Net income before extraordinary items increased 5% to L1.74B. Revenues reflect market conditions. Dividend per share remained flat at L1.39. Basic Earnings per Share excluding Extraordinary Items increased from L2.31 to L2.44.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T14:22:44">
+		<streetAddress line="1">103-105 Bath Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SLOUGH</city>
+		<state-region></state-region>
+		<postalCode>SL1 3UH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Richard Joyce</contactName>
+		<contactTitle>Director - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1753</city-areacode>
+				<number>217800</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1753</city-areacode>
+				<number>217899</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>17</city-areacode>
+				<number>53217800</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-04T02:37:58"><webSite mainCategory="Home Page">http://www.rb.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T14:22:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5420101010" mnem="">Household Products - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325611" mnem="">Soap and Other Detergent  Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="325612" mnem="">Polish and Other Sanitation Good Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="325613" mnem="">Surface Active Agent  Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="32562" mnem="">Toilet Preparation Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="325412" mnem="">Pharmaceutical Preparation  Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="311941" mnem="">Mayonnaise, Dressing and Other Prepared Sauce Manufacturing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="32532" mnem="">Pesticide and Other Agricultural Chemical Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2841" mnem="">Soap And Other Detergents</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2842" mnem="">Polishes And Sanitation Goods</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2843" mnem="">Surface Active Agents</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2844" mnem="">Toilet Preparations</Industry>
+			<Industry type="SIC" order="5" reported="0" code="2834" mnem="">Pharmaceutical Preparations</Industry>
+			<Industry type="SIC" order="6" reported="0" code="2035" mnem="">Pickles/sauces/salad Dressings</Industry>
+			<Industry type="SIC" order="7" reported="0" code="2879" mnem="">Agricultural Chemicals, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Rakesh</firstName>
+			<mI></mI>
+			<lastName>Kapoor</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="09" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/2013">
+			<firstName>Adrian</firstName>
+			<mI>Nevil</mI>
+			<lastName>Hennah</lastName>
+			<age>57 </age>
+			<title startYear="2013" startMonth="02" startDay="12" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/01/2008">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>de Groot</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="" startDay="" iD1="EVP" abbr1="Exec. VP" iD2="" abbr2="">Executive Vice President, ENA</title>
+		</officer>
+		<officer rank="4" since="03/15/2009">
+			<firstName>Amedeo</firstName>
+			<mI></mI>
+			<lastName>Fasano</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="03" startDay="15" iD1="EVP" abbr1="Exec. VP" iD2="" abbr2="">Executive Vice President - Supply</title>
+		</officer>
+		<officer rank="5" since="07/01/2013">
+			<firstName>Roberto</firstName>
+			<mI></mI>
+			<lastName>Funari</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="01" iD1="EVP" abbr1="Exec. VP" iD2="" abbr2="">Executive Vice President - Category Development Organisation</title>
+		</officer>
+		<officer rank="6" since="06/01/2013">
+			<firstName>Frederic</firstName>
+			<mI></mI>
+			<lastName>Larmuseau</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="EVP" abbr1="Exec. VP" iD2="" abbr2="">Area Executive Vice President - Developing Markets</title>
+		</officer>
+		<officer rank="7" since="12/01/2014">
+			<firstName>Deborah</firstName>
+			<mI></mI>
+			<lastName>Yates</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="01" iD1="SVP" abbr1="Sr. VP" iD2="DHR" abbr2="Dir.-HR">Senior Vice President - Human Resources</title>
+		</officer>
+		<officer rank="8" since="09/2014">
+			<firstName>Darrell</firstName>
+			<mI></mI>
+			<lastName>Stein</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="" iD1="SVP" abbr1="Sr. VP" iD2="" abbr2="">Senior Vice President - Information Services</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>William</firstName>
+			<mI></mI>
+			<lastName>Mordan</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">65.54000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">66.87000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">54.03000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.42643</Ratio>
+			<Ratio FieldName="EV" Type="N">47983.41000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">46303.41000</Ratio>
+			<Ratio FieldName="AREV" Type="N">8874.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2545.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1743.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">2.40897</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">12.26459</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">9.68097</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.03765</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">2.64807</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">1.39000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">59.11652</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">25.37857</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.21787</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">27.20665</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">6.76998</Ratio>
+			<Ratio FieldName="Employees" Type="N">37200</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.28</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">67.77273</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">6.3698</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">24.39733</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">9318.95070</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">2299.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">2.68636</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">2455.28960</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">1.38123</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

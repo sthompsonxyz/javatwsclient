@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3075</CoID>
+		<CoID Type="CompanyName">Dairy Crest Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DCG</IssueID>
+			<IssueID Type="CUSIP">G2624G109</IssueID>
+			<IssueID Type="ISIN">GB0002502812</IssueID>
+			<IssueID Type="RIC">DCG.L</IssueID>
+			<IssueID Type="SEDOL">0250281</IssueID>
+			<IssueID Type="DisplayRIC">DCG.L</IssueID>
+			<IssueID Type="InstrumentPI">269079</IssueID>
+			<IssueID Type="QuotePI">1079560</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-28</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">4210</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="126694661.0">138026603.0</SharesOut>
+		<CommonShareholders Date="2015-03-31">19864</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-13T07:02:13">Dairy Crest Group plc processes and markets branded dairy products and fresh milk. The Company is engaged in the branded cheese and whey and spreads and butter businesses. It offers its products in three product groups: cheese and whey; spreads and butters, and dairies. It has a cheese brand in the United Kingdom, Cathedral City, and operates a cheese supply chain. It also has a smaller cheese packing facility at Frome, Somerset. Its spreads and butters operation makes packet butter and dairy spreads from cream separated from the milk processed by its dairies operations and vegetable oil. It focuses on two key brands: Clover and Country Life. It manufactures and sells Frylight one calorie cooking spray. It processes and delivers fresh conventional, organic and flavored milk to retailers, middle ground customers, including smaller retailers, coffee shops, hospitals and residential customers. In addition, it manufactures and sells FRijj, a flavored milk brand, cream and milk powders.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-06T09:20:27">BRIEF: For the six months ended 30 September 2015, Dairy Crest Group plc revenues decreased 5% to L203.8M. Net income before extraordinary items decreased 12% to L10.4M. Revenues reflect Spreads segment decrease of 10% to L73.4M, Cheese segment decrease of 2% to L128.5M. Net income also reflects Demineralised whey powder and GOS projec increase from L1.1M to L2.4M (expense), Other Non Rec. I/E - Non Business Acti decrease from L600K (income) to L0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-28T10:21:34">
+		<streetAddress line="1">Claygate House, Littleworth Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ESHER</city>
+		<state-region></state-region>
+		<postalCode>KT10 9PN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Arthur Reeves</contactName>
+		<contactTitle>Corporate Affairs Director, External Affairs Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1372</city-areacode>
+				<number>472200</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1372</city-areacode>
+				<number>472333</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0137</city-areacode>
+				<number>472200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-27T17:26:23"><webSite mainCategory="Home Page">http://www.dairycrest.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@dairycrest.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-28T10:21:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410202019" mnem="">Dairy Products</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="311511" mnem="">Fluid Milk Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="311514" mnem="">Dry, Condensed, and Evaporated Dairy Product Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="311512" mnem="">Creamery Butter Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="311513" mnem="">Cheese Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="42243" mnem="">Dairy Product (except Dried or Canned) Wholesalers</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="42242" mnem="">Packaged Frozen Food Wholesalers</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2026" mnem="">Fluid Milk</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2023" mnem="">Dry/condensed/evaporated Products</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2021" mnem="">Creamery Butter</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2022" mnem="">Cheese, Natural And Processed</Industry>
+			<Industry type="SIC" order="5" reported="0" code="5143" mnem="">Dairy Products Not Dried/canned</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5142" mnem="">Packaged Frozen Foods</Industry>
+			<Industry type="SIC" order="7" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/18/2002">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Allen</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="01" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/23/2013">
+			<firstName>Tom</firstName>
+			<mI></mI>
+			<lastName>Atherton</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="05" startDay="23" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="04/2008">
+			<firstName>Robin</firstName>
+			<mI></mI>
+			<lastName>Miller</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="04" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="4" since="2012">
+			<firstName>Mike</firstName>
+			<mI></mI>
+			<lastName>Sheldon</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="03" startDay="31" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director, Dairies</title>
+		</officer>
+		<officer rank="5" since="04/2013">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Willock</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="04" startDay="" iD1="DHR" abbr1="Dir.-HR" iD2="" abbr2="">Group Director - Human Resources</title>
+		</officer>
+		<officer rank="6" since="04/2013">
+			<firstName>Mike</firstName>
+			<mI></mI>
+			<lastName>Barrington</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="04" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Supply Chain Director</title>
+		</officer>
+		<officer rank="7" since="04/2013">
+			<firstName>Adam</firstName>
+			<mI></mI>
+			<lastName>Braithwaite</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="04" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Commercial Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.97000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">7.00000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.37900</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.25081</Ratio>
+			<Ratio FieldName="EV" Type="N">1036.41880</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">824.01880</Ratio>
+			<Ratio FieldName="AREV" Type="N">448.20000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">97.50000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">29.40000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.21366</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.25727</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.10419</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.36740</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.43895</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.21700</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.15193</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.83851</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">27.94159</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.83719</Ratio>
+			<Ratio FieldName="Employees" Type="N">4210</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">6.30667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.48221</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">441.29630</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.34149</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">58.59400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.22289</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3274</CoID>
+		<CoID Type="CompanyName">Aggreko plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AGK</IssueID>
+			<IssueID Type="CUSIP">G0116S185</IssueID>
+			<IssueID Type="ISIN">GB00BK1PTB77</IssueID>
+			<IssueID Type="RIC">AGGK.L</IssueID>
+			<IssueID Type="SEDOL">BK1PTB7</IssueID>
+			<IssueID Type="DisplayRIC">AGGK.L</IssueID>
+			<IssueID Type="InstrumentPI">295540</IssueID>
+			<IssueID Type="QuotePI">1081079</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-05-28">0.9518</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">184104029</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">206922445</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="4">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">206923692</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">6112</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="211702045.0">258117558.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-22T02:36:29">Aggreko plc is a United Kingdom-based company, which provides power and temperature control solutions. The Company has two business models which include Local business and Power Projects business. The Local business rents power and temperature control equipment to a range of customers who operate it themselves, while the Company services and maintains it. The Power Projects business sells electricity which it delivers using power plants built, owned and operated by the Company. In the Power Projects business contracts are for a defined amount of generating capacity for which there is a fixed monthly capacity charge and also the customer pays a variable charge for each megawatt hour (MW-hour) of electricity they use. The Company's segments comprise three regions: The Americas, Europe, the Middle East and Africa (EMEA) and Asia, Pacific and Australia (APAC), as well as the Total Local business and the Total Power Projects business.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T09:06:19">BRIEF: For the six months ended 30 June 2015, Aggreko plc revenues increased 2% to L781M. Net income decreased 23% to L75M. Revenues reflect Local Business segment increase of 3% to L446M, Europe &amp; Middle East &amp; Africa (EMEA) (Region) segment increase of 14% to L344M. Net income was offset by Power Projects segment income decrease of 22% to L65M, Local Business segment income decrease of 12% to L50M, Americas segment income decrease of 26% to L49M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T03:51:27">
+		<streetAddress line="1">120 Bothwell Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>GLASGOW</city>
+		<state-region></state-region>
+		<postalCode>G2 7JS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Louise Bryant</contactName>
+		<contactTitle>Head of Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>141</city-areacode>
+				<number>2255900</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>141</city-areacode>
+				<number>2255949</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-01-26T16:08:27"><webSite mainCategory="Home Page">http://www.aggreko.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">ir@aggreko.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T03:51:27">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53249" mnem="">Other Commercial and Industrial Machinery and Equipment Rental and Leasing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="221119" mnem="">Other Electric Power Generation</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7359" mnem="">Equipment Rental &amp; Leasing, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4911" mnem="">Electric Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/02/2015">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Weston</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="02" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/24/2014">
+			<firstName>Carole</firstName>
+			<mI></mI>
+			<lastName>Cran</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="06" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/17/2015">
+			<firstName>Bruce</firstName>
+			<mI></mI>
+			<lastName>Pool</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="17" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Rental Solutions</title>
+		</officer>
+		<officer rank="4" since="10/2008">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Kennerley</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="10" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Legal Director and Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.60000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">17.24150</Ratio>
+			<Ratio FieldName="NLOW" Type="N">7.62050</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.74252</Ratio>
+			<Ratio FieldName="EV" Type="N">2696.70300</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2202.70300</Ratio>
+			<Ratio FieldName="AREV" Type="N">1577.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">568.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">215.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.82375</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">6.04215</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.17352</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.14325</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.82759</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.27120</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">57.26062</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.38683</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.39677</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.44006</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.06061</Ratio>
+			<Ratio FieldName="Employees" Type="N">6112</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3.3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">10.26722</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-2.0297</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.91598</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1574.91820</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.72172</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">243.99710</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.27012</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

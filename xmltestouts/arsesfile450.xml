@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5B34</CoID>
+		<CoID Type="CompanyName">Ross Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RGP</IssueID>
+			<IssueID Type="CUSIP">G7643P170</IssueID>
+			<IssueID Type="ISIN">GB0002192606</IssueID>
+			<IssueID Type="RIC">RGP.L</IssueID>
+			<IssueID Type="SEDOL">0219260</IssueID>
+			<IssueID Type="DisplayRIC">RGP.L</IssueID>
+			<IssueID Type="InstrumentPI">276780</IssueID>
+			<IssueID Type="QuotePI">1080152</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">5.25% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126147658</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-20</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2012-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="29100302.0">179479428.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-05T07:04:09">Ross Group plc is a United Kingdom-based company. The Company, through its wholly owned subsidiary, is engaged in the distribution of consumer electronic branded products and complementary supply chain management services. San Gain Industrial Company Limited is the wholly owned subsidiary of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-20T09:22:41">BRIEF: For the six months ended 30 June 2015, Ross Group plc revenues increased 62% to L76K. Net income totaled L37K vs. loss of L7K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-20T09:22:41">
+		<streetAddress line="1">Brunel Road, Calmore Industrial Estate</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>TOTTON</city>
+		<state-region></state-region>
+		<postalCode>SO4O 3YS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>2380</city-areacode>
+				<number>663030</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>2380</city-areacode>
+				<number>869191</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-10-09T00:00:32"><webSite mainCategory="Home Page">http://www.ross-group.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-20T09:22:41">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210203020" mnem="">Electric Equipment Wholesale</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334419" mnem="">Other Electronic Component Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="335999" mnem="">All Other Miscellaneous Electrical Equipment and Component Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="33431" mnem="">Audio and Video Equipment Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3679" mnem="">Electronic Components, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3699" mnem="">Electrical Equip/supplies, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3651" mnem="">Household Audio/video Equipment</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/28/2009">
+			<firstName>Barry</firstName>
+			<mI>Richard</mI>
+			<lastName>Pettitt</lastName>
+			<age>56 </age>
+			<title startYear="2009" startMonth="04" startDay="28" iD1="CHM" abbr1="Chmn." iD2="CEO" abbr2="CEO">Chairman of the Board, Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="12/22/2009">
+			<firstName>Wade</firstName>
+			<mI>Lionel</mI>
+			<lastName>Hopkins</lastName>
+			<age>65 </age>
+			<title startYear="2009" startMonth="12" startDay="22" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/22/2009">
+			<firstName>Shashi</firstName>
+			<mI>C.</mI>
+			<lastName>Mehta</lastName>
+			<age>56 </age>
+			<title startYear="2009" startMonth="12" startDay="22" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="04/29/2009">
+			<firstName>Michael</firstName>
+			<mI>Jonathan</mI>
+			<lastName>Simon</lastName>
+			<age>56 </age>
+			<title startYear="2009" startMonth="04" startDay="29" iD1="SEC" abbr1="Secy." iD2="NID" abbr2="Non Ex.Ind.Dir.">Company Secretary, Non-Executive Independent Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00775</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.01550</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00700</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01707</Ratio>
+			<Ratio FieldName="EV" Type="N">7.52497</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.39097</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.15400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">0.00200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.00200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00001</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00086</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.03551</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00008</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">9.03224</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">775.00000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2013" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

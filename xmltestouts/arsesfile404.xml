@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2E8C</CoID>
+		<CoID Type="CompanyName">Pendragon PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PDG</IssueID>
+			<IssueID Type="CUSIP">G6986L168</IssueID>
+			<IssueID Type="ISIN">GB00B1JQBT10</IssueID>
+			<IssueID Type="RIC">PDG.L</IssueID>
+			<IssueID Type="SEDOL">B1JQBT1</IssueID>
+			<IssueID Type="DisplayRIC">PDG.L</IssueID>
+			<IssueID Type="InstrumentPI">262241</IssueID>
+			<IssueID Type="QuotePI">1080123</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2011-08-02">1.29347</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">9343</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="1409554103.0">1460320656.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-04-30T01:16:17">Pendragon PLC is an automotive retailer. The Company is engaged in the retailing of used and new vehicles and in the service and repair of vehicles. It operates in eight segments: Stratstone, which comprises its vehicles, truck and commercial vans brand, sale of new and used motor cars, motorbikes, trucks and vans together with aftersales activities of service, body repair and parts sales; Evans Halshaw, which comprises its volume brand, aftersales activities of service, body repair and parts sales; Quicks, which include its used car operation and associated aftersales activities of service and parts sales; California, which include its retail operation in California and associated aftersales activities of service and parts sales; Leasing, which include its contract hire and leasing activities; Quickco, which includes its wholesale parts distribution under the Quickco name; Pinewood includes activities as a dealer management system, and Central, its head office function and activities.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T14:26:13">BRIEF: For the fiscal year ended 31 December 2015, Pendragon PLC revenues increased 11% to L4.45B. Net income increased 46% to L72.9M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Interest payable on Bank Borrowings decrease of 3% to L14.5M (expense), Unwinding of Discount decrease of 31% to L1.1M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T14:26:19">
+		<streetAddress line="1">Loxley House</streetAddress>
+		<streetAddress line="2">2 Oakwood Court, Little Oak Drive</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>NOTTINGHAM</city>
+		<state-region></state-region>
+		<postalCode>NG15 0DR</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Richard Maloney</contactName>
+		<contactTitle>Group Legal Advisor</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1623</city-areacode>
+				<number>725200</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>016</city-areacode>
+				<number>23725119</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-03-18T15:26:00"><webSite mainCategory="Home Page">http://www.pendragonplc.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T14:26:19">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340301011" mnem="">New Car Dealers</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="44111" mnem="">New Car Dealers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="44112" mnem="">Used Car Dealers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="44131" mnem="">Automotive Parts and Accessories Stores</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5511" mnem="">New And Used Car Dealers</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5521" mnem="">Used Car Dealers</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5013" mnem="">Motor Vehicle Supplies/new Parts</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Trevor</firstName>
+			<mI>G.</mI>
+			<lastName>Finn</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="12/11/2009">
+			<firstName>Tim</firstName>
+			<mI>P.</mI>
+			<lastName>Holden</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="12" startDay="11" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/1995">
+			<firstName>Martin</firstName>
+			<mI>S.</mI>
+			<lastName>Casha</lastName>
+			<age>52 </age>
+			<title startYear="2001" startMonth="11" startDay="" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="1994">
+			<firstName>Hilary</firstName>
+			<mI>C.</mI>
+			<lastName>Sykes</lastName>
+			<age></age>
+			<title startYear="1999" startMonth="04" startDay="" iD1="SEC" abbr1="Secy." iD2="EDR" abbr2="Exec. Dir.">Corporate Services Director, Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.37390</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.49000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.32480</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.95980</Ratio>
+			<Ratio FieldName="EV" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">546.01390</Ratio>
+			<Ratio FieldName="AREV" Type="N">4453.90000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">122.60000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">72.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.05000</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.05145</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.06728</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01300</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">12.32403</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.12259</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">7.47800</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">9343</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">9.71169</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">4544.95000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.03850</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">73.47500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.01398</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

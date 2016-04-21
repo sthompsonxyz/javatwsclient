@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">ABBA3</CoID>
+		<CoID Type="CompanyName">Serica Energy Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SQZ</IssueID>
+			<IssueID Type="CUSIP">G80475109</IssueID>
+			<IssueID Type="ISIN">GB00B0CY5V57</IssueID>
+			<IssueID Type="RIC">SQZ.L</IssueID>
+			<IssueID Type="SEDOL">B0CY5V5</IssueID>
+			<IssueID Type="DisplayRIC">SQZ.L</IssueID>
+			<IssueID Type="InstrumentPI">270078</IssueID>
+			<IssueID Type="QuotePI">23660268</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2013-10-22">1.00152</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-22</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">10</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="151517279.0">263679040.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-06T07:38:57">Serica Energy plc (Serica) is a United Kingdom-based international exploration and production company. The principal activity of the Company and its subsidiaries is to identify, acquire, explore and subsequently exploit oil and gas reserves. Its activities are located in the United Kingdom, Ireland, Namibia and Morocco. It has 18% interest in the blocks 23/26a (Area B) and 23/26b (Area B), located in the United Kingdom Central North Sea and containing the Erskine field. Erskine, a gas condensate field, produces through the Lomond facilities, which lie close to the Columbus Field. It has offshore Frontier Exploration License 1/06, covering three blocks in the Slyne Basin off the west coast of Ireland. It has interests in two licenses in Morocco, Foum Draa and Sidi Moussa, both offshore Tarfaya Basin in the Central Atlantic Margin. It has an 85% interest four blocks and part blocks in the Luderitz basin. It has an economic interest in the development of the Vette field in Norway.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T04:41:43">BRIEF: For the six months ended 30 June 2015, Serica Energy Plc revenues increased from $0K to $2.2M. Net loss before extraordinary items decreased 75% to $639K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T04:41:50">
+		<streetAddress line="1">52 George Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1U 7EA</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74877300</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74877330</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-07-10T08:45:27"><webSite mainCategory="Home Page">http://www.serica-energy.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@serica-energy.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T04:41:50">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/08/2011">
+			<firstName>Antony</firstName>
+			<mI>Craven</mI>
+			<lastName>Walker</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="04" startDay="10" iD1="CHM" abbr1="Chmn." iD2="CEO" abbr2="CEO">Independent Chairman of the Board, Interim Chief Executive Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.08800</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.12590</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.20983</Ratio>
+			<Ratio FieldName="EV" Type="N">16.21129</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">23.20376</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-3.63654</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-25.17869</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.10064</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.18742</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02795</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.10064</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-42.30434</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.46954</Ratio>
+			<Ratio FieldName="Employees" Type="N">10</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.16525</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">4.15094</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">12.93462</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.02120</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">3.46337</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

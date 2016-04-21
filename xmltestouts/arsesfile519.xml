@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A34DD</CoID>
+		<CoID Type="CompanyName">Tanfield Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TAN</IssueID>
+			<IssueID Type="CUSIP">G8668J115</IssueID>
+			<IssueID Type="ISIN">GB00B4QHFM95</IssueID>
+			<IssueID Type="RIC">TAN.L</IssueID>
+			<IssueID Type="SEDOL">B4QHFM9</IssueID>
+			<IssueID Type="DisplayRIC">TAN.L</IssueID>
+			<IssueID Type="InstrumentPI">394881</IssueID>
+			<IssueID Type="QuotePI">650006</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2010-09-08">1.07063</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-07-27</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">3</Employees>
+		<SharesOut Date="2016-02-05" TotalFloat="113248496.0">150954073.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:30:48">Tanfield Group Plc is a United Kingdom-based investment company. The Company aims to maximize its capital structure of debt and equity so as to minimize its cost of capital. The Company owns 5.76% of Smith Electric Vehicles Corp. (Smith) and 49% of Snorkel International Holdings LLC (Snorkel). Smith is engaged in Electric vehicle manufacture and Snorkel is a Powered Access company.</Text>
+		<Text Type="Financial Summary" lastModified="2015-07-27T15:11:51">BRIEF: For the six months ended 30 June 2015, Tanfield Group plc revenues was not reported. Net loss decreased 20% to L209K. Lower net loss reflects Finance expense decrease of 76% to L34K (expense), Other operating income increase of 67% to L15K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-17T21:51:04">
+		<streetAddress line="1">Sandgate House 102 Quayside</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>NEWCASTLE UPON TYNE</city>
+		<state-region></state-region>
+		<postalCode>NE1 3DX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>845</city-areacode>
+				<number>1557756</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-14T13:19:38"><webSite mainCategory="Home Page">http://www.tanfieldgroup.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-17T21:51:04">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210204010" mnem="">Heavy Electrical Equipment - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333921" mnem="">Elevator and Moving Stairway Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="336111" mnem="">Automobile Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="333924" mnem="">Industrial Truck, Tractor, Trailer and Stacker Machinery Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3534" mnem="">Elevators And Moving Stairways</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3711" mnem="">Motor Vehicles And Car Bodies</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3537" mnem="">Industrial Trucks And Tractors</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/25/2014">
+			<firstName>Daryn</firstName>
+			<mI>Ashley</mI>
+			<lastName>Robinson</lastName>
+			<age>38 </age>
+			<title startYear="2015" startMonth="11" startDay="13" iD1="SEC" abbr1="Secy." iD2="NED" abbr2="Non Ex. Dir.">Company Secretary, Non-Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.14125</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.25500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.13000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.13985</Ratio>
+			<Ratio FieldName="EV" Type="N">21.34292</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">21.71192</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.38900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.14400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00101</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.27726</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00257</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">0.36383</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">139.85150</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.50946</Ratio>
+			<Ratio FieldName="Employees" Type="N">3</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

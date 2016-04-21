@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A6308</CoID>
+		<CoID Type="CompanyName">Pan African Resources plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PAF</IssueID>
+			<IssueID Type="CUSIP">G6882W102</IssueID>
+			<IssueID Type="ISIN">GB0004300496</IssueID>
+			<IssueID Type="RIC">PAFR.L</IssueID>
+			<IssueID Type="SEDOL">0430049</IssueID>
+			<IssueID Type="DisplayRIC">PAFR.L</IssueID>
+			<IssueID Type="InstrumentPI">466324</IssueID>
+			<IssueID Type="QuotePI">5123910</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2012-12-19">1.04966</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">4334</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="1372618021.0">1831494763.0</SharesOut>
+		<CommonShareholders Date="2015-06-30">4720</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-19T21:57:21">Pan African Resources PLC (Pan African) is a South-Africa based gold mining and exploration Company. The Company focuses on exploitation of high grade ore-bodies that yield high margins with a low cash cost base through experienced management teams. The Companys operations include Barberton, The Barberton Tailings Retreatment Project (BTRP), Evander Gold Mines and Phoenix Platinum Project. Barberton is Pan Africans flagship gold project, producing 115,000 ounce (oz) per year. The mining complex consists of three mines: Fairview, New Consort and Sheba. Located adjacent to the Bramber tailings storage is the BTRP at the Fairview Mine, which is the result of a metallurgical test work carried out on the Bramber tailings dam. Pan African concluded the acquisition of Evander Gold Mines from Harmony. Evander is a world class ore body which produces 95,000oz of gold per annum. Lastly, the Phoenix Platinum Project is Pan Africans first move into Platinum.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-15T02:41:38">BRIEF: For the fiscal year ended 30 June 2015, Pan African Resources plc revenues decreased 9% to L140.4M. Net income decreased 56% to L11.7M. Revenues reflect Barberton Mines segment decrease of 9% to L81.1M, Evander mines segment decrease of 11% to L53.8M. Net income also reflects Barberton Mines segment income decrease of 27% to L26.6M, Evander mines segment loss totaling L8.3M vs. income of L1M. Dividend per share remained flat at L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T06:03:06">
+		<streetAddress line="1">Suite 31, Second Floor 107 Cheapside</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CHEAPSIDE</city>
+		<state-region></state-region>
+		<postalCode>EC2V 6DN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77968644</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77968645</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2010-11-08T07:16:41"><webSite mainCategory="Home Page">http://www.panafricanresources.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@paf.co.za</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T06:03:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120106011" mnem="">Gold Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/26/2009">
+			<firstName>Jacobus</firstName>
+			<mI>Albertus Johannes</mI>
+			<lastName>Loots</lastName>
+			<age>37 </age>
+			<title startYear="2015" startMonth="03" startDay="01" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="03/01/2015">
+			<firstName>Gideon</firstName>
+			<mI>Petrus</mI>
+			<lastName>Louw</lastName>
+			<age>53 </age>
+			<title startYear="2015" startMonth="03" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Anaki</firstName>
+			<mI></mI>
+			<lastName>Karigeni</lastName>
+			<age>47 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="2013">
+			<firstName>Andre</firstName>
+			<mI></mI>
+			<lastName>Van den Bergh</lastName>
+			<age>59 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive - Human Resources</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.13250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.14000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.06250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">3.50369</Ratio>
+			<Ratio FieldName="EV" Type="N">239.34425</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">242.67310</Ratio>
+			<Ratio FieldName="AREV" Type="N">140.38640</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">27.53547</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">11.66997</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00637</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.07667</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.08035</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00182</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01205</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00540</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">29.21246</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.61341</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.72861</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">20.80063</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.64896</Ratio>
+			<Ratio FieldName="Employees" Type="N">4334</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.14117</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.38077</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">164.50500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.01581</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">39.04180</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00647</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

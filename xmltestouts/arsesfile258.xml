@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A31BE</CoID>
+		<CoID Type="CompanyName">Helical Bar plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Real Estate Trust</IssueID>
+			<IssueID Type="Ticker">HLCL</IssueID>
+			<IssueID Type="CUSIP">G43904195</IssueID>
+			<IssueID Type="ISIN">GB00B0FYMT95</IssueID>
+			<IssueID Type="RIC">HLCL.L</IssueID>
+			<IssueID Type="SEDOL">B0FYMT9</IssueID>
+			<IssueID Type="DisplayRIC">HLCL.L</IssueID>
+			<IssueID Type="InstrumentPI">261484</IssueID>
+			<IssueID Type="QuotePI">1079287</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2005-12-21">0.97465</MostRecentSplit>
+		</Issue>
+		<Issue ID="5" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">211087956</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="ISIN">GB00B04KN622</IssueID>
+			<IssueID Type="SEDOL">B04KN62</IssueID>
+			<IssueID Type="DisplayRIC">HLCL_p.L</IssueID>
+			<IssueID Type="InstrumentPI">124986533</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="CUSIP">G43904161</IssueID>
+			<IssueID Type="ISIN">GB00B04KN622</IssueID>
+			<IssueID Type="RIC">HLCL_p.L^H05</IssueID>
+			<IssueID Type="InstrumentPI">19049605</IssueID>
+			<IssueID Type="QuotePI">19048640</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-17</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">43</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="91158888.0">327428330.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:04:59">Helical Bar plc is a property investment and development company, which operates across various sectors of the property industry. The Company's segments include Investment properties and Developments. Investment properties are owned or leased by the Company for long-term income and for capital appreciation, and Trading properties, which are owned or leased with the intention to sell. Developments include sites, developments in the course of construction, completed developments available for sale, pre-sold developments and interest in third party developments. The Company's portfolio of properties include The Powerhouse W4, King Street W6, Enterprise House W2, Shepherds Building W14, C-Space EC1, The Bower Old Street EC1, Artillery Lane E1 and Chart House N1, among others. Its subsidiaries include BAYLIGHT DEVELOPMENTS LTD, DOWNTOWN SPACE PROPERTIES LLP, HELICAL BAR DEVELOPMENTS (SOUTH EAST) LTD, HELICAL (BRAMSHOTT PLACE) LTD and HELICAL (CANNOCK) LTD, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-17T14:31:17">BRIEF: For the six months ended 30 September 2015, Helical Bar plc revenues increased 47% to L58.3M. Net income increased from L37.1M to L75.8M. Revenues reflect Developments segment increase of 90% to L36.9M, Rental Income segment increase of 13% to L21.2M. Net income benefited from Net gain on sale and revaluation of inve increase of 83% to L42.3M (income), Other Interest Charges decrease of 65% to L1.5M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-06T23:38:37">
+		<streetAddress line="1">5 Hanover Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1S 1HQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76290113</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74081666</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-11T10:29:21"><webSite mainCategory="Home Page">http://www.helical.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@helical.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-06T23:38:37">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540201010" mnem="">Real Estate Development &amp; Operations - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23311" mnem="">Land Subdivision and Land Development</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551111" mnem="">Offices of  Bank Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6552" mnem="">Subdividers And Developers, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6712" mnem="">Bank Holding Companies</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1984">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Slade</lastName>
+			<age></age>
+			<title startYear="1986" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/1994">
+			<firstName>Tim</firstName>
+			<mI>J.</mI>
+			<lastName>Murphy</lastName>
+			<age>53 </age>
+			<title startYear="2013" startMonth="09" startDay="12" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="08/01/2007">
+			<firstName>Matthew</firstName>
+			<mI></mI>
+			<lastName>Bonning-Snook</lastName>
+			<age>45 </age>
+			<title startYear="2007" startMonth="08" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="1994">
+			<firstName>Gerald</firstName>
+			<mI></mI>
+			<lastName>Kaye</lastName>
+			<age>55 </age>
+			<title startYear="1994" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="5" since="2007">
+			<firstName>Duncan</firstName>
+			<mI></mI>
+			<lastName>Walker</lastName>
+			<age>34 </age>
+			<title startYear="2011" startMonth="06" startDay="24" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="6" since="2015">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Moss</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.84000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.75500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.66250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.18532</Ratio>
+			<Ratio FieldName="EV" Type="N">918.64180</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">442.68680</Ratio>
+			<Ratio FieldName="AREV" Type="N">106.34100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">54.28900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">74.48900</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.60815</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.86820</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.52922</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.06745</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.61493</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.07250</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">75.48829</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">20.00220</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.16290</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.31423</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.08806</Ratio>
+			<Ratio FieldName="Employees" Type="N">43</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">5.03500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-768.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">41.36670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.00500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">13.83330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.07635</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

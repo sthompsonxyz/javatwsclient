@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AF683</CoID>
+		<CoID Type="CompanyName">Ludgate Environmental Fund Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">LEF</IssueID>
+			<IssueID Type="CUSIP">G571A4103</IssueID>
+			<IssueID Type="ISIN">JE00B1YW3102</IssueID>
+			<IssueID Type="RIC">LEF.L</IssueID>
+			<IssueID Type="SEDOL">B1YW310</IssueID>
+			<IssueID Type="DisplayRIC">LEF.L</IssueID>
+			<IssueID Type="InstrumentPI">36230449</IssueID>
+			<IssueID Type="QuotePI">36230349</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-09</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-06-30">0</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="43310539.0">53345782.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-20T05:07:40">Ludgate Environmental Fund Limited is a closed-ended investment company. The Company is engaged in investing in the cleantech sector, including waste management and recycling, renewable energy, energy efficiency, water treatment and management. The Company's investment objective is to deliver to investors a significant level of capital growth in the medium to long-term by building a diverse portfolio of investments in cleantech companies. The Company seeks to achieve its investment objective through the identification of technologies and companies within the cleantech sector using a review and selection process, by adding value to companies in the portfolio through support at all stages of their growth and by focusing on maximizing returns for shareholders by assisting companies in achieving an exit. Ludgate Investments Limited acts as the Company's investment adviser.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-09T10:14:29">BRIEF: For the six months ended 31 December 2015, Ludgate Environmental Fund Limited revenues increased 90% to L1.2M. Net loss increased 95% to L7.8M. Revenues reflect Loan notes interest income increase from L207K to L929K. Higher net loss reflects Net Loss - Fin. Instruments Fair Value increase from L3.1M to L7.6M (expense), With holding tax increase from L15K to L40K (expense), Directors' fees and expenses increase of 10% to L57K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-09T10:14:30">
+		<streetAddress line="1">Lime Grove House</streetAddress>
+		<streetAddress line="2">Green Street</streetAddress>
+		<streetAddress line="3">c/o State Street Global Services (Jersy)</streetAddress>
+		<city>SAINT HELIER</city>
+		<state-region></state-region>
+		<postalCode>JE1 2ST</postalCode>
+		<country code="JEY">Jersey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1534</city-areacode>
+				<number>609000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1534</city-areacode>
+				<number>609333</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-16T12:39:12"><webSite mainCategory="Home Page">http://www.ludgateenvironmental.com</webSite><eMail mainCategory="Company Contact/E-mail">info@ludgate.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-09T10:14:30">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.34500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.36444</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.32070</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00000</Ratio>
+			<Ratio FieldName="EV" Type="N">17.53632</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">18.40429</Ratio>
+			<Ratio FieldName="AREV" Type="N">1.58720</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.97423</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.18635</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.05973</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.02975</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.60572</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01627</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-9.39759</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.59545</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.56957</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

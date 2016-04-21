@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3277</CoID>
+		<CoID Type="CompanyName">Ricardo plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RCDO</IssueID>
+			<IssueID Type="CUSIP">G75528110</IssueID>
+			<IssueID Type="ISIN">GB0007370074</IssueID>
+			<IssueID Type="RIC">RCDO.L</IssueID>
+			<IssueID Type="SEDOL">0737007</IssueID>
+			<IssueID Type="DisplayRIC">RCDO.L</IssueID>
+			<IssueID Type="InstrumentPI">262430</IssueID>
+			<IssueID Type="QuotePI">1079408</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">10% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="CUSIP">G75528151</IssueID>
+			<IssueID Type="ISIN">GB0007369852</IssueID>
+			<IssueID Type="InstrumentPI">106527241</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-28</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">2132</Employees>
+		<SharesOut Date="2015-11-30" TotalFloat="51103130.0">52854823.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-04T11:08:48">Ricardo plc is a United kingdom-based company engaged in engineering and strategic, technical and environmental consultancy business. The Company's operating segments include Technical Consulting and Performance Products. The Technical Consulting segment provides services in relation to the development and implementation of engineering and environmental projects and in relation to management and operational consultancy. The Performance Products segment generates income from manufacturing, assembly, software sales and related services. Its physical products include transmissions, engines and components, as well as the provision of vehicle assembly. Its specialist areas are transport and security, energy, and scarce resources and waste. Its customers include transportation original equipment manufacturers and operators, supply chain organizations, energy companies, financial institutions and government agencies. The Company operates in the United Kingdom, Germany and the United States.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-28T05:33:18">BRIEF: For the fiscal year ended 30 June 2015, Ricardo plc revenues increased 9% to L257.5M. Net income decreased 3% to L18.6M. Revenues reflect Technical Consulting segment increase of 9% to L196.6M, Perfromance Products segment increase of 10% to L60.9M, United Kingdom segment increase of 24% to L120.8M, China segment increase of 43% to L20M, Rest of the World segment increase from L1.1M to L3.6M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-02T03:08:18">
+		<streetAddress line="1">Shoreham Technical Centre/</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SHOREHAM BY SEA</city>
+		<state-region></state-region>
+		<postalCode>BN43 5FG</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1273</city-areacode>
+				<number>455611</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1273</city-areacode>
+				<number>464124</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-21T14:17:31"><webSite mainCategory="Home Page">http://www.ricardo.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-02T03:08:18">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304013" mnem="">Management Consulting Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54199" mnem="">All Other Professional, Scientific and Technical Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="54133" mnem="">Engineering Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7389" mnem="">Business Services, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8711" mnem="">Engineering Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/17/2005">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Shemmans</lastName>
+			<age>48 </age>
+			<title startYear="2005" startMonth="11" startDay="04" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/15/2013">
+			<firstName>Ian</firstName>
+			<mI></mI>
+			<lastName>Gibson</lastName>
+			<age>54 </age>
+			<title startYear="2013" startMonth="07" startDay="01" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="07/01/2008">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Garrett</lastName>
+			<age>51 </age>
+			<title startYear="2010" startMonth="07" startDay="01" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Patricia</firstName>
+			<mI></mI>
+			<lastName>Ryan</lastName>
+			<age>47 </age>
+			<title startYear="2008" startMonth="11" startDay="18" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">Group General Counsel, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.21500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">9.67500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">7.11000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.05899</Ratio>
+			<Ratio FieldName="EV" Type="N">419.90240</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">434.20240</Ratio>
+			<Ratio FieldName="AREV" Type="N">257.50000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">38.30000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">18.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.35161</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.86767</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.21302</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.13894</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.55009</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16600</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">39.53398</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.63685</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.68622</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">23.36395</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.71212</Ratio>
+			<Ratio FieldName="Employees" Type="N">2132</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">9.23000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.36529</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">311.05300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.47307</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">33.60100</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.17819</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

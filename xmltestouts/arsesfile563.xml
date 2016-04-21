@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC8CE</CoID>
+		<CoID Type="CompanyName">Victoria Oil &amp; Gas plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VOG</IssueID>
+			<IssueID Type="CUSIP">G933BF117</IssueID>
+			<IssueID Type="ISIN">GB00BRWR3752</IssueID>
+			<IssueID Type="RIC">VOG.L</IssueID>
+			<IssueID Type="SEDOL">BRWR375</IssueID>
+			<IssueID Type="DisplayRIC">VOG.L</IssueID>
+			<IssueID Type="InstrumentPI">17612205</IssueID>
+			<IssueID Type="QuotePI">17612203</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2014-11-27">0.025</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">208891953</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-18</LastModified>
+		<LatestAvailableAnnual>2015-05-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-05-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-05-31">170</Employees>
+		<SharesOut Date="2015-11-20" TotalFloat="103040796.0">218209071.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-25T22:08:04">Victoria Oil &amp; Gas Plc, based in the United Kingdom, is an energy utility and hydrocarbon developer with flagship assets in Cameroon. It is engaged in the provision of oil and gas services. The Company operates the Logbaba project in Cameroon and the West Medvezhye project in Siberia. The West Med block, which covers 1,224 square kilometers, is located in North-Western Siberia. Its activities are conducted through its investments and subsidiaries operating in the oil and gas industry in Russia, Cameroon and Kazakhstan. The Company supplies energy products to major industries in the Cameroon region from gas production wells located in the port-city of Douala through its subsidiary Gaz du Cameroun S. A. The Company primarily supplies industrial customers such as Guinness, Dangote Cement, SATC and CAMLAIT.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-18T05:49:17">BRIEF: For the fiscal year ended 31 May 2015, Victoria Oil &amp; Gas plc revenues increased 90% to $27.9M. Net loss increased from $1.7M to $50.8M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Republic of Cameroon segment income decrease of 10% to $5.1M. Basic Earnings per Share excluding Extraordinary Items decreased from -$0.02 to -$0.48.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T05:49:18">
+		<streetAddress line="1">Hatfield House, 52-54 Stamford Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SE1 9LX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79218820</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79218821</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2010-11-23T07:08:03"><webSite mainCategory="Home Page">http://www.victoriaoilandgas.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@victoriaoilandgas.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T05:49:18">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="213112" mnem="">Support Activities for Oil and Gas Operations</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1389" mnem="">Oil And Gas Field Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Kevin</firstName>
+			<mI>A.</mI>
+			<lastName>Foo</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Grant</firstName>
+			<mI></mI>
+			<lastName>Manheim</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="VCH" abbr1="Vice Chmn." iD2="DRC" abbr2="Dir.">Executive Deputy Chairman of the Board</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Palmer</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Leena</firstName>
+			<mI></mI>
+			<lastName>Nagrecha</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-05-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.53000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.89050</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.23112</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.63119</Ratio>
+			<Ratio FieldName="EV" Type="N">54.43270</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">58.03249</Ratio>
+			<Ratio FieldName="AREV" Type="N">19.74191</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">4.63314</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-35.91160</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.34125</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.18760</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.40173</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05189</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.27891</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">32.57313</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-33.33016</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.93956</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.31929</Ratio>
+			<Ratio FieldName="Employees" Type="N">170</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="5" CurInterimEndCalYear="2015" CurInterimEndMonth="11" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

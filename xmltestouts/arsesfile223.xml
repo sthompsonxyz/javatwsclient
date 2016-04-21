@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2F7B</CoID>
+		<CoID Type="CompanyName">Fuller, Smith &amp; Turner plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">FSTA</IssueID>
+			<IssueID Type="CUSIP">G36904160</IssueID>
+			<IssueID Type="ISIN">GB00B1YPC344</IssueID>
+			<IssueID Type="RIC">FSTA.L</IssueID>
+			<IssueID Type="SEDOL">B1YPC34</IssueID>
+			<IssueID Type="DisplayRIC">FSTA.L</IssueID>
+			<IssueID Type="InstrumentPI">261234</IssueID>
+			<IssueID Type="QuotePI">1080732</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2007-08-06">2.5</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="ISIN">GB0003552501</IssueID>
+			<IssueID Type="InstrumentPI">124982952</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="6" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">124982953</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="Ticker">53GW</IssueID>
+			<IssueID Type="CUSIP">G36904111</IssueID>
+			<IssueID Type="ISIN">GB0003551420</IssueID>
+			<IssueID Type="RIC">53GW_p.L</IssueID>
+			<IssueID Type="SEDOL">0355142</IssueID>
+			<IssueID Type="DisplayRIC">53GW_p.L</IssueID>
+			<IssueID Type="InstrumentPI">291564</IssueID>
+			<IssueID Type="QuotePI">1008913</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="5" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">8% Preferred Shares</IssueID>
+			<IssueID Type="Ticker">54GW</IssueID>
+			<IssueID Type="CUSIP">G36904129</IssueID>
+			<IssueID Type="ISIN">GB0003551537</IssueID>
+			<IssueID Type="RIC">54GW_p.L</IssueID>
+			<IssueID Type="SEDOL">0355153</IssueID>
+			<IssueID Type="DisplayRIC">54GW_p.L</IssueID>
+			<IssueID Type="InstrumentPI">291567</IssueID>
+			<IssueID Type="QuotePI">1008916</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-29</LastModified>
+		<LatestAvailableAnnual>2015-03-28</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-26</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-28">4058</Employees>
+		<SharesOut Date="2016-02-16" TotalFloat="26038937.0">55897096.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:08:23">Fuller Smith &amp; Turner P.L.C. is a brewer and pub company. The Company operates pubs and hotels, and offers beers. Its brands include the ESB and London Pride. The Company has an estate of around 391 pubs and hotels, split between managed and tenanted houses, located primarily in London and the South of England. The Company's operating segments include Managed Pubs and Hotels, Tenanted Inns and The Fuller's Beer Company. The Managed Pubs and Hotels segment comprises managed pubs and managed hotels. The Tenanted Inns segment comprises pubs operated by third parties under tenancy or lease agreements. The Fuller's Beer Company segment comprises the brewing and distribution of beer, wines and spirits. It offers pubs featuring foods, drinks, event bookings and rugby pubs. Its hotels offer accommodations, venues for special events, such as weddings and bedrooms. Its estate comprises around 188 managed pubs and hotels and 203 tenanted inns, as well as pubs, clubs and supermarkets.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-29T00:25:53">BRIEF: For the 26 weeks ended 26 September 2015, Fuller, Smith &amp; Turner plc revenues increased 10% to L177.7M. Net income increased 17% to L16.5M. Revenues reflect Managed Pubs and Hotels segment increase of 15% to L121.9M, Beer Company segment increase of 1% to L39.7M, Tenanted Inns segment increase of 1% to L16.1M. Net income benefited from Managed Pubs and Hotels segment income increase of 19% to L17M, Unallocated segment loss decrease of 24% to L2.8M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-29T00:25:57">
+		<streetAddress line="1">The Griffin Brewery, Chiswick Lane South</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W4 2QB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>89962000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>89962000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-11T12:57:59"><webSite mainCategory="Home Page">http://www.fullers.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">Justine.warren@instinctif.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-29T00:25:57">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330102010" mnem="">Restaurants &amp; Bars - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="72211" mnem="">Full-Service Restaurants</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="72111" mnem="">Hotels (except Casino Hotels) and Motels</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="72241" mnem="">Drinking Places (Alcoholic Beverages)</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="31212" mnem="">Breweries</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="42282" mnem="">Wine and Distilled Alcoholic Beverage Wholesalers</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="42281" mnem="">Beer and Ale Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5812" mnem="">Eating Places</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7011" mnem="">Hotels And Motels</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5813" mnem="">Drinking Places</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2082" mnem="">Malt Beverages</Industry>
+			<Industry type="SIC" order="5" reported="0" code="5182" mnem="">Wine And Distilled Beverages</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5181" mnem="">Beer And Ale</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1982">
+			<firstName>Anthony</firstName>
+			<mI></mI>
+			<lastName>Fuller</lastName>
+			<age>75 </age>
+			<title startYear="2010" startMonth="07" startDay="23" iD1="PRE" abbr1="Pres." iD2="" abbr2="">President</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>Emeny</lastName>
+			<age>49 </age>
+			<title startYear="2013" startMonth="07" startDay="01" iD1="CEO" abbr1="CEO" iD2="MDR" abbr2="Mgng.Dir.">Chief Executive, Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Douglas</lastName>
+			<age>49 </age>
+			<title startYear="2008" startMonth="01" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="12/08/2009">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Fuller</lastName>
+			<age>54 </age>
+			<title startYear="2009" startMonth="12" startDay="08" iD1="EDR" abbr1="Exec. Dir." iD2="DSL" abbr2="Dir.-Sales">Sales and Personnel Director, Executive Director</title>
+		</officer>
+		<officer rank="5" since="12/12/2011">
+			<firstName>Ian</firstName>
+			<mI>David</mI>
+			<lastName>Bray</lastName>
+			<age>51 </age>
+			<title startYear="2011" startMonth="12" startDay="12" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Managing Director of The Fuller's Beer Company; Executive Director</title>
+		</officer>
+		<officer rank="6" since="02/01/2012">
+			<firstName>Jonathon</firstName>
+			<mI></mI>
+			<lastName>Swaine</lastName>
+			<age>43 </age>
+			<title startYear="2012" startMonth="02" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Managing Director of Fuller's Inns; Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-28">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">10.82500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.50000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">9.50000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02066</Ratio>
+			<Ratio FieldName="EV" Type="N">513.65360</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">351.05360</Ratio>
+			<Ratio FieldName="AREV" Type="N">321.50000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">58.70000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">28.40000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.50422</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.70794</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.10475</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.09141</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.79361</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16600</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">67.12286</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">10.10676</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.09192</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.46880</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.12057</Ratio>
+			<Ratio FieldName="Employees" Type="N">4058</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">12.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">19.73564</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">349.10000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.54850</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">39.75000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.16950</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

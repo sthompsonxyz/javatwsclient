@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EE3ED</CoID>
+		<CoID Type="CompanyName">Xeros Technology Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">XSG</IssueID>
+			<IssueID Type="CUSIP">G9828V105</IssueID>
+			<IssueID Type="ISIN">GB00BJFLLV84</IssueID>
+			<IssueID Type="RIC">XSG.L</IssueID>
+			<IssueID Type="SEDOL">BJFLLV8</IssueID>
+			<IssueID Type="DisplayRIC">XSG.L</IssueID>
+			<IssueID Type="InstrumentPI">153524388</IssueID>
+			<IssueID Type="QuotePI">153646075</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-02</LastModified>
+		<LatestAvailableAnnual>2015-07-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-07-31">65</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="60215458.0">85063650.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2014-04-27T22:52:02">Xeros Technology Group PLC is a holding company. The Company, through its subsidiaries, is engaged in the research, development and commercialization of polymer bead cleaning alternatives to traditional aqueous based cleaning. The Companys polymer bead cleaning system reduces the carbon footprint of the entire laundry process. In addition to the commercial laundry market, the Companys polymer bead technology has a range of applications in other industries, including domestic laundry, leather processing, garment finishing, and metal cleaning. The Company is in various stages of development and preparation for commercialization of other identified applications. The Company has two wholly owned subsidiaries: Xeros Limited and Xeros Inc.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-02T12:28:57">BRIEF: For the fiscal year ended 31 July 2015, Xeros Technology Group PLC revenues increased 49% to L466K. Net loss increased 60% to L10.2M. Revenues reflect North America segment increase of 47% to L378K, Europe segment increase of 60% to L88K. Higher net loss reflects Staff Costs, Recruitment &amp; Other HR in A increase of 71% to L4.6M (expense), Administrative Expenses Balancing Value increase of 73% to L3.2M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-12T01:19:33">
+		<streetAddress line="1">Unit 14 Evolution</streetAddress>
+		<streetAddress line="2">Advanced Manufacturing Park, Whittle Way</streetAddress>
+		<streetAddress line="3">Catcliffe</streetAddress>
+		<city>ROTHERHAM</city>
+		<state-region></state-region>
+		<postalCode>S60 5BL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>114</city-areacode>
+				<number>2699656</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-27T22:58:24"><webSite mainCategory="Home Page">http://www.xeroscleaning.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@xeroscleaning.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-12T01:19:33">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5420101011" mnem="">Laundry Supplies</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="81232" mnem="">Drycleaning and Laundry Services (except Coin-Operated)</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="325611" mnem="">Soap and Other Detergent  Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7219" mnem="">Laundry And Garment Services, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2841" mnem="">Soap And Other Detergents</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="09/14/2015">
+			<firstName>Mark</firstName>
+			<mI>James</mI>
+			<lastName>Nichols</lastName>
+			<age>58 </age>
+			<title startYear="2015" startMonth="09" startDay="14" iD1="CEO" abbr1="CEO" iD2="" abbr2="">Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="03/06/2014">
+			<firstName>David</firstName>
+			<mI>Christopher</mI>
+			<lastName>Hanson</lastName>
+			<age>55 </age>
+			<title startYear="2014" startMonth="03" startDay="06" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director, Company Secretary</title>
+		</officer>
+		<officer rank="3" since="03/17/2014">
+			<firstName>Stephen</firstName>
+			<mI>Derek</mI>
+			<lastName>Jenkins</lastName>
+			<age>51 </age>
+			<title startYear="2016" startMonth="01" startDay="11" iD1="CSO" abbr1="CSO" iD2="" abbr2="">Chief Science Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-07-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.55000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.75000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.47000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03574</Ratio>
+			<Ratio FieldName="EV" Type="N">114.39670</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">131.84870</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.46600</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-10.78400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-10.20500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.15619</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00713</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.32472</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.26642</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.15501</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">14.37768</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-39.42514</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">282.93700</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.77329</Ratio>
+			<Ratio FieldName="Employees" Type="N">65</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="7" CurInterimEndCalYear="2015" CurInterimEndMonth="10" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.70000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

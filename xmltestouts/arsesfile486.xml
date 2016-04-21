@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A33E6</CoID>
+		<CoID Type="CompanyName">SIG plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SHI</IssueID>
+			<IssueID Type="CUSIP">G80797106</IssueID>
+			<IssueID Type="ISIN">GB0008025412</IssueID>
+			<IssueID Type="RIC">SHI.L</IssueID>
+			<IssueID Type="SEDOL">0802541</IssueID>
+			<IssueID Type="DisplayRIC">SHI.L</IssueID>
+			<IssueID Type="InstrumentPI">262635</IssueID>
+			<IssueID Type="QuotePI">1080901</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-03-18">1.21154</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-28</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">9454</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="563861789.0">591347148.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">2625</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:50:44">SIG Plc is a United Kingdom-based distributor of specialist building products in Europe. The Company is engaged in is the supply of specialist products to construction and related markets. The Company product and service offering's three core markets include insulation and energy management, interior fit out and roofing products. The Company operates in two segments: UK &amp; Ireland and Mainland Europe. The Company trades under various names, including SIG Insulation, SIG Technical Insulation, SIG Interiors, SIG Construction Accessories and SIG Fixings. It supplies insulation and related products in Europe, the United Kingdom, Ireland, Germany, Poland and France. It supplies exterior roofing products in the United Kingdom and Ireland, France and Poland. It supplies products required for the interior fit out of non-residential buildings in Europe.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-28T05:54:37">BRIEF: For the six months ended 30 June 2015, SIG plc revenues decreased 3% to L1.24B. Net income remained flat at L18.3M. Revenues reflect Mainland Europe segment decrease of 13% to L570M, France segment decrease of 13% to L261.7M, Germany/Austria segment decrease of 13% to L178.7M,  Attributable to Business divested segment decrease from L21.6M to L0K. Net income reflects Uk &amp; Ireland segment income totaling L19.8M vs. loss of L3.5M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-28T05:54:42">
+		<streetAddress line="1">Signet House, 17 Europa View</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SHEFFIELD</city>
+		<state-region></state-region>
+		<postalCode>S9 1XH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Simon Bielecki</contactName>
+		<contactTitle>Head - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>114</city-areacode>
+				<number>2856300</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>114</city-areacode>
+				<number>2856385</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0</city-areacode>
+				<number>1142856300</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-28T02:18:22"><webSite mainCategory="Home Page">http://www.sigplc.com/Home.htm</webSite><eMail mainCategory="Company Contact/E-mail">simonbielecki@sigplc.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-28T05:54:42">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5320302020" mnem="">Construction Supplies &amp; Fixtures Wholesale</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="44419" mnem="">Other Building Material Dealers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42139" mnem="">Other Construction Material Wholesalers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23542" mnem="">Drywall, Plastering, Acoustical and Insulation Contractors</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="42133" mnem="">Roofing, Siding and Insulation Material Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5039" mnem="">Construction Materials, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1742" mnem="">Plastering/drywall/insulation</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5033" mnem="">Roofing, Siding &amp; Insulation</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Norman</firstName>
+			<mI></mI>
+			<lastName>Adsetts</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="PRE" abbr1="Pres." iD2="" abbr2="">President</title>
+		</officer>
+		<officer rank="2" since="12/01/2012">
+			<firstName>Stuart</firstName>
+			<mI>R.</mI>
+			<lastName>Mitchell</lastName>
+			<age>54 </age>
+			<title startYear="2013" startMonth="03" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/01/2011">
+			<firstName>Douglas</firstName>
+			<mI>G.</mI>
+			<lastName>Robertson</lastName>
+			<age>61 </age>
+			<title startYear="2011" startMonth="12" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Monro</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.29600</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.12200</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.17000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">2.43095</Ratio>
+			<Ratio FieldName="EV" Type="N">927.58590</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">766.38590</Ratio>
+			<Ratio FieldName="AREV" Type="N">2602.90000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">134.20000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">33.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.05582</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.40265</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.12275</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.18811</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.13210</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">26.91613</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.86654</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.29444</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">23.21748</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.15431</Ratio>
+			<Ratio FieldName="Employees" Type="N">9454</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5714</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.53769</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">7.8000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.15988</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2526.75170</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.10658</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">84.89670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04494</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

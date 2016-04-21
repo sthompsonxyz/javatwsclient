@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A321D</CoID>
+		<CoID Type="CompanyName">Bioquell plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BQE</IssueID>
+			<IssueID Type="CUSIP">G1121T101</IssueID>
+			<IssueID Type="ISIN">GB0004992003</IssueID>
+			<IssueID Type="RIC">BIOQ.L</IssueID>
+			<IssueID Type="SEDOL">0499200</IssueID>
+			<IssueID Type="DisplayRIC">BIOQ.L</IssueID>
+			<IssueID Type="InstrumentPI">261736</IssueID>
+			<IssueID Type="QuotePI">1082385</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2002-04-19">1.00199</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="Ticker">58HG</IssueID>
+			<IssueID Type="CUSIP">G1121T119</IssueID>
+			<IssueID Type="ISIN">GB0004992441</IssueID>
+			<IssueID Type="RIC">58HG_p.L^F12</IssueID>
+			<IssueID Type="SEDOL">0499244</IssueID>
+			<IssueID Type="DisplayRIC">GB0499244.L</IssueID>
+			<IssueID Type="InstrumentPI">292065</IssueID>
+			<IssueID Type="QuotePI">1008939</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-07</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">444</Employees>
+		<SharesOut Date="2016-02-11" TotalFloat="17805912.0">42671082.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:50:16">Bioquell Plc is a United Kingdom-based company engaged in the design, manufacture and supply of bio-decontamination and containment equipment, related products and services to the pharmaceutical, healthcare, food and defense industries, and testing services to the aerospace, telecoms, defense and other industries. The Company operates in two divisions: Bio-decontamination (BIO) and Testing, Regulatory and Compliance (TRaC). BIO division offers specialist hydrogen peroxide vapor bio-decontamination equipment and services for the life sciences, healthcare and defense sectors, and chemical, biological, radiological and nuclear (CBRN) filtration systems for the defense sector. The BIO division also provides after sales customer service and support for laboratory filtration and containment equipment under the name Microflow and Astec. The TRaC division offers testing, regulatory and compliance services.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-07T01:06:32">BRIEF: For the six months ended 30 June 2015, Bioquell plc revenues increased 2% to L12.5M. Net income before extraordinary items totaled L66K vs. loss of L1.4M. Revenues reflect Rest of World segment increase of 20% to L6.6M. Net Income reflects Research &amp; Development Exp decrease of 45% to L706K (expense), Sales and marketing costs decrease of 13% to L2.8M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-07T01:06:34">
+		<streetAddress line="1">West Portway, 52 Royce Close</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ANDOVER</city>
+		<state-region></state-region>
+		<postalCode>SP10 3TS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1264</city-areacode>
+				<number>835900</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1264</city-areacode>
+				<number>835901</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-08T09:52:41"><webSite mainCategory="Home Page">http://www.bioquellplc.com</webSite><eMail mainCategory="Company Contact/E-mail">info@bioquell.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-07T01:06:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5610102010" mnem="">Medical Equipment, Supplies &amp; Distribution - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="333319" mnem="">Other Commercial and Service Industry Machinery Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3589" mnem="">Service Industry MacHinery, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/1998">
+			<firstName>Nicholas</firstName>
+			<mI>M. T.</mI>
+			<lastName>Adams</lastName>
+			<age></age>
+			<title startYear="1998" startMonth="05" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/19/2014">
+			<firstName>Michael</firstName>
+			<mI>R. D.</mI>
+			<lastName>Roller</lastName>
+			<age>49 </age>
+			<title startYear="2014" startMonth="03" startDay="19" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Georgina</firstName>
+			<mI></mI>
+			<lastName>Pope</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.57500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.65000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.81000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.05108</Ratio>
+			<Ratio FieldName="EV" Type="N">66.12795</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">67.20695</Ratio>
+			<Ratio FieldName="AREV" Type="N">27.26600</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">3.45000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.78000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.08920</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.64345</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.73015</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06677</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.01137</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03300</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">41.79564</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-11.75446</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.46486</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.15710</Ratio>
+			<Ratio FieldName="Employees" Type="N">444</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

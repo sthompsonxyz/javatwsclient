@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3140</CoID>
+		<CoID Type="CompanyName">Synthomer PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">SYNT</IssueID>
+			<IssueID Type="CUSIP">G8650C102</IssueID>
+			<IssueID Type="ISIN">GB0009887422</IssueID>
+			<IssueID Type="RIC">SYNTS.L</IssueID>
+			<IssueID Type="SEDOL">0988742</IssueID>
+			<IssueID Type="DisplayRIC">SYNTS.L</IssueID>
+			<IssueID Type="InstrumentPI">263233</IssueID>
+			<IssueID Type="QuotePI">1079642</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2010-12-31">1.55331</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">122303242</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-29</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">2138</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="261649631.0">339880769.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:11:16">Synthomer Plc is a United Kingdom-based specialty chemical Company. The Company is a producer of aqueous polymers. Its products include Synthetic latex, which consists of three principal product families, such as Styrene Butadiene Rubber (SBR), Nitrile Butadiene Rubber (NBR) and High Solids Styrene Butadiene Rubber; Dispersions (HSSBR), which consists of primarily Vinyl and Acrylic-based emulsion polymers used in a range of applications, including in the coating, construction, adhesives and textile industries; Compounds, which includes products that are formulated using SBR latex, HSSBR latex, Natural Rubber latex and a range of other functional materials, and Specialties, which consist of a number of specialty polymers, mainly non-aqueous, including Polyvinyl Alcohol, Liquid Polybutadiene, HSSBR latex and Chloroprene. It caters to markets, such as Health and Protection, Paper, Construction and Coatings, Carpet Compounds and Foam, Functional Polymers and Performance Polymers.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-29T11:32:49">BRIEF: For the six months ended 30 June 2015, Synthomer PLC revenues decreased 8% to L468.7M. Net income increased 23% to L29.2M. Revenues reflect Europe &amp; North America segment decrease of 15% to L307M. Net income reflects Asia &amp; Rest of World segment income increase from L4.5M to L16.1M. Dividend per share remained flat at L0.03. Basic Earnings per Share excluding Extraordinary Items increased from L0.07 to L0.09.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-29T11:32:54">
+		<streetAddress line="1">Templefields, Central Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HARLOW</city>
+		<state-region></state-region>
+		<postalCode>CM20 2BH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1279</city-areacode>
+				<number>436211</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1279</city-areacode>
+				<number>444025</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-13T00:55:30"><webSite mainCategory="Home Page">http://www.synthomer.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-29T11:32:54">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5110103010" mnem="">Specialty Chemicals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="325211" mnem="">Plastics Material and Resin Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="325199" mnem="">All Other Basic Organic Chemical Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="325131" mnem="">Inorganic Dye and Pigment Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="325132" mnem="">Organic Dye and Pigment  Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="32551" mnem="">Paint and Coating Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="325212" mnem="">Synthetic Rubber Manufacturing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="32552" mnem="">Adhesive Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2821" mnem="">Plastics Materials And Resins</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2869" mnem="">Industrial Organic Chemicals, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2819" mnem="">Indust'L Inorganic Chemicals, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2865" mnem="">Cyclic Crudes And Intermediates</Industry>
+			<Industry type="SIC" order="5" reported="0" code="2851" mnem="">Paints And Allied Products</Industry>
+			<Industry type="SIC" order="6" reported="0" code="2822" mnem="">Synthetic Rubber</Industry>
+			<Industry type="SIC" order="7" reported="0" code="2891" mnem="">Adhesives And Sealants</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/22/2015">
+			<firstName>Calum</firstName>
+			<mI></mI>
+			<lastName>MacLean</lastName>
+			<age>51 </age>
+			<title startYear="2015" startMonth="01" startDay="22" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="05/01/2015">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Bennett</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="05" startDay="01" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Atkinson</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.88500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.64100</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.54298</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.28697</Ratio>
+			<Ratio FieldName="EV" Type="N">1094.65600</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">980.55600</Ratio>
+			<Ratio FieldName="AREV" Type="N">990.50000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">112.70000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">45.30000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.13227</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.89207</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.78351</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07326</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.27329</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.07800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">22.01918</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.27155</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.98996</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.81145</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.68215</Ratio>
+			<Ratio FieldName="Employees" Type="N">2138</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.1333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.31400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">4.5455</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.40613</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">900.13920</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.21520</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">93.17390</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.09745</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

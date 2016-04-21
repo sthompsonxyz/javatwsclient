@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2F01</CoID>
+		<CoID Type="CompanyName">Royal Bank of Scotland Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RBS</IssueID>
+			<IssueID Type="CUSIP">G7S86Z172</IssueID>
+			<IssueID Type="ISIN">GB00B7T77214</IssueID>
+			<IssueID Type="RIC">RBS.L</IssueID>
+			<IssueID Type="SEDOL">B7T7721</IssueID>
+			<IssueID Type="DisplayRIC">RBS.L</IssueID>
+			<IssueID Type="InstrumentPI">262468</IssueID>
+			<IssueID Type="QuotePI">10205915</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2012-06-06">0.1</MostRecentSplit>
+		</Issue>
+		<Issue ID="5" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">103585779</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">NonCum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">107504194</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">11% Cum. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">6609345</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="P" Desc="Preferred Stock" Order="3">
+			<IssueID Type="Name">5.5% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">34788907</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-16</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">92400</Employees>
+		<SharesOut Date="2015-10-14" TotalFloat="3185285052.0">11573866648.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">206341</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-03T03:46:49">The Royal Bank of Scotland Group plc (RBS) provides financial products and services to personal, commercial, corporate and institutional customers. The Company conducts its business through three franchises and seven operating segments. The Company's Personal &amp; Business Banking (PBB) franchise consists of two segments: UK Personal &amp; Business Banking (UK PBB), including Williams &amp; Glyn, and Ulster Bank. The Commercial &amp; Private Banking (CPB) franchise consists of two segments, Commercial Banking and Private Banking. The Company's other segments are Corporate &amp; Institutional Banking (CIB), Central Functions and RBS Capital Resolution (RCR). RBS operates in the United Kingdom, the United States and internationally through its principal subsidiaries, The Royal Bank of Scotland plc (the Royal Bank) and National Westminster Bank Plc (NatWest). Both the Royal Bank and NatWest are clearing banks in the United Kingdom.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-16T07:09:40">BRIEF: For the nine months ended 30 September 2015, Royal Bank of Scotland Group plc interest income decreased 13% to L9.07B. Net interest income after loan loss provision decreased 12% to L7.01B.  Net loss applicable to common stockholders excluding extraordinary items totaled L652M vs. income of L2B. Net interest income after loan loss provision reflects Ulster Bank segment decrease of 63% to L236M, Net Interest Spread.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T07:09:58">
+		<streetAddress line="1">Gogarburn,</streetAddress>
+		<streetAddress line="2">PO Box 1000</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH12 1HQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>5568555</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>5576140</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-01-22T00:10:13"><webSite mainCategory="Home Page">http://www.rbs.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T07:09:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510101010" mnem="">Banks - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52211" mnem="">Commercial Banking</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52311" mnem="">Investment Banking and Securities Dealing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="524126" mnem="">Direct Property and Casualty Insurance Carriers</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="52221" mnem="">Credit Card Issuing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="551111" mnem="">Offices of  Bank Holding Companies</Industry>
+			<Industry type="SIC" order="0" reported="1" code="6029" mnem="">Commercial Banks, Nec</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6029" mnem="">Commercial Banks, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6211" mnem="">Security Brokers And Dealers</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6331" mnem="">Fire/marine/casualty Insurance</Industry>
+			<Industry type="SIC" order="5" reported="0" code="6153" mnem="">Short-Term Business Credit</Industry>
+			<Industry type="SIC" order="6" reported="0" code="6712" mnem="">Bank Holding Companies</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/19/2009">
+			<firstName>Philip</firstName>
+			<mI></mI>
+			<lastName>Hampton</lastName>
+			<age>61 </age>
+			<title startYear="2009" startMonth="02" startDay="03" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="09/2012">
+			<firstName>Ross</firstName>
+			<mI>Maxwell</mI>
+			<lastName>McEwan</lastName>
+			<age>57 </age>
+			<title startYear="2013" startMonth="10" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="3" since="05/19/2014">
+			<firstName>Ewen</firstName>
+			<mI></mI>
+			<lastName>Stevenson</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="05" startDay="19" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="04/30/2015">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Bailie</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="30" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Co-Chief Executive Officer - Corporate &amp; Institutional Banking</title>
+		</officer>
+		<officer rank="5" since="04/30/2015">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Marks</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="30" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Co-Chief Executive Officer - Corporate &amp; Institutional Banking</title>
+		</officer>
+		<officer rank="6" since="02/11/2014">
+			<firstName>Les</firstName>
+			<mI></mI>
+			<lastName>Matheson</lastName>
+			<age>56 </age>
+			<title startYear="2015" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - Personal &amp; Business Banking</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Alison</firstName>
+			<mI></mI>
+			<lastName>Rose</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - Commercial &amp; Private Banking</title>
+		</officer>
+		<officer rank="8" since="10/01/2009">
+			<firstName>Bruce</firstName>
+			<mI>W.</mI>
+			<lastName>Van Saun</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chairman and Chief Executive Officer - Citizens Financial Group, Inc.</title>
+		</officer>
+		<officer rank="9" since="09/2013">
+			<firstName>Simon</firstName>
+			<mI></mI>
+			<lastName>McNamara</lastName>
+			<age>55 </age>
+			<title startYear="2013" startMonth="09" startDay="" iD1="CAD" abbr1="Chief Admin." iD2="" abbr2="">Group Chief Administrative Officer</title>
+		</officer>
+		<officer rank="10" since="02/25/2010">
+			<firstName>Aileen</firstName>
+			<mI></mI>
+			<lastName>Taylor</lastName>
+			<age>42 </age>
+			<title startYear="2010" startMonth="05" startDay="01" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">Chief Governance Officer and Board Counsel and Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.36000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.14000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.20900</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">16.43504</Ratio>
+			<Ratio FieldName="EV" Type="N">87917.13000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">27435.13000</Ratio>
+			<Ratio FieldName="AREV" Type="N">13079.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">9703.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-25.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00220</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.42268</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.99272</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">6.52997</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.10074</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-0.04311</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.69814</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.47269</Ratio>
+			<Ratio FieldName="Employees" Type="N">92400</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.64</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.27864</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-6.6000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">9.09897</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">13823.38280</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">3125.14780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.25937</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.00565</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1810.79590</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

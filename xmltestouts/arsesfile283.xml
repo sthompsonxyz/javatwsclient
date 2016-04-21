@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A323F</CoID>
+		<CoID Type="CompanyName">IndigoVision Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">IND</IssueID>
+			<IssueID Type="CUSIP">G4761B117</IssueID>
+			<IssueID Type="ISIN">GB0032654534</IssueID>
+			<IssueID Type="RIC">ID2A.L</IssueID>
+			<IssueID Type="SEDOL">3265453</IssueID>
+			<IssueID Type="DisplayRIC">ID2A.L</IssueID>
+			<IssueID Type="InstrumentPI">463468</IssueID>
+			<IssueID Type="QuotePI">1308561</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2003-05-22">0.66666</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">44371735</IssueID>
+			<IssueID Type="QuotePI">1358509</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">122</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="4044619.0">7604756.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:03:37">IndigoVision Group plc is a United Kingdom-based company engaged in the design, development, manufacture and sale of networked video security systems. The Company's segments include Europe, the Middle East and Africa; North America, Latin America and Asia Pacific. Its cameras, encoders, network video recorders and software are designed both internally and with technology partners and manufactured in Asia and Europe. The Company's end to end Internet protocol (IP) video security systems allow full motion video to be transmitted around the world, in real time, with digital quality and security, over local or other area networks, wireless links or the Internet, using market compression technology to minimize the usage of network bandwidth.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-01T10:04:45">BRIEF: For the six months ended 30 June 2015, IndigoVision Group plc revenues totaled $22.6M. Net loss totaled to $920K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-01T10:04:51">
+		<streetAddress line="1">CHARLES DARWIN HOUSE</streetAddress>
+		<streetAddress line="2">The Edinburgh Technopole</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH26 0PY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Holly McComb</contactName>
+		<contactTitle>Chief Financial Officer, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>4757200</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>4757201</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0131</city-areacode>
+				<number>4757200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2010-10-27T07:33:26"><webSite mainCategory="Home Page">http://www.indigovision.com/</webSite><eMail mainCategory="Company Contact/E-mail">IR@indigovision.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-01T10:04:51">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5710201012" mnem="">Security &amp; Surveillance</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="33429" mnem="">Other Communications Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="334111" mnem="">Electronic Computer Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="334119" mnem="">Other Computer Peripheral Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="333315" mnem="">Photographic and Photocopying Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="33251" mnem="">Hardware Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="541519" mnem="">Other Computer Related Services</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3669" mnem="">Communications Equipment, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3571" mnem="">Electronic Computers</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3577" mnem="">Computer Periph'L Equipment, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="3861" mnem="">Photographic Equipment Supplies</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3429" mnem="">Hardware, Nec</Industry>
+			<Industry type="SIC" order="6" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="7" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="8" reported="0" code="7379" mnem="">Computer Related Services, Nec</Industry>
+			<Industry type="SIC" order="9" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/01/2003">
+			<firstName>Marcus</firstName>
+			<mI></mI>
+			<lastName>Kneen</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="12" startDay="09" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="2010">
+			<firstName>Holly</firstName>
+			<mI></mI>
+			<lastName>McComb</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="12" startDay="09" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.67500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.70000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.60000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00268</Ratio>
+			<Ratio FieldName="EV" Type="N">10.92924</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">12.73797</Ratio>
+			<Ratio FieldName="AREV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.31558</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.23784</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.72336</Ratio>
+			<Ratio FieldName="Employees" Type="N">122</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-26.34062</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">32.13440</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.06359</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-0.47860</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

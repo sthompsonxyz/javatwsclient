@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFinancialStatements Major="1" Minor="0" Revision="1">
+<CoIDs>
+<CoID Type="RepNo">AC063</CoID>
+<CoID Type="CompanyName">Axa Property Trust Limited</CoID>
+</CoIDs>
+<Issues>
+<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+<IssueID Type="Name">Closed-Ended Fund</IssueID>
+<IssueID Type="Ticker">APT</IssueID>
+<IssueID Type="CUSIP">G0743L173</IssueID>
+<IssueID Type="ISIN">GG00BD5J7902</IssueID>
+<IssueID Type="RIC">APT.L</IssueID>
+<IssueID Type="SEDOL">BD5J790</IssueID>
+<IssueID Type="DisplayRIC">APT.L</IssueID>
+<IssueID Type="InstrumentPI">20630545</IssueID>
+<IssueID Type="QuotePI">20630544</IssueID>
+<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+<MostRecentSplit Date="2016-01-07">1.02873</MostRecentSplit>
+</Issue>
+</Issues>
+<CoGeneralInfo>
+<CoStatus Code="1">Active</CoStatus>
+<CoType Code="EQU">Equity Issue</CoType>
+<LastModified>2016-01-13</LastModified>
+<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+<MostRecentExchange Date="2016-01-12">0.69238</MostRecentExchange>
+</CoGeneralInfo>
+<StatementInfo>
+<COAType Code="IND">Industry</COAType>
+<BalanceSheetDisplay Code="CUR">Differentiates</BalanceSheetDisplay>
+<CashFlowMethod Code="IND">Indirect</CashFlowMethod>
+</StatementInfo>
+<Notes>
+<CFAAvailability Code="1" />
+<IAvailability Code="1" />
+<ISIAvailability Code="1" />
+<BSIAvailability Code="1" />
+<CFIAvailability Code="1" />
+</Notes>
+<FinancialStatements>
+<COAMap>
+<mapItem coaItem="SREV" statementType="INC" lineID="100" precision="1">Revenue</mapItem>
+<mapItem coaItem="SORE" statementType="INC" lineID="300" precision="1">Other Revenue, Total</mapItem>
+<mapItem coaItem="RTLR" statementType="INC" lineID="310" precision="1">Total Revenue</mapItem>
+<mapItem coaItem="SCOR" statementType="INC" lineID="360" precision="1">Cost of Revenue, Total</mapItem>
+<mapItem coaItem="SGRP" statementType="INC" lineID="370" precision="1">Gross Profit</mapItem>
+<mapItem coaItem="SSGA" statementType="INC" lineID="550" precision="1">Selling/General/Admin. Expenses, Total</mapItem>
+<mapItem coaItem="ERAD" statementType="INC" lineID="560" precision="1">Research &amp; Development</mapItem>
+<mapItem coaItem="SDPR" statementType="INC" lineID="600" precision="1">Depreciation/Amortization</mapItem>
+<mapItem coaItem="SINN" statementType="INC" lineID="671" precision="1">Interest Exp.(Inc.),Net-Operating, Total</mapItem>
+<mapItem coaItem="SUIE" statementType="INC" lineID="740" precision="1">Unusual Expense (Income)</mapItem>
+<mapItem coaItem="SOOE" statementType="INC" lineID="820" precision="1">Other Operating Expenses, Total</mapItem>
+<mapItem coaItem="ETOE" statementType="INC" lineID="830" precision="1">Total Operating Expense</mapItem>
+<mapItem coaItem="SOPI" statementType="INC" lineID="840" precision="1">Operating Income</mapItem>
+<mapItem coaItem="SNIN" statementType="INC" lineID="911" precision="1">Interest Inc.(Exp.),Net-Non-Op., Total</mapItem>
+<mapItem coaItem="NGLA" statementType="INC" lineID="920" precision="1">Gain (Loss) on Sale of Assets</mapItem>
+<mapItem coaItem="SONT" statementType="INC" lineID="1270" precision="1">Other, Net</mapItem>
+<mapItem coaItem="EIBT" statementType="INC" lineID="1280" precision="1">Net Income Before Taxes</mapItem>
+<mapItem coaItem="TTAX" statementType="INC" lineID="1290" precision="1">Provision for Income Taxes</mapItem>
+<mapItem coaItem="TIAT" statementType="INC" lineID="1300" precision="1">Net Income After Taxes</mapItem>
+<mapItem coaItem="CMIN" statementType="INC" lineID="1310" precision="1">Minority Interest</mapItem>
+<mapItem coaItem="CEIA" statementType="INC" lineID="1320" precision="1">Equity In Affiliates</mapItem>
+<mapItem coaItem="CGAP" statementType="INC" lineID="1330" precision="1">U.S. GAAP Adjustment</mapItem>
+<mapItem coaItem="NIBX" statementType="INC" lineID="1340" precision="1">Net Income Before Extra. Items</mapItem>
+<mapItem coaItem="STXI" statementType="INC" lineID="1390" precision="1">Total Extraordinary Items</mapItem>
+<mapItem coaItem="NINC" statementType="INC" lineID="1400" precision="1">Net Income</mapItem>
+<mapItem coaItem="SANI" statementType="INC" lineID="1460" precision="1">Total Adjustments to Net Income</mapItem>
+<mapItem coaItem="CIAC" statementType="INC" lineID="1470" precision="1">Income Available to Com Excl ExtraOrd</mapItem>
+<mapItem coaItem="XNIC" statementType="INC" lineID="1480" precision="1">Income Available to Com Incl ExtraOrd</mapItem>
+<mapItem coaItem="SDAJ" statementType="INC" lineID="1520" precision="1">Dilution Adjustment</mapItem>
+<mapItem coaItem="SDNI" statementType="INC" lineID="1530" precision="1">Diluted Net Income</mapItem>
+<mapItem coaItem="SDWS" statementType="INC" lineID="1540" precision="2">Diluted Weighted Average Shares</mapItem>
+<mapItem coaItem="SDBF" statementType="INC" lineID="1550" precision="3">Diluted EPS Excluding ExtraOrd Items</mapItem>
+<mapItem coaItem="DDPS1" statementType="INC" lineID="1570" precision="3">DPS - Common Stock Primary Issue</mapItem>
+<mapItem coaItem="VDES" statementType="INC" lineID="1770" precision="3">Diluted Normalized EPS</mapItem>
+<mapItem coaItem="ACSH" statementType="BAL" lineID="10" precision="1">Cash</mapItem>
+<mapItem coaItem="ACAE" statementType="BAL" lineID="20" precision="1">Cash &amp; Equivalents</mapItem>
+<mapItem coaItem="ASTI" statementType="BAL" lineID="30" precision="1">Short Term Investments</mapItem>
+<mapItem coaItem="SCSI" statementType="BAL" lineID="40" precision="1">Cash and Short Term Investments</mapItem>
+<mapItem coaItem="AACR" statementType="BAL" lineID="70" precision="1">Accounts Receivable - Trade, Net</mapItem>
+<mapItem coaItem="ATRC" statementType="BAL" lineID="100" precision="1">Total Receivables, Net</mapItem>
+<mapItem coaItem="AITL" statementType="BAL" lineID="180" precision="1">Total Inventory</mapItem>
+<mapItem coaItem="APPY" statementType="BAL" lineID="190" precision="1">Prepaid Expenses</mapItem>
+<mapItem coaItem="SOCA" statementType="BAL" lineID="260" precision="1">Other Current Assets, Total</mapItem>
+<mapItem coaItem="ATCA" statementType="BAL" lineID="270" precision="1">Total Current Assets</mapItem>
+<mapItem coaItem="APTC" statementType="BAL" lineID="520" precision="1">Property/Plant/Equipment, Total - Gross</mapItem>
+<mapItem coaItem="ADEP" statementType="BAL" lineID="530" precision="1">Accumulated Depreciation, Total</mapItem>
+<mapItem coaItem="APPN" statementType="BAL" lineID="540" precision="1">Property/Plant/Equipment, Total - Net</mapItem>
+<mapItem coaItem="AGWI" statementType="BAL" lineID="570" precision="1">Goodwill, Net</mapItem>
+<mapItem coaItem="AINT" statementType="BAL" lineID="600" precision="1">Intangibles, Net</mapItem>
+<mapItem coaItem="SINV" statementType="BAL" lineID="690" precision="1">Long Term Investments</mapItem>
+<mapItem coaItem="ALTR" statementType="BAL" lineID="710" precision="1">Note Receivable - Long Term</mapItem>
+<mapItem coaItem="SOLA" statementType="BAL" lineID="780" precision="1">Other Long Term Assets, Total</mapItem>
+<mapItem coaItem="ATOT" statementType="BAL" lineID="880" precision="1">Total Assets</mapItem>
+<mapItem coaItem="LAPB" statementType="BAL" lineID="890" precision="1">Accounts Payable</mapItem>
+<mapItem coaItem="LPBA" statementType="BAL" lineID="900" precision="1">Payable/Accrued</mapItem>
+<mapItem coaItem="LAEX" statementType="BAL" lineID="910" precision="1">Accrued Expenses</mapItem>
+<mapItem coaItem="LSTD" statementType="BAL" lineID="1120" precision="1">Notes Payable/Short Term Debt</mapItem>
+<mapItem coaItem="LCLD" statementType="BAL" lineID="1130" precision="1">Current Port. of  LT Debt/Capital Leases</mapItem>
+<mapItem coaItem="SOCL" statementType="BAL" lineID="1220" precision="1">Other Current liabilities, Total</mapItem>
+<mapItem coaItem="LTCL" statementType="BAL" lineID="1230" precision="1">Total Current Liabilities</mapItem>
+<mapItem coaItem="LLTD" statementType="BAL" lineID="1240" precision="1">Long Term Debt</mapItem>
+<mapItem coaItem="LCLO" statementType="BAL" lineID="1250" precision="1">Capital Lease Obligations</mapItem>
+<mapItem coaItem="LTTD" statementType="BAL" lineID="1260" precision="1">Total Long Term Debt</mapItem>
+<mapItem coaItem="STLD" statementType="BAL" lineID="1270" precision="1">Total Debt</mapItem>
+<mapItem coaItem="SBDT" statementType="BAL" lineID="1300" precision="1">Deferred Income Tax</mapItem>
+<mapItem coaItem="LMIN" statementType="BAL" lineID="1310" precision="1">Minority Interest</mapItem>
+<mapItem coaItem="SLTL" statementType="BAL" lineID="1370" precision="1">Other Liabilities, Total</mapItem>
+<mapItem coaItem="LTLL" statementType="BAL" lineID="1380" precision="1">Total Liabilities</mapItem>
+<mapItem coaItem="SRPR" statementType="BAL" lineID="1410" precision="1">Redeemable Preferred Stock, Total</mapItem>
+<mapItem coaItem="SPRS" statementType="BAL" lineID="1460" precision="1">Preferred Stock - Non Redeemable, Net</mapItem>
+<mapItem coaItem="SCMS" statementType="BAL" lineID="1490" precision="1">Common Stock, Total</mapItem>
+<mapItem coaItem="QPIC" statementType="BAL" lineID="1500" precision="1">Additional Paid-In Capital</mapItem>
+<mapItem coaItem="QRED" statementType="BAL" lineID="1510" precision="1">Retained Earnings (Accumulated Deficit)</mapItem>
+<mapItem coaItem="QTSC" statementType="BAL" lineID="1520" precision="1">Treasury Stock - Common</mapItem>
+<mapItem coaItem="QEDG" statementType="BAL" lineID="1530" precision="1">ESOP Debt Guarantee</mapItem>
+<mapItem coaItem="QUGL" statementType="BAL" lineID="1540" precision="1">Unrealized Gain (Loss)</mapItem>
+<mapItem coaItem="SOTE" statementType="BAL" lineID="1590" precision="1">Other Equity, Total</mapItem>
+<mapItem coaItem="QTLE" statementType="BAL" lineID="1600" precision="1">Total Equity</mapItem>
+<mapItem coaItem="QTEL" statementType="BAL" lineID="1610" precision="1">Total Liabilities &amp; Shareholders' Equity</mapItem>
+<mapItem coaItem="QTCO" statementType="BAL" lineID="1660" precision="2">Total Common Shares Outstanding</mapItem>
+<mapItem coaItem="QTPO" statementType="BAL" lineID="1770" precision="2">Total Preferred Shares Outstanding</mapItem>
+<mapItem coaItem="STBP" statementType="BAL" lineID="1980" precision="3">Tangible Book Value per Share, Common Eq</mapItem>
+<mapItem coaItem="ONET" statementType="CAS" lineID="10" precision="1">Net Income/Starting Line</mapItem>
+<mapItem coaItem="SDED" statementType="CAS" lineID="40" precision="1">Depreciation/Depletion</mapItem>
+<mapItem coaItem="SAMT" statementType="CAS" lineID="80" precision="1">Amortization</mapItem>
+<mapItem coaItem="OBDT" statementType="CAS" lineID="90" precision="1">Deferred Taxes</mapItem>
+<mapItem coaItem="SNCI" statementType="CAS" lineID="170" precision="1">Non-Cash Items</mapItem>
+<mapItem coaItem="SOCF" statementType="CAS" lineID="470" precision="1">Changes in Working Capital</mapItem>
+<mapItem coaItem="OTLO" statementType="CAS" lineID="480" precision="1">Cash from Operating Activities</mapItem>
+<mapItem coaItem="SCEX" statementType="CAS" lineID="520" precision="1">Capital Expenditures</mapItem>
+<mapItem coaItem="SICF" statementType="CAS" lineID="670" precision="1">Other Investing Cash Flow Items, Total</mapItem>
+<mapItem coaItem="ITLI" statementType="CAS" lineID="680" precision="1">Cash from Investing Activities</mapItem>
+<mapItem coaItem="SFCF" statementType="CAS" lineID="730" precision="1">Financing Cash Flow Items</mapItem>
+<mapItem coaItem="FCDP" statementType="CAS" lineID="760" precision="1">Total Cash Dividends Paid</mapItem>
+<mapItem coaItem="FPSS" statementType="CAS" lineID="880" precision="1">Issuance (Retirement) of Stock, Net</mapItem>
+<mapItem coaItem="FPRD" statementType="CAS" lineID="970" precision="1">Issuance (Retirement) of Debt, Net</mapItem>
+<mapItem coaItem="FTLF" statementType="CAS" lineID="980" precision="1">Cash from Financing Activities</mapItem>
+<mapItem coaItem="SFEE" statementType="CAS" lineID="990" precision="1">Foreign Exchange Effects</mapItem>
+<mapItem coaItem="SNCC" statementType="CAS" lineID="1000" precision="1">Net Change in Cash</mapItem>
+<mapItem coaItem="SCIP" statementType="CAS" lineID="1040" precision="1">Cash Interest Paid</mapItem>
+<mapItem coaItem="SCTP" statementType="CAS" lineID="1050" precision="1">Cash Taxes Paid</mapItem>
+</COAMap>
+<AnnualPeriods>
+<FiscalPeriod Type="Annual" EndDate="2015-06-30" FiscalYear="2015">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2015-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-17">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">12.176000</lineItem>
+<lineItem coaCode="RTLR">12.176000</lineItem>
+<lineItem coaCode="SCOR">1.962000</lineItem>
+<lineItem coaCode="SGRP">10.214000</lineItem>
+<lineItem coaCode="SSGA">1.014000</lineItem>
+<lineItem coaCode="SUIE">-0.059000</lineItem>
+<lineItem coaCode="ETOE">2.917000</lineItem>
+<lineItem coaCode="SOPI">9.259000</lineItem>
+<lineItem coaCode="SNIN">-0.476000</lineItem>
+<lineItem coaCode="EIBT">8.783000</lineItem>
+<lineItem coaCode="TTAX">1.040000</lineItem>
+<lineItem coaCode="TIAT">7.743000</lineItem>
+<lineItem coaCode="NIBX">7.743000</lineItem>
+<lineItem coaCode="NINC">7.743000</lineItem>
+<lineItem coaCode="CIAC">7.743000</lineItem>
+<lineItem coaCode="XNIC">7.743000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">7.743000</lineItem>
+<lineItem coaCode="SDWS">81.778480</lineItem>
+<lineItem coaCode="SDBF">0.094680</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">0.094050</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-17">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">8.078000</lineItem>
+<lineItem coaCode="ASTI">9.053000</lineItem>
+<lineItem coaCode="SCSI">17.131000</lineItem>
+<lineItem coaCode="ATRC">0.862000</lineItem>
+<lineItem coaCode="APPY">0.026000</lineItem>
+<lineItem coaCode="SOCA">34.892000</lineItem>
+<lineItem coaCode="ATCA">52.911000</lineItem>
+<lineItem coaCode="SINV">23.886000</lineItem>
+<lineItem coaCode="SOLA">0.086000</lineItem>
+<lineItem coaCode="ATOT">76.883000</lineItem>
+<lineItem coaCode="LAEX">0.035000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">7.971000</lineItem>
+<lineItem coaCode="SOCL">1.547000</lineItem>
+<lineItem coaCode="LTCL">9.553000</lineItem>
+<lineItem coaCode="LLTD">16.189000</lineItem>
+<lineItem coaCode="LTTD">16.189000</lineItem>
+<lineItem coaCode="STLD">24.160000</lineItem>
+<lineItem coaCode="SBDT">0.596000</lineItem>
+<lineItem coaCode="SLTL">1.178000</lineItem>
+<lineItem coaCode="LTLL">27.516000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">46.727000</lineItem>
+<lineItem coaCode="SOTE">2.640000</lineItem>
+<lineItem coaCode="QTLE">49.367000</lineItem>
+<lineItem coaCode="QTEL">76.883000</lineItem>
+<lineItem coaCode="QTCO">78.132870</lineItem>
+<lineItem coaCode="STBP">0.631830</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-17">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">8.784000</lineItem>
+<lineItem coaCode="SNCI">-6.247000</lineItem>
+<lineItem coaCode="SCTP">0.792000</lineItem>
+<lineItem coaCode="SCIP">1.708000</lineItem>
+<lineItem coaCode="SOCF">-1.890000</lineItem>
+<lineItem coaCode="OTLO">0.647000</lineItem>
+<lineItem coaCode="SCEX">-0.019000</lineItem>
+<lineItem coaCode="SICF">11.902000</lineItem>
+<lineItem coaCode="ITLI">11.883000</lineItem>
+<lineItem coaCode="SFCF">-3.826000</lineItem>
+<lineItem coaCode="FPRD">-4.956000</lineItem>
+<lineItem coaCode="FTLF">-8.782000</lineItem>
+<lineItem coaCode="SFEE">1.322000</lineItem>
+<lineItem coaCode="SNCC">5.070000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2014-06-30" FiscalYear="2014">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">5.509000</lineItem>
+<lineItem coaCode="RTLR">5.509000</lineItem>
+<lineItem coaCode="SCOR">2.732000</lineItem>
+<lineItem coaCode="SGRP">2.777000</lineItem>
+<lineItem coaCode="SSGA">2.264000</lineItem>
+<lineItem coaCode="SINN">2.700000</lineItem>
+<lineItem coaCode="SUIE">0.013000</lineItem>
+<lineItem coaCode="SOOE">0.000000</lineItem>
+<lineItem coaCode="ETOE">7.709000</lineItem>
+<lineItem coaCode="SOPI">-2.200000</lineItem>
+<lineItem coaCode="EIBT">-2.200000</lineItem>
+<lineItem coaCode="TTAX">0.190000</lineItem>
+<lineItem coaCode="TIAT">-2.390000</lineItem>
+<lineItem coaCode="NIBX">-2.390000</lineItem>
+<lineItem coaCode="NINC">-2.390000</lineItem>
+<lineItem coaCode="CIAC">-2.390000</lineItem>
+<lineItem coaCode="XNIC">-2.390000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-2.390000</lineItem>
+<lineItem coaCode="SDWS">88.141570</lineItem>
+<lineItem coaCode="SDBF">-0.027120</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.027020</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">3.008000</lineItem>
+<lineItem coaCode="SCSI">3.008000</lineItem>
+<lineItem coaCode="ATRC">1.814000</lineItem>
+<lineItem coaCode="APPY">0.056000</lineItem>
+<lineItem coaCode="SOCA">6.326000</lineItem>
+<lineItem coaCode="ATCA">11.204000</lineItem>
+<lineItem coaCode="SINV">76.894000</lineItem>
+<lineItem coaCode="SOLA">0.026000</lineItem>
+<lineItem coaCode="ATOT">88.124000</lineItem>
+<lineItem coaCode="LAEX">0.000000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">3.586000</lineItem>
+<lineItem coaCode="SOCL">2.100000</lineItem>
+<lineItem coaCode="LTCL">5.686000</lineItem>
+<lineItem coaCode="LLTD">28.802000</lineItem>
+<lineItem coaCode="LTTD">28.802000</lineItem>
+<lineItem coaCode="STLD">32.388000</lineItem>
+<lineItem coaCode="SBDT">0.269000</lineItem>
+<lineItem coaCode="SLTL">2.939000</lineItem>
+<lineItem coaCode="LTLL">37.696000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">93.424000</lineItem>
+<lineItem coaCode="QUGL">-50.641000</lineItem>
+<lineItem coaCode="SOTE">7.645000</lineItem>
+<lineItem coaCode="QTLE">50.428000</lineItem>
+<lineItem coaCode="QTEL">88.124000</lineItem>
+<lineItem coaCode="QTCO">81.843520</lineItem>
+<lineItem coaCode="STBP">0.616150</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-2.200000</lineItem>
+<lineItem coaCode="SNCI">6.000000</lineItem>
+<lineItem coaCode="SCTP">0.270000</lineItem>
+<lineItem coaCode="SCIP">2.597000</lineItem>
+<lineItem coaCode="SOCF">-2.724000</lineItem>
+<lineItem coaCode="OTLO">1.076000</lineItem>
+<lineItem coaCode="SCEX">-0.611000</lineItem>
+<lineItem coaCode="SICF">21.521000</lineItem>
+<lineItem coaCode="ITLI">20.910000</lineItem>
+<lineItem coaCode="SFCF">-4.046000</lineItem>
+<lineItem coaCode="FPRD">-16.893000</lineItem>
+<lineItem coaCode="FTLF">-20.939000</lineItem>
+<lineItem coaCode="SFEE">-1.733000</lineItem>
+<lineItem coaCode="SNCC">-0.686000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2013-06-30" FiscalYear="2013">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">5.179000</lineItem>
+<lineItem coaCode="RTLR">5.179000</lineItem>
+<lineItem coaCode="SCOR">2.591000</lineItem>
+<lineItem coaCode="SGRP">2.588000</lineItem>
+<lineItem coaCode="SSGA">2.287000</lineItem>
+<lineItem coaCode="SINN">3.373000</lineItem>
+<lineItem coaCode="SUIE">0.240000</lineItem>
+<lineItem coaCode="SOOE">0.025000</lineItem>
+<lineItem coaCode="ETOE">8.516000</lineItem>
+<lineItem coaCode="SOPI">-3.337000</lineItem>
+<lineItem coaCode="EIBT">-3.337000</lineItem>
+<lineItem coaCode="TTAX">0.033000</lineItem>
+<lineItem coaCode="TIAT">-3.370000</lineItem>
+<lineItem coaCode="NIBX">-3.370000</lineItem>
+<lineItem coaCode="NINC">-3.370000</lineItem>
+<lineItem coaCode="CIAC">-3.370000</lineItem>
+<lineItem coaCode="XNIC">-3.370000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-3.370000</lineItem>
+<lineItem coaCode="SDWS">88.178310</lineItem>
+<lineItem coaCode="SDBF">-0.038220</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.036450</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="RES">Restated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">3.694000</lineItem>
+<lineItem coaCode="SCSI">3.694000</lineItem>
+<lineItem coaCode="ATRC">1.703000</lineItem>
+<lineItem coaCode="APPY">0.138000</lineItem>
+<lineItem coaCode="SOCA">25.297000</lineItem>
+<lineItem coaCode="ATCA">30.832000</lineItem>
+<lineItem coaCode="SINV">83.199000</lineItem>
+<lineItem coaCode="SOLA">0.037000</lineItem>
+<lineItem coaCode="ATOT">114.068000</lineItem>
+<lineItem coaCode="LAEX">0.194000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">12.422000</lineItem>
+<lineItem coaCode="SOCL">2.308000</lineItem>
+<lineItem coaCode="LTCL">14.924000</lineItem>
+<lineItem coaCode="LLTD">35.260000</lineItem>
+<lineItem coaCode="LTTD">35.260000</lineItem>
+<lineItem coaCode="STLD">47.682000</lineItem>
+<lineItem coaCode="SBDT">0.390000</lineItem>
+<lineItem coaCode="SLTL">4.274000</lineItem>
+<lineItem coaCode="LTLL">54.848000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">97.540000</lineItem>
+<lineItem coaCode="QUGL">-48.267000</lineItem>
+<lineItem coaCode="SOTE">9.947000</lineItem>
+<lineItem coaCode="QTLE">59.220000</lineItem>
+<lineItem coaCode="QTEL">114.068000</lineItem>
+<lineItem coaCode="QTCO">81.877640</lineItem>
+<lineItem coaCode="STBP">0.723270</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="RES">Restated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-3.337000</lineItem>
+<lineItem coaCode="SNCI">8.677000</lineItem>
+<lineItem coaCode="SCTP">0.284000</lineItem>
+<lineItem coaCode="SCIP">2.763000</lineItem>
+<lineItem coaCode="SOCF">-3.176000</lineItem>
+<lineItem coaCode="OTLO">2.164000</lineItem>
+<lineItem coaCode="SCEX">-0.576000</lineItem>
+<lineItem coaCode="SICF">10.716000</lineItem>
+<lineItem coaCode="ITLI">10.140000</lineItem>
+<lineItem coaCode="SFCF">0.000000</lineItem>
+<lineItem coaCode="FPRD">-12.908000</lineItem>
+<lineItem coaCode="FTLF">-12.908000</lineItem>
+<lineItem coaCode="SFEE">-0.359000</lineItem>
+<lineItem coaCode="SNCC">-0.963000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2012-06-30" FiscalYear="2012">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2012-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-19">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">8.548000</lineItem>
+<lineItem coaCode="RTLR">8.548000</lineItem>
+<lineItem coaCode="SCOR">3.112000</lineItem>
+<lineItem coaCode="SGRP">5.436000</lineItem>
+<lineItem coaCode="SSGA">1.547000</lineItem>
+<lineItem coaCode="SINN">4.381000</lineItem>
+<lineItem coaCode="SUIE">0.000000</lineItem>
+<lineItem coaCode="ETOE">9.040000</lineItem>
+<lineItem coaCode="SOPI">-0.492000</lineItem>
+<lineItem coaCode="EIBT">-0.492000</lineItem>
+<lineItem coaCode="TTAX">0.297000</lineItem>
+<lineItem coaCode="TIAT">-0.789000</lineItem>
+<lineItem coaCode="NIBX">-0.789000</lineItem>
+<lineItem coaCode="NINC">-0.789000</lineItem>
+<lineItem coaCode="CIAC">-0.789000</lineItem>
+<lineItem coaCode="XNIC">-0.789000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-0.789000</lineItem>
+<lineItem coaCode="SDWS">88.177830</lineItem>
+<lineItem coaCode="SDBF">-0.008950</lineItem>
+<lineItem coaCode="DDPS1">0.028350</lineItem>
+<lineItem coaCode="VDES">-0.008950</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2012-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-19">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACSH">4.884000</lineItem>
+<lineItem coaCode="SCSI">4.884000</lineItem>
+<lineItem coaCode="ATRC">1.315000</lineItem>
+<lineItem coaCode="APPY">0.196000</lineItem>
+<lineItem coaCode="SOCA">9.952000</lineItem>
+<lineItem coaCode="ATCA">16.347000</lineItem>
+<lineItem coaCode="SINV">111.777000</lineItem>
+<lineItem coaCode="SOLA">0.058000</lineItem>
+<lineItem coaCode="ATOT">128.182000</lineItem>
+<lineItem coaCode="LAPB">0.000000</lineItem>
+<lineItem coaCode="LAEX">1.061000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">16.499000</lineItem>
+<lineItem coaCode="SOCL">1.706000</lineItem>
+<lineItem coaCode="LTCL">19.266000</lineItem>
+<lineItem coaCode="LLTD">44.337000</lineItem>
+<lineItem coaCode="LTTD">44.337000</lineItem>
+<lineItem coaCode="STLD">60.836000</lineItem>
+<lineItem coaCode="SBDT">0.703000</lineItem>
+<lineItem coaCode="SLTL">3.853000</lineItem>
+<lineItem coaCode="LTLL">68.159000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">99.728000</lineItem>
+<lineItem coaCode="QUGL">-47.085000</lineItem>
+<lineItem coaCode="SOTE">7.380000</lineItem>
+<lineItem coaCode="QTLE">60.023000</lineItem>
+<lineItem coaCode="QTEL">128.182000</lineItem>
+<lineItem coaCode="QTCO">88.177830</lineItem>
+<lineItem coaCode="STBP">0.680700</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2012-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-19">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-0.492000</lineItem>
+<lineItem coaCode="SNCI">7.768000</lineItem>
+<lineItem coaCode="SCTP">0.483000</lineItem>
+<lineItem coaCode="SCIP">3.016000</lineItem>
+<lineItem coaCode="SOCF">-3.378000</lineItem>
+<lineItem coaCode="OTLO">3.898000</lineItem>
+<lineItem coaCode="SCEX">-1.678000</lineItem>
+<lineItem coaCode="SICF">7.167000</lineItem>
+<lineItem coaCode="ITLI">5.489000</lineItem>
+<lineItem coaCode="FCDP">-2.500000</lineItem>
+<lineItem coaCode="FPRD">-5.097000</lineItem>
+<lineItem coaCode="FTLF">-7.597000</lineItem>
+<lineItem coaCode="SFEE">-1.055000</lineItem>
+<lineItem coaCode="SNCC">0.735000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2011-06-30" FiscalYear="2011">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2011-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-19">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">11.135000</lineItem>
+<lineItem coaCode="RTLR">11.135000</lineItem>
+<lineItem coaCode="SCOR">3.443000</lineItem>
+<lineItem coaCode="SGRP">7.692000</lineItem>
+<lineItem coaCode="SSGA">1.987000</lineItem>
+<lineItem coaCode="SINN">2.476000</lineItem>
+<lineItem coaCode="SUIE">7.295000</lineItem>
+<lineItem coaCode="ETOE">15.201000</lineItem>
+<lineItem coaCode="SOPI">-4.066000</lineItem>
+<lineItem coaCode="EIBT">-4.066000</lineItem>
+<lineItem coaCode="TTAX">0.313000</lineItem>
+<lineItem coaCode="TIAT">-4.379000</lineItem>
+<lineItem coaCode="NIBX">-4.379000</lineItem>
+<lineItem coaCode="NINC">-4.379000</lineItem>
+<lineItem coaCode="CIAC">-4.379000</lineItem>
+<lineItem coaCode="XNIC">-4.379000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-4.379000</lineItem>
+<lineItem coaCode="SDWS">88.177830</lineItem>
+<lineItem coaCode="SDBF">-0.049660</lineItem>
+<lineItem coaCode="DDPS1">0.034020</lineItem>
+<lineItem coaCode="VDES">0.004110</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2011-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-19">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACSH">4.149000</lineItem>
+<lineItem coaCode="ASTI">0.000000</lineItem>
+<lineItem coaCode="SCSI">4.149000</lineItem>
+<lineItem coaCode="ATRC">2.109000</lineItem>
+<lineItem coaCode="APPY">0.090000</lineItem>
+<lineItem coaCode="SOCA">0.000000</lineItem>
+<lineItem coaCode="ATCA">6.348000</lineItem>
+<lineItem coaCode="APPN">145.979000</lineItem>
+<lineItem coaCode="SINV">0.000000</lineItem>
+<lineItem coaCode="ALTR">0.000000</lineItem>
+<lineItem coaCode="SOLA">0.278000</lineItem>
+<lineItem coaCode="ATOT">152.605000</lineItem>
+<lineItem coaCode="LAPB">0.026000</lineItem>
+<lineItem coaCode="LAEX">1.571000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">8.128000</lineItem>
+<lineItem coaCode="SOCL">2.152000</lineItem>
+<lineItem coaCode="LTCL">11.877000</lineItem>
+<lineItem coaCode="LLTD">64.483000</lineItem>
+<lineItem coaCode="LTTD">64.483000</lineItem>
+<lineItem coaCode="STLD">72.611000</lineItem>
+<lineItem coaCode="SBDT">1.012000</lineItem>
+<lineItem coaCode="SLTL">0.496000</lineItem>
+<lineItem coaCode="LTLL">77.868000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">99.541000</lineItem>
+<lineItem coaCode="QUGL">-43.609000</lineItem>
+<lineItem coaCode="SOTE">18.805000</lineItem>
+<lineItem coaCode="QTLE">74.737000</lineItem>
+<lineItem coaCode="QTEL">152.605000</lineItem>
+<lineItem coaCode="QTCO">88.177830</lineItem>
+<lineItem coaCode="STBP">0.847570</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2011-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-19">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-4.066000</lineItem>
+<lineItem coaCode="SNCI">5.310000</lineItem>
+<lineItem coaCode="SCTP">0.209000</lineItem>
+<lineItem coaCode="SCIP">2.700000</lineItem>
+<lineItem coaCode="SOCF">-3.472000</lineItem>
+<lineItem coaCode="OTLO">-2.228000</lineItem>
+<lineItem coaCode="SCEX">-3.909000</lineItem>
+<lineItem coaCode="SICF">3.750000</lineItem>
+<lineItem coaCode="ITLI">-0.159000</lineItem>
+<lineItem coaCode="FCDP">-3.000000</lineItem>
+<lineItem coaCode="FPRD">-3.062000</lineItem>
+<lineItem coaCode="FTLF">-6.062000</lineItem>
+<lineItem coaCode="SFEE">-2.875000</lineItem>
+<lineItem coaCode="SNCC">-11.324000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Annual" EndDate="2010-06-30" FiscalYear="2010">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2010-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2010-10-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">9.263000</lineItem>
+<lineItem coaCode="RTLR">9.263000</lineItem>
+<lineItem coaCode="SCOR">3.151000</lineItem>
+<lineItem coaCode="SGRP">6.112000</lineItem>
+<lineItem coaCode="SSGA">1.642000</lineItem>
+<lineItem coaCode="SINN">3.981000</lineItem>
+<lineItem coaCode="SUIE">0.555000</lineItem>
+<lineItem coaCode="ETOE">9.329000</lineItem>
+<lineItem coaCode="SOPI">-0.066000</lineItem>
+<lineItem coaCode="EIBT">-0.066000</lineItem>
+<lineItem coaCode="TTAX">1.003000</lineItem>
+<lineItem coaCode="TIAT">-1.069000</lineItem>
+<lineItem coaCode="NIBX">-1.069000</lineItem>
+<lineItem coaCode="NINC">-1.069000</lineItem>
+<lineItem coaCode="CIAC">-1.069000</lineItem>
+<lineItem coaCode="XNIC">-1.069000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-1.069000</lineItem>
+<lineItem coaCode="SDWS">88.177830</lineItem>
+<lineItem coaCode="SDBF">-0.012120</lineItem>
+<lineItem coaCode="DDPS1">0.034020</lineItem>
+<lineItem coaCode="VDES">-0.008030</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="CLA">Reclassified Normal</UpdateType>
+<StatementDate>2011-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2012-11-19">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACSH">5.514000</lineItem>
+<lineItem coaCode="ASTI">9.959000</lineItem>
+<lineItem coaCode="SCSI">15.473000</lineItem>
+<lineItem coaCode="ATRC">1.170000</lineItem>
+<lineItem coaCode="APPY">0.087000</lineItem>
+<lineItem coaCode="ATCA">16.730000</lineItem>
+<lineItem coaCode="APPN">132.951000</lineItem>
+<lineItem coaCode="SINV">0.001000</lineItem>
+<lineItem coaCode="ALTR">6.969000</lineItem>
+<lineItem coaCode="SOLA">0.135000</lineItem>
+<lineItem coaCode="ATOT">156.786000</lineItem>
+<lineItem coaCode="LAPB">0.024000</lineItem>
+<lineItem coaCode="LAEX">0.923000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">64.012000</lineItem>
+<lineItem coaCode="SOCL">2.258000</lineItem>
+<lineItem coaCode="LTCL">67.217000</lineItem>
+<lineItem coaCode="LLTD">7.412000</lineItem>
+<lineItem coaCode="LTTD">7.412000</lineItem>
+<lineItem coaCode="STLD">71.424000</lineItem>
+<lineItem coaCode="SBDT">1.068000</lineItem>
+<lineItem coaCode="SLTL">3.080000</lineItem>
+<lineItem coaCode="LTLL">78.777000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">98.870000</lineItem>
+<lineItem coaCode="QUGL">-35.559000</lineItem>
+<lineItem coaCode="SOTE">14.698000</lineItem>
+<lineItem coaCode="QTLE">78.009000</lineItem>
+<lineItem coaCode="QTEL">156.786000</lineItem>
+<lineItem coaCode="QTCO">88.177830</lineItem>
+<lineItem coaCode="STBP">0.884680</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2010-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2010-10-29">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-0.066000</lineItem>
+<lineItem coaCode="SNCI">8.854000</lineItem>
+<lineItem coaCode="SCTP">0.673000</lineItem>
+<lineItem coaCode="SCIP">4.103000</lineItem>
+<lineItem coaCode="SOCF">-4.768000</lineItem>
+<lineItem coaCode="OTLO">4.020000</lineItem>
+<lineItem coaCode="SCEX">-1.037000</lineItem>
+<lineItem coaCode="SICF">0.000000</lineItem>
+<lineItem coaCode="ITLI">-1.037000</lineItem>
+<lineItem coaCode="FCDP">-3.000000</lineItem>
+<lineItem coaCode="FPRD">0.000000</lineItem>
+<lineItem coaCode="FTLF">-3.000000</lineItem>
+<lineItem coaCode="SFEE">-1.834000</lineItem>
+<lineItem coaCode="SNCC">-1.851000</lineItem>
+</Statement>
+</FiscalPeriod>
+</AnnualPeriods>
+<InterimPeriods>
+<FiscalPeriod Type="Interim" EndDate="2015-06-30" FiscalYear="2015" FiscalPeriodNumber="4">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UCA">Updated Calculated</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2015-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-17">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">7.346000</lineItem>
+<lineItem coaCode="RTLR">7.346000</lineItem>
+<lineItem coaCode="SCOR">0.926000</lineItem>
+<lineItem coaCode="SGRP">6.420000</lineItem>
+<lineItem coaCode="SSGA">0.270000</lineItem>
+<lineItem coaCode="SUIE">-0.059000</lineItem>
+<lineItem coaCode="ETOE">1.137000</lineItem>
+<lineItem coaCode="SOPI">6.209000</lineItem>
+<lineItem coaCode="SNIN">-0.832000</lineItem>
+<lineItem coaCode="EIBT">5.377000</lineItem>
+<lineItem coaCode="TTAX">0.674000</lineItem>
+<lineItem coaCode="TIAT">4.703000</lineItem>
+<lineItem coaCode="NIBX">4.703000</lineItem>
+<lineItem coaCode="NINC">4.703000</lineItem>
+<lineItem coaCode="CIAC">4.703000</lineItem>
+<lineItem coaCode="XNIC">4.703000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">4.703000</lineItem>
+<lineItem coaCode="SDWS">84.937770</lineItem>
+<lineItem coaCode="SDBF">0.055370</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">0.054760</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-17">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">8.078000</lineItem>
+<lineItem coaCode="ASTI">9.053000</lineItem>
+<lineItem coaCode="SCSI">17.131000</lineItem>
+<lineItem coaCode="ATRC">0.862000</lineItem>
+<lineItem coaCode="APPY">0.026000</lineItem>
+<lineItem coaCode="SOCA">34.892000</lineItem>
+<lineItem coaCode="ATCA">52.911000</lineItem>
+<lineItem coaCode="SINV">23.886000</lineItem>
+<lineItem coaCode="SOLA">0.086000</lineItem>
+<lineItem coaCode="ATOT">76.883000</lineItem>
+<lineItem coaCode="LAEX">0.035000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">7.971000</lineItem>
+<lineItem coaCode="SOCL">1.547000</lineItem>
+<lineItem coaCode="LTCL">9.553000</lineItem>
+<lineItem coaCode="LLTD">16.189000</lineItem>
+<lineItem coaCode="LTTD">16.189000</lineItem>
+<lineItem coaCode="STLD">24.160000</lineItem>
+<lineItem coaCode="SBDT">0.596000</lineItem>
+<lineItem coaCode="SLTL">1.178000</lineItem>
+<lineItem coaCode="LTLL">27.516000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">46.727000</lineItem>
+<lineItem coaCode="SOTE">2.640000</lineItem>
+<lineItem coaCode="QTLE">49.367000</lineItem>
+<lineItem coaCode="QTEL">76.883000</lineItem>
+<lineItem coaCode="QTCO">78.132870</lineItem>
+<lineItem coaCode="STBP">0.631830</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2015-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2015-11-17">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">8.784000</lineItem>
+<lineItem coaCode="SNCI">-6.247000</lineItem>
+<lineItem coaCode="SCTP">0.792000</lineItem>
+<lineItem coaCode="SCIP">1.708000</lineItem>
+<lineItem coaCode="SOCF">-1.890000</lineItem>
+<lineItem coaCode="OTLO">0.647000</lineItem>
+<lineItem coaCode="SCEX">-0.019000</lineItem>
+<lineItem coaCode="SICF">11.902000</lineItem>
+<lineItem coaCode="ITLI">11.883000</lineItem>
+<lineItem coaCode="SFCF">-3.826000</lineItem>
+<lineItem coaCode="FPRD">-4.956000</lineItem>
+<lineItem coaCode="FTLF">-8.782000</lineItem>
+<lineItem coaCode="SFEE">1.322000</lineItem>
+<lineItem coaCode="SNCC">5.070000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2014-12-31" FiscalYear="2015" FiscalPeriodNumber="2">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-12-31</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="SREV">4.830000</lineItem>
+<lineItem coaCode="RTLR">4.830000</lineItem>
+<lineItem coaCode="SCOR">1.036000</lineItem>
+<lineItem coaCode="SGRP">3.794000</lineItem>
+<lineItem coaCode="SSGA">0.744000</lineItem>
+<lineItem coaCode="SUIE">0.000000</lineItem>
+<lineItem coaCode="ETOE">1.780000</lineItem>
+<lineItem coaCode="SOPI">3.050000</lineItem>
+<lineItem coaCode="SNIN">0.356000</lineItem>
+<lineItem coaCode="EIBT">3.406000</lineItem>
+<lineItem coaCode="TTAX">0.366000</lineItem>
+<lineItem coaCode="TIAT">3.040000</lineItem>
+<lineItem coaCode="NIBX">3.040000</lineItem>
+<lineItem coaCode="NINC">3.040000</lineItem>
+<lineItem coaCode="CIAC">3.040000</lineItem>
+<lineItem coaCode="XNIC">3.040000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">3.040000</lineItem>
+<lineItem coaCode="SDWS">84.668810</lineItem>
+<lineItem coaCode="SDBF">0.035900</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">0.035900</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-12-31</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">4.691000</lineItem>
+<lineItem coaCode="SCSI">4.691000</lineItem>
+<lineItem coaCode="ATRC">1.368000</lineItem>
+<lineItem coaCode="APPY">0.066000</lineItem>
+<lineItem coaCode="SOCA">19.419000</lineItem>
+<lineItem coaCode="ATCA">25.544000</lineItem>
+<lineItem coaCode="SINV">57.942000</lineItem>
+<lineItem coaCode="SOLA">0.116000</lineItem>
+<lineItem coaCode="ATOT">83.602000</lineItem>
+<lineItem coaCode="LAEX">0.020000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">10.122000</lineItem>
+<lineItem coaCode="SOCL">1.705000</lineItem>
+<lineItem coaCode="LTCL">11.847000</lineItem>
+<lineItem coaCode="LLTD">18.864000</lineItem>
+<lineItem coaCode="LTTD">18.864000</lineItem>
+<lineItem coaCode="STLD">28.986000</lineItem>
+<lineItem coaCode="SBDT">0.169000</lineItem>
+<lineItem coaCode="SLTL">2.468000</lineItem>
+<lineItem coaCode="LTLL">33.348000</lineItem>
+<lineItem coaCode="QRED">90.890000</lineItem>
+<lineItem coaCode="QUGL">-47.068000</lineItem>
+<lineItem coaCode="SOTE">6.432000</lineItem>
+<lineItem coaCode="QTLE">50.254000</lineItem>
+<lineItem coaCode="QTEL">83.602000</lineItem>
+<lineItem coaCode="QTCO">78.598520</lineItem>
+<lineItem coaCode="STBP">0.639380</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-12-31</StatementDate>
+<Source Date="2015-02-27">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ONET">3.405000</lineItem>
+<lineItem coaCode="SNCI">-2.179000</lineItem>
+<lineItem coaCode="SCTP">-0.068000</lineItem>
+<lineItem coaCode="SCIP">0.486000</lineItem>
+<lineItem coaCode="SOCF">-0.448000</lineItem>
+<lineItem coaCode="OTLO">0.778000</lineItem>
+<lineItem coaCode="SCEX">-0.020000</lineItem>
+<lineItem coaCode="SICF">5.820000</lineItem>
+<lineItem coaCode="ITLI">5.800000</lineItem>
+<lineItem coaCode="SFCF">-2.000000</lineItem>
+<lineItem coaCode="FPRD">-2.781000</lineItem>
+<lineItem coaCode="FTLF">-4.781000</lineItem>
+<lineItem coaCode="SFEE">-0.114000</lineItem>
+<lineItem coaCode="SNCC">1.683000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2014-06-30" FiscalYear="2014" FiscalPeriodNumber="4">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UCA">Updated Calculated</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">4.998000</lineItem>
+<lineItem coaCode="RTLR">4.998000</lineItem>
+<lineItem coaCode="SCOR">1.373000</lineItem>
+<lineItem coaCode="SGRP">3.625000</lineItem>
+<lineItem coaCode="SSGA">1.000000</lineItem>
+<lineItem coaCode="SINN">0.740000</lineItem>
+<lineItem coaCode="SUIE">-0.008000</lineItem>
+<lineItem coaCode="ETOE">3.105000</lineItem>
+<lineItem coaCode="SOPI">1.893000</lineItem>
+<lineItem coaCode="EIBT">1.893000</lineItem>
+<lineItem coaCode="TTAX">0.127000</lineItem>
+<lineItem coaCode="TIAT">1.766000</lineItem>
+<lineItem coaCode="NIBX">1.766000</lineItem>
+<lineItem coaCode="NINC">1.766000</lineItem>
+<lineItem coaCode="CIAC">1.766000</lineItem>
+<lineItem coaCode="XNIC">1.766000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">1.766000</lineItem>
+<lineItem coaCode="SDWS">88.104820</lineItem>
+<lineItem coaCode="SDBF">0.020040</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">0.019960</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">3.008000</lineItem>
+<lineItem coaCode="SCSI">3.008000</lineItem>
+<lineItem coaCode="ATRC">1.814000</lineItem>
+<lineItem coaCode="APPY">0.056000</lineItem>
+<lineItem coaCode="SOCA">6.326000</lineItem>
+<lineItem coaCode="ATCA">11.204000</lineItem>
+<lineItem coaCode="SINV">76.894000</lineItem>
+<lineItem coaCode="SOLA">0.026000</lineItem>
+<lineItem coaCode="ATOT">88.124000</lineItem>
+<lineItem coaCode="LAEX">0.000000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">3.586000</lineItem>
+<lineItem coaCode="SOCL">2.100000</lineItem>
+<lineItem coaCode="LTCL">5.686000</lineItem>
+<lineItem coaCode="LLTD">28.802000</lineItem>
+<lineItem coaCode="LTTD">28.802000</lineItem>
+<lineItem coaCode="STLD">32.388000</lineItem>
+<lineItem coaCode="SBDT">0.269000</lineItem>
+<lineItem coaCode="SLTL">2.939000</lineItem>
+<lineItem coaCode="LTLL">37.696000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">93.424000</lineItem>
+<lineItem coaCode="QUGL">-50.641000</lineItem>
+<lineItem coaCode="SOTE">7.645000</lineItem>
+<lineItem coaCode="QTLE">50.428000</lineItem>
+<lineItem coaCode="QTEL">88.124000</lineItem>
+<lineItem coaCode="QTCO">81.843520</lineItem>
+<lineItem coaCode="STBP">0.616150</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-2.200000</lineItem>
+<lineItem coaCode="SNCI">6.000000</lineItem>
+<lineItem coaCode="SCTP">0.270000</lineItem>
+<lineItem coaCode="SCIP">2.597000</lineItem>
+<lineItem coaCode="SOCF">-2.724000</lineItem>
+<lineItem coaCode="OTLO">1.076000</lineItem>
+<lineItem coaCode="SCEX">-0.611000</lineItem>
+<lineItem coaCode="SICF">21.521000</lineItem>
+<lineItem coaCode="ITLI">20.910000</lineItem>
+<lineItem coaCode="SFCF">-4.046000</lineItem>
+<lineItem coaCode="FPRD">-16.893000</lineItem>
+<lineItem coaCode="FTLF">-20.939000</lineItem>
+<lineItem coaCode="SFEE">-1.733000</lineItem>
+<lineItem coaCode="SNCC">-0.686000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2013-12-31" FiscalYear="2014" FiscalPeriodNumber="2">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2013-12-31</StatementDate>
+<Source Date="2014-02-28">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="SREV">0.511000</lineItem>
+<lineItem coaCode="RTLR">0.511000</lineItem>
+<lineItem coaCode="SCOR">1.359000</lineItem>
+<lineItem coaCode="SGRP">-0.848000</lineItem>
+<lineItem coaCode="SSGA">1.264000</lineItem>
+<lineItem coaCode="SINN">1.605000</lineItem>
+<lineItem coaCode="SUIE">0.376000</lineItem>
+<lineItem coaCode="ETOE">4.604000</lineItem>
+<lineItem coaCode="SOPI">-4.093000</lineItem>
+<lineItem coaCode="EIBT">-4.093000</lineItem>
+<lineItem coaCode="TTAX">0.063000</lineItem>
+<lineItem coaCode="TIAT">-4.156000</lineItem>
+<lineItem coaCode="NIBX">-4.156000</lineItem>
+<lineItem coaCode="NINC">-4.156000</lineItem>
+<lineItem coaCode="CIAC">-4.156000</lineItem>
+<lineItem coaCode="XNIC">-4.156000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-4.156000</lineItem>
+<lineItem coaCode="SDWS">88.178310</lineItem>
+<lineItem coaCode="SDBF">-0.047130</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.044360</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2013-12-31</StatementDate>
+<Source Date="2014-02-28">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">3.396000</lineItem>
+<lineItem coaCode="SCSI">3.396000</lineItem>
+<lineItem coaCode="ATRC">1.726000</lineItem>
+<lineItem coaCode="APPY">0.086000</lineItem>
+<lineItem coaCode="SOCA">18.220000</lineItem>
+<lineItem coaCode="ATCA">23.428000</lineItem>
+<lineItem coaCode="SINV">78.022000</lineItem>
+<lineItem coaCode="SOLA">0.031000</lineItem>
+<lineItem coaCode="ATOT">101.481000</lineItem>
+<lineItem coaCode="LAEX">0.445000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">11.164000</lineItem>
+<lineItem coaCode="SOCL">1.833000</lineItem>
+<lineItem coaCode="LTCL">13.442000</lineItem>
+<lineItem coaCode="LLTD">29.862000</lineItem>
+<lineItem coaCode="LTTD">29.862000</lineItem>
+<lineItem coaCode="STLD">41.026000</lineItem>
+<lineItem coaCode="SBDT">0.246000</lineItem>
+<lineItem coaCode="SLTL">3.012000</lineItem>
+<lineItem coaCode="LTLL">46.562000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">99.500000</lineItem>
+<lineItem coaCode="QUGL">-54.383000</lineItem>
+<lineItem coaCode="SOTE">9.802000</lineItem>
+<lineItem coaCode="QTLE">54.919000</lineItem>
+<lineItem coaCode="QTEL">101.481000</lineItem>
+<lineItem coaCode="QTCO">81.877640</lineItem>
+<lineItem coaCode="STBP">0.670740</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="UPD">Updated Normal</UpdateType>
+<StatementDate>2013-12-31</StatementDate>
+<Source Date="2014-02-28">Interim Report</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-4.093000</lineItem>
+<lineItem coaCode="SNCI">5.715000</lineItem>
+<lineItem coaCode="SCTP">0.099000</lineItem>
+<lineItem coaCode="SCIP">1.285000</lineItem>
+<lineItem coaCode="SOCF">-1.983000</lineItem>
+<lineItem coaCode="OTLO">-0.361000</lineItem>
+<lineItem coaCode="SCEX">-0.008000</lineItem>
+<lineItem coaCode="SICF">9.757000</lineItem>
+<lineItem coaCode="ITLI">9.749000</lineItem>
+<lineItem coaCode="FPRD">-10.114000</lineItem>
+<lineItem coaCode="FTLF">-10.114000</lineItem>
+<lineItem coaCode="SFEE">0.428000</lineItem>
+<lineItem coaCode="SNCC">-0.298000</lineItem>
+</Statement>
+</FiscalPeriod>
+<FiscalPeriod Type="Interim" EndDate="2013-06-30" FiscalYear="2013" FiscalPeriodNumber="4">
+<Statement Type="INC">
+<FPHeader>
+<PeriodLength>6</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="CCA">Reclassified Calculated</UpdateType>
+<AccountingStd></AccountingStd>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="SREV">3.558000</lineItem>
+<lineItem coaCode="RTLR">3.558000</lineItem>
+<lineItem coaCode="SCOR">1.092000</lineItem>
+<lineItem coaCode="SGRP">2.466000</lineItem>
+<lineItem coaCode="SSGA">1.553000</lineItem>
+<lineItem coaCode="SINN">1.381000</lineItem>
+<lineItem coaCode="SUIE">0.240000</lineItem>
+<lineItem coaCode="SOOE">0.025000</lineItem>
+<lineItem coaCode="ETOE">4.291000</lineItem>
+<lineItem coaCode="SOPI">-0.733000</lineItem>
+<lineItem coaCode="EIBT">-0.733000</lineItem>
+<lineItem coaCode="TTAX">0.071000</lineItem>
+<lineItem coaCode="TIAT">-0.804000</lineItem>
+<lineItem coaCode="NIBX">-0.804000</lineItem>
+<lineItem coaCode="NINC">-0.804000</lineItem>
+<lineItem coaCode="CIAC">-0.804000</lineItem>
+<lineItem coaCode="XNIC">-0.804000</lineItem>
+<lineItem coaCode="SDAJ">0.000000</lineItem>
+<lineItem coaCode="SDNI">-0.804000</lineItem>
+<lineItem coaCode="SDWS">88.178310</lineItem>
+<lineItem coaCode="SDBF">-0.009120</lineItem>
+<lineItem coaCode="DDPS1">0.000000</lineItem>
+<lineItem coaCode="VDES">-0.007350</lineItem>
+</Statement>
+<Statement Type="BAL">
+<FPHeader>
+<UpdateType Code="RES">Restated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ACAE">3.694000</lineItem>
+<lineItem coaCode="SCSI">3.694000</lineItem>
+<lineItem coaCode="ATRC">1.703000</lineItem>
+<lineItem coaCode="APPY">0.138000</lineItem>
+<lineItem coaCode="SOCA">25.297000</lineItem>
+<lineItem coaCode="ATCA">30.832000</lineItem>
+<lineItem coaCode="SINV">83.199000</lineItem>
+<lineItem coaCode="SOLA">0.037000</lineItem>
+<lineItem coaCode="ATOT">114.068000</lineItem>
+<lineItem coaCode="LAEX">0.194000</lineItem>
+<lineItem coaCode="LSTD">0.000000</lineItem>
+<lineItem coaCode="LCLD">12.422000</lineItem>
+<lineItem coaCode="SOCL">2.308000</lineItem>
+<lineItem coaCode="LTCL">14.924000</lineItem>
+<lineItem coaCode="LLTD">35.260000</lineItem>
+<lineItem coaCode="LTTD">35.260000</lineItem>
+<lineItem coaCode="STLD">47.682000</lineItem>
+<lineItem coaCode="SBDT">0.390000</lineItem>
+<lineItem coaCode="SLTL">4.274000</lineItem>
+<lineItem coaCode="LTLL">54.848000</lineItem>
+<lineItem coaCode="SCMS">0.000000</lineItem>
+<lineItem coaCode="QRED">97.540000</lineItem>
+<lineItem coaCode="QUGL">-48.267000</lineItem>
+<lineItem coaCode="SOTE">9.947000</lineItem>
+<lineItem coaCode="QTLE">59.220000</lineItem>
+<lineItem coaCode="QTEL">114.068000</lineItem>
+<lineItem coaCode="QTCO">81.877640</lineItem>
+<lineItem coaCode="STBP">0.723270</lineItem>
+</Statement>
+<Statement Type="CAS">
+<FPHeader>
+<PeriodLength>12</PeriodLength>
+<periodType Code="M">Months</periodType>
+<UpdateType Code="RES">Restated Normal</UpdateType>
+<StatementDate>2014-06-30</StatementDate>
+<AuditorName Code="KPCI">KPMG Channel Islands Limited</AuditorName>
+<AuditorOpinion Code="UNQ">Unqualified</AuditorOpinion>
+<Source Date="2014-10-21">ARS</Source>
+</FPHeader>
+<lineItem coaCode="ONET">-3.337000</lineItem>
+<lineItem coaCode="SNCI">8.677000</lineItem>
+<lineItem coaCode="SCTP">0.284000</lineItem>
+<lineItem coaCode="SCIP">2.763000</lineItem>
+<lineItem coaCode="SOCF">-3.176000</lineItem>
+<lineItem coaCode="OTLO">2.164000</lineItem>
+<lineItem coaCode="SCEX">-0.576000</lineItem>
+<lineItem coaCode="SICF">10.716000</lineItem>
+<lineItem coaCode="ITLI">10.140000</lineItem>
+<lineItem coaCode="FPRD">-12.908000</lineItem>
+<lineItem coaCode="FTLF">-12.908000</lineItem>
+<lineItem coaCode="SFEE">-0.359000</lineItem>
+<lineItem coaCode="SNCC">-0.963000</lineItem>
+</Statement>
+</FiscalPeriod>
+</InterimPeriods>
+</FinancialStatements>
+</ReportFinancialStatements>

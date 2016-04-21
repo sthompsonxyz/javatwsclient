@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AA524</CoID>
+		<CoID Type="CompanyName">Hydrodec Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HYR</IssueID>
+			<IssueID Type="CUSIP">G4674T106</IssueID>
+			<IssueID Type="ISIN">GB00B02FJF09</IssueID>
+			<IssueID Type="RIC">HYR.L</IssueID>
+			<IssueID Type="SEDOL">B02FJF0</IssueID>
+			<IssueID Type="DisplayRIC">HYR.L</IssueID>
+			<IssueID Type="InstrumentPI">17903362</IssueID>
+			<IssueID Type="QuotePI">17900816</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2013-10-21">1.00704</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-08</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">250</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="532031539.0">746682805.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:05:49">Hydrodec Group plc is a United Kingdom-based clean-tech oil re-refining company with operations in the United States, Australia and the United Kingdom. The Company handles, treats and re-refines used oil to produce oils for re-use. The Company has two operating segments: Re-refining and Recycling. The Company's Re-refining segment is principally engaged in the treatment of used transformer oil and the sale of SUPERFINETM oil. The Company's Recycling segment principally engaged in the collection and treatment of waste lubricant oil and the sale of recycled oil products. The Company's subsidiaries include Hydrodec Holdco Limited, Hydrodec Development Corporation (UK) Limited, Hydrodec Development Corporation Pty Limited, Hydrodec (UK) Limited, Hydrodec Re-refining (UK) Limited, Hydrodec Inc, Hydrodec of North America LLC, Hydrodec Australia Pty Limited, Hydrodec Japan Co Limited, Hydrotek Eco Japan Co Limited and Virotec International plc.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-29T03:33:40">BRIEF: For the six months ended 30 June 2015, Hydrodec Group plc revenues decreased 27% to $21.3M. Net loss increased from $3.5M to $7.4M. Revenues reflect Re-refining segment decrease of 52% to $4.8M, Recycling segment decrease of 15% to $16.5M, United Kingdom segment decrease of 86% to $2.7M, Australia segment decrease of 40% to $2.1M. Higher net loss reflects Re-refining segment loss totaling $3.1M vs. income of $1.6M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-10T07:21:07">
+		<streetAddress line="1">6 Hay's Lane</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SE1 2HB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33001643</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>33001652</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-08-27T10:25:33"><webSite mainCategory="Home Page">http://www.hydrodec.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-10T07:21:07">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010203010" mnem="">Oil &amp; Gas Refining and Marketing - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="324191" mnem="">Petroleum Lubricating Oil and Grease Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2992" mnem="">Lubricating Oils And Greases</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="07/07/2012">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Ellis</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="04" iD1="CEO" abbr1="CEO" iD2="CFO" abbr2="CFO">Acting Chief Executive, Chief Financial Officer, Executive Non-Independent Director</title>
+		</officer>
+		<officer rank="2" since="12/2004">
+			<firstName>Mark</firstName>
+			<mI>D.</mI>
+			<lastName>McNamara</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="01" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Senior Executive Director, Head - Technology and International Projects</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>James</firstName>
+			<mI></mI>
+			<lastName>Hodges</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.03750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.09986</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.12094</Ratio>
+			<Ratio FieldName="EV" Type="N">20.03486</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">28.00061</Ratio>
+			<Ratio FieldName="AREV" Type="N">38.68866</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">0.11026</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-6.67087</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00896</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.05200</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.05265</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.01415</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00173</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">26.11031</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-15.60774</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.72374</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.71221</Ratio>
+			<Ratio FieldName="Employees" Type="N">250</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.10263</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-2.94811</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">33.64416</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01272</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-12.65190</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

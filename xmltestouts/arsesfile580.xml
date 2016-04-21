@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AAC94</CoID>
+		<CoID Type="CompanyName">YouGov Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">YOU</IssueID>
+			<IssueID Type="CUSIP">G9875S112</IssueID>
+			<IssueID Type="ISIN">GB00B1VQ6H25</IssueID>
+			<IssueID Type="RIC">YOU.L</IssueID>
+			<IssueID Type="SEDOL">B1VQ6H2</IssueID>
+			<IssueID Type="DisplayRIC">YOU.L</IssueID>
+			<IssueID Type="InstrumentPI">20182018</IssueID>
+			<IssueID Type="QuotePI">20405051</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2007-04-11">5.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-07-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-07-31">622</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="84889884.0">104260531.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-25T21:53:22">YouGov plc is the United Kingdom-based international market research company. The Company has 6 operating divisions based on geography -UK, Middle East, Germany, Nordic, USA and France. Its 3 product lines are Custom Research, Data Products and Data Services. The Companys products includes BrandIndex, Profiles, Pulse, Omnibus, Reports and CustomResearch. BrandIndex is a daily brand perception tracker. YouGovs flagship brand intelligence service, tells its clients what the world thinks of their brands and their competitors at any given moment. Profiles- Planning and segmentation tool. Pulse- Is a real-time digital behavior tracker. Omnibus surveys are run daily, providing nationally representative responses to clients within a 48 hour turnaround (only 24 hours in the UK).Reports (previously called SixthSense reports)-Comprehensive market intelligence report. CustomResearch-Quantitative and qualitative research. YouGov ME FZ LLC, YouGov M.E. Egypt LLC, are few of its subsidiaries.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-23T03:25:06">BRIEF: For the fiscal year ended 31 July 2015, YouGov Plc revenues increased 13% to L76.1M. Net income increased from L433K to L3.2M. Revenues reflect United States segment increase of 20% to L25.9M, United Kingdom segment increase of 22% to L22.9M. Net income benefited from Acquisition related costs decrease of 65% to L431K (expense), Restructuring Costs decrease of 45% to L650K (expense). Dividend per share remained flat at L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T03:25:09">
+		<streetAddress line="1">50 Featherstone Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC1Y 8RT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>70126000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-28T11:21:11"><webSite mainCategory="Home Page">https://yougov.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@yougov.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T03:25:09">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330201021" mnem="">Market Research</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54191" mnem="">Marketing Research and Public Opinion Polling</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8732" mnem="">Commercial Nonphysical Research</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Stephan</firstName>
+			<mI></mI>
+			<lastName>Shakespeare</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="04" startDay="06" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="08/11/2008">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Newman</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="08" startDay="11" iD1="CFO" abbr1="CFO" iD2="SEC" abbr2="Secy.">Chief Financial Officer, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="08/11/2011">
+			<firstName>Richard</firstName>
+			<mI>Douglas</mI>
+			<lastName>Rivers</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director,Chief Scientist</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-07-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.34000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.56000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.01500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02535</Ratio>
+			<Ratio FieldName="EV" Type="N">129.69210</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">139.70910</Ratio>
+			<Ratio FieldName="AREV" Type="N">76.11000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">9.40500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">3.24000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.03084</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.72452</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.59888</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.09739</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.08314</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">77.04375</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">5.42151</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.83562</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">43.45006</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.23751</Ratio>
+			<Ratio FieldName="Employees" Type="N">622</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="7" CurInterimEndCalYear="2015" CurInterimEndMonth="10" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.73500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.32833</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">83.43330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.07733</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">10.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.01200</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

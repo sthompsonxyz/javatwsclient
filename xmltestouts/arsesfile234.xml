@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AB7D0</CoID>
+		<CoID Type="CompanyName">Gemfields PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GEM</IssueID>
+			<IssueID Type="CUSIP">G3910W105</IssueID>
+			<IssueID Type="ISIN">GB00B0HX1083</IssueID>
+			<IssueID Type="RIC">GEM.L</IssueID>
+			<IssueID Type="SEDOL">B0HX108</IssueID>
+			<IssueID Type="DisplayRIC">GEM.L</IssueID>
+			<IssueID Type="InstrumentPI">22636448</IssueID>
+			<IssueID Type="QuotePI">23441182</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-13</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">1334</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="130631923.0">543646730.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-04T11:03:54">Gemfields plc is a supplier of colored gemstones. The Company's segments include Zambia, which include emerald and beryl mining activities; Mozambique, which include ruby and corundum mining activities; UK, which include sales of cut and polished gemstones, marketing, technical and administrative services; Faberge, which include the wholesale and retail sales of jewelry, and Other, which include new projects, traded auctions, sales and marketing offices. The Company's assets include Kagem emerald mine, which covers an area of approximately 41 square kilometers and is located in the central part of the Ndola rural emerald restricted area, Zambia; Montepuez ruby mine, which is located in the Cabo Delgado province and covers an area of approximately 33,600 hectares, and Kariba amethyst mine, which covers an area of approximately 396 hectares. Its subsidiary Oriental Mining SARL has around 15 exploration licenses in the Antananarivo, Fianarantsoa and Toliara provinces of Madagascar.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-13T10:18:57">BRIEF: For the fiscal year ended 30 June 2015, Gemfields PLC revenues increased 7% to $171.4M. Net income decreased 58% to $3.7M. Revenues reflect Mozambique segment increase from $33.5M to $88.5M, Mozambique segment increase from $33.5M to $88.5M. Net income was offset by Zambia segment income decrease of 81% to $9.4M, Others segment income decrease of 87% to $2.7M, Zambia segment income decrease of 81% to $9.4M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-04T11:03:54">
+		<streetAddress line="1">54 Jermyn Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 6LX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>75183400</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>71978193</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-27T12:24:21"><webSite mainCategory="Home Page">http://www.gemfields.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-04T11:03:54">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120101010" mnem="">Precious Metals &amp; Minerals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212399" mnem="">All Other Non-Metallic Mineral Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1499" mnem="">Misc Nonmetallic Minerals</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Benvenuto</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="PRE" abbr1="Pres." iD2="COO" abbr2="COO">Faberg President, Chief Operating Officer</title>
+		</officer>
+		<officer rank="2" since="02/12/2009">
+			<firstName>Ian</firstName>
+			<mI>Timothy</mI>
+			<lastName>Harebottle</lastName>
+			<age>52 </age>
+			<title startYear="2009" startMonth="02" startDay="12" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="08/05/2013">
+			<firstName>Janet</firstName>
+			<mI></mI>
+			<lastName>Blas</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="08" startDay="05" iD1="CFO" abbr1="CFO" iD2="SEC" abbr2="Secy.">Chief Financial Officer, Secretary</title>
+		</officer>
+		<officer rank="4" since="01/01/2010">
+			<firstName>Devidas</firstName>
+			<mI>Krishna</mI>
+			<lastName>Shetty</lastName>
+			<age>37 </age>
+			<title startYear="2015" startMonth="" startDay="" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Cyrille</firstName>
+			<mI></mI>
+			<lastName>Djankoff</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Head of Fine Gemstones/ Managing Director, Kariba Minerals Limited</title>
+		</officer>
+		<officer rank="6" since="06/06/2008">
+			<firstName>Sean</firstName>
+			<mI>Thomas</mI>
+			<lastName>Gilbertson</lastName>
+			<age>42 </age>
+			<title startYear="2009" startMonth="02" startDay="12" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Adrian</firstName>
+			<mI></mI>
+			<lastName>Banks</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="DSL" abbr1="Dir.-Sales" iD2="" abbr2="">Director, Sales and products</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Anna</firstName>
+			<mI></mI>
+			<lastName>Haber</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="DMK" abbr1="Dir.-Mktg." iD2="" abbr2="">Director, Global Marketing</title>
+		</officer>
+		<officer rank="9" since="NA">
+			<firstName>Gabriella</firstName>
+			<mI></mI>
+			<lastName>Harvey</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Director, Cut and Polished Sales</title>
+		</officer>
+		<officer rank="10" since="2008">
+			<firstName>Sanjay</firstName>
+			<mI>Kumar</mI>
+			<lastName>Khandelwal</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Project Manager, Montepuez Ruby Mining Limitada</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.45250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.69000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.35000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.13438</Ratio>
+			<Ratio FieldName="EV" Type="N">257.82230</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">246.00020</Ratio>
+			<Ratio FieldName="AREV" Type="N">121.18120</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">45.53129</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">2.61520</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00473</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.21903</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.31667</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.03637</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.05915</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">49.55730</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">1.53184</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.03002</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">95.69512</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.42895</Ratio>
+			<Ratio FieldName="Employees" Type="N">1334</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.85821</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">24.90369</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">132.22146</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.01817</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">27.02792</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

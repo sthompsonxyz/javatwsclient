@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3F4C</CoID>
+		<CoID Type="CompanyName">JPMorgan European Smaller Cos Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">JESC</IssueID>
+			<IssueID Type="CUSIP">G3162Y122</IssueID>
+			<IssueID Type="ISIN">GB00BMTS0Z37</IssueID>
+			<IssueID Type="RIC">JESC.L</IssueID>
+			<IssueID Type="SEDOL">BMTS0Z3</IssueID>
+			<IssueID Type="DisplayRIC">JESC.L</IssueID>
+			<IssueID Type="InstrumentPI">286093</IssueID>
+			<IssueID Type="QuotePI">8201301</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-07-23">5.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-24</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">0</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="158171565.0">160147885.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:09:09">JPMorgan European Smaller Companies Trust plc is a United Kingdom-based investment trust. The Company's investment objective is to achieve capital growth from a portfolio of quoted smaller companies in Europe, excluding the United Kingdom. The Company invests in equities and other securities for the long term. The Company invests in markets that operate delivery versus payment (DVP) settlement. It invests up to 12.5% of its total assets in any one individual stock at the time of acquisition. Its portfolio of investment includes industrial engineering, real estate investment and services, pharmaceuticals and biotechnology, oil equipment, services and distribution, support services, food producers, automobiles and parts, mobile telecoms, household goods and construction, and personal goods. It has operations in various countries, such as Germany, Sweden, Netherlands, Italy and France, among others. The Company's investment manager is JPMorgan Asset Management (UK) Limited (JPMAM).</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-24T11:35:13">BRIEF: For the six months ended 30 September 2015, JPMorgan European Smaller Cos Trust PLC revenues increased from -L67.4M to L13.4M. Net income totaled L10.2M vs. loss of L71.3M. Revenues reflect Gains on Investments held at fair value increase from -L78.2M to L7.4M. Dividend per share remained flat at L0.01. Basic Earnings per Share excluding Extraordinary Items increased from -L0.45 to L0.06.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-19T11:23:03">
+		<streetAddress line="1">60 Victoria Embankment</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4Y 0JP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77424000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-09-05T03:27:39"><webSite mainCategory="Home Page">http://am.jpmorgan.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-19T11:23:03">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.58000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.94455</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.18750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.13153</Ratio>
+			<Ratio FieldName="EV" Type="N">455.29050</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">413.18150</Ratio>
+			<Ratio FieldName="AREV" Type="N">7.75500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">1.64200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">0.89500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00559</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04842</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.68331</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00812</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03200</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">30.12250</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">0.20736</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">53.27937</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">461.53850</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.96150</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2011" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2010" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

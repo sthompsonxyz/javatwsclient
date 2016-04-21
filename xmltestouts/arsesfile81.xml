@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D3608</CoID>
+		<CoID Type="CompanyName">Trinity Exploration &amp; Production PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TRIN</IssueID>
+			<IssueID Type="CUSIP">G9068W102</IssueID>
+			<IssueID Type="ISIN">GB00B8JG4R91</IssueID>
+			<IssueID Type="RIC">TRIN.L</IssueID>
+			<IssueID Type="SEDOL">B8JG4R9</IssueID>
+			<IssueID Type="DisplayRIC">TRIN.L</IssueID>
+			<IssueID Type="InstrumentPI">88127243</IssueID>
+			<IssueID Type="QuotePI">89651336</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2013-02-14">0.1</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-04</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">306</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="46881353.0">94799986.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-04T23:43:47">Trinity Exploration &amp; Production plc (Trinity), formerly Bayfield Energy Holdings plc, is an upstream oil and gas company. Trinity and its subsidiaries are engaged in the exploration, development and production of oil and gas reserves in Trinidad and Tobago and South Africa. The Company operates all of its licences and has 2P (proved and probable) reserves of 48 Million Barrels (mmbbl). The Company operates 12 licences in Trinidad, across the onshore, west coast and east coast assets. The Company holds 65% working interest in TGAL- 1 exploration well located in the east coast of Trinidad. Trinity holds 70% working interest and operates El Dorado-1 exploration well in the west coast.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-01T13:32:23">BRIEF: For the six months ended 30 June 2015, Trinity Exploration &amp; Production PLC revenues decreased 55% to $27.8M. Net loss decreased 31% to $15.8M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Lower net loss reflects Exploration cost write off decrease from $17.5M (expense) to $0K, Royalties decrease of 59% to $8.6M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-05T01:11:38">
+		<streetAddress line="1">84 Brook Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1K 5EH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77479200</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>79304920</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-21T10:05:52"><webSite mainCategory="Home Page">http://www.trinityexploration.com</webSite><eMail mainCategory="Company Contact/E-mail">info@trinioil.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-05T01:11:38">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/31/2015">
+			<firstName>Bruce</firstName>
+			<mI>Alan Ian</mI>
+			<lastName>Dingwall</lastName>
+			<age>55 </age>
+			<title startYear="2015" startMonth="12" startDay="31" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="12/31/2015">
+			<firstName>Jeremy</firstName>
+			<mI></mI>
+			<lastName>Bridgla</lastName>
+			<age>36 </age>
+			<title startYear="2015" startMonth="12" startDay="31" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="3" since="09/30/2014">
+			<firstName>Craig</firstName>
+			<mI></mI>
+			<lastName>McCallum</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="09" startDay="30" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="4" since="2012">
+			<firstName>Sookdeo</firstName>
+			<mI></mI>
+			<lastName>Heeralal</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Manager - Commercial</title>
+		</officer>
+		<officer rank="5" since="2014">
+			<firstName>Richard</firstName>
+			<mI></mI>
+			<lastName>Ramirez</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Executive Manager, HSSE</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.03120</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.24300</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01240</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.36022</Ratio>
+			<Ratio FieldName="EV" Type="N">4.87746</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2.95776</Ratio>
+			<Ratio FieldName="AREV" Type="N">80.19678</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">20.16741</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-99.97474</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-1.05459</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.84596</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.58719</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.22579</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.93280</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">70.97644</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-94.92093</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.03688</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.05313</Ratio>
+			<Ratio FieldName="Employees" Type="N">306</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.07485</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">32.79598</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-6.57333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

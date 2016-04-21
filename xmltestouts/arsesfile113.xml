@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EE416</CoID>
+		<CoID Type="CompanyName">Patisserie Holdings PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CAKE</IssueID>
+			<IssueID Type="CUSIP">G6944X106</IssueID>
+			<IssueID Type="ISIN">GB00BM4NV504</IssueID>
+			<IssueID Type="RIC">CAKEP.L</IssueID>
+			<IssueID Type="SEDOL">BM4NV50</IssueID>
+			<IssueID Type="DisplayRIC">CAKEP.L</IssueID>
+			<IssueID Type="InstrumentPI">153553066</IssueID>
+			<IssueID Type="QuotePI">157589763</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-06</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">2547</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="53231276.0">100000000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-02-23T08:03:55">Patisserie Holdings PLC is a United Kingdom-based cafe and casual dining company. The Company offers cakes, pastries, snacks, meals and hot and cold drinks from approximately 140 stores and Flour Power City Bakery in the United Kingdom. Its segments include Patisserie Valerie, Druckers, Baker &amp; Spice, Flour Power and Philpotts. It offers cakes in categories, including celebration cakes, wedding cakes and individual treats. It also offers create-a-cake feature, which allows its customers to design gateaux. The Company manufactures its products in approximately seven bakeries. The Company sells its products primarily through stores and through an online channel. The Company's brand, Druckers, offers a counter service. Its brand, Philpotts, is a sandwich retailer. The Company also offers afternoon tea. It manufactures gelato, an Italian style ice cream, in a range of flavors. It manufactures confectioneries, such as truffles and marzipan figures. It also offers function rooms.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-06T12:48:40">BRIEF: For the fiscal year ended 30 September 2015, Patisserie Holdings PLC revenues increased 20% to L91.9M. Net income increased 28% to L11.4M. Revenues reflect Patisserie Valerie segment increase of 23% to L62.9M, Philpotts segment increase of 61% to L10M. Net income benefited from Other Exceptional decrease from L858K (expense) to L0K, Bank loans and overdrafts decrease of 94% to L27K (expense). Dividend per share totaled to L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T08:03:55">
+		<streetAddress line="1">146-156 Sarehole Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BIRMINGHAM</city>
+		<state-region></state-region>
+		<postalCode>B28 8DT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated=""><webSite mainCategory=""></webSite><eMail mainCategory=""></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T08:03:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330102016" mnem="">Cafs</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="722212" mnem="">Cafeterias</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5812" mnem="">Eating Places</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/27/2014">
+			<firstName>Luke</firstName>
+			<mI>Oliver</mI>
+			<lastName>Johnson</lastName>
+			<age>53 </age>
+			<title startYear="2014" startMonth="03" startDay="27" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="05/27/2014">
+			<firstName>Paul</firstName>
+			<mI>Edward</mI>
+			<lastName>May</lastName>
+			<age>55 </age>
+			<title startYear="2014" startMonth="05" startDay="27" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="3" since="03/27/2014">
+			<firstName>Christopher</firstName>
+			<mI>David</mI>
+			<lastName>Marsh</lastName>
+			<age>40 </age>
+			<title startYear="2014" startMonth="03" startDay="27" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.77250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.83025</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.55000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.09490</Ratio>
+			<Ratio FieldName="EV" Type="N">371.15500</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">377.25000</Ratio>
+			<Ratio FieldName="AREV" Type="N">91.92500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">18.76100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">11.40500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11324</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.91269</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.66698</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.06095</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.15471</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01670</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">77.28148</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">18.76532</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.10389</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">33.31420</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.65609</Ratio>
+			<Ratio FieldName="Employees" Type="N">2547</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.1667</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.67400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">28.17822</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">106.23830</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.13388</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">17.01670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.03035</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

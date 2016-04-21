@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5B96</CoID>
+		<CoID Type="CompanyName">London Stock Exchange Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">LSE</IssueID>
+			<IssueID Type="CUSIP">G5689U103</IssueID>
+			<IssueID Type="ISIN">GB00B0SWJX34</IssueID>
+			<IssueID Type="RIC">LSE.L</IssueID>
+			<IssueID Type="SEDOL">B0SWJX3</IssueID>
+			<IssueID Type="DisplayRIC">LSE.L</IssueID>
+			<IssueID Type="InstrumentPI">504417</IssueID>
+			<IssueID Type="QuotePI">716144</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-09-11">1.0856</MostRecentSplit>
+		</Issue>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">LSEC</IssueID>
+			<IssueID Type="CUSIP">G5689U152</IssueID>
+			<IssueID Type="ISIN">GB00B1HNSG03</IssueID>
+			<IssueID Type="RIC">LSEC.L^B07</IssueID>
+			<IssueID Type="InstrumentPI">29296190</IssueID>
+			<IssueID Type="QuotePI">29296091</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-20</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">4692</Employees>
+		<SharesOut Date="2016-02-23" TotalFloat="344416764.0">348376066.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-30T23:29:00">London Stock Exchange Group plc Is a United Kingdom-based diversified international market infrastructure and capital markets business. The Company operates through seven segments: capital markets, Post Trade Services CC&amp;G and Monte Titol, Post Trade Services LCH Clearnet; Information Services; Technology Services; Investment Management, and Other. The Capital Markets segment forms capital for companies trading in London and Italy. The Post Trade Services CC&amp;G and Monte Titoli segment offers open access and efficient clearing, settlement and custody services. The Post Trade Services LCH Clearnet provides clearing services for sell-side clearing members and buy-side clients in conjunction with trading venues globally. The Information Services segment provides information and data products, including indices and benchmarks, pricing data, coding and post trade analytics, reporting and reconciliation services. The Technology Services segment provides technology-based services.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-20T07:08:56">BRIEF: For the six months ended 30 June 2015, London Stock Exchange Group Plc revenues totaled L705.9M. Net income before extraordinary items totaled to L115.5M. Results are not comparable due to year end change.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T09:20:33">
+		<streetAddress line="1">10 Paternoster Square</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4M 7LS</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77971000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-29T14:39:43"><webSite mainCategory="Home Page">http://www.londonstockexchange.com</webSite><eMail mainCategory="Company Contact/E-mail">irinfo-r@lseg.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T09:20:33">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510205010" mnem="">Financial &amp; Commodity Market Operators - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52321" mnem="">Securities and Commodity Exchanges</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52311" mnem="">Investment Banking and Securities Dealing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52313" mnem="">Commodity Contracts Dealing</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="523999" mnem="">Miscellaneous Financial Investment Activities</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6231" mnem="">Security And Commodity Exchanges</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6211" mnem="">Security Brokers And Dealers</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6221" mnem="">Commodity Contracts Brokers/dlrs</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6289" mnem="">Security/commodity Services Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/20/2009">
+			<firstName>Xavier</firstName>
+			<mI>R.</mI>
+			<lastName>Rolet</lastName>
+			<age>55 </age>
+			<title startYear="2009" startMonth="05" startDay="20" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="07/02/2012">
+			<firstName>David</firstName>
+			<mI>P.</mI>
+			<lastName>Warren</lastName>
+			<age>61 </age>
+			<title startYear="2012" startMonth="07" startDay="02" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="06/04/2010">
+			<firstName>Raffaele</firstName>
+			<mI></mI>
+			<lastName>Jerusalmi</lastName>
+			<age>53 </age>
+			<title startYear="2010" startMonth="06" startDay="04" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">Director - Capital Markets, Chief Executive Officer of Borsa Italiana S.p.A., Executive Director</title>
+		</officer>
+		<officer rank="4" since="02/2014">
+			<firstName>Suneel</firstName>
+			<mI></mI>
+			<lastName>Bakhshi</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="02" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer - LCH.Clearnet Group Ltd</title>
+		</officer>
+		<officer rank="5" since="2012">
+			<firstName>Alexander</firstName>
+			<mI></mI>
+			<lastName>Justham</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer, London Stock Exchange plc</title>
+		</officer>
+		<officer rank="6" since="02/09/2010">
+			<firstName>Antoine</firstName>
+			<mI></mI>
+			<lastName>Shagoury</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="06" startDay="12" iD1="COO" abbr1="COO" iD2="CIO" abbr2="CIO">Group Chief Operating Officer, Chief Information Officer</title>
+		</officer>
+		<officer rank="7" since="06/01/2013">
+			<firstName>Diane</firstName>
+			<mI></mI>
+			<lastName>Cote</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="06" startDay="01" iD1="CRO" abbr1="CRO" iD2="" abbr2="">Group Chief Risk Officer</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Len</firstName>
+			<mI>P.</mI>
+			<lastName>Brennan</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">CEO of Russell Investments and LSEG Group Director of Buyside Solutions</title>
+		</officer>
+		<officer rank="9" since="2014">
+			<firstName>Serge</firstName>
+			<mI></mI>
+			<lastName>Harry</lastName>
+			<age>55 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chairman of globeSettle and LSEG Country Head for France, Benelux and Germany</title>
+		</officer>
+		<officer rank="10" since="NA">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Lester</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="06" startDay="12" iD1="OTH" abbr1="Other" iD2="" abbr2="">Group Director - Corporate Strategy</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">26.30000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">27.86000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">20.83000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.76433</Ratio>
+			<Ratio FieldName="EV" Type="N">9761.37000</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">9162.17000</Ratio>
+			<Ratio FieldName="AREV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">7.28308</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">3.24935</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.61111</Ratio>
+			<Ratio FieldName="Employees" Type="N">4692</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.2143</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">26.21154</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">13.5060</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">21.97765</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2391.96640</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.19667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.57700</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">584.27040</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.30514</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4014</CoID>
+		<CoID Type="CompanyName">Panther Securities PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PNS</IssueID>
+			<IssueID Type="CUSIP">G6889Y101</IssueID>
+			<IssueID Type="ISIN">GB0005132070</IssueID>
+			<IssueID Type="RIC">PNS.L</IssueID>
+			<IssueID Type="SEDOL">0513207</IssueID>
+			<IssueID Type="DisplayRIC">PNS.L</IssueID>
+			<IssueID Type="InstrumentPI">292849</IssueID>
+			<IssueID Type="QuotePI">1079534</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-14</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">22</Employees>
+		<SharesOut Date="2015-08-06" TotalFloat="1714185.0">17746929.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-02T10:11:57">Panther Securities PLC is a United Kingdom-based property investment company. The Company is engaged in investment and dealing in property and securities. The primary objective of the Company is to maximize long-term returns for its shareholders by growth in net asset value and dividend per share, from a rental income stream. The Company owns and manages over 800 individual property units within approximately 130 separately designated buildings over the mainland United Kingdom. It specializes in property investing and managing of secondary retail, industrial units and offices, and also owns residential flats in several town Centre locations. Its portfolio is spread across the United Kingdom mainland from Perth in the north to Southampton in the south and Swansea in the west to Hull in the east. Its subsidiaries include Panther Trading Limited, Panther Developments Limited, Panther Shop Investments Limited and Panther Shop Investments (Midlands) Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-14T11:48:18">BRIEF: For the six months ended 30 June 2015, Panther Securities PLC revenues decreased 3% to L7.3M. Net income before extraordinary items decreased 18% to L2.5M. Revenues reflect Trading (MRG Systems) segment decrease of 40% to L830K. Net income also reflects FV Adjustments on Investment Property decrease from L3M (income) to L0K, G/L on Invest. HFS, Maturity &amp; Trading increase from L0K to L244K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-14T11:48:21">
+		<streetAddress line="1">Deneway House</streetAddress>
+		<streetAddress line="2">88-94 Darkes Lane, Potters Bar</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>HERTFORDSHIRE</city>
+		<state-region></state-region>
+		<postalCode>EN6 1AQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1707</city-areacode>
+				<number>667300</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1707</city-areacode>
+				<number>667301</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-09-21T13:40:14"><webSite mainCategory="Home Page">http://www.panthersecurities.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@panthersecurities.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-14T11:48:21">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540201010" mnem="">Real Estate Development &amp; Operations - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="52311" mnem="">Investment Banking and Securities Dealing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="523999" mnem="">Miscellaneous Financial Investment Activities</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6211" mnem="">Security Brokers And Dealers</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6289" mnem="">Security/commodity Services Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Andrew</firstName>
+			<mI>Stewart</mI>
+			<lastName>Perloff</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board, Chief Executive</title>
+		</officer>
+		<officer rank="2" since="06/23/2005">
+			<firstName>Simon</firstName>
+			<mI>Jeffrey</mI>
+			<lastName>Peters</lastName>
+			<age>37 </age>
+			<title startYear="2005" startMonth="06" startDay="23" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="07/01/2005">
+			<firstName>John</firstName>
+			<mI>Terence</mI>
+			<lastName>Doyle</lastName>
+			<age></age>
+			<title startYear="2005" startMonth="07" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="07/01/2005">
+			<firstName>John</firstName>
+			<mI>Henry</mI>
+			<lastName>Perloff</lastName>
+			<age></age>
+			<title startYear="2005" startMonth="07" startDay="01" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.77500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">4.02000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.00000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00008</Ratio>
+			<Ratio FieldName="EV" Type="N">141.43966</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">66.99466</Ratio>
+			<Ratio FieldName="AREV" Type="N">14.83200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">6.48900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">4.69200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.27064</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.85552</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.08708</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.30508</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.27733</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">65.99245</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">6.73422</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">4.51690</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.94842</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.92364</Ratio>
+			<Ratio FieldName="Employees" Type="N">22</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

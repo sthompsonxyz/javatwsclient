@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AAB79</CoID>
+		<CoID Type="CompanyName">BowLeven PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BLVN</IssueID>
+			<IssueID Type="CUSIP">G1488U105</IssueID>
+			<IssueID Type="ISIN">GB00B04PYL99</IssueID>
+			<IssueID Type="RIC">BLVN.L</IssueID>
+			<IssueID Type="SEDOL">B04PYL9</IssueID>
+			<IssueID Type="DisplayRIC">BLVN.L</IssueID>
+			<IssueID Type="InstrumentPI">18771635</IssueID>
+			<IssueID Type="QuotePI">18881870</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-26</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">49</Employees>
+		<SharesOut Date="2015-12-22" TotalFloat="290282058.0">327275601.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-05T23:00:36">Bowleven plc is an independent exploration and development company focused on Africa. The Company has interests in Cameroon, Kenya and Zambia. In Cameroon, the Group operates the offshore shallow water Etinde Permit spread across 2,316 square kilometer (km2), where plans for a staged development of the liquids-rich discoveries on the acreage are advancing, and the onshore Bomono Permit spread in 2,328km2, where exploration drilling is planned. Its Cameroon operations are managed through EurOil Ltd, a wholly owned subsidiary of the Company. The Companys project in Kenya is in a hydrocarbon province block 11B, which is situated at the intersection of the tertiary and cretaceous East African Rift systems. Block 11B encompasses an area of 14,000km2 covering the Loeli, Lotikipi, Gatome and South Gatome basin.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-26T14:32:52">BRIEF: For the fiscal year ended 30 June 2015, BowLeven PLC revenues was not reported. Net loss increased from $13.5M to $89.9M. Higher net loss reflects Exchange rate loss increase of 37% to $2.4M (expense). Basic Earnings per Share excluding Extraordinary Items decreased from -$0.04 to -$0.28.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-26T14:32:54">
+		<streetAddress line="1">The Cube, 45 Leith Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH1 3AT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Kerry Crawford</contactName>
+		<contactTitle>Finance Director &amp; Head of Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>5245678</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>5245690</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>131</city-areacode>
+				<number>524 5678</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-24T12:30:28"><webSite mainCategory="Home Page">http://www.bowleven.com</webSite><eMail mainCategory="Company Contact/E-mail">info@bowleven.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-26T14:32:54">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="211112" mnem="">Natural Gas Liquid Extraction</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="213112" mnem="">Support Activities for Oil and Gas Operations</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1321" mnem="">Natural Gas Liquids</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1389" mnem="">Oil And Gas Field Services, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/01/2006">
+			<firstName>Kevin</firstName>
+			<mI></mI>
+			<lastName>Hart</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="11" startDay="17" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>John</firstName>
+			<mI>D.</mI>
+			<lastName>Brown</lastName>
+			<age>50 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Chief</firstName>
+			<mI></mI>
+			<lastName>Tabetando</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">Executive Director; Chairman of EurOil</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Peter</firstName>
+			<mI>G.</mI>
+			<lastName>Wilson</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="05" startDay="05" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="5" since="06/26/2013">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Clarkson</lastName>
+			<age>62 </age>
+			<title startYear="2013" startMonth="06" startDay="26" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Operations Director, Executive Director</title>
+		</officer>
+		<officer rank="6" since="01/2007">
+			<firstName>Edward</firstName>
+			<mI>Arthur Farquhar</mI>
+			<lastName>Willett</lastName>
+			<age></age>
+			<title startYear="2008" startMonth="03" startDay="28" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Exploration Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.20750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.34475</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.18025</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.93047</Ratio>
+			<Ratio FieldName="EV" Type="N">-34.40171</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">67.90969</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-8.10782</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-63.51324</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.19583</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.09711</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.31544</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.19532</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-16.49285</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.18913</Ratio>
+			<Ratio FieldName="Employees" Type="N">49</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.8571</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.51929</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-11.28945</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1.06615</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01838</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-0.01414</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-7.07863</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

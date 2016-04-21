@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A493F</CoID>
+		<CoID Type="CompanyName">Carnival plc</CoID>
+		<CoID Type="IRSNo">980357772</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CCL</IssueID>
+			<IssueID Type="CUSIP">G19081101</IssueID>
+			<IssueID Type="ISIN">GB0031215220</IssueID>
+			<IssueID Type="RIC">CCL.L</IssueID>
+			<IssueID Type="SEDOL">3121522</IssueID>
+			<IssueID Type="DisplayRIC">CCL.L</IssueID>
+			<IssueID Type="InstrumentPI">533567</IssueID>
+			<IssueID Type="QuotePI">1281424</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">12243760</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-16</LastModified>
+		<LatestAvailableAnnual>2015-11-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-11-30</LatestAvailableInterim>
+		<SharesOut Date="2016-02-09" TotalFloat="189169708.0">772548546.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-04T23:19:21">Carnival plc is a cruise vacation company. The Company has three cruise segments that consist of North America cruise brands, Europe, Australia &amp; Asia (EAA) cruise brands, and Cruise Support. In addition, it also has a Tour and Other segment. The Company offers its services under nine cruise brands. Its North America segment cruise brands include Carnival Cruise Lines, Holland America Line, Princess Cruises (Princess) and Seabourn. Its EAA segment cruise brands include AIDA Cruises (AIDA), Costa Cruises (Costa), Cunard, P&amp;O Cruises (Australia) and P&amp;O Cruises (United Kingdom). Its Cruise Support segment includes its cruise port and related facilities located in Cozumel, Mexico; Grand Turk, Turks and Caicos Islands, Roatan, Honduras and Puerto Plata, Dominican Republic. In addition to its cruise operations, it owns Holland America Princess Alaska Tours, a tour company in Alaska and the Canadian Yukon.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-16T09:16:26">BRIEF: For the fiscal year ended 30 November 2015, Carnival plc revenues decreased 1% to $15.71B. Net income increased 44% to $1.76B. Revenues reflect Passenger tickets decrease of 2% to $11.6B. Net income reflects Payroll and related decrease of 4% to $1.86B (expense), Interest Exp-Net of Capitalized Interest decrease of 25% to $217M (expense), Depreciation and amortization decrease of 1% to $1.63B (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T09:43:42">
+		<streetAddress line="1">100 Harbour Parade</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SOUTHAMPTON</city>
+		<state-region></state-region>
+		<postalCode>SO15 1ST</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Beth Roberts</contactName>
+		<contactTitle>Vice President - Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>23</city-areacode>
+				<number>80655000</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>305</city-areacode>
+				<number>4065539</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-02-22T10:31:54"><webSite mainCategory="Home Page">http://www.carnivalcorp.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T09:43:42">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330101012" mnem="">Cruise Lines</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="483112" mnem="">Deep Sea Passenger Transportation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="48831" mnem="">Port and Harbor Operations</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="56152" mnem="">Tour Operators</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4481" mnem="">Deep Sea Pass'R Trans Not Ferry</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4491" mnem="">Marine Cargo Handling</Industry>
+			<Industry type="SIC" order="3" reported="0" code="4725" mnem="">Tour Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/2003">
+			<firstName>Micky</firstName>
+			<mI>Meir</mI>
+			<lastName>Arison</lastName>
+			<age>66 </age>
+			<title startYear="2013" startMonth="07" startDay="03" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="07/03/2013">
+			<firstName>Arnold</firstName>
+			<mI>W.</mI>
+			<lastName>Donald</lastName>
+			<age>61 </age>
+			<title startYear="2013" startMonth="07" startDay="03" iD1="PRE" abbr1="Pres." iD2="CEO" abbr2="CEO">President, Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="3" since="07/09/2007">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Bernstein</lastName>
+			<age>58 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="4" since="11/2003">
+			<firstName>Stein</firstName>
+			<mI></mI>
+			<lastName>Kruse</lastName>
+			<age>57 </age>
+			<title startYear="2013" startMonth="12" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer of Holland America Group</title>
+		</officer>
+		<officer rank="5" since="07/2012">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Thamm</lastName>
+			<age>52 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">Chief Executive Officer of Costa Group</title>
+		</officer>
+		<officer rank="6" since="02/2004">
+			<firstName>Alan</firstName>
+			<mI>B.</mI>
+			<lastName>Buckelew</lastName>
+			<age>67 </age>
+			<title startYear="2013" startMonth="12" startDay="01" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="7" since="08/1995">
+			<firstName>Arnaldo</firstName>
+			<mI></mI>
+			<lastName>Perez</lastName>
+			<age>55 </age>
+			<title startYear="2013" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Secretary</title>
+		</officer>
+		<officer rank="8" since="06/21/2007">
+			<firstName>David</firstName>
+			<mI>K.</mI>
+			<lastName>Dingle</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="09" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Chairman of Carnival UK</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-11-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">34.58000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">39.55262</Ratio>
+			<Ratio FieldName="NLOW" Type="N">28.83000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.84633</Ratio>
+			<Ratio FieldName="EV" Type="N">31270.13910</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">26045.40000</Ratio>
+			<Ratio FieldName="AREV" Type="N">11106.81000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2968.60200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1241.86500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.59418</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">14.25778</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">21.76371</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.27720</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">3.06950</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.77749</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">51.71185</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">7.32465</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.34499</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.69138</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.58888</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="11" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.2308</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">41.05449</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">19.3263</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.88272</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">11677.67055</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">2580.03780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">2.32350</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">0.22406</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1851.05142</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.87291</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

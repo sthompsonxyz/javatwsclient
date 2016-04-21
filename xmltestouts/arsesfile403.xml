@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5AEC</CoID>
+		<CoID Type="CompanyName">Petra Diamonds Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PDL</IssueID>
+			<IssueID Type="CUSIP">G70278109</IssueID>
+			<IssueID Type="ISIN">BMG702781094</IssueID>
+			<IssueID Type="RIC">PDL.L</IssueID>
+			<IssueID Type="SEDOL">0683564</IssueID>
+			<IssueID Type="DisplayRIC">PDL.L</IssueID>
+			<IssueID Type="InstrumentPI">266031</IssueID>
+			<IssueID Type="QuotePI">1079451</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-23</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">4428</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="504824492.0">522795562.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-20T05:15:54">Petra Diamonds Limited is a diamond mining company and a supplier of rough diamonds to the international market. The Company's segments include Mining and Exploration. Its Mining segment is engaged in the extraction and sale of rough diamonds from mining operations in South Africa and Tanzania. Its Exploration segment is engaged in exploration activities in Botswana. It has interests in five producing mines: Finsch, Cullinan, Koffiefontein and Kimberley Underground, all of which are located in South Africa, and Williamson, which is located in Tanzania. Finsch covers an area of approximately 18 hectares, Cullinan covers an area of approximately 32 hectares and Koffiefontein covers an area of approximately 11 hectares. The Kimberley Underground operation consists of three kimberlite pipe mines: Bultfontein, Dutoitspan and Wesselton, with a total area of approximately 30 hectares. Williamson is an open pit operation based upon approximately 146 hectare Mwadui kimberlite pipe.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T15:12:17">BRIEF: For the six months ended 31 December 2015, Petra Diamonds Limited revenues decreased 28% to $154M. Net loss totaled $3.7M vs. income of $30.4M. Revenues reflect Cullinan Mine segment decrease of 68% to $25.1M, Williamson Mine segment decrease of 15% to $29.7M, Kimberley Underground Mine segment decrease of 14% to $15.5M. Net loss reflects Cullinan Mine segment loss totaling $7.5M vs. income of $41.3M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-23T03:18:37">
+		<streetAddress line="1">Elizabeth House, 9 Castle Street,</streetAddress>
+		<streetAddress line="2">PO Box 1075</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SAINT HELIER</city>
+		<state-region></state-region>
+		<postalCode>JE4 2QP</postalCode>
+		<country code="JEY">Jersey</country>
+		<contactName>Cathy Malins</contactName>
+		<contactTitle>Corporate Communications Manager</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1534</city-areacode>
+				<number>700111</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1534</city-areacode>
+				<number>700007</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74948200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-19T13:16:10"><webSite mainCategory="Home Page">http://www.petradiamonds.com</webSite><eMail mainCategory="Company Contact/E-mail">cathym@petradiamonds.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-23T03:18:37">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120101013" mnem="">Diamond Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212399" mnem="">All Other Non-Metallic Mineral Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42184" mnem="">Industrial Supplies Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1499" mnem="">Misc Nonmetallic Minerals</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5085" mnem="">Industrial Supplies</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/01/2005">
+			<firstName>Johan</firstName>
+			<mI></mI>
+			<lastName>Dippenaar</lastName>
+			<age>56 </age>
+			<title startYear="2005" startMonth="06" startDay="16" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="07/30/2003">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Abery</lastName>
+			<age>50 </age>
+			<title startYear="2003" startMonth="07" startDay="30" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="06/01/2005">
+			<firstName>Jim</firstName>
+			<mI>M.</mI>
+			<lastName>Davidson</lastName>
+			<age>68 </age>
+			<title startYear="2005" startMonth="06" startDay="16" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Technical Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.87250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.92600</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.52765</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.48821</Ratio>
+			<Ratio FieldName="EV" Type="N">578.84140</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">456.13910</Ratio>
+			<Ratio FieldName="AREV" Type="N">300.39430</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">93.79369</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">34.35097</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.06495</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.56799</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.79543</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.20939</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.13084</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02120</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">26.14118</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.24288</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.51847</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.43366</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.09690</Ratio>
+			<Ratio FieldName="Employees" Type="N">4428</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6111</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.46720</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">49.2000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.88447</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">289.39445</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">86.93763</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.06284</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">60.21109</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02248</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

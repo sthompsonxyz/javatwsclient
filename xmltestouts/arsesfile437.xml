@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A62AA</CoID>
+		<CoID Type="CompanyName">Punch Taverns plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PUB</IssueID>
+			<IssueID Type="CUSIP">G73003124</IssueID>
+			<IssueID Type="ISIN">GB00BPXRVT80</IssueID>
+			<IssueID Type="RIC">PUB.L</IssueID>
+			<IssueID Type="SEDOL">BPXRVT8</IssueID>
+			<IssueID Type="DisplayRIC">PUB.L</IssueID>
+			<IssueID Type="InstrumentPI">7466735</IssueID>
+			<IssueID Type="QuotePI">7582851</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-10-13">0.05</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-17</LastModified>
+		<LatestAvailableAnnual>2015-08-22</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-22</LatestAvailableInterim>
+		<Employees LastUpdated="2015-08-22">409</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="221457783.0">221928626.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2016-02-22T07:04:06">Punch Taverns plc is a United Kingdom-based pub company. The Company is engaged in the operation of public houses under the leased model, which involves the granting of leases to tenants operating the pub as their own business, paying rent to the Company, purchasing beer and other drinks from the Company, and entering into profit-sharing arrangements for income from leisure machines. The Company's segments include core estate and non-core estate. The Company is an operator of leased and tenanted pubs. The Company's pub categories include Community Pubs, High Street Pubs and Destination Pubs. The Company's pubs include The Study Room, Lancaster; The Old Volunteer, Nottingham, and Chequers, Bilton-in-Ainsty. The Company operates approximately 3,590 pubs located across the United Kingdom. The Company operates approximately 30 pubs under the Retail contract. The Company has a property portfolio consisting of over nine million square feet of ground floor gross area.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-17T00:04:00">BRIEF: For the fiscal year ended 22 August 2015, Punch Taverns plc revenues decreased 6% to L420.8M. Net loss decreased 53% to L82.6M. Revenues reflect Non-Core segment decrease of 26% to L50.1M, Core estate segment decrease of 2% to L370.7M. Lower net loss reflects Interest Payable decrease of 22% to L124.5M (expense), Impairment decrease of 68% to L16.4M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T07:04:06">
+		<streetAddress line="1">Jubilee House, Second Avenue</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>BURTON UPON TRENT</city>
+		<state-region></state-region>
+		<postalCode>DE14 2WF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1283</city-areacode>
+				<number>501999</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1283</city-areacode>
+				<number>501601</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-26T09:48:45"><webSite mainCategory="Home Page">http://www.punchtaverns.com</webSite><eMail mainCategory="Company Contact/E-mail">investors@punchtaverns.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T07:04:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330102011" mnem="">Pubs, Bars &amp; Night Clubs</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="72241" mnem="">Drinking Places (Alcoholic Beverages)</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="72211" mnem="">Full-Service Restaurants</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5813" mnem="">Drinking Places</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5812" mnem="">Eating Places</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="06/15/2015">
+			<firstName>Duncan</firstName>
+			<mI></mI>
+			<lastName>Garrood</lastName>
+			<age>56 </age>
+			<title startYear="2015" startMonth="06" startDay="15" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="2003">
+			<firstName>Steve</firstName>
+			<mI></mI>
+			<lastName>Dando</lastName>
+			<age>41 </age>
+			<title startYear="2015" startMonth="08" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="06/18/2010">
+			<firstName>Ed</firstName>
+			<mI></mI>
+			<lastName>Bashforth</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="06" startDay="18" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-08-22">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.00500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.43600</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.87000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02171</Ratio>
+			<Ratio FieldName="EV" Type="N">1642.33830</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">223.03830</Ratio>
+			<Ratio FieldName="AREV" Type="N">420.80000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">188.60000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-82.60000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.41717</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.12525</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.25588</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.63135</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.35404</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-16.58302</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.53003</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.30867</Ratio>
+			<Ratio FieldName="Employees" Type="N">409</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="8" CurInterimEndCalYear="2016" CurInterimEndMonth="2" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.4</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.61250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">4.95220</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">406.24000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.20294</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">56.54000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

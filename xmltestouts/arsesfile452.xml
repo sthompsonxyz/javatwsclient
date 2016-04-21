@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4945</CoID>
+		<CoID Type="CompanyName">Regus PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RGU</IssueID>
+			<IssueID Type="CUSIP">G7477W101</IssueID>
+			<IssueID Type="ISIN">JE00B3CGFD43</IssueID>
+			<IssueID Type="RIC">RGU.L</IssueID>
+			<IssueID Type="SEDOL">B3CGFD4</IssueID>
+			<IssueID Type="DisplayRIC">RGU.L</IssueID>
+			<IssueID Type="InstrumentPI">316616</IssueID>
+			<IssueID Type="QuotePI">593459</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2004-07-16">1.02</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Redeem. Pref. Shrs</IssueID>
+			<IssueID Type="InstrumentPI">126144238</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-05</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">8700</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="631651968.0">930483609.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-04-30T01:06:23">Regus plc is engaged in providing global office outsourcing services. The Company's network of over 2,200 locations across some 100 countries provides serviced spaces for people to work, for any period of time. The Company operates through four segments: Americas, Europe, Middle East and Africa (EMEA), Asia Pacific, and the United Kingdom. The Company's locations provide a range of products and services that cater to the needs of its customers. These include private offices, meeting rooms, co-working, training rooms, virtual offices and administration support. In addition, the Company also offers Business Lounges, Workplace RecoveryVideo Conferencing, Businessworld and other Support Services.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-05T07:26:01">BRIEF: For the six months ended 30 June 2015, Regus PLC revenues increased 16% to L937M. Net income increased from L24.8M to L67.2M. Revenues reflect Americas segment increase of 18% to L381.7M, United Kingdom segment increase of 15% to L215.7M. Net income benefited from Finance expense decrease of 19% to L7.4M (expense). Dividend per share remained flat at L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-07T07:25:02">
+		<streetAddress line="1">26 Boulevard Royal</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LUXEMBOURG</city>
+		<state-region></state-region>
+		<postalCode>2449</postalCode>
+		<country code="LUX">Luxembourg</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>352</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>99991</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>352</countryPhoneCode>
+				<city-areacode>22</city-areacode>
+				<number>99995499</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-09T04:48:13"><webSite mainCategory="Home Page">http://www.regus.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.enquiries@regus.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-07T07:25:02">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304010" mnem="">Business Support Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="541611" mnem="">Administrative Management and General Management Consulting Services</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Mark</firstName>
+			<mI></mI>
+			<lastName>Dixon</lastName>
+			<age>51 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/01/2015">
+			<firstName>Dominik</firstName>
+			<mI></mI>
+			<lastName>de Daniel</lastName>
+			<age>39 </age>
+			<title startYear="2015" startMonth="11" startDay="01" iD1="CFO" abbr1="CFO" iD2="COO" abbr2="COO">Chief Financial Officer, Chief Operating Officer, Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Tim</firstName>
+			<mI></mI>
+			<lastName>Regan</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.84900</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.56500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.00000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.52883</Ratio>
+			<Ratio FieldName="EV" Type="N">2788.94800</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2650.94800</Ratio>
+			<Ratio FieldName="AREV" Type="N">1676.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">223.10000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">69.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.07185</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.72294</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.57287</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07760</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.19572</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">22.85663</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">13.29403</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.58162</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">39.65205</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.97322</Ratio>
+			<Ratio FieldName="Employees" Type="N">8700</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.29444</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">32.2800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">25.65049</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1942.65250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.11107</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">136.89090</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04447</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

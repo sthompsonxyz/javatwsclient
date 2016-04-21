@@ -38,7 +38,7 @@ public class ContractInfoPanel extends JPanel {
 	private final NewTabbedPanel m_requestPanels = new NewTabbedPanel();
 	private final NewTabbedPanel m_resultsPanels = new NewTabbedPanel();
 
-	public File m_testInFile = new File("/home/samb1/dev/IBJts/twsjavas/gbpftses_aa.txt");
+	public File m_testInFile = new File("/home/samb1/dev/IBJts/twsjavas/gbpftsetickers.txt");
 	public File m_testoutFile = new File("test_out_file.txt");
 	public File m_contractsoutFile = new File("contracts_out_file.txt");
 
@@ -220,7 +220,8 @@ public class ContractInfoPanel extends JPanel {
 			System.out.println(str);
 			System.out.println(m_iFileCounter);
 			m_iFileCounter++;
-			String outFileName = "outfile" + m_iFileCounter;
+			//String outFileName = "outfile" + m_iFileCounter;
+			String outFileName = "xmltestouts" + File.separator + "arsesfile" + m_iFileCounter + ".xml";
 			try {
 				File outFile = new File(outFileName);
 				FileWriter owriter = new FileWriter(outFile);

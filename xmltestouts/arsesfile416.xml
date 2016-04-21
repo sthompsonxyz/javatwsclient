@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3433</CoID>
+		<CoID Type="CompanyName">Primary Health Properties PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Real Estate Trust</IssueID>
+			<IssueID Type="Ticker">PHP</IssueID>
+			<IssueID Type="CUSIP">G7240B186</IssueID>
+			<IssueID Type="ISIN">GB00BYRJ5J14</IssueID>
+			<IssueID Type="RIC">PHP.L</IssueID>
+			<IssueID Type="SEDOL">BYRJ5J1</IssueID>
+			<IssueID Type="DisplayRIC">PHP.L</IssueID>
+			<IssueID Type="InstrumentPI">358866</IssueID>
+			<IssueID Type="QuotePI">1079848</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2015-11-12">4.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-18</LastModified>
+		<LatestAvailableAnnual>2015-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2010-12-31">0</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="382717864.0">446281348.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:35:29">Primary Health Properties PLC (PHP) is a United Kingdom-based healthcare real estate investment trust (REIT). The Group is engaged in the generation of rental income and capital growth through investment in primary healthcare property in the United Kingdom leased principally to general practitioners (GPs), NHS organizations and other associated healthcare users. The Group's business model is to invest solely in the freehold or long leasehold of modern purpose built primary healthcare facilities in the United Kingdom, which the Group held for long term investments. The Group also invests in completed, let properties acquired from a range of investors. As of December 31, 2014, the Group held a total of 265 property assets, with 260 completed and five on-site, under construction.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-18T03:33:11">BRIEF: For the fiscal year ended 31 December 2015, Primary Health Properties PLC revenues increased 5% to L63.1M. Net income increased 52% to L56M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net income benefited from Net result on property portfolio increase of 36% to L39.8M (income), hedging reserve increase from L2.5M (expense) to L1M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-18T11:36:21">
+		<streetAddress line="1">5th Floor</streetAddress>
+		<streetAddress line="2">Greener House, 66-68 Haymarket</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 4RF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74517050</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74517051</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-19T10:51:04"><webSite mainCategory="Home Page">http://www.phpgroup.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-18T11:36:21">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540304011" mnem="">Healthcare REITs</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/17/2015">
+			<firstName>Phil</firstName>
+			<mI></mI>
+			<lastName>Holland</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="02" startDay="17" iD1="FID" abbr1="Fin. Dir." iD2="DMD" abbr2="Dep-Mgng.Dir.">Finance Director, Deputy Managing Director, Director</title>
+		</officer>
+		<officer rank="2" since="02/1996">
+			<firstName>Harry</firstName>
+			<mI>Abraham</mI>
+			<lastName>Hyman</lastName>
+			<age></age>
+			<title startYear="1996" startMonth="02" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="DRC" abbr2="Dir.">Managing Director, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.06250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.13500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.94000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.07742</Ratio>
+			<Ratio FieldName="EV" Type="N">1169.03290</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">474.17390</Ratio>
+			<Ratio FieldName="AREV" Type="N">63.11500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">55.45600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">56.03200</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.11229</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.11904</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.77386</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00646</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">98.65008</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">17.12234</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">7.51286</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.46211</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.37298</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2016" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.18500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">19.71975</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">66.91480</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.05388</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">26.31380</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.05115</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

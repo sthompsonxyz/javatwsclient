@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC6EC</CoID>
+		<CoID Type="CompanyName">Dillistone Group Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DSG</IssueID>
+			<IssueID Type="CUSIP">G2876P104</IssueID>
+			<IssueID Type="ISIN">GB00B13QQB40</IssueID>
+			<IssueID Type="RIC">DSG.L</IssueID>
+			<IssueID Type="SEDOL">B13QQB4</IssueID>
+			<IssueID Type="DisplayRIC">DSG.L</IssueID>
+			<IssueID Type="InstrumentPI">26291516</IssueID>
+			<IssueID Type="QuotePI">26546010</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2011-06-14">3.0</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-17</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">103</Employees>
+		<SharesOut Date="2015-07-16" TotalFloat="7614754.0">19668021.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-02-08T22:51:11">Dillistone Group Plc is a United Kingdom-based company, which provides software and services to recruitment firms and recruitment teams across the world. The Company operates in approximately 60 countries with over 2,000 firms. It operates in two divisions, including Dillistone Systems and Voyager Software. Dillistone Systems specializes in the supply of software and services into executive level recruitment teams. The divisions main product is FileFinder 10, which is the latest iteration of the FileFinder software system built using Microsoft .NET framework technology. Voyager Software division is involved in contingent recruitment, including permanent placement, contract placement and the provision of temporary staff. Voyagers products include Voyager Professional, Voyager Commercial, Voyager VDQ! and Voyager Mid-Office, a product range used by temp and contingency recruiters. The division also has Voyager Infinity.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-17T01:49:08">BRIEF: For the six months ended 30 June 2015, Dillistone Group Plc revenues increased 12% to L4.7M. Net income decreased 7% to L476K. Revenues reflect Voyager segment increase of 27% to L2.4M, Dillistone Systems segment remaining flat at L2.3M, United Kingdom segment increase of 15% to L3.8M, United States segment increase of 14% to L676K. Net income was offset by Dillistone Systems segment income decrease of 31% to L480K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-04T02:06:10">
+		<streetAddress line="1">50 Leman Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>E1 8HQ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77496100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77296108</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-10-01T09:07:37"><webSite mainCategory="Home Page">http://www.dillistonegroup.com</webSite><eMail mainCategory="Company Contact/E-mail">info@dillistonegroup.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-04T02:06:10">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720102013" mnem="">Enterprise Software</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Jason</firstName>
+			<mI>Stuart</mI>
+			<lastName>Starr</lastName>
+			<age>43 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="04/19/2010">
+			<firstName>Julie</firstName>
+			<mI>Patricia</mI>
+			<lastName>Pomeroy</lastName>
+			<age>59 </age>
+			<title startYear="2010" startMonth="04" startDay="19" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Rory</firstName>
+			<mI></mI>
+			<lastName>Howard</lastName>
+			<age>47 </age>
+			<title startYear="2010" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Operations Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Alexander</firstName>
+			<mI>D.</mI>
+			<lastName>James</lastName>
+			<age>42 </age>
+			<title startYear="2010" startMonth="" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Product Development Director, Executive Director</title>
+		</officer>
+		<officer rank="5" since="01/03/2011">
+			<firstName>Alistair</firstName>
+			<mI>Francois Buchanan</mI>
+			<lastName>Milne</lastName>
+			<age>39 </age>
+			<title startYear="2011" startMonth="01" startDay="03" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Director - Support Services, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.88000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.21112</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.65000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00522</Ratio>
+			<Ratio FieldName="EV" Type="N">15.86586</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">17.30786</Ratio>
+			<Ratio FieldName="AREV" Type="N">8.62500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.41000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.14500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.05950</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.44821</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.33661</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.09950</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.10456</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">87.15362</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.68030</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.00671</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.78992</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.61432</Ratio>
+			<Ratio FieldName="Employees" Type="N">103</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">1.15000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.17241</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">9.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.05800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">1.40000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04100</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">CB5A4</CoID>
+		<CoID Type="CompanyName">JPmorgan Global Emerging Markets Income</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">JEMI</IssueID>
+			<IssueID Type="CUSIP">G52062109</IssueID>
+			<IssueID Type="ISIN">GB00B5ZZY915</IssueID>
+			<IssueID Type="RIC">JEMI.L</IssueID>
+			<IssueID Type="SEDOL">B5ZZY91</IssueID>
+			<IssueID Type="DisplayRIC">JEMI.L</IssueID>
+			<IssueID Type="InstrumentPI">73916878</IssueID>
+			<IssueID Type="QuotePI">73916876</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-07</LastModified>
+		<LatestAvailableAnnual>2015-07-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-07-31">0</Employees>
+		<SharesOut Date="2016-02-05" TotalFloat="293290043.0">294140161.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-12T08:07:02">JPMorgan Global Emerging Markets Income Trust plc is a United Kingdom-based investment trust. The Trust's investment objective is to provide investors with a dividend income combined with the potential for long term capital growth from a diversified portfolio of emerging markets investments. It invests in listed equities and also invests in other securities, including, unlisted equities, convertible securities, preference shares, debt securities, cash and cash equivalents. The Trust's portfolio contains between 50 and 80 holdings. The Trust invests in various sectors, which include financials, information technology, telecommunication services, consumer staples, consumer discretionary, industrials, materials, energy, utilities, healthcare and cash. The Trust employs JPMorgan Funds Limited (JPMF) as its alternative investment fund manager. JPMF delegates the management of the Trust's portfolio to JPMorgan Asset Management (UK) Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-07T21:45:28">BRIEF: For the fiscal year ended 31 July 2015, JPmorgan Global Emerging Markets Income revenues decreased from L10.6M to -L19.6M. Net loss totaled L26.6M vs. income of L4.7M. Revenues reflect Losses/gains on investments held at fair decrease from -L9.3M to -L39.1M, Net foreign currency gains/ (losses) decrease from L2.6M to -L1.9M, UK Investment income decrease from L38K to L0K.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-07T21:45:28">
+		<streetAddress line="1">FInsbury Dials</streetAddress>
+		<streetAddress line="2">20 Finsbury Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4Y 0JP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-28T05:11:04"><webSite mainCategory="Home Page">http://am.jpmorgan.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-07T21:45:28">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-07-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.86250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.24670</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.72940</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.36556</Ratio>
+			<Ratio FieldName="EV" Type="N">276.92890</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">253.69590</Ratio>
+			<Ratio FieldName="AREV" Type="N">-19.64900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-24.67100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-26.61400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.09167</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.06768</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.05503</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00815</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04900</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-8.28125</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.81751</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="7" CurInterimEndCalYear="2015" CurInterimEndMonth="7" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

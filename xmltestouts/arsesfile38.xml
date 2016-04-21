@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EB715</CoID>
+		<CoID Type="CompanyName">Applied Graphene Materials PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AGM</IssueID>
+			<IssueID Type="CUSIP">G0429Z108</IssueID>
+			<IssueID Type="ISIN">GB00BFSSB742</IssueID>
+			<IssueID Type="RIC">AGMA.L</IssueID>
+			<IssueID Type="SEDOL">BFSSB74</IssueID>
+			<IssueID Type="DisplayRIC">AGMA.L</IssueID>
+			<IssueID Type="InstrumentPI">144424908</IssueID>
+			<IssueID Type="QuotePI">144557455</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2015-12-18">1.00717</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-05</LastModified>
+		<LatestAvailableAnnual>2015-07-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-07-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-07-31">33</Employees>
+		<SharesOut Date="2016-01-11" TotalFloat="11474880.0">21872551.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2013-11-19T18:28:05">Applied Graphene Materials plc is a United Kingdom-based company, which develops a bottom up process for the production of specification graphene. The Company provides dispersion and product integration expertise, to deliver solutions for a range of applications. The Companys products include graphene powder and graphene dispersions. Its has the know-how to deliver material solutions for many applications, including advanced composites, paints and coatings, lubricants, oils and functional fluids, apacitors and batteries, thermal management solutions, display materials and packaging, inks and three dimensional (3D)-printers materials and barriers and films. </Text>
+		<Text Type="Financial Summary" lastModified="2016-01-05T10:21:56">BRIEF: For the fiscal year ended 31 July 2015, Applied Graphene Materials PLC revenues increased from L18K to L101K. Net loss increased 47% to L3.9M. Revenues reflect Other income increase from L14K to L60K, Revenue increase from L4K to L41K. Higher net loss reflects Other Operating Expense increase of 74% to L3.6M (expense), Depreciation increase from L42K to L111K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-05T10:21:56">
+		<streetAddress line="1">The Wilton Centre,Redcar</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>CLEVELAND</city>
+		<state-region></state-region>
+		<postalCode>TS10 4RF</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1642</city-areacode>
+				<number>438214</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-11-19T18:18:05"><webSite mainCategory="Home Page">http://www.appliedgraphenematerials.com</webSite><eMail mainCategory="Company Contact/E-mail">investors@appliedgraphenematerials.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-05T10:21:56">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5110101010" mnem="">Commodity Chemicals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="335991" mnem="">Carbon and Graphite Product Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3624" mnem="">Carbon And Graphite Products</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-07-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.75000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">3.01115</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.53896</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00200</Ratio>
+			<Ratio FieldName="EV" Type="N">33.56796</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">38.27696</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.10100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-3.86000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-3.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.22778</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00590</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.26785</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.27480</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.22130</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-237.62380</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-60.41510</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">378.97980</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">6.53342</Ratio>
+			<Ratio FieldName="Employees" Type="N">33</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="7" CurInterimEndCalYear="2015" CurInterimEndMonth="10" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-10.86957</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">0.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.16100</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-4.20000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

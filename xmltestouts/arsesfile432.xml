@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AC32F</CoID>
+		<CoID Type="CompanyName">Playtech PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">PTEC</IssueID>
+			<IssueID Type="CUSIP">G7132V100</IssueID>
+			<IssueID Type="ISIN">IM00B7S9G985</IssueID>
+			<IssueID Type="RIC">PTEC.L</IssueID>
+			<IssueID Type="SEDOL">B7S9G98</IssueID>
+			<IssueID Type="DisplayRIC">PTEC.L</IssueID>
+			<IssueID Type="InstrumentPI">25125972</IssueID>
+			<IssueID Type="QuotePI">25420041</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-22</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">3972</Employees>
+		<SharesOut Date="2015-08-31" TotalFloat="214970097.0">322624603.0</SharesOut>
+		<ReportingCurrency Code="EUR">Euro</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.90695</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:33:29">Playtech plc is an online gambling software and services supplier. The Company is engaged in the development and licensing of software and the provision of ancillary services for the online and land-based gambling industries. Its gaming applications, which include online casino, poker and other P2P games, bingo, mobile, live gaming, land-based terminal and fixed-odds games, are inter-compatible and can be incorporated as stand-alone applications, accessed and funded by the operators' players through the same user account and managed by the operator by means of a single, powerful management interface. It provides six product groupings: Casino, Services, Sport, Bingo, Land-based and Poker. The Company's information management solution (IMS) enables players to gamble online, on mobile and on retail server-based gambling terminals through a single account and wallet. Its subsidiaries include Playtech Software Limited, OU Playtech (Estonia), and Techplay Marketing Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-22T09:28:36">BRIEF: For the six months ended 30 June 2015, Playtech PLC revenues increased 33% to EUR286M. Net income increased 11% to EUR83.9M. Revenues reflect Casino segment increase of 28% to EUR148.8M, Services segment increase of 21% to EUR73.9M. Net income was partially offset by Distributioncosts before depreciation an increase of 58% to EUR154.7M (expense), Depreciationand amortisation increase of 32% to EUR39.7M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-22T09:29:15">
+		<streetAddress line="1">2nd Floor</streetAddress>
+		<streetAddress line="2">St George's Court, Upper Church Street</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DOUGLAS</city>
+		<state-region></state-region>
+		<postalCode>IM1 1EE</postalCode>
+		<country code="IMN">Isle of Man</country>
+		<contactName>Andrew Smith</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>645999</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1624</city-areacode>
+				<number>645954</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-13T02:56:19"><webSite mainCategory="Home Page">http://www.playtech.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@playtech.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-22T09:29:15">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720102010" mnem="">Software - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="541512" mnem="">Computer Systems Design Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7373" mnem="">Computer Integrated System Design</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/02/2007">
+			<firstName>Mor</firstName>
+			<mI></mI>
+			<lastName>Weizer</lastName>
+			<age>39 </age>
+			<title startYear="2007" startMonth="05" startDay="02" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="2011">
+			<firstName>Ron</firstName>
+			<mI></mI>
+			<lastName>Hoffman</lastName>
+			<age>38 </age>
+			<title startYear="2012" startMonth="12" startDay="31" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/2015">
+			<firstName>Brian</firstName>
+			<mI></mI>
+			<lastName>Moore</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+		<officer rank="4" since="2014">
+			<firstName>Paul</firstName>
+			<mI></mI>
+			<lastName>Wright</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary, Legal Counsel</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="EUR" ExchangeRate="0.77933" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.04000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">9.36000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">6.99000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.03424</Ratio>
+			<Ratio FieldName="EV" Type="N">2246.01930</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2593.90200</Ratio>
+			<Ratio FieldName="AREV" Type="N">356.13650</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">154.39620</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">109.36050</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.37115</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.20866</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.31682</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.84130</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.55677</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.20574</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">15.64814</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">7.28345</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">21.66261</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.47028</Ratio>
+			<Ratio FieldName="Employees" Type="N">3972</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.6364</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">10.04229</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">6.5780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">15.95270</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">485.20774</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">130.14811</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.50399</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">163.80994</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.20917</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

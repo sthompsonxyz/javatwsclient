@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3508</CoID>
+		<CoID Type="CompanyName">Euromoney Institutional Investor PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ERM</IssueID>
+			<IssueID Type="CUSIP">G31556122</IssueID>
+			<IssueID Type="ISIN">GB0006886666</IssueID>
+			<IssueID Type="RIC">ERM.L</IssueID>
+			<IssueID Type="SEDOL">0688666</IssueID>
+			<IssueID Type="DisplayRIC">ERM.L</IssueID>
+			<IssueID Type="InstrumentPI">261071</IssueID>
+			<IssueID Type="QuotePI">1080693</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">2320</Employees>
+		<SharesOut Date="2016-02-02" TotalFloat="40614938.0">128250492.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-16T10:41:38">Euromoney Institutional Investor PLC is a United Kingdom-based business-to-business media company, which is focused on the international finance, metals and commodities sectors. The Company's divisions include research and data; financial publishing; business publishing, and conferences, seminars and training. Financial publishing and Business publishing consists primarily of advertising and subscription revenue. Conferences, seminars and training consists of both sponsorship income and delegate revenue. Research and data consists of subscription revenue. The Company owns more than 70 brands, including Euromoney, Institutional Investor and Metal Bulletin, and is a provider of economic and investment research and data under brands, including BCA Research, Ned Davis Research, and the market information providers, EMIS and CEIC. Its offices are located in London, New York, Montreal and Hong Kong.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T06:39:48">BRIEF: For the fiscal year ended 30 September 2015, Euromoney Institutional Investor PLC revenues decreased 1% to L403.4M. Net income increased 40% to L105.4M. Revenues reflect Closed Businesses segment decrease of 88% to L1.7M, Unallocated Corporate Costs segment decrease of 78% to L623K, Financial Publishing segment decrease of 2% to L74.3M, REST OF THE WORLD segment decrease of 15% to L40.3M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T06:39:55">
+		<streetAddress line="1">8 Bouverie Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4Y 8AX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Charles Palmer</contactName>
+		<contactTitle>IR Contact Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77798888</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>77798656</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72697180</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-20T05:06:35"><webSite mainCategory="Home Page">http://www.euromoneyplc.com</webSite><eMail mainCategory="Company Contact/E-mail">charles.palmer@fticonsulting.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T06:39:55">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5330204013" mnem="">Book Publishing</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51112" mnem="">Periodical Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51113" mnem="">Book Publishers</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="51114" mnem="">Database and Directory Publishers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="61143" mnem="">Professional and Management Development Training</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2721" mnem="">Periodicals</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2731" mnem="">Book Publishing</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2741" mnem="">Misc Publishing</Industry>
+			<Industry type="SIC" order="4" reported="0" code="8299" mnem="">Schools/educational Services, Nec</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="6" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/01/2015">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Rashbass</lastName>
+			<age>49 </age>
+			<title startYear="2015" startMonth="11" startDay="19" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/1996">
+			<firstName>Colin</firstName>
+			<mI>Robert</mI>
+			<lastName>Jones</lastName>
+			<age>54 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="07/23/2003">
+			<firstName>Christopher</firstName>
+			<mI>Henry Courtauld</mI>
+			<lastName>Fordham</lastName>
+			<age>54 </age>
+			<title startYear="2016" startMonth="01" startDay="01" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Corporate Development</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Patrick</firstName>
+			<mI>John</mI>
+			<lastName>Sergeant</lastName>
+			<age>90 </age>
+			<title startYear="1992" startMonth="09" startDay="" iD1="NED" abbr1="Non Ex. Dir." iD2="PRE" abbr2="Pres.">President, Non-Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">8.90000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">12.81000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">8.55000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03451</Ratio>
+			<Ratio FieldName="EV" Type="N">1123.75900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1141.42900</Ratio>
+			<Ratio FieldName="AREV" Type="N">403.41200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">112.04700</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">105.44400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.83381</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.19004</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.41672</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.14572</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.01246</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.23400</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">26.79314</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.82944</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">10.67389</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.60484</Ratio>
+			<Ratio FieldName="Employees" Type="N">2320</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">9.93600</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.82739</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">394.93830</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">91.60000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.64365</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">102.77000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.23178</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

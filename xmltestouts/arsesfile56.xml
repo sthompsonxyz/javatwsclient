@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">CA2BC</CoID>
+		<CoID Type="CompanyName">Argos Resources Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary shares</IssueID>
+			<IssueID Type="Ticker">ARG</IssueID>
+			<IssueID Type="CUSIP">P04982107</IssueID>
+			<IssueID Type="ISIN">FK0114538241</IssueID>
+			<IssueID Type="RIC">ARGR.L</IssueID>
+			<IssueID Type="SEDOL">B61L0H0</IssueID>
+			<IssueID Type="DisplayRIC">ARGR.L</IssueID>
+			<IssueID Type="InstrumentPI">73333129</IssueID>
+			<IssueID Type="QuotePI">73916880</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-24</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">6</Employees>
+		<SharesOut Date="2015-07-27" TotalFloat="125923594.0">219713205.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-13T06:59:23">Argos Resources Ltd is a United Kingdom-based oil and gas exploration company. The Company is engaged in oil and gas exploration around the Falkland Islands. The Company's principal asset was its 100% interest in License PL001, which covered approximately 1,126 square kilometers in the North Falkland Basin. The Company has a farm-out agreement with Noble Energy Falklands Limited and Edison International S.p.A in respect of its interest in License PL001. The Company holds a royalty interest of 5% of gross revenues from all hydrocarbon discoveries developed within the License PL001.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-24T09:35:07">BRIEF: For the six months ended 30 June 2015, Argos Resources Ltd revenues was not reported. Net loss increased 16% to $755K. Higher net loss reflects Foreign exchange (losses)/gains increase from $65K (income) to $6K (expense),  Administrative Expenses increase of 4% to $750K (expense), Finance Income decrease of 75% to $1K (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-09-24T09:35:08">
+		<streetAddress line="1">Argos House, H Jones Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>STANLEY</city>
+		<state-region></state-region>
+		<postalCode>FIQQ 1ZZ</postalCode>
+		<country code="FLK">Falkland Islands</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>500</countryPhoneCode>
+				<city-areacode></city-areacode>
+				<number>22685</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-03T11:49:21"><webSite mainCategory="Home Page">http://www.argosresources.com</webSite><eMail mainCategory="Company Contact/E-mail">info@argosresources.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-09-24T09:35:08">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202010" mnem="">Oil &amp; Gas Exploration and Production - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/12/1995">
+			<firstName>Ian</firstName>
+			<mI>Main</mI>
+			<lastName>Thomson</lastName>
+			<age>73 </age>
+			<title startYear="1995" startMonth="12" startDay="12" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="05/16/2005">
+			<firstName>Andrew</firstName>
+			<mI>Grant McKenzie</mI>
+			<lastName>Irvine</lastName>
+			<age>51 </age>
+			<title startYear="2005" startMonth="05" startDay="16" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="05/16/2005">
+			<firstName>John</firstName>
+			<mI>Anthony</mI>
+			<lastName>Hogan</lastName>
+			<age>60 </age>
+			<title startYear="2005" startMonth="05" startDay="16" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Kevin</firstName>
+			<mI></mI>
+			<lastName>Kilmartin</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.04000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.12500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.03672</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.20267</Ratio>
+			<Ratio FieldName="EV" Type="N">7.82515</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">8.78853</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.84676</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-0.91673</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00421</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.09837</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00440</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00414</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-4.17236</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.40662</Ratio>
+			<Ratio FieldName="Employees" Type="N">6</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

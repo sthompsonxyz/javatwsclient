@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A46F3</CoID>
+		<CoID Type="CompanyName">Tate &amp; Lyle PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TATE</IssueID>
+			<IssueID Type="CUSIP">G86838128</IssueID>
+			<IssueID Type="ISIN">GB0008754136</IssueID>
+			<IssueID Type="RIC">TATE.L</IssueID>
+			<IssueID Type="SEDOL">0875413</IssueID>
+			<IssueID Type="DisplayRIC">TATE.L</IssueID>
+			<IssueID Type="InstrumentPI">262867</IssueID>
+			<IssueID Type="QuotePI">1049432</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">6.5% Preferred Shares</IssueID>
+			<IssueID Type="Ticker">BD15</IssueID>
+			<IssueID Type="CUSIP">G86838136</IssueID>
+			<IssueID Type="ISIN">GB0008754466</IssueID>
+			<IssueID Type="RIC">BD15_p.L</IssueID>
+			<IssueID Type="SEDOL">0875446</IssueID>
+			<IssueID Type="DisplayRIC">BD15_p.L</IssueID>
+			<IssueID Type="InstrumentPI">1478729</IssueID>
+			<IssueID Type="QuotePI">2791636</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">4759</Employees>
+		<SharesOut Date="2015-11-30" TotalFloat="458450038.0">466427483.0</SharesOut>
+		<CommonShareholders Date="2015-03-31">14743</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:12:15">Tate &amp; Lyle PLC provides ingredients and solutions to the food, beverage and other industries. The Company operates through two business segments: Speciality Food Ingredients, which offers products, such as sweeteners, texturants, health and wellness, and food systems, and Bulk Ingredients segment, which offers products, such as liquid sweeteners, industrial starches, citric acid, bio-fuels and animal feed. The Company operates a network of corn wet mills in the United States and Europe. In the United States, the Company's manufacturing assets include four corn wet mills, which are located in the Midwest, and one in Tennessee. Its other sites include SPLENDA Sucralose facility in McIntosh, Alabama, a citric acid plant in Ohio and a food systems blending facility in Illinois. In Europe, the Company's operations include five corn wet mills, including the Company's wholly owned plant in the Netherlands and four joint venture plants located in the Eastern European corn belt.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T07:19:56">BRIEF: For the six months ended 30 September 2015, Tate &amp; Lyle PLC revenues decreased 2% to L1.18B. Net income before extraordinary items increased 29% to L67M. Revenues reflect Bulk  Ingredients segment decrease of 6% to L729M. Net income reflects Speciality Food  Ingredients segment income increase of 29% to L76M, Central Costs segment loss decrease of 28% to L18M. Dividend per share remained flat at L0.08.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T07:20:04">
+		<streetAddress line="1">1 Kingsway</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>WC2B 6AT</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72572100</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72572200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-09-09T14:31:34"><webSite mainCategory="Home Page">http://www.tateandlyle.com</webSite><eMail mainCategory="Company Contact/E-mail">investorrelations@tateandlyle.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T07:20:04">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5410202026" mnem="">Food Ingredients</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="311221" mnem="">Wet Corn Milling</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="311999" mnem="">All Other Miscellaneous Food Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="311312" mnem="">Cane Sugar Refining</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="311313" mnem="">Beet Sugar Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="2046" mnem="">Wet Corn Milling</Industry>
+			<Industry type="SIC" order="2" reported="0" code="2099" mnem="">Food Preparations, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2062" mnem="">Cane Sugar Refining</Industry>
+			<Industry type="SIC" order="4" reported="0" code="2063" mnem="">Beet Sugar</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/01/2009">
+			<firstName>Javed</firstName>
+			<mI></mI>
+			<lastName>Ahmed</lastName>
+			<age>55 </age>
+			<title startYear="2009" startMonth="10" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/01/2014">
+			<firstName>Anthony</firstName>
+			<mI>Nicholas</mI>
+			<lastName>Hampton</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="09" startDay="01" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="2014">
+			<firstName>Gabriella</firstName>
+			<mI></mI>
+			<lastName>Parisse</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="CEX" abbr1="Corp. Exec." iD2="" abbr2="">President - Innovation and Commercial Development</title>
+		</officer>
+		<officer rank="4" since="1997">
+			<firstName>Robert</firstName>
+			<mI></mI>
+			<lastName>Gibber</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="08" startDay="01" iD1="EVP" abbr1="Exec. VP" iD2="GCN" abbr2="Counsel">Executive Vice President, General Counsel</title>
+		</officer>
+		<officer rank="5" since="02/2010">
+			<firstName>Rob</firstName>
+			<mI></mI>
+			<lastName>Luijten</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="06" startDay="" iD1="EVP" abbr1="Exec. VP" iD2="DHR" abbr2="Dir.-HR">Executive Vice President - Human Resources</title>
+		</officer>
+		<officer rank="6" since="11/13/2014">
+			<firstName>Rowan</firstName>
+			<mI></mI>
+			<lastName>Adams</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="13" iD1="EVP" abbr1="Exec. VP" iD2="" abbr2="">Executive Vice President, Corporate Affairs</title>
+		</officer>
+		<officer rank="7" since="11/01/2014">
+			<firstName>Joan</firstName>
+			<mI></mI>
+			<lastName>Braca</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">President, Speciality Food Ingredients</title>
+		</officer>
+		<officer rank="8" since="11/13/2014">
+			<firstName>Pierre</firstName>
+			<mI></mI>
+			<lastName>Schoumacher</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="11" startDay="13" iD1="OTH" abbr1="Other" iD2="" abbr2="">President, Global Operations</title>
+		</officer>
+		<officer rank="9" since="12/01/2014">
+			<firstName>Jim</firstName>
+			<mI></mI>
+			<lastName>Stutelberg</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="12" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">President, Bulk Ingredients</title>
+		</officer>
+		<officer rank="10" since="08/01/2012">
+			<firstName>Lucie</firstName>
+			<mI></mI>
+			<lastName>Gilbert</lastName>
+			<age>43 </age>
+			<title startYear="2012" startMonth="08" startDay="01" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.69000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.61000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.92200</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">1.57845</Ratio>
+			<Ratio FieldName="EV" Type="N">3208.97200</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">2653.97200</Ratio>
+			<Ratio FieldName="AREV" Type="N">2356.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">284.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">4.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.00855</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.03419</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.00603</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.45699</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.24145</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.28000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">0.40323</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.12647</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">665.49710</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.83645</Ratio>
+			<Ratio FieldName="Employees" Type="N">4759</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.3333</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">6.44857</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">3.4813</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">16.66227</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2369.62790</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.34149</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">180.74580</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.28000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

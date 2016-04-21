@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">EF673</CoID>
+		<CoID Type="CompanyName">Flowtech Fluidpower PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">FLO</IssueID>
+			<IssueID Type="CUSIP">G3601S108</IssueID>
+			<IssueID Type="ISIN">GB00BM4NR742</IssueID>
+			<IssueID Type="RIC">FLOL.L</IssueID>
+			<IssueID Type="SEDOL">BM4NR74</IssueID>
+			<IssueID Type="DisplayRIC">FLOL.L</IssueID>
+			<IssueID Type="InstrumentPI">158311985</IssueID>
+			<IssueID Type="QuotePI">158517923</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-10</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">196</Employees>
+		<SharesOut Date="2015-11-09" TotalFloat="39825699.0">43078282.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-02T02:02:48">Flowtech Fluidpower plc is a United Kingdom-based distributor of technical fluid power product. The Company has an international footprint with offices in the United Kingdom and Benelux with a buying, Quality Control (QC) and logistics office in China. The Company is engaged in the distribution of engineering components and assemblies for the fluid power industry. The Company operates through three segments: Flowtechnology UK, Flowtechnology Benelux and Primary. The Flowtechnology UK segment is engaged in the distribution and assembly of engineering components, principally to distributors and end users in the United Kingdom and Eire. Flowtechnology Benelux segment is involved in the distribution of engineering components, to distributors and end users in the Netherlands and Belgium. Primary segment is engaged in the distribution and assembly of engineering components and hydraulic systems, to distributors and end users in the international market.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-10T00:37:52">BRIEF: For the six months ended 30 June 2015, Flowtech Fluidpower PLC revenues increased 25% to L21.4M. Net income before extraordinary items decreased 91% to L2.4M. Revenues reflect Flowtechnology UK segment increase of 3% to L16M. Dividend per share remained flat at L0.02. Basic Earnings per Share excluding Extraordinary Items decreased from L0.69 to L0.06.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-27T02:03:49">
+		<streetAddress line="1">Pimbo Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city></city>
+		<state-region></state-region>
+		<postalCode>WN8 9RB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1695</city-areacode>
+				<number>52759</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-27T04:02:24"><webSite mainCategory="Home Page">http://www.flowtechfluidpower.com</webSite><eMail mainCategory="Company Contact/E-mail">info@flowtechfluidpower.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-27T02:03:49">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201024" mnem="">Industrial Machinery &amp; Equipment Wholesale</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="42183" mnem="">Industrial Machinery and Equipment Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5084" mnem="">Industrial MacHinery/equipment</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/2009">
+			<firstName>Sean</firstName>
+			<mI></mI>
+			<lastName>Fennon</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="11" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="03/2010">
+			<firstName>Bryce</firstName>
+			<mI></mI>
+			<lastName>Brooks</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="03" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.24000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.57000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.95150</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.28405</Ratio>
+			<Ratio FieldName="EV" Type="N">60.13007</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">53.41707</Ratio>
+			<Ratio FieldName="AREV" Type="N">37.79100</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">6.50100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">29.22700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.12859</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.45928</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.30535</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.04677</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.15303</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.05000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">34.86544</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">136.83690</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">1.41349</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">1.09872</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.94994</Ratio>
+			<Ratio FieldName="Employees" Type="N">196</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="3" EarningsBasis="REP">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.92086</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">46.70000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.13900</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">7.25000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.05300</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

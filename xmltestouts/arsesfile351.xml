@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A401F</CoID>
+		<CoID Type="CompanyName">Mobeus Income &amp; Growth 4 VCT PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">MIG4</IssueID>
+			<IssueID Type="CUSIP">G5895S116</IssueID>
+			<IssueID Type="ISIN">GB00B1FMDH51</IssueID>
+			<IssueID Type="RIC">MIG4.L</IssueID>
+			<IssueID Type="SEDOL">B1FMDH5</IssueID>
+			<IssueID Type="DisplayRIC">MIG4.L</IssueID>
+			<IssueID Type="InstrumentPI">313867</IssueID>
+			<IssueID Type="QuotePI">1154094</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2006-10-20">0.5</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-12</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2015-10-06" TotalFloat="41196063.0">48356210.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:18:08">Mobeus Income &amp; Growth 4 VCT Plc is a United Kingdom based venture capital trust (VCT). The Company's objective is to provide investors with a regular income stream by way of tax-free dividends and to generate capital growth through portfolio realizations, which can be distributed by way of additional tax-free dividends. As of December 31, 2014, the Company's investments include Entanet Holdings Limited (4.6%), ASL (4.4%), Virgin Wine Online Ltd (4%), Fullfield (Motorclean) (3.2%), Veritek Global (3.2%), ATG Media (3.1%), Tessella Holdings Limited (2.8%), Gro-Group Limited (2.8%), Leap New Co Limited (2.3%) and Tharstern Group Limited (2.3%). Mobeus Equity Partners LLP is the investment advisor of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-12T03:26:46">BRIEF: For the six months ended 30 June 2015, Mobeus Income &amp; Growth 4 VCT PLC revenues decreased 49% to L2.6M. Net income decreased 59% to L1.8M. Revenues reflect Realized G/L on Investments Securities decrease of 80% to L364K, Unrealized G/L on Investment Securities decrease of 41% to L1.2M, Dividend Income decrease of 82% to L46K. Net income also reflects Other expenses increase of 2% to L188K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-08-12T03:27:06">
+		<streetAddress line="1">30 Haymarket</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1Y 4EX</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-08-21T08:25:51"><webSite mainCategory="Home Page">http://www.mobeusequity.co.uk/</webSite><eMail mainCategory="Company Contact/E-mail">info@mobeusequity.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-08-12T03:27:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202015" mnem="">Venture Capital</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.04500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.07890</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.97000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00104</Ratio>
+			<Ratio FieldName="EV" Type="N">27.75512</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">50.53224</Ratio>
+			<Ratio FieldName="AREV" Type="N">8.45131</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">6.97097</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">6.97098</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.17119</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.20754</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.18211</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.53539</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.22000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">86.98166</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">15.08629</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.97922</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">6.10433</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.88401</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A35DE</CoID>
+		<CoID Type="CompanyName">Lavendon Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">LVD</IssueID>
+			<IssueID Type="CUSIP">G5390P104</IssueID>
+			<IssueID Type="ISIN">GB0005057541</IssueID>
+			<IssueID Type="RIC">LVD.L</IssueID>
+			<IssueID Type="SEDOL">0505754</IssueID>
+			<IssueID Type="DisplayRIC">LVD.L</IssueID>
+			<IssueID Type="InstrumentPI">276993</IssueID>
+			<IssueID Type="QuotePI">1081398</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-11-19">1.38986</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-22</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">1600</Employees>
+		<SharesOut Date="2016-02-01" TotalFloat="165252966.0">169689377.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">972</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-12T06:36:15">Lavendon Group plc is a United Kingdom-based rental Company. The Company is engaged in the rental of powered access equipment. The Company operates a fleet of approximately 19,700 machines through a network of 75 depots located in Belgium, France, Germany, the United Kingdom and other countries in the Middle East. The Company's business includes Nationwide Platforms, Rapid, Gardemann, Lavendon France and dk rental. Nationwide Platforms is a provider of powered access platforms working at height training. Rapid is engaged in the rental of powered access equipment in the Gulf region. Gardemann is engaged in the rental of truck mounted powered access equipment in Germany. Lavendon France is a provider of powered access equipment in industrial centers in France. dk rental is engaged in the rental of powered access equipment in Belgium.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-22T06:57:26">BRIEF: For the six months ended 30 June 2015, Lavendon Group plc revenues increased 1% to L119.1M. Net income increased 27% to L10.5M. Revenues reflect Middle East segment increase of 20% to L27.4M, United Kingdom segment increase of 1% to L58.2M, France segment increase of 1% to L10.6M. Net income benefited from United Kingdom segment income increase of 28% to L8.8M, Middle East segment income increase of 22% to L8.3M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-22T06:57:28">
+		<streetAddress line="1">15 Midland Court, Central Park</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LUTTERWORTH</city>
+		<state-region></state-region>
+		<postalCode>LE17 4PN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Alan Merrell</contactName>
+		<contactTitle>Group Finance Director, Company Secretary, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1455</city-areacode>
+				<number>558874</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1455</city-areacode>
+				<number>559569</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1455</city-areacode>
+				<number>558874</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-15T05:19:01"><webSite mainCategory="Home Page">http://www.lavendongroup.com</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@lavendongroup.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-22T06:57:28">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220304018" mnem="">Commercial Equipment Rental</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="532412" mnem="">Construction, Mining and Forestry Machinery and Equipment Rental and Leasing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7359" mnem="">Equipment Rental &amp; Leasing, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/01/2011">
+			<firstName>Donald</firstName>
+			<mI></mI>
+			<lastName>Kenny</lastName>
+			<age></age>
+			<title startYear="2011" startMonth="10" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Group Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="05/1998">
+			<firstName>Alan</firstName>
+			<mI>S.</mI>
+			<lastName>Merrell</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.30250</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.11500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.20750</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.10249</Ratio>
+			<Ratio FieldName="EV" Type="N">310.69440</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">221.02040</Ratio>
+			<Ratio FieldName="AREV" Type="N">246.30900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">79.67200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">13.87600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.08177</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.45144</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.30603</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.10454</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.33085</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04600</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">46.11078</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">6.42727</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.89733</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">15.92882</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.99729</Ratio>
+			<Ratio FieldName="Employees" Type="N">1600</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.4</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.42800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">7.62588</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">253.28000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.17080</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">37.46000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.04952</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

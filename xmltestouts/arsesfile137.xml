@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A304A</CoID>
+		<CoID Type="CompanyName">Clarkson PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CKN</IssueID>
+			<IssueID Type="CUSIP">G21840106</IssueID>
+			<IssueID Type="ISIN">GB0002018363</IssueID>
+			<IssueID Type="RIC">CKN.L</IssueID>
+			<IssueID Type="SEDOL">0201836</IssueID>
+			<IssueID Type="DisplayRIC">CKN.L</IssueID>
+			<IssueID Type="InstrumentPI">260729</IssueID>
+			<IssueID Type="QuotePI">1079930</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-08-18</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1079</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="17674762.0">30100000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-24T04:00:00">Clarkson PLC is a United Kingdom-based provider of integrated shipping services. The Company operates through four segments: broking division, which represents services provided to ship owners and charterers in the transportation by sea of a range of cargoes. It also represents services provided to buyers and sellers/yards relating to sale and purchase transactions; the financial division includes a futures broking operation, which arranges principal-to-principal cash-settled contracts for differences based upon freight contracts and a financial and investment services division, which provides advice to clients on the financial aspects of a range of shipping-related transactions; support segment, which includes port and agency services representing ship agency services provided throughout the United Kingdom and property services regarding the provision of accommodation, and research services segment, which includes the provision of shipping-related information and publications.</Text>
+		<Text Type="Financial Summary" lastModified="2015-08-18T02:07:13">BRIEF: For the six months ended 30 June 2015, Clarkson PLC revenues increased 30% to L145.3M. Net income decreased 57% to L4.2M. Revenues reflect Broking segment increase of 25% to L110.1M, Financial segment increase from L5.1M to L17.3M,  Research segment increase of 6% to L5M. Net income was offset by Support segment income decrease of 20% to L2M, Unallocated segment loss increase of 6% to L3.7M. Dividend per share increased from L0.21 to L0.22.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-08-18T02:07:19">
+		<streetAddress line="1">St Katharine Docks, Commodity Quay</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>E1W 1AZ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Jeff Woyda</contactName>
+		<contactTitle>Finance Director, Chief Operating Officer, Executive Director</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73340000</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>73343144</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-06T08:57:54"><webSite mainCategory="Home Page">http://www.clarksons.com</webSite><eMail mainCategory="Company Contact/E-mail">jan.poskitt@clarksons.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-08-18T02:07:19">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240502010" mnem="">Marine Freight &amp; Logistics - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="483111" mnem="">Deep Sea Freight Transportation</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541614" mnem="">Process, Physical, Distribution and Logistics Consulting Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="51114" mnem="">Database and Directory Publishers</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="52314" mnem="">Commodity Brokerage</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4412" mnem="">Deep Sea Foreign Trans Of Freight</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8742" mnem="">Management Consulting Services</Industry>
+			<Industry type="SIC" order="3" reported="0" code="2741" mnem="">Misc Publishing</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6221" mnem="">Commodity Contracts Brokers/dlrs</Industry>
+			<Industry type="SIC" order="5" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/30/2008">
+			<firstName>Andi</firstName>
+			<mI></mI>
+			<lastName>Case</lastName>
+			<age>48 </age>
+			<title startYear="2008" startMonth="06" startDay="17" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/01/2006">
+			<firstName>Jeff</firstName>
+			<mI></mI>
+			<lastName>Woyda</lastName>
+			<age>52 </age>
+			<title startYear="2015" startMonth="06" startDay="12" iD1="FID" abbr1="Fin. Dir." iD2="COO" abbr2="COO">Finance Director, Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/02/2015">
+			<firstName>Peter</firstName>
+			<mI>M.</mI>
+			<lastName>Anker</lastName>
+			<age>57 </age>
+			<title startYear="2015" startMonth="02" startDay="02" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">President of broking and Investment banking, Executive Director</title>
+		</officer>
+		<officer rank="4" since="11/04/2013">
+			<firstName>Penny</firstName>
+			<mI></mI>
+			<lastName>Watson</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="11" startDay="04" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">17.65000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">28.55000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">17.10000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01704</Ratio>
+			<Ratio FieldName="EV" Type="N">355.40530</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">533.60530</Ratio>
+			<Ratio FieldName="AREV" Type="N">237.90000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">36.30000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">17.20000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.89760</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">12.41513</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">8.12199</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">8.65116</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.05416</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.60000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">94.40942</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.27869</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.24298</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">19.66355</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.17311</Ratio>
+			<Ratio FieldName="Employees" Type="N">1079</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">30.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.89451</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">319.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.18500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">50.50000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.62650</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

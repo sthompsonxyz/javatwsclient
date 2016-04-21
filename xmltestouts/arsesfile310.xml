@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5A7D</CoID>
+		<CoID Type="CompanyName">Jupiter US Smaller Companies PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">JUS</IssueID>
+			<IssueID Type="CUSIP">G3628J107</IssueID>
+			<IssueID Type="ISIN">GB0003463402</IssueID>
+			<IssueID Type="RIC">JUS.L</IssueID>
+			<IssueID Type="SEDOL">0346340</IssueID>
+			<IssueID Type="DisplayRIC">JUS.L</IssueID>
+			<IssueID Type="InstrumentPI">325466</IssueID>
+			<IssueID Type="QuotePI">10407954</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-14</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">0</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="23084868.0">23929036.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-12T08:01:18">Jupiter US Smaller Companies PLC is a United Kingdom-based investment company. The Company's investment objective is to achieve long-term capital growth by investing in a diversified portfolio of quoted United States smaller and medium-sized companies. The Company invests in various sectors, such as consumer discretionary, consumer staples, energy, financial services, healthcare, materials and processing, producer durables, technology and utilities. Jupiter Unit Trust Managers Limited is the manager of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-14T05:50:41">BRIEF: For the fiscal year ended 30 June 2015, Jupiter US Smaller Companies PLC revenues decreased 38% to L11.2M. Net income decreased 44% to L9.1M. Revenues reflect Movement in Investment Holding Gains decrease from -L1.6M to -L13.1M, Other income decrease from L3K to L0K. Net income also reflects Sundry Expenses increase of 55% to L241K (expense). Basic Earnings per Share excluding Extraordinary Items decreased from L0.68 to L0.38.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-14T05:50:42">
+		<streetAddress line="1">1 Grosvenor Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1X 7JJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76288000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76288188</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-05-29T12:13:55"><webSite mainCategory="Home Page">http://www.jupiteronline.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-14T05:50:42">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.60000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">7.04025</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.19100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01990</Ratio>
+			<Ratio FieldName="EV" Type="N">129.73860</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">134.00260</Ratio>
+			<Ratio FieldName="AREV" Type="N">11.17500</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">9.45100</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">9.07600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.37763</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.46496</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">7.24107</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.17741</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">87.66890</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">5.35473</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">11.99128</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">14.82933</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.77337</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2013" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

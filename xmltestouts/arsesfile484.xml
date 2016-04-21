@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AFF35</CoID>
+		<CoID Type="CompanyName">Scotgold Resources Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Fully Paid Ord. Shrs</IssueID>
+			<IssueID Type="Ticker">SGZ</IssueID>
+			<IssueID Type="CUSIP">Q83523102</IssueID>
+			<IssueID Type="ISIN">AU000000SGZ9</IssueID>
+			<IssueID Type="RIC">SGZ.AX</IssueID>
+			<IssueID Type="SEDOL">B29H3N9</IssueID>
+			<IssueID Type="DisplayRIC">SGZ.AX</IssueID>
+			<IssueID Type="InstrumentPI">41868817</IssueID>
+			<IssueID Type="QuotePI">41868818</IssueID>
+			<Exchange Code="ASX" Country="AUS">Australian Stock Exchange Ltd</Exchange>
+			<MostRecentSplit Date="2013-11-29">1.35814</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-06</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<SharesOut Date="2015-06-30" TotalFloat="562568213.0">1135392472.0</SharesOut>
+		<CommonShareholders Date="2015-06-30">1259</CommonShareholders>
+		<ReportingCurrency Code="AUD">Australian Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.38466</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-01-19T00:20:28">Scotgold Resources Limited is an Australia-based mineral exploration company in Scotland. Scotgold Resources targets gold and silver mineralization within Central Scotland. The key assets of the Company are; an extensive gold, silver and base metal exploration database covering Grampian Gold Project in Scotland, The Cononish gold and silver deposit Measured, Indicated and Inferred Mineral Resource (JORC Compliant) categories total 154,000 ounces of gold and 589,000 ounces of silver using 3.5 gram per ton gold cut-off; and three granted Exploration Licenses of 100% ownership covering about 2,200 square kilometers in Central Scotland. The Company has two active projects namely the Cononish Gold and Silver Project and the Grampian Project.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-06T23:37:10">BRIEF: For the fiscal year ended 30 June 2015, Scotgold Resources Limited revenues decreased 48% to A$11K. Net loss increased 44% to A$2.1M. Revenues reflect Other income decrease of 54% to A$5K, Interest Income decrease of 41% to A$6K. Higher net loss reflects Borrowing costs increase from A$6K to A$174K (expense), Legal fees increase of 99% to A$185K (expense), Administration Costs increase of 26% to A$381K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-13T05:38:27">
+		<streetAddress line="1">24 Colin St</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>PERTH</city>
+		<state-region>WAS</state-region>
+		<postalCode>6005</postalCode>
+		<country code="AUS">Australia</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>92225850</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>61</countryPhoneCode>
+				<city-areacode>8</city-areacode>
+				<number>92225810</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-03-07T15:32:00"><webSite mainCategory="Home Page">http://www.scotgoldresources.com.au</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-13T05:38:27">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120108010" mnem="">Integrated  Mining</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212221" mnem="">Gold Ore Mining</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="212222" mnem="">Silver Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1041" mnem="">Gold Ores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1044" mnem="">Silver Ores</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/13/2016">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Swan</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="01" startDay="13" iD1="CFO" abbr1="CFO" iD2="" abbr2="">Chief Financial Officer</title>
+		</officer>
+		<officer rank="2" since="10/10/2014">
+			<firstName>Richard</firstName>
+			<mI>Quentin</mI>
+			<lastName>Gray</lastName>
+			<age>55 </age>
+			<title startYear="2014" startMonth="12" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/31/2015">
+			<firstName>Gabriel</firstName>
+			<mI></mI>
+			<lastName>Chiappini</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="12" startDay="31" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="AUD" ReportingCurrency="AUD" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00800</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.01700</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00800</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-22T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02450</Ratio>
+			<Ratio FieldName="EV" Type="N">10.62713</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">10.07600</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.01061</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.71720</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-2.11297</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00252</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00001</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.01242</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00071</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00249</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-16.52453</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">949.67040</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.64431</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A629D</CoID>
+		<CoID Type="CompanyName">Vernalis plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VER</IssueID>
+			<IssueID Type="CUSIP">G93383126</IssueID>
+			<IssueID Type="ISIN">GB00B3Y5L754</IssueID>
+			<IssueID Type="RIC">VER.L</IssueID>
+			<IssueID Type="SEDOL">B3Y5L75</IssueID>
+			<IssueID Type="DisplayRIC">VER.L</IssueID>
+			<IssueID Type="InstrumentPI">287170</IssueID>
+			<IssueID Type="QuotePI">1049457</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+			<MostRecentSplit Date="2010-02-11">1.02744</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-02</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">91</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="440059046.0">445124024.0</SharesOut>
+		<CommonShareholders Date="2015-06-30">15207</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-11T06:00:16">Vernalis plc is a commercial-stage pharmaceutical holding company. The Company is engaged in the research, development and commercialization of pharmaceutical products for a range of medical disorders. The Company has two marketed products: Tuzistra XR in the United States prescription cough cold market, and frovatriptan, an acute treatment for migraine. The Company also has four prescription cough cold products under development, and a pipeline of research and new chemical entity (NCE) development programs. Its commercial pipeline candidates include CCP-05, CCP-06, CCP-07 and CCP-08. The Company operates in the United Kingdom, Rest of Europe, North America and Rest of the World. The Company is also engaged in fragment- and structure-based drug discovery. It has two development products in the central nervous system (CNS) therapeutic area: the fatty acid amide hydrolase (FAAH) inhibitor V158866 for pain, and V81444, an adenosine A2A receptor antagonist as a treatment for CNS diseases.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-02T11:20:58">BRIEF: For the fiscal year ended 30 June 2015, Vernalis plc revenues totaled L19.9M. Net loss totaled to L6.4M. Results are not comparable due to year end change.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-11T06:13:29">
+		<streetAddress line="1">100 Berkshire Place/Wharfedale Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>WINNERSH</city>
+		<state-region></state-region>
+		<postalCode>RG41 5RD</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>118</city-areacode>
+				<number>9380000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>118</city-areacode>
+				<number>9380001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-26T20:10:12"><webSite mainCategory="Home Page">http://www.vernalis.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-11T06:13:29">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5620201010" mnem="">Biotechnology &amp; Medical Research - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="54171" mnem="">Research and Development in the Physical, Engineering, and Life Sciences</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="42221" mnem="">Drug, Drug Proprietaries and Druggists' Sundries Wholesalers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8731" mnem="">Commercial Physical Research</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5122" mnem="">Drugs/proprietaries/sundries</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="12/29/2008">
+			<firstName>Ian</firstName>
+			<mI>R.</mI>
+			<lastName>Garland</lastName>
+			<age>48 </age>
+			<title startYear="2008" startMonth="12" startDay="29" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="02/02/2009">
+			<firstName>David</firstName>
+			<mI></mI>
+			<lastName>Mackney</lastName>
+			<age>46 </age>
+			<title startYear="2009" startMonth="02" startDay="02" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="11/30/2010">
+			<firstName>Kevin</firstName>
+			<mI></mI>
+			<lastName>Kissane</lastName>
+			<age>58 </age>
+			<title startYear="2010" startMonth="11" startDay="30" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.54000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.88294</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.44450</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07288</Ratio>
+			<Ratio FieldName="EV" Type="N">179.10900</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">240.36700</Ratio>
+			<Ratio FieldName="AREV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.17388</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.13814</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">-99999.99000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.10558</Ratio>
+			<Ratio FieldName="Employees" Type="N">91</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.94500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-9.44551</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">16.09900</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">5.97000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.05717</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-0.03100</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-20.88980</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

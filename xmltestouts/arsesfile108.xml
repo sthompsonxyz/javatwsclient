@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">C2E7E</CoID>
+		<CoID Type="CompanyName">Burford Capital Limited</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">BUR</IssueID>
+			<IssueID Type="CUSIP">G17977102</IssueID>
+			<IssueID Type="ISIN">GG00B4L84979</IssueID>
+			<IssueID Type="RIC">BURF.L</IssueID>
+			<IssueID Type="SEDOL">B4L8497</IssueID>
+			<IssueID Type="DisplayRIC">BURF.L</IssueID>
+			<IssueID Type="InstrumentPI">64138038</IssueID>
+			<IssueID Type="QuotePI">64683554</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">Preferred Shares</IssueID>
+			<IssueID Type="InstrumentPI">168253834</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-25</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2011-12-31">0</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="177042614.0">204545455.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-03-07T01:24:38">Burford Capital Limited is a Guernsey-based investment capital company. The Company is a provider of investment capital and risk solutions with a focus on the litigation and arbitration sector and the provision of litigation expense insurance. The Company provides a range of corporate finance and insurance solutions to lawyers and clients engaged in significant litigation and arbitration around the world. The Company has two operating business segments which include Litigation Investment and Litigation Insurance. Litigation Investment segment consists of litigation and arbitration-related investment activities anywhere in the world. Litigation Insurance segment consists of litigation insurance activities in the United Kingdom and Channel Islands.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-25T03:01:50">BRIEF: For the six months ended 30 June 2015, Burford Capital Limited revenues increased 48% to $40.6M. Net income applicable to common stockholders increased 99% to $23.1M. Revenues reflect Litigation Investment segment increase of 64% to $30.7M. Net income benefited from UK acquisition decrease from $5.9M (expense) to $0K. Dividend per share remained flat at $0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T09:43:05">
+		<streetAddress line="1">Regency Court, Glategny Esplanade</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 1WW</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName>Elizabeth O'Connell</contactName>
+		<contactTitle>Managing Director</contactTitle>
+		<phone>
+			<phone type="contactphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>212</city-areacode>
+				<number>2356825</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-04-03T02:24:06"><webSite mainCategory="Home Page">http://www.burfordcapital.com</webSite><eMail mainCategory="Company Contact/E-mail">eoconnell@burfordcapital.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T09:43:05">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510105010" mnem="">Corporate Financial Services - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Christopher</firstName>
+			<mI>P.</mI>
+			<lastName>Bogart</lastName>
+			<age>49 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="" abbr2="">Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Jonathan</firstName>
+			<mI></mI>
+			<lastName>Molot</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CIN" abbr1="Chief Inv.Off." iD2="" abbr2="">Chief Investment Officer</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Elizabeth</firstName>
+			<mI></mI>
+			<lastName>O'Connell</lastName>
+			<age>48 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="IRC" abbr2="IR-Contact">Managing Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Benzian</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>John</firstName>
+			<mI>F.</mI>
+			<lastName>Blackburn</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director</title>
+		</officer>
+		<officer rank="6" since="NA">
+			<firstName>Ernest</firstName>
+			<mI></mI>
+			<lastName>Getto</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director</title>
+		</officer>
+		<officer rank="7" since="NA">
+			<firstName>Aviva</firstName>
+			<mI></mI>
+			<lastName>Will</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director</title>
+		</officer>
+		<officer rank="8" since="NA">
+			<firstName>Ross</firstName>
+			<mI></mI>
+			<lastName>Clark</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">UK Chief Investment Officer</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.16500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.37000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.36000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.11007</Ratio>
+			<Ratio FieldName="EV" Type="N">401.72083</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">442.84090</Ratio>
+			<Ratio FieldName="AREV" Type="N">57.98245</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">43.06028</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">32.11533</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.15701</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.28347</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.32186</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.67812</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.19138</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.04948</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">12.37984</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">7.63750</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">13.78886</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.63784</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.15753</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">14.85216</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">41.98380</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.14577</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">28.88390</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.05973</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

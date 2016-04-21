@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3270</CoID>
+		<CoID Type="CompanyName">RPS Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RPS</IssueID>
+			<IssueID Type="CUSIP">G7701P104</IssueID>
+			<IssueID Type="ISIN">GB0007594764</IssueID>
+			<IssueID Type="RIC">RPS.L</IssueID>
+			<IssueID Type="SEDOL">0759476</IssueID>
+			<IssueID Type="DisplayRIC">RPS.L</IssueID>
+			<IssueID Type="InstrumentPI">262472</IssueID>
+			<IssueID Type="QuotePI">1080879</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-07-31</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">4530</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="212264642.0">222283062.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-29T04:01:42">RPS Group Plc is an international consultancy company. The Company provides independent advice on the exploration and production of oil and gas and other natural resources; the development and management of the built and natural environment, and the development of infrastructure to ensure the supply of energy resources to market. The Company operates in three segments: Energy, Built and Natural Environment (BNE) and Australia Asia Pacific. The Energy segment is engaged in the provision of technical commercial and project management support and training in the fields of geoscience, engineering and health, safety and environment to the energy sector. Built and Natural Environment segment offers consultancy services to the property and infrastructure development and management sectors. Consulting services are provided on a regional basis in Europe and North America. The Company through its Australia Asia Pacific segment manages the BNE and Energy services in the region.</Text>
+		<Text Type="Financial Summary" lastModified="2015-07-31T15:00:19">BRIEF: For the six months ended 30 June 2015, RPS Group plc revenues increased 2% to L253.4M. Net income decreased 14% to L13.2M. Revenues reflect BNE - Europe segment increase of 17% to L106.1M, BNE - North America segment increase of 50% to L28.6M, AAP segment increase of 3% to L52.3M. Net income was offset by Energy segment income decrease of 42% to L9.6M, Unallocated segment loss increase of 11% to L14.5M. Dividend per share increased from L0.04 to L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-30T02:55:34">
+		<streetAddress line="1">20 Western Avenue</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ABINGDON</city>
+		<state-region></state-region>
+		<postalCode>OX14 4SH</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1235</city-areacode>
+				<number>438000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1235</city-areacode>
+				<number>864451</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-14T10:40:14"><webSite mainCategory="Home Page">http://www.rpsgroup.com</webSite><eMail mainCategory="Company Contact/E-mail">rpsmp@rpsgroup.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-30T02:55:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220301013" mnem="">Environmental Consultancy Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="56179" mnem="">Other Services to Buildings and Dwellings</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="54162" mnem="">Environmental Consulting Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7349" mnem="">Building Maintenance Svcs Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8999" mnem="">Services, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1981">
+			<firstName>Alan</firstName>
+			<mI>S.</mI>
+			<lastName>Hearne</lastName>
+			<age>62 </age>
+			<title startYear="1981" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Gary</firstName>
+			<mI></mI>
+			<lastName>Young</lastName>
+			<age>55 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="12/2005">
+			<firstName>Phil</firstName>
+			<mI></mI>
+			<lastName>Williams</lastName>
+			<age>62 </age>
+			<title startYear="2005" startMonth="12" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Nicholas</firstName>
+			<mI></mI>
+			<lastName>Rowe</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.70750</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.71370</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.62000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.34565</Ratio>
+			<Ratio FieldName="EV" Type="N">452.72830</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">379.54830</Ratio>
+			<Ratio FieldName="AREV" Type="N">504.95900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">81.45200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">33.34700</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.15121</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">2.28971</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.73789</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07916</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.27954</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.08470</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">8.81362</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.75164</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">11.29224</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.98252</Ratio>
+			<Ratio FieldName="Employees" Type="N">4530</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">2.23250</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">8.70330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">554.04200</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.19619</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">60.03430</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.09695</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

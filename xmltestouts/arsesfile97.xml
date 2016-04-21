@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A326F</CoID>
+		<CoID Type="CompanyName">UK Mail Group PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">UKM</IssueID>
+			<IssueID Type="CUSIP">G918FZ102</IssueID>
+			<IssueID Type="ISIN">GB0001576163</IssueID>
+			<IssueID Type="RIC">UKM.L</IssueID>
+			<IssueID Type="SEDOL">0157616</IssueID>
+			<IssueID Type="DisplayRIC">UKM.L</IssueID>
+			<IssueID Type="InstrumentPI">336032</IssueID>
+			<IssueID Type="QuotePI">1080287</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-18</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">2684</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="25809582.0">55130550.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-13T07:00:00">UK Mail Group plc is a United Kingdom-based holding company. The Company and its subsidiaries, UK Mail Limited and UK Pallets Limited are engaged in the provision of express collection and delivery services for parcels, mail and palletized goods. The Company operates through segments, including Mail, Parcels and Courier. The Company offers parcel delivery system under the brand name ipostparcels, which operates from a network of 50 sites across the United Kingdom. ipostparcels targets the Internet end customer and small businesses. The Retail Logistics is a parcel delivery service offering services to retail businesses. The imail is a hybrid (Web-to-print) postal service. The imailprint is an Internet-based printing service, linked to imail, which offers solutions to localized printing requirements. The Packets is a packet collection and delivery service providing solutions in conjunction with Royal Mail's delivery service.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-18T14:13:47">BRIEF: For the six months ended 30 September 2015, UK Mail Group PLC revenues increased 4% to L237.6M. Net income before extraordinary items decreased 82% to L1.7M. Revenues reflect Parcel Services segment increase of 5% to L124M, Mail Services segment increase of 4% to L113.6M. Net income was offset by Parcel Services segment income decrease of 34% to L8.8M, Central segment loss increase of 47% to L11.2M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-28T00:09:44">
+		<streetAddress line="1">462-464 Berkshire Avenue</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SLOUGH</city>
+		<state-region></state-region>
+		<postalCode>SL1 4PL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>845</city-areacode>
+				<number>1552552</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-02-20T10:20:42"><webSite mainCategory="Home Page">http://www.ukmail.com</webSite><eMail mainCategory="Company Contact/E-mail">investor@ukmail.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-28T00:09:44">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5240501013" mnem="">Courier Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="49211" mnem="">Couriers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="49111" mnem="">Postal Service</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="49221" mnem="">Local Messengers and Local Delivery</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4215" mnem="">Courier Services, Except By Air</Industry>
+			<Industry type="SIC" order="2" reported="0" code="4311" mnem="">U.S. Postal Service</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="08/1998">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Kane</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="11" startDay="25" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Interim Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="06/05/2006">
+			<firstName>Steven</firstName>
+			<mI></mI>
+			<lastName>Glew</lastName>
+			<age></age>
+			<title startYear="2006" startMonth="06" startDay="05" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="01/27/2016">
+			<firstName>Chris</firstName>
+			<mI></mI>
+			<lastName>Mangham</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="01" startDay="27" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Executive Director</title>
+		</officer>
+		<officer rank="4" since="04/05/2016">
+			<firstName>Peter</firstName>
+			<mI/>
+			<lastName>Fuller</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="04" startDay="05" iD1="OTH" abbr1="Other" iD2="" abbr2="">Operations Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.76000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.60000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.45250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.01319</Ratio>
+			<Ratio FieldName="EV" Type="N">157.36030</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">152.16030</Ratio>
+			<Ratio FieldName="AREV" Type="N">485.10000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">29.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">15.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.28955</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">8.83412</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.20751</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.08403</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.43342</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.21800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">11.70893</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">22.97688</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.31367</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">9.53203</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.28569</Ratio>
+			<Ratio FieldName="Employees" Type="N">2684</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.26667</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">1.9000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">18.83959</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">500.93400</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.14650</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">10.20780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.16500</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

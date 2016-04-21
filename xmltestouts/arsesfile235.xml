@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A351B</CoID>
+		<CoID Type="CompanyName">Galliford Try plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">GFRD</IssueID>
+			<IssueID Type="CUSIP">G3710C127</IssueID>
+			<IssueID Type="ISIN">GB00B3Y2J508</IssueID>
+			<IssueID Type="RIC">GFRD.L</IssueID>
+			<IssueID Type="SEDOL">B3Y2J50</IssueID>
+			<IssueID Type="DisplayRIC">GFRD.L</IssueID>
+			<IssueID Type="InstrumentPI">261237</IssueID>
+			<IssueID Type="QuotePI">1079251</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-10-07">0.13814</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-14</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">5268</Employees>
+		<SharesOut Date="2016-01-31" TotalFloat="78997338.0">82788511.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-12T08:01:48">Galliford Try plc is a United Kingdom-based housebuilding and construction company. The Company's housebuilding division includes Linden Homes and Galliford Try Partnerships. The Company's segments include Linden Homes and Galliford Try Partnerships; Construction, including Building and Infrastructure, and public private partnership (PPP) Investments. The Company's Linden Homes develops both private and affordable homes for sale, primarily in the south of England and the eastern counties. Its Galliford Try Partnerships provides specialist affordable housing business. Its Building and Infrastructure serves clients across the United Kingdom and carries out civil engineering projects, primarily in the highways, rail and aviation, environmental, water and waste, and power and security markets. Its PPP Investments delivers building and infrastructure projects through public private partnerships.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-14T10:58:26">BRIEF: For the fiscal year ended 30 June 2015, Galliford Try plc revenues increased 33% to L2.35B. Net income increased 20% to L92.3M. Revenues reflect Construction building segment increase of 98% to L905.8M, Partnerships segment increase of 36% to L318.6M, Housebuilding-linden homes segment increase of 3% to L731.6M. Dividend per share increased from L0.53 to L0.68.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-07T07:28:58">
+		<streetAddress line="1">Cowley Business Park, Cowley</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>UXBRIDGE</city>
+		<state-region></state-region>
+		<postalCode>UB8 2AL</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Peter Truscott</contactName>
+		<contactTitle>Chief Executive</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1895</city-areacode>
+				<number>855000</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1895</city-areacode>
+				<number>855001</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-26T07:36:14"><webSite mainCategory="Home Page">http://www.gallifordtry.co.uk</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-07T07:28:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5220102010" mnem="">Construction &amp; Engineering - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="23332" mnem="">Commercial and Institutional Building Construction</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="23322" mnem="">Multifamily Housing Construction</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23321" mnem="">Single Family Housing Construction</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="23411" mnem="">Highway  and Street Construction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1542" mnem="">Nonresidential Construction, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="1531" mnem="">Operative Builders</Industry>
+			<Industry type="SIC" order="3" reported="0" code="1611" mnem="">Highway And Street Construction</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="10/01/2015">
+			<firstName>Peter</firstName>
+			<mI></mI>
+			<lastName>Truscott</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="10" startDay="01" iD1="CEO" abbr1="CEO" iD2="IRC" abbr2="IR-Contact">Chief Executive</title>
+		</officer>
+		<officer rank="2" since="02/01/2013">
+			<firstName>Graham</firstName>
+			<mI></mI>
+			<lastName>Prothero</lastName>
+			<age>53 </age>
+			<title startYear="2013" startMonth="02" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Group Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Ken</firstName>
+			<mI></mI>
+			<lastName>Gillespie</lastName>
+			<age>50 </age>
+			<title startYear="2015" startMonth="04" startDay="30" iD1="COO" abbr1="COO" iD2="EDR" abbr2="Exec. Dir.">Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="4" since="03/01/2012">
+			<firstName>Kevin</firstName>
+			<mI></mI>
+			<lastName>Corbett</lastName>
+			<age>55 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+		<officer rank="5" since="07/2013">
+			<firstName>Andrew</firstName>
+			<mI></mI>
+			<lastName>Richards</lastName>
+			<age>43 </age>
+			<title startYear="2014" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="" abbr2="">Managing Director - Linden Homes</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">13.71000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">18.24000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">13.36000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.16766</Ratio>
+			<Ratio FieldName="EV" Type="N">1152.33100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1135.03100</Ratio>
+			<Ratio FieldName="AREV" Type="N">2348.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">131.40000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">92.30000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.10892</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">28.21446</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">6.91701</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">2.00389</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.20984</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.68000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">11.37796</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.73011</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.48332</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">12.36338</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.98207</Ratio>
+			<Ratio FieldName="Employees" Type="N">5268</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="6" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.25</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">18.13333</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.65823</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">2545.53330</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.28633</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">131.96670</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.79900</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

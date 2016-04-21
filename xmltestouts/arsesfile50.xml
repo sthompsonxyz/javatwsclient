@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F0BD7</CoID>
+		<CoID Type="CompanyName">Aggregated Micro Power Holdings PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">AMPH</IssueID>
+			<IssueID Type="CUSIP">G34125107</IssueID>
+			<IssueID Type="ISIN">GB00BC4F3V69</IssueID>
+			<IssueID Type="RIC">AMPH.L</IssueID>
+			<IssueID Type="SEDOL">BC4F3V6</IssueID>
+			<IssueID Type="DisplayRIC">AMPH.L</IssueID>
+			<IssueID Type="InstrumentPI">162793513</IssueID>
+			<IssueID Type="QuotePI">162867007</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-09</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">29</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="7069585.0">25694502.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-06T07:39:09">Aggregated Micro Power Holdings plc is a United Kingdom-based energy company. The Company finances, develops and operates energy facilities. The Company is engaged in the business of renewable energy projects in the United Kingdom. The Company is engaged in electricity generation and selling of wood fuel. The Company also has a biomass boiler business, which installs and finances biomass boilers in schools, care homes, hotels, leisure facilities and business parks. The Company's subsidiaries include Aggregated Micro Power Limited, Mathieson Biomass Limited and AMP Kingsnorth Limited. Its indirect subsidiaries include AMP Low Plains Limited, AMP Energy Services Limited, Sterivert Limited and AMP Hill Barton Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-09T03:54:24">BRIEF: For the six months ended 30 June 2015, Aggregated Micro Power Holdings PLC revenues increased from L146K to L627K. Net loss before extraordinary items increased from L1.8M to L4.7M. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Higher net loss reflects Administrative Expenses increase of 30% to L1.9M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-09T03:54:25">
+		<streetAddress line="1">5 Clifford Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1S 2LG</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73827800</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-07-17T16:44:24"><webSite mainCategory="Home Page">http://www.ampplc.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@ampplc.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-09T03:54:25">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5910101011" mnem="">Renewable Utilities</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="221119" mnem="">Other Electric Power Generation</Industry>
+			<Industry type="SIC" order="1" reported="0" code="4911" mnem="">Electric Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.54000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.00000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.50100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00010</Ratio>
+			<Ratio FieldName="EV" Type="N">10.08114</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">13.87503</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.25297</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.87897</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-5.54526</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.27221</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.01242</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.30694</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.18397</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.27077</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">55.01443</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-85.39420</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">54.84852</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.75932</Ratio>
+			<Ratio FieldName="Employees" Type="N">29</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

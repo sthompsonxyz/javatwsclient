@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A2FE5</CoID>
+		<CoID Type="CompanyName">Rathbone Brothers plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RAT</IssueID>
+			<IssueID Type="CUSIP">G73904107</IssueID>
+			<IssueID Type="ISIN">GB0002148343</IssueID>
+			<IssueID Type="RIC">RAT.L</IssueID>
+			<IssueID Type="SEDOL">0214834</IssueID>
+			<IssueID Type="DisplayRIC">RAT.L</IssueID>
+			<IssueID Type="InstrumentPI">262376</IssueID>
+			<IssueID Type="QuotePI">1080872</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-23</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">956</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="41906849.0">48084286.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:50:20">Rathbone Brothers Plc is a United Kingdom-based provider of investment and wealth management services for private clients, charities and trustees. The Company's services include discretionary investment management, unit trusts, tax planning, trust and company management, pension advice and banking services. Rathbones manages around 27.2 billion British Pounds of client funds, of which around 24.7 billion British Pounds were managed by Rathbone Investment Management. The Company's subsidiaries offer investment management and banking services, trust and tax services, unit trust management and pension advisory services. The Company's principal subsidiaries include Rathbone Investment Management Limited, Rathbone Investment Management International Limited, Rathbone Trust Company Limited, Rathbone Unit Trust Management Limited and Rathbone Pension &amp; Advisory Services Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-23T13:55:32">BRIEF: For the six months ended 30 June 2015, Rathbone Brothers plc revenues increased 11% to L121.7M. Net income increased 6% to L25.3M. Revenues reflect Investment Management segment increase of 18% to L106.8M, Unit Trusts segment increase of 38% to L10M, United Kingdom segment increase of 12% to L112.9M, Jersey segment increase of 25% to L3.9M. Net income was partially offset by Other operating expenses increase of 16% to L79.6M (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-23T13:55:39">
+		<streetAddress line="1">Port of Liverpool Building, Pier Head</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LIVERPOOL</city>
+		<state-region></state-region>
+		<postalCode>L3 1NW</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Belinda Barnes</contactName>
+		<contactTitle>Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>151</city-areacode>
+				<number>2437155</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73990011</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>020</city-areacode>
+				<number>73990000</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-05-24T04:58:44"><webSite mainCategory="Home Page">http://www.rathbones.com/</webSite><eMail mainCategory="Company Contact/E-mail">belinda.barnes@rathbones.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-23T13:55:39">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202011" mnem="">Investment Management</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52392" mnem="">Portfolio Management</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="523991" mnem="">Trust, Fiduciary and Custody Activities</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="52393" mnem="">Investment Advice</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="52219" mnem="">Other Depository Credit Intermediation</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6282" mnem="">Investment Advice</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6091" mnem="">Nondeposit Trust Facilities</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6022" mnem="">State Commercial Banks</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/01/2014">
+			<firstName>Philip</firstName>
+			<mI></mI>
+			<lastName>Howell</lastName>
+			<age>59 </age>
+			<title startYear="2014" startMonth="03" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director</title>
+		</officer>
+		<officer rank="2" since="09/24/2008">
+			<firstName>R. Paul</firstName>
+			<mI></mI>
+			<lastName>Stockton</lastName>
+			<age>49 </age>
+			<title startYear="2008" startMonth="09" startDay="24" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Finance Director, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/26/2001">
+			<firstName>Paul</firstName>
+			<mI>D. G.</mI>
+			<lastName>Chavasse</lastName>
+			<age>50 </age>
+			<title startYear="2012" startMonth="03" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Head - Investment Management, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Richard</firstName>
+			<mI>E.</mI>
+			<lastName>Loader</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">23.04000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">23.73000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">20.14000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02113</Ratio>
+			<Ratio FieldName="EV" Type="N">380.68400</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1107.86200</Ratio>
+			<Ratio FieldName="AREV" Type="N">217.62700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">72.41200</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">35.67800</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.75423</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">4.60061</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.67035</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">15.20012</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.03681</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.52000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">95.40912</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">13.66264</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.09065</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">30.54771</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">4.06324</Ratio>
+			<Ratio FieldName="Employees" Type="N">956</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">23.00000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">19.82004</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">230.78820</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.16246</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">68.91850</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.56000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

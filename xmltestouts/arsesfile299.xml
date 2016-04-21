@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3FAD</CoID>
+		<CoID Type="CompanyName">Jupiter European Opportunities Trust PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">JEO</IssueID>
+			<IssueID Type="CUSIP">G6394A101</IssueID>
+			<IssueID Type="ISIN">GB0000197722</IssueID>
+			<IssueID Type="RIC">JEO.L</IssueID>
+			<IssueID Type="SEDOL">0019772</IssueID>
+			<IssueID Type="DisplayRIC">JEO.L</IssueID>
+			<IssueID Type="InstrumentPI">261778</IssueID>
+			<IssueID Type="QuotePI">803546</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2015-05-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-11-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-05-31">0</Employees>
+		<SharesOut Date="2016-02-22" TotalFloat="103797737.0">111575331.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-11T06:04:52">Jupiter European Opportunities Trust PLC is a United Kingdom-based investment company, which is engaged in portfolio investment. The Company's objective is to invest in securities of European companies and in sectors or geographical areas which are considered by the investment adviser to offer good prospects for capital growth, taking into account economic trends and business development. It invests in various sectors, including oil and gas; basic materials; industrials, such as aerospace and defense, and industrial engineering; consumer goods, such as food producers and personal goods; healthcare; consumer services, such as general retailers and media; telecommunications; financials, such as banks and financial services, and information technology. The Company will not invest in other listed closed-ended investment funds. Jupiter Asset Management Limited is the investment adviser of the Company. The Company's Alternative Investment Manager is Jupiter Unit Trust Managers Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T16:39:57">BRIEF: For the six months ended 30 November 2015, Jupiter European Opportunities Trust PLC revenues increased 47% to L35M. Net income increased 31% to L23.3M. Revenues reflect Gain on investments at fair value increase of 48% to L30.7M,  Investment Income increase of 46% to L3.2M, Foreign exchange gain on loan increase of 35% to L1.2M. Net income was partially offset by Other Expenses increase of 8% to L327K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T16:39:58">
+		<streetAddress line="1">1 Grosvenor Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1X 7JJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>74120703</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>73144873</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-08-06T11:03:20"><webSite mainCategory="Home Page">http://www.jupiteronline.com</webSite><eMail mainCategory="Company Contact/E-mail">enquiries@jupiteronline.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T16:39:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-05-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">5.60000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">6.00000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">4.78000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.15028</Ratio>
+			<Ratio FieldName="EV" Type="N">655.07680</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">624.82180</Ratio>
+			<Ratio FieldName="AREV" Type="N">113.35800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">95.40600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">94.75600</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">1.00731</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">1.20506</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">5.46274</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.05546</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.03800</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">84.89917</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">19.58618</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.51193</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">5.55936</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.02513</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">B153E</CoID>
+		<CoID Type="CompanyName">AEC Education Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary shares</IssueID>
+			<IssueID Type="Ticker">AEC</IssueID>
+			<IssueID Type="CUSIP">G0118A109</IssueID>
+			<IssueID Type="ISIN">GB00B04XB679</IssueID>
+			<IssueID Type="RIC">AEC.L</IssueID>
+			<IssueID Type="SEDOL">B04XB67</IssueID>
+			<IssueID Type="DisplayRIC">AEC.L</IssueID>
+			<IssueID Type="InstrumentPI">18858500</IssueID>
+			<IssueID Type="QuotePI">18912386</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-10</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">203</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="13015083.0">63051043.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-19T05:07:31">AEC Education Plc (AEC) is engaged in investment holding and the provision of educational consultancy services. The Company's operating segments include Europe and South East Asia/Middle East. The Company's subsidiaries include AEC College Pte Ltd., Malvern House Group Limited, AEC Bilingual Pte Ltd, Malvern House International Limited and Malvern House Ireland Limited. Its AEC Bilingual Pte Ltd subsidiary is engaged in technical, vocational and commercial education activities. Malvern House Group Limited is engaged in teaching of English as a foreign language.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-10T10:21:02">BRIEF: For the six months ended 30 June 2015, AEC Education Plc revenues decreased 17% to L3.6M. Net loss increased from L92K to L541K. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Higher net loss reflects Finance costs increase of 65% to L33K (expense). Basic Earnings per Share excluding Extraordinary Items totaled to -L0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-16T02:12:18">
+		<streetAddress line="1">167 Jalan Bukit Merah Connection 1</streetAddress>
+		<streetAddress line="2">Tower 4, #02-13</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>SINGAPORE</city>
+		<state-region></state-region>
+		<postalCode>150167</postalCode>
+		<country code="SGP">Singapore</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>65</countryPhoneCode>
+				<city-areacode>6</city-areacode>
+				<number>4120700</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>65</countryPhoneCode>
+				<city-areacode>6</city-areacode>
+				<number>4120747</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-16T12:28:01"><webSite mainCategory="Home Page">http://www.aeceducationplc.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">info@aeceducationplc.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-16T02:12:18">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5420103014" mnem="">General Education Services</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="61131" mnem="">Colleges, Universities and Professional Schools</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="61171" mnem="">Educational Support Services</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="54169" mnem="">Other Scientific and Technical Consulting Services</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="8221" mnem="">Colleges And Universities</Industry>
+			<Industry type="SIC" order="2" reported="0" code="8299" mnem="">Schools/educational Services, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="8999" mnem="">Services, Nec</Industry>
+			<Industry type="SIC" order="4" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>William</firstName>
+			<mI>Joseph</mI>
+			<lastName>Swords</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Sithawalla</firstName>
+			<mI>Haider</mI>
+			<lastName>Mohamedally</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="04" startDay="01" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="3" since="04/01/2015">
+			<firstName>Sabin</firstName>
+			<mI></mI>
+			<lastName>Joshi</lastName>
+			<age>32 </age>
+			<title startYear="2015" startMonth="04" startDay="01" iD1="COO" abbr1="COO" iD2="DRC" abbr2="Dir.">Chief Operating Officer, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01625</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.03160</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00301</Ratio>
+			<Ratio FieldName="EV" Type="N">0.74167</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1.02458</Ratio>
+			<Ratio FieldName="AREV" Type="N">8.97817</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-0.39422</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.16438</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.01847</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.14240</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.04059</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00572</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01206</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">42.79213</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-39.95992</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.11412</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.40032</Ratio>
+			<Ratio FieldName="Employees" Type="N">203</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2013" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

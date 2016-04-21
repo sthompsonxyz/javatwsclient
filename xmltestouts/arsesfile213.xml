@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A5AE6</CoID>
+		<CoID Type="CompanyName">Fidelity Japanese Values PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">FJV</IssueID>
+			<IssueID Type="CUSIP">G34059108</IssueID>
+			<IssueID Type="ISIN">GB0003328555</IssueID>
+			<IssueID Type="RIC">FJV.L</IssueID>
+			<IssueID Type="SEDOL">0332855</IssueID>
+			<IssueID Type="DisplayRIC">FJV.L</IssueID>
+			<IssueID Type="InstrumentPI">349682</IssueID>
+			<IssueID Type="QuotePI">1080304</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-19</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">0</Employees>
+		<SharesOut Date="2016-02-23" TotalFloat="113317682.0">113908356.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:34:51">Fidelity Japanese Values PLC is a United Kingdom-based investment trust. The investment objective of the Company is to achieve long-term capital growth from an actively managed portfolio of securities primarily of small and medium sized Japanese companies listed or traded on Japanese stock markets. The markets in which the Company may invest consists primarily the Tokyo Stock Exchange, the Jasdaq and the regional stock markets of Fukuoka, Nagoya, Osaka and Sapporo. It may invest up to 30% of its assets (at the time of acquisition) in equity-related and debt instruments. The Company may also invest in derivatives. The Company may invest up to 5% of its assets (at the time of acquisition) in securities, which are not listed on any stock exchange or traded on the Jasdaq market. A maximum of 15% of the Company's total assets may be invested in the securities of other investment trust companies. The Company's manager is FIL Investment Services (UK) Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-19T08:04:24">BRIEF: For the six months ended 30 June 2015, Fidelity Japanese Values PLC revenues increased from L4.6M to L19.1M. Net income increased from L3.8M to L18.1M. Revenues reflect Gains on investment increase from L4.2M to L14.7M, Gains on derivative instruments held at increase from -L261K to L4.4M, Overseas dividend increase of 5% to L615K. Net income benefited from Other expenses decrease of 5% to L276K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-19T08:04:25">
+		<streetAddress line="1">Beech Gate</streetAddress>
+		<streetAddress line="2">Millfield Lane,Lower Kingswood</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>TADWORTH</city>
+		<state-region></state-region>
+		<postalCode>KT20 6RP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-05-04T23:24:22"><webSite mainCategory="Home Page">https://www.fidelity.co.uk/investor/investment-trusts/japanese-values-plc.page</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-19T08:04:25">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.78375</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.88500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.70250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.06085</Ratio>
+			<Ratio FieldName="EV" Type="N">86.68637</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">89.86237</Ratio>
+			<Ratio FieldName="AREV" Type="N">4.65200</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">2.91000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">2.80300</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.02459</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04082</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.81477</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.02786</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">77.60103</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">3.06459</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">19.31693</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">31.87271</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.96192</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">D01E4</CoID>
+		<CoID Type="CompanyName">NB Global Floating Rate Income Fund Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">NBLS</IssueID>
+			<IssueID Type="CUSIP">G64294104</IssueID>
+			<IssueID Type="ISIN">GG00B3KX4Q34</IssueID>
+			<IssueID Type="RIC">NBLS.L</IssueID>
+			<IssueID Type="SEDOL">B3KX4Q3</IssueID>
+			<IssueID Type="DisplayRIC">NBLS.L</IssueID>
+			<IssueID Type="InstrumentPI">82634631</IssueID>
+			<IssueID Type="QuotePI">85435582</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">137720282</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares Class C</IssueID>
+			<IssueID Type="InstrumentPI">137720473</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+		<Issue ID="5" Type="C" Desc="Common Stock" Order="4">
+			<IssueID Type="Name">Ordinary Shares Class C</IssueID>
+			<IssueID Type="InstrumentPI">137720573</IssueID>
+			<Exchange Code="NA" Country="">Not Available</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-14</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<SharesOut Date="2016-02-22" TotalFloat="1085150630.0">1213151083.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:31:55">NB Global Floating Rate Income Fund Limited is a United Kingdom-based closed-ended investment company. The investment objective of the Company is to provide its shareholders with regular dividends, at levels that are sustainable, while preserving the capital value of its investment portfolio. To pursue its investment objective, the Company invests mainly in floating rate senior secured loans issued in the United States Dollars, Sterling and Euros by primarily North American and European Union corporations, partnerships and other business issuers. Neuberger Berman Europe Limited is the investment manager and Neuberger Berman Fixed Income LLC is the alternative investment fund manager of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-14T22:27:58">BRIEF: For the six months ended 30 June 2015, NB Global Floating Rate Income Fund Ltd revenues decreased 30% to $79.7M. Net income decreased 32% to $71.9M. Revenues reflect Net realised gain / (loss) on derivative decrease from $58.4M to -$26.1M, Net realised gain / (loss) on investment decrease from $10M to -$10.8M, Interest income decrease of 8% to $43M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-14T22:27:58">
+		<streetAddress line="1">Lansdowne House,</streetAddress>
+		<streetAddress line="2">57 Berkeley Square</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1J 6ER</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-02T07:33:29"><webSite mainCategory="Home Page">http://www.nbgfrif.com</webSite><eMail mainCategory="Company Contact/E-mail">loans-income@nb.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-14T22:27:58">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550103010" mnem="">Closed End Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.84700</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.98850</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.84400</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">4.87309</Ratio>
+			<Ratio FieldName="EV" Type="N">-424.66300</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1006.32700</Ratio>
+			<Ratio FieldName="AREV" Type="N">-53.39239</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-66.29568</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-66.29568</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.05095</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.04103</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.05923</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">1.09964</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02587</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-4.61652</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.79964</Ratio>
+			<Ratio FieldName="Employees" Type="N">-99999.99000</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2014" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2014" CurInterimEndMonth="6" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

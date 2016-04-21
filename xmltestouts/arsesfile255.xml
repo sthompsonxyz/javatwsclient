@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A9C0F</CoID>
+		<CoID Type="CompanyName">Halfords Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">HFD</IssueID>
+			<IssueID Type="CUSIP">G4280E105</IssueID>
+			<IssueID Type="ISIN">GB00B012TP20</IssueID>
+			<IssueID Type="RIC">HFD.L</IssueID>
+			<IssueID Type="SEDOL">B012TP2</IssueID>
+			<IssueID Type="DisplayRIC">HFD.L</IssueID>
+			<IssueID Type="InstrumentPI">17001927</IssueID>
+			<IssueID Type="QuotePI">17001928</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-10</LastModified>
+		<LatestAvailableAnnual>2015-04-03</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-02</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-03">11221</Employees>
+		<SharesOut Date="2015-10-02" TotalFloat="198249142.0">199100000.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T03:58:55">Halfords Group plc is a United Kingdom-based retailer of automotive and cycling products. The Company is also engaged operating garage servicing and auto repair in the United Kingdom. The Company operates in two segments Halfords Retail, which operates in both the United Kingdom and Republic of Ireland, and Halfords Autocentres, which operates in the United Kingdom. Halfords Retail employs sells around 9,000 product lines in store with ranges in car parts, in-car technology, child seats, cycling, roof boxes, outdoor leisure and camping equipment. Halfords Retail trades from 465 retail stores and online through halfords.com and halfords.ie Websites. Halfords Autocentres is a car servicing and repair operator offering maintenance, service, motor ordinance test (MOT) and repair services. Halfords Autocentres trades from 303 car servicing centers and online through halfordsautocentres.com. Its subsidiaries are lfords Holdings (2006) Limited and Halfords Ireco 1 Limited, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-10T12:46:09">BRIEF: For the 26 weeks ended 02 October 2015, Halfords Group plc revenues increased 2% to L533.5M. Net income decreased 5% to L37.4M. Revenues reflect Retail segment increase of 1% to L458M, Car Servicing segment increase of 5% to L75.5M, Comp. Store Sales-Retail Car Maintenance increase of 76% to 6.5%, Value of Retail Sales increase of 1% to L458M. Net income was offset by Retail segment income decrease of 7% to L46.9M, Merchandise Margins.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-10T12:46:32">
+		<streetAddress line="1">Icknield Street Drive/Washford West</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>REDDITCH</city>
+		<state-region></state-region>
+		<postalCode>B98 0DE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1527</city-areacode>
+				<number>517601</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-08-21T11:34:21"><webSite mainCategory="Home Page">http://www.halfordscompany.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-10T12:46:32">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340301010" mnem="">Auto Vehicles, Parts &amp; Service Retailers - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="45111" mnem="">Sporting Goods Stores</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="44131" mnem="">Automotive Parts and Accessories Stores</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="811111" mnem="">General Automotive Repair</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="811192" mnem="">Car Washes</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="514191" mnem="">On-Line Information Services</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="551112" mnem="">Offices of  Other Holding Companies</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5941" mnem="">Sporting Goods And Bicycle Shops</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5013" mnem="">Motor Vehicle Supplies/new Parts</Industry>
+			<Industry type="SIC" order="3" reported="0" code="7538" mnem="">General Automotive Repair Shops</Industry>
+			<Industry type="SIC" order="4" reported="0" code="7542" mnem="">Carwashes</Industry>
+			<Industry type="SIC" order="5" reported="0" code="7375" mnem="">Information Retrieval Services</Industry>
+			<Industry type="SIC" order="6" reported="0" code="6719" mnem="">Holding Companies, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="05/11/2015">
+			<firstName>Jill</firstName>
+			<mI></mI>
+			<lastName>McDonald</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="05" startDay="11" iD1="CEO" abbr1="CEO" iD2="" abbr2="">Chief Executive Officer</title>
+		</officer>
+		<officer rank="2" since="10/12/2015">
+			<firstName>Jonny</firstName>
+			<mI></mI>
+			<lastName>Mason</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="10" startDay="12" iD1="CFO" abbr1="CFO" iD2="DRC" abbr2="Dir.">Chief Financial Officer, Director</title>
+		</officer>
+		<officer rank="3" since="2015">
+			<firstName>Justin</firstName>
+			<mI></mI>
+			<lastName>Richards</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Group Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-04-03">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.81800</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.63510</Ratio>
+			<Ratio FieldName="NLOW" Type="N">3.10800</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.71051</Ratio>
+			<Ratio FieldName="EV" Type="N">822.02730</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">760.22730</Ratio>
+			<Ratio FieldName="AREV" Type="N">1025.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">115.00000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">65.80000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.33333</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.19453</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.84715</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.11253</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.46353</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16500</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">53.27677</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">18.96800</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.74140</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">11.45411</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">2.06697</Ratio>
+			<Ratio FieldName="Employees" Type="N">11221</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.7059</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.89357</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">2.7000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">11.83069</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1025.29870</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.32272</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">79.43570</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.16779</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

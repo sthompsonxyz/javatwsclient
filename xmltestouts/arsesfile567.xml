@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A48E0</CoID>
+		<CoID Type="CompanyName">Vesuvius PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">VSVS</IssueID>
+			<IssueID Type="CUSIP">G9339E105</IssueID>
+			<IssueID Type="ISIN">GB00B82YXW83</IssueID>
+			<IssueID Type="RIC">VSVS.L</IssueID>
+			<IssueID Type="SEDOL">B82YXW8</IssueID>
+			<IssueID Type="DisplayRIC">VSVS.L</IssueID>
+			<IssueID Type="InstrumentPI">260789</IssueID>
+			<IssueID Type="QuotePI">1079611</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2009-05-15">0.1</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">4.9% Conv. Pref. Shrs</IssueID>
+			<IssueID Type="Ticker">CKS</IssueID>
+			<IssueID Type="RIC">CKSNn.L^C09</IssueID>
+			<IssueID Type="InstrumentPI">358640</IssueID>
+			<Exchange Code="OTC" Country="USA">Over The Counter</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="2">
+			<IssueID Type="Name">4.9% Preference Shares</IssueID>
+			<IssueID Type="Ticker">CKSF</IssueID>
+			<IssueID Type="ISIN">GB0005084412</IssueID>
+			<IssueID Type="RIC">GB0508441.L^F98</IssueID>
+			<IssueID Type="InstrumentPI">1476470</IssueID>
+			<IssueID Type="QuotePI">2790596</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">11103</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="268974258.0">271213897.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">3586</CommonShareholders>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-03T23:01:35">Vesuvius plc is engaged in the molten metal flow engineering business. The Company provides its products and services principally to the steel and foundry industries. The Company operates through two segments: Steel and Foundry. The Steel division provides flow control and advanced refractories solutions for the global steel industry. The Company's Foundry division supplies consumable products, solutions and associated services to the foundry industry and trades under the Foseco brand. The Steel division consists of two product lines, Steel Flow Control and Advanced Refractories. The Advanced Refractories product line includes refractory materials for lining steelmaking vessels, such as blast furnaces, ladles and tundishes. The Company has operations in around 38 countries across the world, including around 16 production sites in the Americas, approximately 29 production sites in Europe, the Middle East and Africa (EMEA), and around 20 production sites in Asia-Pacific.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T08:50:11">BRIEF: For the six months ended 30 June 2015, Vesuvius PLC revenues decreased 4% to L702.6M. Net income decreased 8% to L35.2M. Revenues reflect Foundry segment decrease of 6% to L226.3M, Steel segment decrease of 3% to L476.3M. Net income also reflects Steel segment income decrease of 6% to L44.5M, Exceptional Items segment loss increase of 33% to L10.5M. Dividend per share remained flat at L0.05.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T08:50:17">
+		<streetAddress line="1">165 Fleet Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4A 2AE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78220000</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>78220100</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-07-04T08:33:54"><webSite mainCategory="Home Page">http://www.vesuvius.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T08:50:17">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5210201018" mnem="">Industrial Process Furnace &amp; Ovens</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="327124" mnem="">Clay Refractory Manufacturing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="334419" mnem="">Other Electronic Component Manufacturing</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="331421" mnem="">Copper Rolling, Drawing and Extruding</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="23531" mnem="">Electrical Contractors</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="333298" mnem="">All Other Industrial Machinery Manufacturing</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="333516" mnem="">Rolling Mill Machinery and Equipment Manufacturing</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="334412" mnem="">Printed Circuit Board Manufacturing</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="42194" mnem="">Jewelry, Watch, Precious Stone and Precious Metal Wholesalers</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="333295" mnem="">Semiconductor Machinery Manufacturing</Industry>
+			<Industry type="SIC" order="1" reported="0" code="3255" mnem="">Clay Refractories</Industry>
+			<Industry type="SIC" order="2" reported="0" code="3679" mnem="">Electronic Components, Nec</Industry>
+			<Industry type="SIC" order="3" reported="0" code="3351" mnem="">Copper Rolling And Drawing</Industry>
+			<Industry type="SIC" order="4" reported="0" code="1731" mnem="">Electrical Work</Industry>
+			<Industry type="SIC" order="5" reported="0" code="3559" mnem="">Special Industry MacHinery, Nec</Industry>
+			<Industry type="SIC" order="6" reported="0" code="3547" mnem="">Rolling Mill MacHinery</Industry>
+			<Industry type="SIC" order="7" reported="0" code="3672" mnem="">Printed Circuit Boards</Industry>
+			<Industry type="SIC" order="8" reported="0" code="5094" mnem="">Jewelry &amp; Precious Stones</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="02/01/2010">
+			<firstName>Francois</firstName>
+			<mI>Clement</mI>
+			<lastName>Wanecq</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="10" startDay="31" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="11/01/2015">
+			<firstName>Guy</firstName>
+			<mI></mI>
+			<lastName>Young</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="11" startDay="01" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="09/19/2013">
+			<firstName>Henry</firstName>
+			<mI></mI>
+			<lastName>Knowles</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="09" startDay="19" iD1="GCN" abbr1="Counsel" iD2="SEC" abbr2="Secy.">General Counsel, Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">3.06900</Ratio>
+			<Ratio FieldName="NHIG" Type="N">5.30000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.65100</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.13869</Ratio>
+			<Ratio FieldName="EV" Type="N">1100.65550</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">832.35550</Ratio>
+			<Ratio FieldName="AREV" Type="N">1444.40000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">181.30000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">99.50000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.36702</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">5.32792</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.29351</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.28355</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.58871</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.16125</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">27.42315</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">11.37273</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.57626</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">8.36194</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.93183</Ratio>
+			<Ratio FieldName="Employees" Type="N">11103</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.6</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.47867</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-3.7360</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">10.75371</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">1358.24890</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.28539</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">107.05800</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.16417</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

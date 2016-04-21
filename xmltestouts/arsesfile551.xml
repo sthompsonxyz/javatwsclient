@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">F0AB6</CoID>
+		<CoID Type="CompanyName">ULS Technology PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">ULS</IssueID>
+			<IssueID Type="CUSIP">G8946Z105</IssueID>
+			<IssueID Type="ISIN">GB00BNG8T458</IssueID>
+			<IssueID Type="RIC">ULS.L</IssueID>
+			<IssueID Type="SEDOL">BNG8T45</IssueID>
+			<IssueID Type="DisplayRIC">ULS.L</IssueID>
+			<IssueID Type="InstrumentPI">162662582</IssueID>
+			<IssueID Type="QuotePI">162762563</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-27</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">53</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="52981018.0">64727875.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-17T04:12:28">ULS Technology plc is a United Kingdom-based provider of online Business-To-Business (B2B) platforms for the United Kingdom conveyancing and financial intermediary markets. The Company offers Web based services for brokers, solicitors, estate agents, lenders, network/associations and customers. The Company's product eConveyancer is an online tool, which enables clients to compare the cost of conveyancers. It offers estateagent4me Website that enables clients to compare the performance of estate agencies. It offers online identity checking facility. It compares the cost of solicitors and instructs them to write a Will or Lasting Power of Attorney. It offers Energy Performance Certificate (EPC). Its brands include eConveyancer, eCsearches, increaseyourlease.co.uk, idchecks.co.uk, iwillcompare, mone4us and epc4us.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-27T12:00:49">BRIEF: For the six months ended 30 September 2015, ULS Technology PLC revenues increased 18% to L9.8M. Net income totaled L1.1M vs. loss of L90K. Revenues reflect an increase in demand for the Company's products and services due to favorable market conditions. Net Income reflects Finance costs decrease of 54% to L34K (expense). Dividend per share totaled to L0.01. Basic Earnings per Share excluding Extraordinary Items totaled to L0.02.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-11T02:03:19">
+		<streetAddress line="1">The Old Grammar School Church Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>THAME</city>
+		<state-region></state-region>
+		<postalCode>OX9 3AJ</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1844</city-areacode>
+				<number>262392</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-07-25T13:23:28"><webSite mainCategory="Home Page">http://www.econveyancer.com</webSite><eMail mainCategory="Company Contact/E-mail">investors@ulsgroup.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-11T02:03:19">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720102012" mnem="">Application Software</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="11/11/2014">
+			<firstName>Benjamin David</firstName>
+			<mI></mI>
+			<lastName>Thompson</lastName>
+			<age>46 </age>
+			<title startYear="2015" startMonth="11" startDay="03" iD1="CEO" abbr1="CEO" iD2="DRC" abbr2="Dir.">Chief Executive Officer, Director</title>
+		</officer>
+		<officer rank="2" since="NA">
+			<firstName>Andrew</firstName>
+			<mI>John</mI>
+			<lastName>Weston</lastName>
+			<age>46 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CFD" abbr1="Co-Fndr." iD2="DRC" abbr2="Dir.">Director, Co-Founder, Director, IT Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>John</firstName>
+			<mI></mI>
+			<lastName>Williams</lastName>
+			<age>47 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Director, Finance Director</title>
+		</officer>
+		<officer rank="4" since="2011">
+			<firstName>Judith</firstName>
+			<mI></mI>
+			<lastName>Dickinson</lastName>
+			<age>48 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Operations Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Alan</firstName>
+			<mI></mI>
+			<lastName>Young</lastName>
+			<age>30 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Head of Sales</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.54500</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.72010</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.45000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03326</Ratio>
+			<Ratio FieldName="EV" Type="N">34.07669</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">35.27669</Ratio>
+			<Ratio FieldName="AREV" Type="N">16.13700</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">3.40600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">1.09500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.01746</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.25728</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.10095</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.04341</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.02385</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.01340</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">37.40472</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">20.01106</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">2.18607</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">31.21420</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">5.39894</Ratio>
+			<Ratio FieldName="Employees" Type="N">53</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.75000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">12.67442</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">19.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.04300</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">3.60000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02100</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

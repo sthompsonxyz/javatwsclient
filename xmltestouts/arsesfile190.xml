@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3501</CoID>
+		<CoID Type="CompanyName">Electra Private Equity Plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">ELTA</IssueID>
+			<IssueID Type="CUSIP">G29736108</IssueID>
+			<IssueID Type="ISIN">GB0003085445</IssueID>
+			<IssueID Type="RIC">ELTA.L</IssueID>
+			<IssueID Type="SEDOL">0308544</IssueID>
+			<IssueID Type="DisplayRIC">ELTA.L</IssueID>
+			<IssueID Type="InstrumentPI">260999</IssueID>
+			<IssueID Type="QuotePI">1079214</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-12-13</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">0</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="28366109.0">40370531.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-16T10:40:59">Electra Private Equity PLC is a United Kingdom-based closed-ended investment trust focused on private equity investments. The Company's investment objective is to achieve a rate of return on equity of 10-15% per year over the long-term by investing in a portfolio of private equity assets. The Company's investment portfolio consists of direct unlisted investments, secondaries, listed securities and funds. The Company is engaged in investing in sectors, such as construction and materials, food and beverage, financial and insurance, healthcare equipment and services, industrial general and transportation, media, real estate, private equity funds, support services, travel and leisure, technology, hardware and equipment, and house, leisure and personal goods. The Company is managed by Electra Partners, an independent private equity fund manager. The Company's subsidiaries include Albion (Electra) Limited, Electra Private Equity Investments PLC, Kingsway Equity Partners LP and others.</Text>
+		<Text Type="Financial Summary" lastModified="2015-12-10T09:12:14">BRIEF: For the fiscal year ended 30 September 2015, Electra Private Equity Plc revenues increased 72% to L437M. Net income increased 92% to L311M. Revenues reflect Investment income/net gain increase of 77% to L436M. Net income benefited from Exceptional Expenses decrease of 32% to L2.3M (expense), Director's Remuneration decrease of 5% to L299K (expense). Dividend per share totaled to L1.16.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-04T02:10:24">
+		<streetAddress line="1">Paternoster House</streetAddress>
+		<streetAddress line="2">65 St Paul's Churchyard</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>EC4M 8AB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Andrew Kenny</contactName>
+		<contactTitle>Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72144200</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72144201</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72144200</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-03-04T01:39:52"><webSite mainCategory="Home Page">http://www.electraequity.com</webSite><eMail mainCategory="Company Contact/E-mail">ir@electrapartners.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-04T02:10:24">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">33.21000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">37.57000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">30.42150</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02671</Ratio>
+			<Ratio FieldName="EV" Type="N">1335.70500</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1340.70500</Ratio>
+			<Ratio FieldName="AREV" Type="N">437.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">317.26500</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">311.00000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">7.72274</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">10.85156</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">41.68638</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">4.07711</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">1.16000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">80.77803</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">23.05411</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.06798</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">4.30029</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.79666</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2013" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">38.32000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

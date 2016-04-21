@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">E3475</CoID>
+		<CoID Type="CompanyName">CloudTag Inc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">CTAG</IssueID>
+			<IssueID Type="CUSIP">G2215A107</IssueID>
+			<IssueID Type="ISIN">KYG2215A1076</IssueID>
+			<IssueID Type="RIC">CTAG.L</IssueID>
+			<IssueID Type="SEDOL">B9M89Q3</IssueID>
+			<IssueID Type="DisplayRIC">CTAG.L</IssueID>
+			<IssueID Type="InstrumentPI">121943113</IssueID>
+			<IssueID Type="QuotePI">129069305</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-15</LastModified>
+		<LatestAvailableAnnual>2014-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-03-31</LatestAvailableInterim>
+		<Employees LastUpdated="2014-09-30">10</Employees>
+		<SharesOut Date="2016-01-26" TotalFloat="134787395.0">212879240.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-26T01:38:07">CloudTag Inc. is a Cayman Islands-based company. The Company's principal activity is to design, develop and sell wearable devices and software for the consumer health and wellbeing markets for global retail and distribution.</Text>
+		<Text Type="Financial Summary" lastModified="2015-07-06T09:37:08">BRIEF: For the six months ended 31 March 2015, CloudTag Inc revenues was not reported. Net loss decreased 51% to L494K. Lower net loss reflects Research and development costs decrease of 83% to L73K (expense), Share based payments decrease of 81% to L25K (expense), Other administrative expenses decrease of 14% to L396K (expense).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-15T03:44:39">
+		<streetAddress line="1">Mary Street 122, Zephyr House,</streetAddress>
+		<streetAddress line="2">P.O. Box 709</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>GRAND CAYMAN</city>
+		<state-region></state-region>
+		<postalCode>KY1-1107</postalCode>
+		<country code="CYM">Cayman Islands</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>1</countryPhoneCode>
+				<city-areacode>345</city-areacode>
+				<number>9494544</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-03-21T13:51:52"><webSite mainCategory="Home Page">http://www.cloudtag.com</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-15T03:44:39">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720102012" mnem="">Application Software</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334611" mnem="">Software Reproducing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="51121" mnem="">Software Publishers</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="01/08/2015">
+			<firstName>Amit</firstName>
+			<mI></mI>
+			<lastName>Ben-Haim</lastName>
+			<age>54 </age>
+			<title startYear="2015" startMonth="02" startDay="11" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive Officer, Executive Director - Corporate Development, Director</title>
+		</officer>
+		<officer rank="2" since="07/17/2015">
+			<firstName>John</firstName>
+			<mI>Gregson</mI>
+			<lastName>Wakely</lastName>
+			<age>67 </age>
+			<title startYear="2015" startMonth="07" startDay="17" iD1="FID" abbr1="Fin. Dir." iD2="DRC" abbr2="Dir.">Finance Director, Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.01875</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.03695</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.01625</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.07172</Ratio>
+			<Ratio FieldName="EV" Type="N">4.12575</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">4.15075</Ratio>
+			<Ratio FieldName="AREV" Type="N">0.00000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-1.28900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-1.03500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.00687</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.00000</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">-0.00398</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00016</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.00686</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="Employees" Type="N">10</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="" CurFiscalYear="" CurFiscalYearEndMonth="" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

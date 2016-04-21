@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A67A6</CoID>
+		<CoID Type="CompanyName">Regal Petroleum PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">RPT</IssueID>
+			<IssueID Type="CUSIP">G7476L106</IssueID>
+			<IssueID Type="ISIN">GB0031775819</IssueID>
+			<IssueID Type="RIC">RPT.L</IssueID>
+			<IssueID Type="SEDOL">3177581</IssueID>
+			<IssueID Type="DisplayRIC">RPT.L</IssueID>
+			<IssueID Type="InstrumentPI">9601976</IssueID>
+			<IssueID Type="QuotePI">9601944</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-14</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">157</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="67886370.0">320637836.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-06T07:40:24">Regal Petroleum plc is a United Kingdom-based independent oil and gas company. The Company is engaged in the business of oil and gas exploration and production. The Company has oil and gas development and producing asset in Ukraine. The Company's subsidiary, Regal Petroleum Corporation Limited, holds a 100% working interest and is the operator of the MEX-GOL and SV fields. The licenses are the Company's sole assets and extend over a combined area of 269 square kilometers approximately 200 kilometers east of Kiev. The two licenses are adjacent and the interests are operated and managed as one field. The Company's other subsidiaries include Regal Petroleum Corporation (Ukraine) Limited, Refin Limited and Regal Group Services Limited, service companies, and Regal Petroleum (Jersey) Limited, holding company.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-07T10:20:52">BRIEF: For the six months ended 30 June 2015, Regal Petroleum PLC revenues decreased 38% to $10.9M. Net loss totaled $3.3M vs. income of $2.8M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Basic Earnings per Share excluding Extraordinary Items decreased from $0.01 to -$0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-10-14T21:58:06">
+		<streetAddress line="1">16 Old Queen Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW1H 9HP</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>34273550</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>34273551</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2012-08-15T02:28:02"><webSite mainCategory="Home Page">http://www.regalpetroleum.com/</webSite><eMail mainCategory="Company Contact/E-mail">info@regalpetroleum.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2015-10-14T21:58:06">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5010202013" mnem="">Natural Gas Exploration &amp; Production - Onshore</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="211111" mnem="">Crude Petroleum and Natural Gas Extraction</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1311" mnem="">Crude Petroleum And Natural Gas</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/15/2008">
+			<firstName>Keith</firstName>
+			<mI>Nicholas</mI>
+			<lastName>Henry</lastName>
+			<age>70 </age>
+			<title startYear="2010" startMonth="09" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="11/01/2014">
+			<firstName>Sergei</firstName>
+			<mI></mI>
+			<lastName>Glazunov</lastName>
+			<age>42 </age>
+			<title startYear="2014" startMonth="11" startDay="01" iD1="FID" abbr1="Fin. Dir." iD2="" abbr2="">Finance Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Christopher</firstName>
+			<mI></mI>
+			<lastName>Phillips</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.03000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.06500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.02200</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.00450</Ratio>
+			<Ratio FieldName="EV" Type="N">-12.88286</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">9.61914</Ratio>
+			<Ratio FieldName="AREV" Type="N">24.43584</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">10.74634</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">4.06769</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.01269</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.07621</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.20371</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.07018</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.03220</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">34.31968</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">4.76577</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.39365</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">2.36458</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.14727</Ratio>
+			<Ratio FieldName="Employees" Type="N">157</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4450</CoID>
+		<CoID Type="CompanyName">Kenmare Resources plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">KMR</IssueID>
+			<IssueID Type="CUSIP">G52332106</IssueID>
+			<IssueID Type="ISIN">IE0004879486</IssueID>
+			<IssueID Type="RIC">JEV.L</IssueID>
+			<IssueID Type="SEDOL">0487948</IssueID>
+			<IssueID Type="DisplayRIC">JEV.L</IssueID>
+			<IssueID Type="InstrumentPI">261691</IssueID>
+			<IssueID Type="QuotePI">1015343</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2010-03-08">1.13718</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-09-04</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2014-12-31">1592</Employees>
+		<SharesOut Date="2015-06-30" TotalFloat="2397733341.0">2781905503.0</SharesOut>
+		<CommonShareholders Date="2014-12-31">5915</CommonShareholders>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-29T19:11:09">Kenmare Resources plc (Kenmare) is an Ireland-based mining company. The Company and its subsidiaries are engaged in the operation and further development of the Moma Titanium Minerals Mine in Mozambique. The Moma Mine consist deposits of heavy minerals, such as the titanium minerals, including ilmenite and rutile, and the zirconium silicate mineral, zircon. The mining operations in the Moma Titanium Minerals Mine are carried out by the Company's subsidiary, Kenmare Moma Mining (Mauritius) Limited and downstream processing is undertaken by its subsidiary, Kenmare Moma Processing (Mauritius) Limited. The Company's other subsidiaries include Kenmare UK Company Limited, Kenmare Minerals Company Limited, Kenmare C.I. Limited, Congolone Heavy Minerals Limited, Kenmare Resources (Jersey) Limited and Mozambique Minerals Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2015-09-04T14:05:04">BRIEF: For the six months ended 30 June 2015, Kenmare Resources plc revenues decreased 9% to $73.9M. Net loss decreased 12% to $27.9M. Revenues reflect a decrease in demand for the Company's products and services due to unfavorable market conditions. Basic Earnings per Share excluding Extraordinary Items remained flat at -$0.01.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T22:17:21">
+		<streetAddress line="1">CHATHAM HOUSE, CHATHAM STREET, Dublin 2</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>DUBLIN</city>
+		<state-region></state-region>
+		<postalCode>2</postalCode>
+		<country code="IRL">Ireland</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>353</countryPhoneCode>
+				<city-areacode>1</city-areacode>
+				<number>6710411</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>353</countryPhoneCode>
+				<city-areacode>1</city-areacode>
+				<number>6710810</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-22T14:54:21"><webSite mainCategory="Home Page">http://www.kenmareresources.com/</webSite><eMail mainCategory="Company Contact/E-mail">ir@kenmareresources.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T22:17:21">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5120105010" mnem="">Specialty Mining &amp; Metals - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="212299" mnem="">All Other Metal Ore Mining</Industry>
+			<Industry type="SIC" order="1" reported="0" code="1099" mnem="">Metal Ores, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1991">
+			<firstName>Tony</firstName>
+			<mI></mI>
+			<lastName>McCluskey</lastName>
+			<age></age>
+			<title startYear="1999" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="EDR" abbr2="Exec. Dir.">Financial Director, Executive Director</title>
+		</officer>
+		<officer rank="2" since="01/2015">
+			<firstName>Ben</firstName>
+			<mI></mI>
+			<lastName>Baxter</lastName>
+			<age></age>
+			<title startYear="2015" startMonth="01" startDay="" iD1="COO" abbr1="COO" iD2="" abbr2="">Chief Operating Officer</title>
+		</officer>
+		<officer rank="3" since="1986">
+			<firstName>Michael</firstName>
+			<mI></mI>
+			<lastName>Carvill</lastName>
+			<age></age>
+			<title startYear="1986" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="09/01/2008">
+			<firstName>Terence</firstName>
+			<mI></mI>
+			<lastName>Fitzpatrick</lastName>
+			<age></age>
+			<title startYear="2009" startMonth="02" startDay="02" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Technical Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">0.00525</Ratio>
+			<Ratio FieldName="NHIG" Type="N">0.04920</Ratio>
+			<Ratio FieldName="NLOW" Type="N">0.00270</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">12.52412</Ratio>
+			<Ratio FieldName="EV" Type="N">239.26107</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">15.17609</Ratio>
+			<Ratio FieldName="AREV" Type="N">123.20900</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">8.75526</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-71.24221</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.02561</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.04429</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">0.14349</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.00554</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-0.01523</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">0.54556</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-16.40288</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">0.12317</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.03659</Ratio>
+			<Ratio FieldName="Employees" Type="N">1592</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2015" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2015" CurInterimEndMonth="9" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">0.04552</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-0.37129</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">118.00193</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-0.01414</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-33.78552</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.00000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

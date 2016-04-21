@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3F13</CoID>
+		<CoID Type="CompanyName">Murray Income Trust plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Closed-Ended Fund</IssueID>
+			<IssueID Type="Ticker">MUT</IssueID>
+			<IssueID Type="CUSIP">G63420114</IssueID>
+			<IssueID Type="ISIN">GB0006111123</IssueID>
+			<IssueID Type="RIC">MUT.L</IssueID>
+			<IssueID Type="SEDOL">0611112</IssueID>
+			<IssueID Type="DisplayRIC">MUT.L</IssueID>
+			<IssueID Type="InstrumentPI">262078</IssueID>
+			<IssueID Type="QuotePI">1080107</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">126260492</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="P" Desc="Preferred Stock" Order="1">
+			<IssueID Type="Name">4.25% Preference Shares</IssueID>
+			<IssueID Type="InstrumentPI">126260528</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-17</LastModified>
+		<LatestAvailableAnnual>2015-06-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-12-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-06-30">0</Employees>
+		<SharesOut Date="2016-02-23" TotalFloat="66923526.0">67955458.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-11-04T11:08:03">Murray Income Trust PLC is a United Kingdom-based investment trust company. The investment objective of the Company is to achieve a high and growing income combined with capital growth through investment in a portfolio of United Kingdom equities. The Company may invest up to 100% of its gross assets in the United Kingdom-listed equities and other securities and is permitted to invest up to 20% of its gross assets in other overseas listed equities and securities. The Company invests primarily in the equity securities of large, the United Kingdom and overseas companies. The Company invests in various sectors, such as oil and gas, basic materials, industrials, consumer goods, healthcare, consumer services, telecommunications, utilities, financials and technology. The Company is managed by Aberdeen Fund Managers Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-17T12:39:50">BRIEF: For the six months ended 31 December 2015, Murray Income Trust plc revenues increased 73% to -L3.6M. Net loss decreased 63% to L5.9M. Revenues reflect Losses)/gains on investment increase of 46% to -L12.1M, Other Income increase from L190K to L605K, Interest Receivables increase of 50% to L30K. Dividend per share remained flat at L0.14. Basic Earnings per Share excluding Extraordinary Items increased from -L0.23 to -L0.09.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-17T12:40:00">
+		<streetAddress line="1">40 Princes Street</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>EDINBURGH</city>
+		<state-region></state-region>
+		<postalCode>EH2 2BY</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-17T13:46:30"><webSite mainCategory="Home Page">http://www.murray-income.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">invtrusts@aberdeen-asset.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-17T12:40:00">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5550101010" mnem="">Investment Trusts</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-06-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">6.42000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">7.90675</Ratio>
+			<Ratio FieldName="NLOW" Type="N">5.95000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.08492</Ratio>
+			<Ratio FieldName="EV" Type="N">473.72100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">436.59500</Ratio>
+			<Ratio FieldName="AREV" Type="N">-6.79400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-11.52900</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">-11.47400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">-0.16849</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">-0.09976</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">7.57073</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.26230</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.32000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">-2.15770</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.84800</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2012" CurFiscalYearEndMonth="6" CurInterimEndCalYear="" CurInterimEndMonth="" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

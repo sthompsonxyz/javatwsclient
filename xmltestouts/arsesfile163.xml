@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A849C</CoID>
+		<CoID Type="CompanyName">Dexion Absolute Ltd</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DAB</IssueID>
+			<IssueID Type="CUSIP">G2751C103</IssueID>
+			<IssueID Type="ISIN">GB0032287020</IssueID>
+			<IssueID Type="RIC">DAB.L</IssueID>
+			<IssueID Type="SEDOL">3228702</IssueID>
+			<IssueID Type="DisplayRIC">DAB.L</IssueID>
+			<IssueID Type="InstrumentPI">10473626</IssueID>
+			<IssueID Type="QuotePI">10473581</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DABE</IssueID>
+			<IssueID Type="CUSIP">G2751C160</IssueID>
+			<IssueID Type="ISIN">GB00B0FXK920</IssueID>
+			<IssueID Type="RIC">DABx.L^J15</IssueID>
+			<IssueID Type="SEDOL">B0FXK92</IssueID>
+			<IssueID Type="DisplayRIC">DABx.L</IssueID>
+			<IssueID Type="InstrumentPI">21057639</IssueID>
+			<IssueID Type="QuotePI">21057638</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="3" Type="C" Desc="Common Stock" Order="3">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DABU</IssueID>
+			<IssueID Type="CUSIP">G2751C178</IssueID>
+			<IssueID Type="ISIN">GB00B0FXL332</IssueID>
+			<IssueID Type="RIC">DABu.L^J15</IssueID>
+			<IssueID Type="SEDOL">B0FXL33</IssueID>
+			<IssueID Type="DisplayRIC">DABu.L</IssueID>
+			<IssueID Type="InstrumentPI">21057805</IssueID>
+			<IssueID Type="QuotePI">21057804</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+		<Issue ID="4" Type="C" Desc="Common Stock" Order="4">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">DABA</IssueID>
+			<IssueID Type="CUSIP">G2751C210</IssueID>
+			<IssueID Type="ISIN">GB00B1B00G16</IssueID>
+			<IssueID Type="RIC">DABA.L^K06</IssueID>
+			<IssueID Type="InstrumentPI">27994109</IssueID>
+			<IssueID Type="QuotePI">27994268</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-11-01</LastModified>
+		<LatestAvailableAnnual>2014-12-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-06-30</LatestAvailableInterim>
+		<Employees LastUpdated="2013-12-31">0</Employees>
+		<SharesOut Date="2015-12-31" TotalFloat="50121234.0">52834785.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-08-20T07:33:00">Dexion Absolute Limited is a Guernsey authorized closed-end investment company. The Company's investment objective is to generate long-term capital appreciation with low volatility and little correlation with the general equity and bond markets. The Company invests substantially all of its assets (other than the illiquid investments and any funds required for short term working capital purposes and subject to realizing those investments, which are not the subject of in specie transfers to AOFL II) in shares of AOFL II. (Aurora Offshore Fund Ltd. II). Dexion Capital (Guernsey) Limited is the investment manager of the Company. Aurora Investment Management LLC is the investment adviser of the Company.</Text>
+		<Text Type="Financial Summary" lastModified="2015-11-01T02:16:34">BRIEF: For the six months ended 30 June 2015, Dexion Absolute Ltd revenues decreased 55% to L3.7M. Net income decreased 61% to L2M. Revenues reflect British Virgin Islands segment decrease of 99% to L18K, Cayman segment decrease of 4% to L2.5M. Net income also reflects Audit fee increase of 3% to L30K (expense). Basic Earnings per Share excluding Extraordinary Items decreased from L0.04 to L0.03.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-11-01T02:16:36">
+		<streetAddress line="1">1 Le Truchot</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>ST PETER PORT</city>
+		<state-region></state-region>
+		<postalCode>GY1 3SZ</postalCode>
+		<country code="GGY">Guernsey</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone></phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-06-27T00:36:05"><webSite mainCategory="Home Page">http://www.dexionabsolute.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.services@dexioncapital.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-11-01T02:16:36">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5510202012" mnem="">Hedge Funds</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="52599" mnem="">Other Financial Vehicles</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6726" mnem="">Investment Offices, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers></officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2014-12-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">1.72625</Ratio>
+			<Ratio FieldName="NHIG" Type="N">1.91000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">1.66250</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.02964</Ratio>
+			<Ratio FieldName="EV" Type="N">131.07183</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">87.06783</Ratio>
+			<Ratio FieldName="AREV" Type="N">13.03800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">7.29400</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">7.29400</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.05230</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.09349</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">1.85410</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.04070</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">-99999.99000</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.00000</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">63.22289</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">2.86102</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.67800</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">33.00669</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">0.93105</Ratio>
+			<Ratio FieldName="Employees" Type="N">0</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2013" CurFiscalYearEndMonth="12" CurInterimEndCalYear="2013" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">3</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

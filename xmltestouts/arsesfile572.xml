@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A339B</CoID>
+		<CoID Type="CompanyName">Workspace Group plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Real Estate Trust</IssueID>
+			<IssueID Type="Ticker">WKP</IssueID>
+			<IssueID Type="CUSIP">G5595E136</IssueID>
+			<IssueID Type="ISIN">GB00B67G5X01</IssueID>
+			<IssueID Type="RIC">WKP.L</IssueID>
+			<IssueID Type="SEDOL">B67G5X0</IssueID>
+			<IssueID Type="DisplayRIC">WKP.L</IssueID>
+			<IssueID Type="InstrumentPI">322192</IssueID>
+			<IssueID Type="QuotePI">1081828</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2011-08-08">0.1</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-02-06</LastModified>
+		<LatestAvailableAnnual>2015-03-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-03-31">199</Employees>
+		<SharesOut Date="2016-02-02" TotalFloat="117618012.0">162404600.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-07-14T04:30:30">Workspace Group PLC is a United Kingdom-based Real Estate Investment Trust (REIT) engaged in property investment. The Company provides commercial property to let throughout London. The Company has around 4,000 tenants over approximately 100 properties. The Company's properties include Acton Business Centre, Archer Street Studios, Pill Box, Lombard House, Edinburgh House, and Zennor Tradepark, among others. The Company offers a range of services, including on-site cafes, gyms, cycle racks, meeting rooms and break-out areas, among others. The Company has 12 active subsidiaries, six of which are property investment companies owning properties in Greater London. The Company has three joint ventures, BlackRock Workspace Property Trust, Enterprise House Investments LLP and Generate Studio Limited.</Text>
+		<Text Type="Financial Summary" lastModified="2016-02-06T09:11:41">BRIEF: For the six months ended 30 September 2015, Workspace Group plc revenues increased 22% to L49.3M. Net income decreased 1% to L163.4M. Revenues reflect Rental Income segment increase of 26% to L38.3M, Service Charge and Other Recoveries segment increase of 8% to L8.2M. Net income was offset by Other Operating Income/Expenses decrease of 83% to L2.2M (income), Fair value of investment properties decrease of 4% to L137.9M (income).</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-11T02:21:30">
+		<streetAddress line="1">Chester House</streetAddress>
+		<streetAddress line="2">Kennington Park, 1-3 Brixton Road</streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>SW9 6DE</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>71383300</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72470157</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2014-01-13T04:26:32"><webSite mainCategory="Home Page">http://www.workspacegroupplc.co.uk</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@workspacegroup.co.uk</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-11T02:21:30">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540302010" mnem="">Commercial REITs - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="03/12/2012">
+			<firstName>Jameson</firstName>
+			<mI></mI>
+			<lastName>Hopkins</lastName>
+			<age></age>
+			<title startYear="2012" startMonth="04" startDay="01" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="07/31/2007">
+			<firstName>Graham</firstName>
+			<mI></mI>
+			<lastName>Clemett</lastName>
+			<age></age>
+			<title startYear="2013" startMonth="" startDay="" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="06/01/2007">
+			<firstName>Angus</firstName>
+			<mI></mI>
+			<lastName>Boag</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="06" startDay="01" iD1="OTH" abbr1="Other" iD2="" abbr2="">Development Director</title>
+		</officer>
+		<officer rank="4" since="10/2007">
+			<firstName>Christopher</firstName>
+			<mI>J.</mI>
+			<lastName>Pieroni</lastName>
+			<age></age>
+			<title startYear="2007" startMonth="10" startDay="" iD1="OTH" abbr1="Other" iD2="" abbr2="">Operations Director</title>
+		</officer>
+		<officer rank="5" since="03/22/2010">
+			<firstName>Carmelina</firstName>
+			<mI></mI>
+			<lastName>Carfora</lastName>
+			<age></age>
+			<title startYear="2010" startMonth="03" startDay="22" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-03-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">7.17000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">9.89500</Ratio>
+			<Ratio FieldName="NLOW" Type="N">7.05500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.47952</Ratio>
+			<Ratio FieldName="EV" Type="N">1441.54100</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1164.44100</Ratio>
+			<Ratio FieldName="AREV" Type="N">83.60000</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">54.90000</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">350.90000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">2.27436</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.54185</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">7.11512</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.25014</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">2.33852</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.12040</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">69.01914</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">37.48131</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">13.92872</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">3.15254</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.00771</Ratio>
+			<Ratio FieldName="Employees" Type="N">199</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="3" CurInterimEndCalYear="2015" CurInterimEndMonth="12" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.75</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">10.41364</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">35.9000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">30.02513</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">86.79440</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.23880</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">39.43420</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.14418</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

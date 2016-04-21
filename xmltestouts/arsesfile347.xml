@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">AAC16</CoID>
+		<CoID Type="CompanyName">Micro Focus International plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">MCRO</IssueID>
+			<IssueID Type="CUSIP">G6117L178</IssueID>
+			<IssueID Type="ISIN">GB00BQY7BX88</IssueID>
+			<IssueID Type="RIC">MCRO.L</IssueID>
+			<IssueID Type="SEDOL">BQY7BX8</IssueID>
+			<IssueID Type="DisplayRIC">MCRO.L</IssueID>
+			<IssueID Type="InstrumentPI">20538924</IssueID>
+			<IssueID Type="QuotePI">20538910</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-11-20">0.9285</MostRecentSplit>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-31</LastModified>
+		<LatestAvailableAnnual>2015-04-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-10-31</LatestAvailableInterim>
+		<Employees LastUpdated="2015-04-30">4240</Employees>
+		<SharesOut Date="2016-01-29" TotalFloat="186477400.0">217681949.0</SharesOut>
+		<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">1.0</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-09-22T05:33:05">Micro Focus International plc is a United Kingdom-based company, which is engaged in managing mature infrastructure software assets. The Company's products include Micro Focus, such as COBOL Development and Mainframe Solutions, Host Connectivity, Identity Access and Security, Development and IT Operations Management Tools, Collaboration and Networking, and SUSE. SUSE is open source software, which provides Linux and cloud infrastructure solutions. SUSE products enable various organizations across the world across physical, virtual and cloud environments. The SUSE product portfolio includes SUSE Linux Enterprise Server Products, SUSE Linux Enterprise Extensions, SUSE Linux Enterprise Management and Cloud, SUSE OpenStack Cloud, SUSE Enterprise Storage and SUSE Linux Enterprise Desktop. Its professional services include value profile day services, test process modernization, portfolio modernization, value assurance, resource modernization and application health check, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-31T05:18:32">BRIEF: For the six months ended 31 October 2015, Micro Focus International plc revenues increased from $208.3M to $604.5M. Net income increased 73% to $87.5M. Revenues reflect Micro Focus segment increase from $208.3M to $483.3M, SUSE segment increase from $0K to $121.2M. Net income was partially offset by Unallocated segment loss increase from $36M to $113.5M. Dividend per share remained flat at $0.17.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-02-08T02:39:39">
+		<streetAddress line="1">The Lawn,22-30 Old Bath Road</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>NEWBURY</city>
+		<state-region></state-region>
+		<postalCode>RG14 1QN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Tim Brill</contactName>
+		<contactTitle>Head of Corporate Communications and Investor Relations</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1635</city-areacode>
+				<number>565200</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>1635</city-areacode>
+				<number>33966</number>
+			</phone>
+			<phone type="contactphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>0</city-areacode>
+				<number>163532646</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-11T04:45:25"><webSite mainCategory="Home Page">http://www.microfocus.com/</webSite><eMail mainCategory="Company Contact/E-mail">investors@microfocus.com</eMail></webLinks>
+	<peerInfo lastUpdated="2016-02-08T02:39:39">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5720102010" mnem="">Software - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="334611" mnem="">Software Reproducing</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="541511" mnem="">Custom Computer Programming Services</Industry>
+			<Industry type="SIC" order="1" reported="0" code="7372" mnem="">Prepackaged Software</Industry>
+			<Industry type="SIC" order="2" reported="0" code="7371" mnem="">Computer Programming Services</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="04/14/2011">
+			<firstName>Kevin</firstName>
+			<mI></mI>
+			<lastName>Loosemore</lastName>
+			<age>56 </age>
+			<title startYear="2011" startMonth="04" startDay="14" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="09/07/2010">
+			<firstName>Mike</firstName>
+			<mI>S.</mI>
+			<lastName>Phillips</lastName>
+			<age>52 </age>
+			<title startYear="2010" startMonth="09" startDay="07" iD1="CFO" abbr1="CFO" iD2="EDR" abbr2="Exec. Dir.">Chief Financial Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="02/01/2016">
+			<firstName>Nils</firstName>
+			<mI></mI>
+			<lastName>Brauckmann</lastName>
+			<age></age>
+			<title startYear="2016" startMonth="02" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">Chief Executive Officer - SUSE, Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Stephen</firstName>
+			<mI></mI>
+			<lastName>Murdoch</lastName>
+			<age>48 </age>
+			<title startYear="2016" startMonth="02" startDay="01" iD1="CEX" abbr1="Corp. Exec." iD2="DRC" abbr2="Dir.">Chief Executive Officer - Micro Focus, Director</title>
+		</officer>
+		<officer rank="5" since="NA">
+			<firstName>Jane</firstName>
+			<mI></mI>
+			<lastName>Smithard</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Company Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="USD" ExchangeRate="0.70681" LatestAvailableDate="2015-04-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">14.36000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">16.22000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">10.69611</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.72288</Ratio>
+			<Ratio FieldName="EV" Type="N">4156.91980</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">3125.91300</Ratio>
+			<Ratio FieldName="AREV" Type="N">589.86050</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">254.93220</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">71.70658</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.39967</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">3.28774</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">4.15495</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.78514</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.85969</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.35048</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">89.59174</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">16.09272</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">5.29941</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">35.92939</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">3.45612</Ratio>
+			<Ratio FieldName="Employees" Type="N">4240</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="4" CurInterimEndCalYear="2016" CurInterimEndMonth="1" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2.1538</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">16.57081</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">9.0515</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">13.94229</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">870.83685</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">1.02996</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">271.65620</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.38055</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

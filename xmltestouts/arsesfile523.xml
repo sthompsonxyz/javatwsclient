@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A3845</CoID>
+		<CoID Type="CompanyName">Ted Baker plc</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">TED</IssueID>
+			<IssueID Type="CUSIP">G8725V101</IssueID>
+			<IssueID Type="ISIN">GB0001048619</IssueID>
+			<IssueID Type="RIC">TED.L</IssueID>
+			<IssueID Type="SEDOL">0104861</IssueID>
+			<IssueID Type="DisplayRIC">TED.L</IssueID>
+			<IssueID Type="InstrumentPI">380435</IssueID>
+			<IssueID Type="QuotePI">1082059</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2015-10-07</LastModified>
+		<LatestAvailableAnnual>2015-01-31</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-08-15</LatestAvailableInterim>
+		<Employees LastUpdated="2015-01-31">2804</Employees>
+		<SharesOut Date="2016-01-19" TotalFloat="28029313.0">43970359.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-10-21T09:32:50">Ted Baker PLC is a United Kingdom-based global lifestyle company. The Company is principally engaged in the design, wholesale and retail of menswear, womenswear and related accessories. The Company operates through three segments: retail, wholesale and license income. The retail segment operates stores and concessions across the United Kingdom, continental Europe, North America and Asia, and an e-commerce business based in the United Kingdom. The Company operates a wholesale business in the United Kingdom serving countries across the world. The Company operates both territorial and product licenses. Its territorial licenses cover Europe, South America, the Middle East, Asia and Australasia. Its product licenses cover fragrance and skinwear, watches, footwear, eyewear, men's suits, neckwear, jewelry, childrenswear, lingerie and sleepwear, homeware, luggage and audio. The Company markets its products under the Ted Baker brand.</Text>
+		<Text Type="Financial Summary" lastModified="2015-10-07T15:07:19">BRIEF: For the 28 weeks ended 15 August 2015, Ted Baker plc revenues increased 24% to L226.8M. Net income increased 15% to L13.1M. Revenues reflect Retail segment increase of 20% to L168.2M, Wholesale segment increase of 39% to L58.6M. Dividend per share increased from L0.11 to L0.13. Basic Earnings per Share excluding Extraordinary Items increased from L0.26 to L0.30.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2015-12-17T02:26:03">
+		<streetAddress line="1">Ugly Brown Bldg, 6a St. Pancras Way</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>NW1 0TB</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName>Hudson Sandler</contactName>
+		<contactTitle>Investor Relations Officer</contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72554800</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>72554962</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2013-12-20T13:26:55"><webSite mainCategory="Home Page">http://www.tedbakerplc.com</webSite><eMail mainCategory="Company Contact/E-mail">investor.relations@tedbaker.com</eMail></webLinks>
+	<peerInfo lastUpdated="2015-12-17T02:26:03">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5340304010" mnem="">Apparel &amp; Accessories Retailers - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="44814" mnem="">Family Clothing Stores</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="44815" mnem="">Clothing Accessories Stores</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="44821" mnem="">Shoe Stores</Industry>
+			<Industry type="NAICS" order="4" reported="0" code="44831" mnem="">Jewelry Stores</Industry>
+			<Industry type="NAICS" order="5" reported="0" code="42232" mnem="">Men's and Boys' Clothing and Furnishings Wholesalers</Industry>
+			<Industry type="NAICS" order="6" reported="0" code="42233" mnem="">Women's, Children's, and Infants' and Accessories Wholesalers</Industry>
+			<Industry type="NAICS" order="7" reported="0" code="42234" mnem="">Footwear Wholesalers</Industry>
+			<Industry type="NAICS" order="8" reported="0" code="42139" mnem="">Other Construction Material Wholesalers</Industry>
+			<Industry type="NAICS" order="9" reported="0" code="45411" mnem="">Electronic Shopping and Mail-Order Houses</Industry>
+			<Industry type="SIC" order="1" reported="0" code="5651" mnem="">Family Clothing Stores</Industry>
+			<Industry type="SIC" order="2" reported="0" code="5699" mnem="">Misc. Apparel &amp; Accessory Stores</Industry>
+			<Industry type="SIC" order="3" reported="0" code="5661" mnem="">Shoe Stores</Industry>
+			<Industry type="SIC" order="4" reported="0" code="5944" mnem="">Jewelry Stores</Industry>
+			<Industry type="SIC" order="5" reported="0" code="5136" mnem="">Men's And Boy's Clothing</Industry>
+			<Industry type="SIC" order="6" reported="0" code="5137" mnem="">Women's And Children's Clothing</Industry>
+			<Industry type="SIC" order="7" reported="0" code="5139" mnem="">Footwear</Industry>
+			<Industry type="SIC" order="8" reported="0" code="5039" mnem="">Construction Materials, Nec</Industry>
+			<Industry type="SIC" order="9" reported="0" code="5961" mnem="">Catalog And Mail-Order Houses</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="1988">
+			<firstName>Raymond</firstName>
+			<mI>Stuart</mI>
+			<lastName>Kelvin</lastName>
+			<age>59 </age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CEO" abbr1="CEO" iD2="EDR" abbr2="Exec. Dir.">Chief Executive, Executive Director</title>
+		</officer>
+		<officer rank="2" since="02/1997">
+			<firstName>Lindsay</firstName>
+			<mI>Dennis</mI>
+			<lastName>Page</lastName>
+			<age>56 </age>
+			<title startYear="2014" startMonth="07" startDay="08" iD1="FID" abbr1="Fin. Dir." iD2="COO" abbr2="COO">Group Finance Director, Chief Operating Officer, Executive Director</title>
+		</officer>
+		<officer rank="3" since="NA">
+			<firstName>Charles</firstName>
+			<mI>F.</mI>
+			<lastName>Anderson</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="SEC" abbr1="Secy." iD2="" abbr2="">Secretary</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-01-31">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">29.63000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">36.50000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">24.63000</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.03012</Ratio>
+			<Ratio FieldName="EV" Type="N">1321.66600</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">1302.84200</Ratio>
+			<Ratio FieldName="AREV" Type="N">387.56400</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">63.43800</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">35.85000</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.81025</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">8.75942</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">3.20022</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.16801</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">1.09358</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.40300</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">60.68804</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">28.38053</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">3.36162</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">36.56896</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">9.25872</Ratio>
+			<Ratio FieldName="Employees" Type="N">2804</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="1" CurInterimEndCalYear="2015" CurInterimEndMonth="4" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">2</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">35.34167</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">29.81695</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">459.54860</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.99373</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">59.63540</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.48345</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>

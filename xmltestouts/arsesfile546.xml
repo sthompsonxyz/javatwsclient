@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportSnapshot Major="1" Minor="0" Revision="1">
+	<CoIDs>
+		<CoID Type="RepNo">A4009</CoID>
+		<CoID Type="CompanyName">Urban&amp;Civic PLC</CoID>
+	</CoIDs>
+	<Issues>
+		<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="Ticker">UANC</IssueID>
+			<IssueID Type="CUSIP">G9294N108</IssueID>
+			<IssueID Type="ISIN">GB00BKT04W07</IssueID>
+			<IssueID Type="RIC">UANC.L</IssueID>
+			<IssueID Type="SEDOL">BKT04W0</IssueID>
+			<IssueID Type="DisplayRIC">UANC.L</IssueID>
+			<IssueID Type="InstrumentPI">314320</IssueID>
+			<IssueID Type="QuotePI">9600621</IssueID>
+			<Exchange Code="LON" Country="GBR">London Stock Exchange (LON)</Exchange>
+			<MostRecentSplit Date="2014-05-22">0.1</MostRecentSplit>
+		</Issue>
+		<Issue ID="2" Type="C" Desc="Common Stock" Order="2">
+			<IssueID Type="Name">Ordinary Shares</IssueID>
+			<IssueID Type="InstrumentPI">126342491</IssueID>
+			<Exchange Code="SEA" Country="GBR">SEATS (AIM Market)</Exchange>
+		</Issue>
+	</Issues>
+	<CoGeneralInfo>
+		<CoStatus Code="1">Active</CoStatus>
+		<CoType Code="EQU">Equity Issue</CoType>
+		<LastModified>2016-01-16</LastModified>
+		<LatestAvailableAnnual>2015-09-30</LatestAvailableAnnual>
+		<LatestAvailableInterim>2015-09-30</LatestAvailableInterim>
+		<Employees LastUpdated="2015-09-30">58</Employees>
+		<SharesOut Date="2015-09-30" TotalFloat="92050173.0">144006555.0</SharesOut>
+		<ReportingCurrency Code="GBP">British Pounds</ReportingCurrency>
+		<MostRecentExchange Date="2016-02-22">0.70681</MostRecentExchange>
+	</CoGeneralInfo>
+	<TextInfo>
+		<Text Type="Business Summary" lastModified="2015-06-19T03:48:17">Urban&amp;Civic plc, formerly Terrace Hill Group PLC, is a United Kingdom-based real estate company. The Company operates in two business segments: strategic land and commercial property development. The strategic land segment includes serviced and unserviced land, consented and unconsented land, and mixed-use development. The commercial segment includes Central London office developments and commercial regional developments. The Strategic Land projects include Alconbury Weald, Rugby Radio Station and Waterbeach. Alconbury Weald is its principal investment property, which extends to approximately 1,425 acres of freehold land near to Huntingdon town centre. The Rugby Radio Station site is a former radio transmission facility located in Rugby, Warwickshire, which extends to approximately 1,674 acres. Some of its Commercial projects include Deansgate, Princess Street, Mayflower Halls, Howick Place and Conduit St/Savile Row, among others.</Text>
+		<Text Type="Financial Summary" lastModified="2016-01-13T12:39:10">BRIEF: For the fiscal year ended 30 September 2015, Urban&amp;Civic PLC revenues increased from L23.2M to L55.5M. Net income decreased 53% to L7M. Revenues reflect Commercial Property Development segment increase of 84% to L39.3M, Strategic land segment increase from L1.9M to L16.2M. Net income was offset by Commercial Property Development segment loss totaling L2.1M vs. income of L6.5M,  Strategic land segment income decrease of 32% to L12.2M.</Text>
+	</TextInfo>
+	<contactInfo lastUpdated="2016-01-16T07:43:34">
+		<streetAddress line="1">1 Portland Place</streetAddress>
+		<streetAddress line="2"></streetAddress>
+		<streetAddress line="3"></streetAddress>
+		<city>LONDON</city>
+		<state-region></state-region>
+		<postalCode>W1B 1PN</postalCode>
+		<country code="GBR">United Kingdom</country>
+		<contactName></contactName>
+		<contactTitle></contactTitle>
+		<phone>
+			<phone type="mainphone">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76311666</number>
+			</phone>
+			<phone type="mainfax">
+				<countryPhoneCode>44</countryPhoneCode>
+				<city-areacode>20</city-areacode>
+				<number>76311126</number>
+			</phone>
+		</phone>
+	</contactInfo>
+	<webLinks lastUpdated="2015-04-27T14:24:21"><webSite mainCategory="Home Page">http://www.urbanandcivic.com/</webSite><eMail mainCategory="Company Contact/E-mail"></eMail></webLinks>
+	<peerInfo lastUpdated="2016-01-16T07:43:34">
+		<IndustryInfo>
+			<Industry type="TRBC" order="1" reported="0" code="5540201010" mnem="">Real Estate Development &amp; Operations - NEC</Industry>
+			<Industry type="NAICS" order="1" reported="0" code="53112" mnem="">Lessors of Nonresidential Buildings (except Miniwarehouses)</Industry>
+			<Industry type="NAICS" order="2" reported="0" code="53111" mnem="">Lessors of Residential Buildings and Dwellings</Industry>
+			<Industry type="NAICS" order="3" reported="0" code="23311" mnem="">Land Subdivision and Land Development</Industry>
+			<Industry type="SIC" order="1" reported="0" code="6512" mnem="">Nonresidential Building Operators</Industry>
+			<Industry type="SIC" order="2" reported="0" code="6513" mnem="">Apartment Building Operators</Industry>
+			<Industry type="SIC" order="3" reported="0" code="6552" mnem="">Subdividers And Developers, Nec</Industry>
+		</IndustryInfo>
+	</peerInfo>
+	<officers>
+		<officer rank="1" since="NA">
+			<firstName>Nigel</firstName>
+			<mI></mI>
+			<lastName>Hugill</lastName>
+			<age></age>
+			<title startYear="NA" startMonth="" startDay="" iD1="CHM" abbr1="Chmn." iD2="DRC" abbr2="Dir.">Executive Chairman of the Board</title>
+		</officer>
+		<officer rank="2" since="09/01/2008">
+			<firstName>Jonathan</firstName>
+			<mI>Martin</mI>
+			<lastName>Austen</lastName>
+			<age>58 </age>
+			<title startYear="2011" startMonth="" startDay="" iD1="FID" abbr1="Fin. Dir." iD2="SEC" abbr2="Secy.">Group Finance Director, Company Secretary, Executive Director</title>
+		</officer>
+		<officer rank="3" since="2014">
+			<firstName>Robin</firstName>
+			<mI></mI>
+			<lastName>Butler</lastName>
+			<age></age>
+			<title startYear="2014" startMonth="" startDay="" iD1="MDR" abbr1="Mgng.Dir." iD2="EDR" abbr2="Exec. Dir.">Managing Director, Executive Director</title>
+		</officer>
+		<officer rank="4" since="NA">
+			<firstName>Philip</firstName>
+			<mI>A. J.</mI>
+			<lastName>Leech</lastName>
+			<age>51 </age>
+			<title startYear="2014" startMonth="06" startDay="" iD1="EDR" abbr1="Exec. Dir." iD2="" abbr2="">Property Director, Executive Director</title>
+		</officer>
+	</officers>
+	<Ratios PriceCurrency="GBP" ReportingCurrency="GBP" ExchangeRate="1.00000" LatestAvailableDate="2015-09-30">
+		<Group ID="Price and Volume">
+			<Ratio FieldName="NPRICE" Type="N">2.45000</Ratio>
+			<Ratio FieldName="NHIG" Type="N">2.91000</Ratio>
+			<Ratio FieldName="NLOW" Type="N">2.35500</Ratio>
+			<Ratio FieldName="PDATE" Type="D">2016-02-23T00:00:00</Ratio>
+			<Ratio FieldName="VOL10DAVG" Type="N">0.12466</Ratio>
+			<Ratio FieldName="EV" Type="N">320.65010</Ratio>
+		</Group>
+		<Group ID="Income Statement">
+			<Ratio FieldName="MKTCAP" Type="N">352.81610</Ratio>
+			<Ratio FieldName="AREV" Type="N">55.47800</Ratio>
+			<Ratio FieldName="AEBITD" Type="N">-2.97600</Ratio>
+			<Ratio FieldName="ANIAC" Type="N">7.02500</Ratio>
+		</Group>
+		<Group ID="Per share data">
+			<Ratio FieldName="AEPSXCLXOR" Type="N">0.04942</Ratio>
+			<Ratio FieldName="AREVPS" Type="N">0.39030</Ratio>
+			<Ratio FieldName="ABVPS" Type="N">2.41536</Ratio>
+			<Ratio FieldName="ACSHPS" Type="N">0.30258</Ratio>
+			<Ratio FieldName="ACFSHR" Type="N">0.05430</Ratio>
+			<Ratio FieldName="ADIVSHR" Type="N">0.02650</Ratio>
+		</Group>
+		<Group ID="Other Ratios">
+			<Ratio FieldName="AGROSMGN" Type="N">6.40614</Ratio>
+			<Ratio FieldName="AROEPCT" Type="N">2.05743</Ratio>
+			<Ratio FieldName="APR2REV" Type="N">6.35957</Ratio>
+			<Ratio FieldName="APEEXCLXOR" Type="N">49.57507</Ratio>
+			<Ratio FieldName="APRICE2BK" Type="N">1.01434</Ratio>
+			<Ratio FieldName="Employees" Type="N">58</Ratio>
+		</Group>
+	</Ratios>
+	<ForecastData ConsensusType="Mean" CurFiscalYear="2016" CurFiscalYearEndMonth="9" CurInterimEndCalYear="2016" CurInterimEndMonth="3" EarningsBasis="PRX">
+		<Ratio FieldName="ConsRecom" Type="N">
+			<Value PeriodType="CURR">1.5</Value>
+		</Ratio>
+		<Ratio FieldName="TargetPrice" Type="N">
+			<Value PeriodType="CURR">3.07500</Value>
+		</Ratio>
+		<Ratio FieldName="ProjLTGrowthRate" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjPE" Type="N">
+			<Value PeriodType="CURR">17.77939</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSales" Type="N">
+			<Value PeriodType="CURR">31.30000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjSalesQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPS" Type="N">
+			<Value PeriodType="CURR">0.13780</Value>
+		</Ratio>
+		<Ratio FieldName="ProjEPSQ" Type="N">
+			<Value PeriodType="CURR">-99999.99000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjProfit" Type="N">
+			<Value PeriodType="CURR">22.10000</Value>
+		</Ratio>
+		<Ratio FieldName="ProjDPS" Type="N">
+			<Value PeriodType="CURR">0.02740</Value>
+		</Ratio>
+	</ForecastData>
+</ReportSnapshot>
